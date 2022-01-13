@@ -71,3 +71,4 @@ Here we collect the best theses for why this is important / interesting / will c
 ## Inbox
 
 * https://the-crypto-syllabus.com/web3-a-map-in-search-of-territory/ - Jan 2022 - by Evgeny Morozov
+* [Vivaldi CEO: Why Vivaldi will never create ThinkCoin](https://vivaldi.com/blog/why-vivaldi-will-never-create-thinkcoin/) - 2022-01-13
