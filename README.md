@@ -23,6 +23,8 @@
   - [Gamestop, Bitcoin and the Commoditization of Populist Rage](https://www.stephendiehl.com/blog/gamestop.html) - February 3, 2021
 * [Today on Sick Sad World: How The Cryptobros Have Fallen](https://www.jwz.org/blog/2022/01/today-on-sick-sad-world-how-the-cryptobros-have-fallen/) - 2022-01-04 by Jamie Zawinski (legendary coder, co-founder of Mozilla etc)
 * https://moxie.org/2022/01/07/web3-first-impressions.html - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc
+* [Financial Times: Why bitcoin is worse than a Madoff-style Ponzi scheme. A Ponzi scheme is a zero-sum enterprise. But bitcoin is a negative-sum phenomenon that you can’t even pursue a claim against, argues Robert McCauley.](https://web.archive.org/web/20220113183816/https://www.reddit.com/r/CryptoReality/comments/rm78e3/financial_times_why_bitcoin_is_worse_than_a/) The original Financial Times article is behind a paywall.
+* [The European Money and Finance Forum - The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf)
 
 ## Twitterers
 
