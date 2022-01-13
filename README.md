@@ -51,7 +51,7 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 
 ## Critical views of specific use cases
 
-* Event ticketing: [NFT tickets — a realistic look at a big trend]/https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14 
+* Event ticketing: [NFT tickets — a realistic look at a big trend](https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14 
 
 ## Twitterers
 
