@@ -29,12 +29,13 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 * [Technobabble, Libertarian Derp and Bitcoin by Paul Krugman in NY Times](https://nytimes.com/2021/05/20/opinion/cryptocurrency-bitcoin.html) - 2021-05-20
 * [Bitcoin, Currencies, and Fragility by Nassim Taleb - 27 Jun 2021](https://arxiv.org/abs/2106.14204) - highly critical paper by author Black Swan etc.
 * https://watershed.co.uk/studio/news/2021/12/03/case-against-crypto
+* [The European Money and Finance Forum - The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf) - Jan 2022. A comprehensive study by  SUERF - The European Money and Finance Forum that details the net negative effects of bitcoin to society.
 * [The Third Web](https://tante.cc/2021/12/17/the-third-web/) - 2021-12-17 - long critical essay including detailed history by [Tante](https://twitter.com/tante)
 * https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/ - 2016-07-02 - by Rufus Pollock (mainly a critique of early DAOs and techno-solutionism)
 
 ### Ponzi Aspect
 
-* [Why bitcoin is worse than a Madoff-style Ponzi scheme](https://ft.com/content/83a14261-598d-4601-87fc-5dde528b33d0) - Financial Times
+* [Financial Times: Why bitcoin is worse than a Madoff-style Ponzi scheme](https://web.archive.org/web/20220113183816/https://www.reddit.com/r/CryptoReality/comments/rm78e3/financial_times_why_bitcoin_is_worse_than_a/) - 2021-12-22. A Ponzi scheme is a zero-sum enterprise. But bitcoin is a negative-sum phenomenon that you can’t even pursue a claim against, argues Robert McCauley. [Original](https://ft.com/content/83a14261-598d-4601-87fc-5dde528b33d0) 
 * https://seattletimes.com/opinion/bitcoin-is-basically-a-ponzi-scheme/
 * https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html
 
