@@ -49,6 +49,10 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 
 * [People Building ‘Blockchain City’ in Wyoming Scammed by Hackers - Vice](https://www.vice.com/en/article/k7w3am/people-building-blockchain-city-in-wyoming-scammed-by-hackers) - - 2022-01-12 - On Monday, CityDAO—the group that bought 40 acres of Wyoming in hopes of "building a city on the Ethereum blockchain”—announced that its Discord server was hacked and members' funds were successfully stolen as a result.
 
+## Critical views of specific use cases
+
+* Event ticketing: [NFT tickets — a realistic look at a big trend]/https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14 
+
 ## Twitterers
 
 Coming soon ...
