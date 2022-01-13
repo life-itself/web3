@@ -1,5 +1,9 @@
 # Awesome critique of crypto / web3
 
+Awesome critique of crypto / web3 etc. Contributions welcome.
+
+## General
+
 * Stephen Diehl series - https://www.stephendiehl.com/blog.html
   * [The Case Against Crypto](https://www.stephendiehl.com/blog/against-crypto.html) - December 31, 2021
   - [Blockchainism](https://www.stephendiehl.com/blog/blockchainism.html) - December 11, 2021
@@ -39,6 +43,10 @@
 * https://digiconomist.net/bitcoin-energy-consumption
 * https://newyorker.com/news/daily-comment/why-bitcoin-is-bad-for-the-environment
 
+## Scams / Frauds
+
+* [People Building ‘Blockchain City’ in Wyoming Scammed by Hackers - Vice](https://www.vice.com/en/article/k7w3am/people-building-blockchain-city-in-wyoming-scammed-by-hackers) - - 2022-01-12 - On Monday, CityDAO—the group that bought 40 acres of Wyoming in hopes of "building a city on the Ethereum blockchain”—announced that its Discord server was hacked and members' funds were successfully stolen as a result.
+
 ## Twitterers
 
 Coming soon ...
@@ -53,3 +61,6 @@ Best intros / overviews of blockchain, crypto, web3 etc.
 
 Here we collect the best theses for why this is important / interesting / will change the world.
 
+## Inbox
+
+* https://the-crypto-syllabus.com/web3-a-map-in-search-of-territory/ - Jan 2022 - by Evgeny Morozov
