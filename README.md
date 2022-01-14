@@ -66,6 +66,8 @@ Coming soon ...
 
 Best intros / overviews of blockchain, crypto, web3 etc.
 
+- [The Myth of Decentralization and Lies about Web 2.0](https://www.emilygorcenski.com/post/the-myth-of-decentralization-and-lies-about-web-2.0/) - 2022-01-07 by Emily Gorcenski
+
 ## Iron-manning the pro arguments
 
 Here we collect the best theses for why this is important / interesting / will change the world.
