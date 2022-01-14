@@ -18,6 +18,7 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
   - [On Unintentional Scams](https://www.stephendiehl.com/blog/crypto-scams.html) - July 23, 2021
   - [How to Destroy Bitcoin](https://www.stephendiehl.com/blog/destroy-bitcoin.html) - July 13, 2021
   - [The Non-Innovation of Cryptocurrency](https://www.stephendiehl.com/blog/non-innovation.html) - July 7, 2021
+  - [Revolution Now! With Peter Joseph | Bitcoin and Financialization](https://youtu.be/bsghxd1cdeA) - May 21, 2021
   - [The Oncoming Ransomware Storm](https://www.stephendiehl.com/blog/ransomware.html) - May 11, 2021
   - [Et tu, Signal?](https://www.stephendiehl.com/blog/signal.html) - April 7, 2021
   - [The Political Case for a Blanket Cryptocurrency Ban](https://www.stephendiehl.com/blog/banbitcoin.html) - March 30, 2021
