@@ -66,6 +66,7 @@ Coming soon ...
 
 Best intros / overviews of blockchain, crypto, web3 etc.
 
+* [There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) - June 2, 2019 by Bruce Schneier
 - [The Myth of Decentralization and Lies about Web 2.0](https://www.emilygorcenski.com/post/the-myth-of-decentralization-and-lies-about-web-2.0/) - 2022-01-07 by Emily Gorcenski
 
 ## Iron-manning the pro arguments
