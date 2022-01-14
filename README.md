@@ -34,6 +34,7 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 * [The Third Web](https://tante.cc/2021/12/17/the-third-web/) - 2021-12-17 - long critical essay including detailed history by [Tante](https://twitter.com/tante)
 * https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/ - 2016-07-02 - by Rufus Pollock (mainly a critique of early DAOs and techno-solutionism)
 * [Web3 takes trust, too](https://www.bloomberg.com/opinion/articles/2022-01-10/web3-takes-trust-too) - 2021-01-10 by Matt Levine on Bloomberg.com
+* [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud) - 2021-12-16 by Nicholas Weaver on usenix.com
 
 ### Ponzi Aspect
 
