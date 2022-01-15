@@ -75,6 +75,12 @@ Best intros / overviews of blockchain, crypto, web3 etc.
 
 Here we collect the best theses for why this is important / interesting / will change the world.
 
+### Fairer Governance
+
+Can support more democratice, distributed governance e.g. cooperatives (somehow)
+
+* [If I Only had a Heart: a DisCO Manifesto](https://disco.coop/manifesto/) - Dec 2019 - A joint publication by DisCO.coop, the Transnational Institute and Guerrilla Media Collective. "Value Sovereignty, Care Work, Commons and Distributed Cooperative Organizations. The DisCO Manifesto is a deep dive into the world of Distributed Cooperative Organizations. Over its 80 colorful pages, you will read about how DisCOs are a P2P/Commons, cooperative and Feminist Economic alternative to Decentralized Autonomous Organizations (or DAOs). The DisCO Manifesto also includes some background on topics like blockchain, AI, the commons, feminism, cooperatives, cyberpunk, and more."
+
 ## Inbox
 
 * https://the-crypto-syllabus.com/web3-a-map-in-search-of-territory/ - Jan 2022 - by Evgeny Morozov
