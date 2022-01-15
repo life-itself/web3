@@ -33,7 +33,7 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 * [The European Money and Finance Forum - The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf) - Jan 2022. A comprehensive study by  SUERF - The European Money and Finance Forum that details the net negative effects of bitcoin to society.
 * [The Third Web](https://tante.cc/2021/12/17/the-third-web/) - 2021-12-17 - long critical essay including detailed history by [Tante](https://twitter.com/tante)
 * https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/ - 2016-07-02 - by Rufus Pollock (mainly a critique of early DAOs and techno-solutionism)
-* [Web3 takes trust, too](https://www.bloomberg.com/opinion/articles/2022-01-10/web3-takes-trust-too) - 2021-01-10 by Matt Levine on Bloomberg.com
+* [Web3 takes trust, too](https://www.bloomberg.com/opinion/articles/2022-01-10/web3-takes-trust-too) - 2022-01-10 by Matt Levine on Bloomberg.com
 * [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud) - 2021-12-16 by Nicholas Weaver on usenix.com
 * Molly White series - https://blog.mollywhite.net/blockchain/
   * [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
@@ -58,9 +58,14 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 
 * Event ticketing: [NFT tickets — a realistic look at a big trend](https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14 
 
-## Twitterers
+## Twitter Users
 
-Coming soon ...
+Whilst these users may not solely discuss crypto or Web3, they do discuss it regularly, and have consistently provided well-written criticism.
+
+* https://twitter.com/web3isgreat
+* https://twitter.com/ncweaver
+* https://twitter.com/molly0xFFF
+* https://twitter.com/smdiehl
 
 ## Tether (and Stablecoins)
 
@@ -85,3 +90,4 @@ Can support more democratice, distributed governance e.g. cooperatives (somehow)
 
 * https://the-crypto-syllabus.com/web3-a-map-in-search-of-territory/ - Jan 2022 - by Evgeny Morozov
 * [Vivaldi CEO: Why Vivaldi will never create ThinkCoin](https://vivaldi.com/blog/why-vivaldi-will-never-create-thinkcoin/) - 2022-01-13
+* [Proof of Work vs Proof of Stake, and the Stablecoin Centralization Problem](https://www.lynalden.com/proof-of-stake/) - good overview of PoW vs PoS and the complexity/problems PoS adds. Second half of the article expounds on how "any smart contract blockchain that relies heavily on DeFi for its use case, can have the outcome of its hard forks significantly determined by centralized stablecoin custodians." Long article and could fit under multiple headings here.
