@@ -63,7 +63,7 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 Whilst these users may not solely discuss crypto or Web3, they do discuss it regularly, and have consistently provided objective, reasonable criticism.
 
 * https://twitter.com/web3isgreat
-* https://twitter.com/ncweaver/
+* https://twitter.com/ncweaver
 * https://twitter.com/molly0xFFF
 
 ## Tether (and Stablecoins)
