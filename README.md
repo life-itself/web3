@@ -58,9 +58,14 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 
 * Event ticketing: [NFT tickets — a realistic look at a big trend](https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14 
 
-## Twitterers
+## Twitter Users
 
-Coming soon ...
+Whilst these users may not solely discuss crypto or Web3, they do discuss it regularly, and have consistently provided well-written criticism.
+
+* https://twitter.com/web3isgreat
+* https://twitter.com/ncweaver
+* https://twitter.com/molly0xFFF
+* https://twitter.com/smdiehl
 
 ## Tether (and Stablecoins)
 
