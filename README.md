@@ -60,7 +60,7 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 
 ## Twitter Users
 
-Whilst these users may not solely discuss crypto or Web3, they do discuss it regularly, and have consistently provided objective, reasonable criticism.
+Whilst these users may not solely discuss crypto or Web3, they do discuss it regularly, and have consistently provided well-written criticism.
 
 * https://twitter.com/web3isgreat
 * https://twitter.com/ncweaver
