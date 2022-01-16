@@ -98,11 +98,30 @@ Best intros / overviews of blockchain, crypto, web3 etc.
 
 Here we collect the best theses for why this is important / interesting / will change the world.
 
+### Fat Protocols
+
+From https://www.usv.com/writing/2016/08/fat-protocols/
+
+> The previous generation of shared protocols (TCP/IP, HTTP, SMTP, etc.) produced immeasurable amounts of value, but most of it got captured and re-aggregated on top at the applications layer, largely in the form of data (think Google, Facebook and so on). The Internet stack, in terms of how value is distributed, is composed of “thin” protocols and “fat” applications.
+>
+> This relationship between protocols and applications is reversed in the blockchain application stack. Value concentrates at the shared protocol layer and only a fraction of that value is distributed along at the applications layer. It’s a stack with “fat” protocols and “thin” applications.
+
+* [Crypto Tokens and the Coming Age of Protocol Innovation](https://continuations.com/post/148098927445/crypto-tokens-and-the-age-of-protocol-innovation) - 2016-07-28 - by Albert Wenger at USV. Move about incentivizing investment in the protocols
+* [Fat Protocols](https://www.usv.com/writing/2016/08/fat-protocols/) - Aug 2016 - Joel Monegro at USV - more about incentivizing adoption
+
 ### Fairer Governance
 
 Can support more democratice, distributed governance e.g. cooperatives (somehow)
 
 * [If I Only had a Heart: a DisCO Manifesto](https://disco.coop/manifesto/) - Dec 2019 - A joint publication by DisCO.coop, the Transnational Institute and Guerrilla Media Collective. "Value Sovereignty, Care Work, Commons and Distributed Cooperative Organizations. The DisCO Manifesto is a deep dive into the world of Distributed Cooperative Organizations. Over its 80 colorful pages, you will read about how DisCOs are a P2P/Commons, cooperative and Feminist Economic alternative to Decentralized Autonomous Organizations (or DAOs). The DisCO Manifesto also includes some background on topics like blockchain, AI, the commons, feminism, cooperatives, cyberpunk, and more."
+
+## Reference
+
+History of speculation, manias etc
+
+* Devil Take the Hindmost: A History of Financial Speculation
+by Edward Chancellor (1998)
+* [Manias, Panics, and. Crashes. A History of Financial Crises](https://delong.typepad.com/manias.pdf) by by CP Kindleberger (1978)
 
 ## Inbox
 
@@ -110,4 +129,6 @@ Can support more democratice, distributed governance e.g. cooperatives (somehow)
 * [Vivaldi CEO: Why Vivaldi will never create ThinkCoin](https://vivaldi.com/blog/why-vivaldi-will-never-create-thinkcoin/) - 2022-01-13
 * [Proof of Work vs Proof of Stake, and the Stablecoin Centralization Problem](https://www.lynalden.com/proof-of-stake/) - good overview of PoW vs PoS and the complexity/problems PoS adds. Second half of the article expounds on how "any smart contract blockchain that relies heavily on DeFi for its use case, can have the outcome of its hard forks significantly determined by centralized stablecoin custodians." Long article and could fit under multiple headings here.
 * https://www.reddit.com/r/anticryptocurrency/ - reddit with a signficant number of links
-* https://www.profgalloway.com/web3/ - 2022-01-15 - Prof Scott Galloway @ NYU 
+* https://www.profgalloway.com/web3/ - 2022-01-15 - Prof Scott Galloway @ NYU. Unequal, focused on getting rich, facilitating crime, centralized
+* [Cryptoeconomics as a Limitation on Governance](https://osf.io/wzf85/?view_only=a10581ae9a804aa197ac39ebbba05766) - 2021-11-11 - Nathan Schneider, University of Colorado Boulder
+* [Financial Times: Matt Damon’s crypto ad is more than just cringeworthy](https://www.ft.com/content/3fac474e-aa34-439a-8bdb-32b576fe2687) (paywalled)
