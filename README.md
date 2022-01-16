@@ -109,3 +109,5 @@ Can support more democratice, distributed governance e.g. cooperatives (somehow)
 * https://the-crypto-syllabus.com/web3-a-map-in-search-of-territory/ - Jan 2022 - by Evgeny Morozov
 * [Vivaldi CEO: Why Vivaldi will never create ThinkCoin](https://vivaldi.com/blog/why-vivaldi-will-never-create-thinkcoin/) - 2022-01-13
 * [Proof of Work vs Proof of Stake, and the Stablecoin Centralization Problem](https://www.lynalden.com/proof-of-stake/) - good overview of PoW vs PoS and the complexity/problems PoS adds. Second half of the article expounds on how "any smart contract blockchain that relies heavily on DeFi for its use case, can have the outcome of its hard forks significantly determined by centralized stablecoin custodians." Long article and could fit under multiple headings here.
+* https://www.reddit.com/r/anticryptocurrency/ - reddit with a signficant number of links
+* https://www.profgalloway.com/web3/ - 2022-01-15 - Prof Scott Galloway @ NYU 
