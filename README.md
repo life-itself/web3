@@ -2,7 +2,9 @@
 
 Awesome critique of crypto / web3 etc. Contributions welcome.
 
-## General
+## Critique
+
+### General
 
 * Stephen Diehl series - https://www.stephendiehl.com/blog.html
   * [The Case Against Crypto](https://www.stephendiehl.com/blog/against-crypto.html) - December 31, 2021
@@ -43,22 +45,31 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 * [Financial Times: Why bitcoin is worse than a Madoff-style Ponzi scheme](https://web.archive.org/web/20220113183816/https://www.reddit.com/r/CryptoReality/comments/rm78e3/financial_times_why_bitcoin_is_worse_than_a/) - 2021-12-22. A Ponzi scheme is a zero-sum enterprise. But bitcoin is a negative-sum phenomenon that you can’t even pursue a claim against, argues Robert McCauley. [Original](https://ft.com/content/83a14261-598d-4601-87fc-5dde528b33d0)
 * https://seattletimes.com/opinion/bitcoin-is-basically-a-ponzi-scheme/
 * https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html
+* [Financial Times: Albanian lessons for regulators nervously eyeing the crypto world](https://www.ft.com/content/810367e5-e0b1-4221-b303-f3012a177437) - 2021-07-05 - Albania’s 1990s pyramid scheme debacle highlights risks of regulatory paralysis on the cryptocurrency explosion
+  > Once upon a time in Albania, a scrappy, alternative finance industry emerged to take on and eventually supplant a sclerotic, technologically-backward banking system. The lessons from its dramatic collapse remain relevant today. 
+  >
+  > Essentially, what was initially touted as a post-communist entrepreneurial success story proved to be pyramid schemes of breathtaking proportions. Slick marketing and lofty promises turned an informal, decentralised, crime-facilitating ecosystem into a mainstream mania that sucked in multitudes of people, unchecked by feeble and fitful regulatory warnings.
 
-### Bitcoin and Energy Consumption
+### Crypto and Energy Consumption
 
 * https://digiconomist.net/bitcoin-energy-consumption
 * https://newyorker.com/news/daily-comment/why-bitcoin-is-bad-for-the-environment
+* [Energy power usage CryptoArt, ETH, Blockchain spreadsheet](https://docs.google.com/spreadsheets/d/1hzzxMbytOZ1mYl9kLh_SvM6kne6JI_mdCfHIoNapr5M/edit#gid=0)
 
-## Scams / Frauds
+### Scams / Frauds
 
 * [People Building ‘Blockchain City’ in Wyoming Scammed by Hackers - Vice](https://www.vice.com/en/article/k7w3am/people-building-blockchain-city-in-wyoming-scammed-by-hackers) - - 2022-01-12 - On Monday, CityDAO—the group that bought 40 acres of Wyoming in hopes of "building a city on the Ethereum blockchain”—announced that its Discord server was hacked and members' funds were successfully stolen as a result.
 * [Web3 is going just great](https://web3isgoinggreat.com/) - A timeline of scams related to cryptocurrencies, NFTs, and web3 projects since the beginning of 2021 by Molly White
 
-## Critical views of specific use cases
+### NFT
+
+Non-fungible tokens
+
+### Critical views of specific use cases
 
 * Event ticketing: [NFT tickets — a realistic look at a big trend](https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14 
 
-## Twitter Users
+### Twitter Users
 
 Whilst these users may not solely discuss crypto or Web3, they do discuss it regularly, and have consistently provided well-written criticism.
 
@@ -67,7 +78,11 @@ Whilst these users may not solely discuss crypto or Web3, they do discuss it reg
 * https://twitter.com/molly0xFFF
 * https://twitter.com/smdiehl
 
-## Tether (and Stablecoins)
+### Tether (and Stablecoins)
+
+TODO
+
+---
 
 ## What is blockchain / web3 etc
 
@@ -75,6 +90,9 @@ Best intros / overviews of blockchain, crypto, web3 etc.
 
 * [There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) - June 2, 2019 by Bruce Schneier
 - [The Myth of Decentralization and Lies about Web 2.0](https://www.emilygorcenski.com/post/the-myth-of-decentralization-and-lies-about-web-2.0/) - 2022-01-07 by Emily Gorcenski
+* http://kernel.community - A custom web3 educational community with free learning resources at https://kernel.community/en/learn/
+
+---
 
 ## Iron-manning the pro arguments
 
