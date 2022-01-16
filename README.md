@@ -80,6 +80,7 @@ Whilst these users may not solely discuss crypto or Web3, they do discuss it reg
 * https://twitter.com/ncweaver
 * https://twitter.com/molly0xFFF
 * https://twitter.com/smdiehl
+* https://twitter.com/troll_lock
 
 ### Tether (and Stablecoins)
 
