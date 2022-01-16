@@ -61,6 +61,9 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 * [People Building ‘Blockchain City’ in Wyoming Scammed by Hackers - Vice](https://www.vice.com/en/article/k7w3am/people-building-blockchain-city-in-wyoming-scammed-by-hackers) - - 2022-01-12 - On Monday, CityDAO—the group that bought 40 acres of Wyoming in hopes of "building a city on the Ethereum blockchain”—announced that its Discord server was hacked and members' funds were successfully stolen as a result.
 * [Web3 is going just great](https://web3isgoinggreat.com/) - A timeline of scams related to cryptocurrencies, NFTs, and web3 projects since the beginning of 2021 by Molly White
 
+### DAOs
+* [DAOs and the nature of human collaboration](https://world.hey.com/marin/daos-and-the-nature-of-human-collaboration-be162918) - 2021-08-12 by Marin Petrov. A critique of DAOs and technosolutionism.  
+
 ### NFT
 
 Non-fungible tokens
@@ -77,6 +80,7 @@ Whilst these users may not solely discuss crypto or Web3, they do discuss it reg
 * https://twitter.com/ncweaver
 * https://twitter.com/molly0xFFF
 * https://twitter.com/smdiehl
+* https://twitter.com/troll_lock
 
 ### Tether (and Stablecoins)
 
