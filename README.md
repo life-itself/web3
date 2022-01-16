@@ -1,6 +1,6 @@
-# Awesome critique of crypto / web3
+# Awesome critique of crypto/web3
 
-Awesome critique of crypto / web3 etc. Contributions welcome.
+Awesome critique of crypto/web3, etc. Contributions are welcome.
 
 ## Critique
 
@@ -66,7 +66,7 @@ Awesome critique of crypto / web3 etc. Contributions welcome.
 
 ### NFT
 
-Non-fungible tokens
+Non-fungible tokens.
 
 ### Critical views of specific use cases
 
@@ -84,13 +84,13 @@ Whilst these users may not solely discuss crypto or Web3, they do discuss it reg
 
 ### Tether (and Stablecoins)
 
-TODO
+TODO.
 
 ---
 
 ## What is blockchain / web3 etc
 
-Best intros / overviews of blockchain, crypto, web3 etc.
+Best intros/overviews of blockchain, crypto, web3 etc.
 
 * [There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) - June 2, 2019 by Bruce Schneier
 - [The Myth of Decentralization and Lies about Web 2.0](https://www.emilygorcenski.com/post/the-myth-of-decentralization-and-lies-about-web-2.0/) - 2022-01-07 by Emily Gorcenski
@@ -100,7 +100,7 @@ Best intros / overviews of blockchain, crypto, web3 etc.
 
 ## Iron-manning the pro arguments
 
-Here we collect the best theses for why this is important / interesting / will change the world.
+Here we collect the best theses for why this is important/interesting/world-changing.
 
 ### Fat Protocols
 
@@ -115,13 +115,13 @@ From https://www.usv.com/writing/2016/08/fat-protocols/
 
 ### Fairer Governance
 
-Can support more democratice, distributed governance e.g. cooperatives (somehow)
+Can support more democratic, distributed governance, e.g., cooperatives (somehow).
 
 * [If I Only had a Heart: a DisCO Manifesto](https://disco.coop/manifesto/) - Dec 2019 - A joint publication by DisCO.coop, the Transnational Institute and Guerrilla Media Collective. "Value Sovereignty, Care Work, Commons and Distributed Cooperative Organizations. The DisCO Manifesto is a deep dive into the world of Distributed Cooperative Organizations. Over its 80 colorful pages, you will read about how DisCOs are a P2P/Commons, cooperative and Feminist Economic alternative to Decentralized Autonomous Organizations (or DAOs). The DisCO Manifesto also includes some background on topics like blockchain, AI, the commons, feminism, cooperatives, cyberpunk, and more."
 
 ## Reference
 
-History of speculation, manias etc
+History of speculation, manias, etc.
 
 * Devil Take the Hindmost: A History of Financial Speculation
 by Edward Chancellor (1998)
@@ -134,7 +134,7 @@ This is a section for links that haven't yet been reviewed and/or allocated to a
 * https://the-crypto-syllabus.com/web3-a-map-in-search-of-territory/ - Jan 2022 - by Evgeny Morozov
 * [Vivaldi CEO: Why Vivaldi will never create ThinkCoin](https://vivaldi.com/blog/why-vivaldi-will-never-create-thinkcoin/) - 2022-01-13
 * [Proof of Work vs Proof of Stake, and the Stablecoin Centralization Problem](https://www.lynalden.com/proof-of-stake/) - good overview of PoW vs PoS and the complexity/problems PoS adds. Second half of the article expounds on how "any smart contract blockchain that relies heavily on DeFi for its use case, can have the outcome of its hard forks significantly determined by centralized stablecoin custodians." Long article and could fit under multiple headings here.
-* https://www.reddit.com/r/anticryptocurrency/ - reddit with a signficant number of links
+* https://www.reddit.com/r/anticryptocurrency/ - reddit with a significant number of links
 * https://www.profgalloway.com/web3/ - 2022-01-15 - Prof Scott Galloway @ NYU. Unequal, focused on getting rich, facilitating crime, centralized
 * [Cryptoeconomics as a Limitation on Governance](https://osf.io/wzf85/?view_only=a10581ae9a804aa197ac39ebbba05766) - 2021-11-11 - Nathan Schneider, University of Colorado Boulder
-* [Financial Times: Matt Damon’s crypto ad is more than just cringeworthy](https://www.ft.com/content/3fac474e-aa34-439a-8bdb-32b576fe2687) (paywalled)
+* [Financial Times: Matt Damon’s crypto ad is more than just cringeworthy](https://www.ft.com/content/3fac474e-aa34-439a-8bdb-32b576fe2687) (paywall)
