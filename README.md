@@ -27,8 +27,8 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   - [Bitcoin: The Postmodern Ponzi](https://www.stephendiehl.com/blog/ponzi.html) - February 27, 2021
   - [The Crypto Chernobyl](https://www.stephendiehl.com/blog/chernobyl.html) - February 10, 2021
   - [Gamestop, Bitcoin and the Commoditization of Populist Rage](https://www.stephendiehl.com/blog/gamestop.html) - February 3, 2021
-* [Today on Sick Sad World: How The Cryptobros Have Fallen](https://www.jwz.org/blog/2022/01/today-on-sick-sad-world-how-the-cryptobros-have-fallen/) - 2022-01-04 by Jamie Zawinski (legendary coder, co-founder of Mozilla etc)
-* https://moxie.org/2022/01/07/web3-first-impressions.html - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc
+* [Today on Sick Sad World: How The Cryptobros Have Fallen](https://www.jwz.org/blog/2022/01/today-on-sick-sad-world-how-the-cryptobros-have-fallen/) - 2022-01-04 by Jamie Zawinski (legendary coder, co-founder of Mozilla etc.)
+* https://moxie.org/2022/01/07/web3-first-impressions.html - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc.
 * [Technobabble, Libertarian Derp and Bitcoin by Paul Krugman in NY Times](https://nytimes.com/2021/05/20/opinion/cryptocurrency-bitcoin.html) - 2021-05-20
 * [Bitcoin, Currencies, and Fragility by Nassim Taleb - 27 Jun 2021](https://arxiv.org/abs/2106.14204) - highly critical paper by author Black Swan etc.
 * https://watershed.co.uk/studio/news/2021/12/03/case-against-crypto
@@ -40,7 +40,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * Molly White series - https://blog.mollywhite.net/blockchain/
   * [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
 
-### Ponzi Aspect
+### Ponzi aspect
 
 * [Financial Times: Why bitcoin is worse than a Madoff-style Ponzi scheme](https://web.archive.org/web/20220113183816/https://www.reddit.com/r/CryptoReality/comments/rm78e3/financial_times_why_bitcoin_is_worse_than_a/) - 2021-12-22. A Ponzi scheme is a zero-sum enterprise. But bitcoin is a negative-sum phenomenon that you can’t even pursue a claim against, argues Robert McCauley. [Original](https://ft.com/content/83a14261-598d-4601-87fc-5dde528b33d0)
 * https://seattletimes.com/opinion/bitcoin-is-basically-a-ponzi-scheme/
@@ -50,13 +50,13 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   >
   > Essentially, what was initially touted as a post-communist entrepreneurial success story proved to be pyramid schemes of breathtaking proportions. Slick marketing and lofty promises turned an informal, decentralised, crime-facilitating ecosystem into a mainstream mania that sucked in multitudes of people, unchecked by feeble and fitful regulatory warnings.
 
-### Crypto and Energy Consumption
+### Crypto and energy consumption
 
 * https://digiconomist.net/bitcoin-energy-consumption
 * https://newyorker.com/news/daily-comment/why-bitcoin-is-bad-for-the-environment
 * [Energy power usage CryptoArt, ETH, Blockchain spreadsheet](https://docs.google.com/spreadsheets/d/1hzzxMbytOZ1mYl9kLh_SvM6kne6JI_mdCfHIoNapr5M/edit#gid=0)
 
-### Scams / Frauds
+### Scams/frauds
 
 * [People Building ‘Blockchain City’ in Wyoming Scammed by Hackers - Vice](https://www.vice.com/en/article/k7w3am/people-building-blockchain-city-in-wyoming-scammed-by-hackers) - - 2022-01-12 - On Monday, CityDAO—the group that bought 40 acres of Wyoming in hopes of "building a city on the Ethereum blockchain”—announced that its Discord server was hacked and members' funds were successfully stolen as a result.
 * [Web3 is going just great](https://web3isgoinggreat.com/) - A timeline of scams related to cryptocurrencies, NFTs, and web3 projects since the beginning of 2021 by Molly White
@@ -64,17 +64,17 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 ### DAOs
 * [DAOs and the nature of human collaboration](https://world.hey.com/marin/daos-and-the-nature-of-human-collaboration-be162918) - 2021-08-12 by Marin Petrov. A critique of DAOs and technosolutionism.  
 
-### NFT
+### NFTs
 
 Non-fungible tokens.
 
-### Critical views of specific use cases
+### Specific use cases
 
 * Event ticketing: [NFT tickets — a realistic look at a big trend](https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14 
 
-### Twitter Users
+### Twitter users
 
-Whilst these users may not solely discuss crypto or Web3, they do discuss it regularly, and have consistently provided well-written criticism.
+Whilst these users may not solely discuss crypto or web3, they do discuss it regularly, and have consistently provided well-written criticism.
 
 * https://twitter.com/web3isgreat
 * https://twitter.com/ncweaver
@@ -82,13 +82,13 @@ Whilst these users may not solely discuss crypto or Web3, they do discuss it reg
 * https://twitter.com/smdiehl
 * https://twitter.com/troll_lock
 
-### Tether (and Stablecoins)
+### Tether, and other stablecoins
 
 TODO.
 
 ---
 
-## What is blockchain / web3 etc
+## What is blockchain/web3 etc.
 
 Best intros/overviews of blockchain, crypto, web3 etc.
 
@@ -102,7 +102,7 @@ Best intros/overviews of blockchain, crypto, web3 etc.
 
 Here we collect the best theses for why this is important/interesting/world-changing.
 
-### Fat Protocols
+### Fat protocols
 
 From https://www.usv.com/writing/2016/08/fat-protocols/
 
@@ -113,11 +113,11 @@ From https://www.usv.com/writing/2016/08/fat-protocols/
 * [Crypto Tokens and the Coming Age of Protocol Innovation](https://continuations.com/post/148098927445/crypto-tokens-and-the-age-of-protocol-innovation) - 2016-07-28 - by Albert Wenger at USV. Move about incentivizing investment in the protocols
 * [Fat Protocols](https://www.usv.com/writing/2016/08/fat-protocols/) - Aug 2016 - Joel Monegro at USV - more about incentivizing adoption
 
-### Fairer Governance
+### Fairer governance
 
 Can support more democratic, distributed governance, e.g., cooperatives (somehow).
 
-* [If I Only had a Heart: a DisCO Manifesto](https://disco.coop/manifesto/) - Dec 2019 - A joint publication by DisCO.coop, the Transnational Institute and Guerrilla Media Collective. "Value Sovereignty, Care Work, Commons and Distributed Cooperative Organizations. The DisCO Manifesto is a deep dive into the world of Distributed Cooperative Organizations. Over its 80 colorful pages, you will read about how DisCOs are a P2P/Commons, cooperative and Feminist Economic alternative to Decentralized Autonomous Organizations (or DAOs). The DisCO Manifesto also includes some background on topics like blockchain, AI, the commons, feminism, cooperatives, cyberpunk, and more."
+* [If I Only had a Heart: a DisCO Manifesto](https://disco.coop/manifesto/) - Dec 2019 - A joint publication by DisCO.coop, the Transnational Institute and Guerrilla Media Collective. "Value Sovereignty, Care Work, Commons and Distributed Cooperative Organizations. The DisCO Manifesto is a deep dive into the world of Distributed Cooperative Organizations. Over its 80 colorful pages, you will read about how DisCOs are a P2P/Commons, cooperative and Feminist Economic alternative to Decentralized Autonomous Organizations (DAOs). The DisCO Manifesto also includes some background on topics like blockchain, AI, the commons, feminism, cooperatives, cyberpunk, and more."
 
 ## Reference
 
@@ -138,3 +138,7 @@ This is a section for links that haven't yet been reviewed and/or allocated to a
 * https://www.profgalloway.com/web3/ - 2022-01-15 - Prof Scott Galloway @ NYU. Unequal, focused on getting rich, facilitating crime, centralized
 * [Cryptoeconomics as a Limitation on Governance](https://osf.io/wzf85/?view_only=a10581ae9a804aa197ac39ebbba05766) - 2021-11-11 - Nathan Schneider, University of Colorado Boulder
 * [Financial Times: Matt Damon’s crypto ad is more than just cringeworthy](https://www.ft.com/content/3fac474e-aa34-439a-8bdb-32b576fe2687) (paywall)
+
+## Other suggestions
+* New topic concerning the psychological harm, such as: gambling, greed, cultism, etc.
+* New topic along the lines of “Ex-coiners speaking out.”
