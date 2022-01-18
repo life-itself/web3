@@ -68,9 +68,16 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 
 Non-fungible tokens.
 
+* [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) - 2022-01-05 - Ben Thompson of Stratechery 
+* [Brian Eno on NFTs & Automaticism](https://the-crypto-syllabus.com/brian-eno-on-nfts-and-automatism/)
+
 ### Specific use cases
 
 * Event ticketing: [NFT tickets — a realistic look at a big trend](https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14 
+
+### Humour
+
+* [Crypto Curious](https://www.youtube.com/watch?v=N8f-BQFo7lw) - 2021-12-21 SOUTH PARK on NFTs
 
 ### Twitter users
 
