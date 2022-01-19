@@ -62,6 +62,13 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * [Web3 is going just great](https://web3isgoinggreat.com/) - A timeline of scams related to cryptocurrencies, NFTs, and web3 projects since the beginning of 2021 by Molly White
 
 ### DAOs
+
+* [Is The DAO going to be DOA?](https://steemit.com/crypto-news/@dan/is-the-dao-going-to-be-doa) - 2016-05-16 - by Dan Larimer (founder of BitShares and much else). Larimer sets out most of the basic critiques of DAOs as governance innovation extremely well:
+  > Fancy technology can obscure our assessment of what is really going on. The DAO solves a single problem: the corrupt trustee or administrator. It replaces voluntary compliance with a corporation’s charter under threat of lawsuit, with automated compliance with software defined rules. This subtle change may be enough to bypass regulatory hurdles facing traditional trustee’s and administrators, but it doesn’t solve most of the problems the regulations were attempting to address.
+  > 
+  > What The DAO doesn’t solve is all of the other problems inherent with any joint venture. These are people problems, economic problems, and political problems. In some sense, The DAO creates many new problems caused by its ridged rules and expensive machine-enforced process for change.
+  >
+  > The DAO doesn’t solve the “group trap” where by losers subsidize winners. It disempowers the individual actor and forces him to submit to group decision making. It doesn’t make raising money cheaper for companies, it just adds blockchain-enforced bureaucratic and political processes.
 * [DAOs and the nature of human collaboration](https://world.hey.com/marin/daos-and-the-nature-of-human-collaboration-be162918) - 2021-08-12 by Marin Petrov. A critique of DAOs and technosolutionism.  
 
 ### NFTs
@@ -115,16 +122,21 @@ From https://www.usv.com/writing/2016/08/fat-protocols/
 
 ### Fairer governance
 
-Can support more democratic, distributed governance, e.g., cooperatives (somehow).
+Can support more democratic, distributed governance, e.g. cooperatives (somehow). Can save Democracy.
 
 * [If I Only had a Heart: a DisCO Manifesto](https://disco.coop/manifesto/) - Dec 2019 - A joint publication by DisCO.coop, the Transnational Institute and Guerrilla Media Collective. "Value Sovereignty, Care Work, Commons and Distributed Cooperative Organizations. The DisCO Manifesto is a deep dive into the world of Distributed Cooperative Organizations. Over its 80 colorful pages, you will read about how DisCOs are a P2P/Commons, cooperative and Feminist Economic alternative to Decentralized Autonomous Organizations (DAOs). The DisCO Manifesto also includes some background on topics like blockchain, AI, the commons, feminism, cooperatives, cyberpunk, and more."
+* [Wired: The Father of Web3 Wants You to Trust Less](https://www.wired.com/story/web3-gavin-wood-interview/) - 2021-11-29 - Gavin Wood, who coined the term Web3 in 2014, believes decentralized technologies are the only hope of preserving liberal democracy.
+
+### Fairer Economy
+
+* [Li Jin on the future of the creator economy](https://www.economist.com/the-world-ahead/2021/11/08/li-jin-on-the-future-of-the-creator-economy) - Shared ownership and control of online platforms is the way forward (via crypto)
+  * The irony here is we want the outcome, it's just that crypto is neither necessary nor likely to get us there. See https://rufuspollock.com/fixing-facebook/
 
 ## Reference
 
 History of speculation, manias, etc.
 
-* Devil Take the Hindmost: A History of Financial Speculation
-by Edward Chancellor (1998)
+* Devil Take the Hindmost: A History of Financial Speculation by Edward Chancellor (1998)
 * [Manias, Panics, and. Crashes. A History of Financial Crises](https://delong.typepad.com/manias.pdf) by by CP Kindleberger (1978)
 
 ## Inbox
@@ -138,7 +150,9 @@ This is a section for links that haven't yet been reviewed and/or allocated to a
 * https://www.profgalloway.com/web3/ - 2022-01-15 - Prof Scott Galloway @ NYU. Unequal, focused on getting rich, facilitating crime, centralized
 * [Cryptoeconomics as a Limitation on Governance](https://osf.io/wzf85/?view_only=a10581ae9a804aa197ac39ebbba05766) - 2021-11-11 - Nathan Schneider, University of Colorado Boulder
 * [Financial Times: Matt Damon’s crypto ad is more than just cringeworthy](https://www.ft.com/content/3fac474e-aa34-439a-8bdb-32b576fe2687) (paywall)
+* [Francesca Bria on Decentralisation, Sovereignty, and Web3](https://the-crypto-syllabus.com/francesca-bria-on-decentralisation/)
 
-## Other suggestions
+### Other suggestions
+
 * New topic concerning the psychological harm, such as: gambling, greed, cultism, etc.
 * New topic along the lines of “Ex-coiners speaking out.”
