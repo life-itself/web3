@@ -77,6 +77,7 @@ Non-fungible tokens.
 
 * [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) - 2022-01-05 - Ben Thompson of Stratechery 
 * [Brian Eno on NFTs & Automaticism](https://the-crypto-syllabus.com/brian-eno-on-nfts-and-automatism/)
+* [Detailed twitter thread by @NFTEthics alleging fraudulent or close to fraudulent behaviour by a major NTF influencer named BeanieMaxi ](https://twitter.com/NFTethics/status/1483051289022017538) - 2022-01-17 ([cached](./assets/Thread by @NFTethics re beaniemaxi.pdf))
 
 ### Specific use cases
 
@@ -98,7 +99,11 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 ### Tether, and other stablecoins
 
-TODO.
+* [Bennett Tomlin: Tether and Bitfinex Introduction](https://bennettftomlin.com/2021/08/08/tether-and-bitfinex-introduction/) - 2021-08-10 - Tether and Bitfinex are two of the most important companies in the cryptocurrency ecosystem. Tether is the largest stablecoin, and the primary driver of volume and liquidity. Bitfinex used to be the largest cryptocurrency exchange, and still is a frequently used exchange. Tether and Bitfinex have an incredibly problematic past and are quite possibly the largest corporate fraud in history.
+  * Detailed overview of Tether and Bitfinex and their connection.
+* [Bloomberg: Tether’s Latest Black Eye Is CFTC Fine for Lying About Reserves](https://www.bloomberg.com/news/articles/2021-10-15/tether-bitfinex-to-pay-fines-totaling-42-5-million-cftc-says) - 2021-10-15 - Biggest stablecoin issuer hit with $41 million penalty. Affiliated crypto exchange Bitfinex also fined $1.5 million.
+* [Bloomberg: Anyone Seen Tether’s Billions?](https://www.bloomberg.com/news/features/2021-10-07/crypto-mystery-where-s-the-69-billion-backing-the-stablecoin-tether) - 2021-10-07 - A wild search for the U.S. dollars supposedly backing the stablecoin at the center of the global cryptocurrency trade—and in the crosshairs of U.S. regulators and prosecutors. [paywalled] ([cached](./assets/anyone-seen-tethers-billions.pdf))
+* [Bloomberg: Tether Fails to Dispel Mystery on Stablecoin’s Crucial Reserves](https://www.bloomberg.com/news/articles/2021-12-03/tether-gives-more-details-on-assets-backing-crypto-stablecoin) - 2021-12-03 - Holding include $30.6 billion in commercial paper and CDs. About $1 billion moved from reverse repo notes to money funds
 
 ---
 
@@ -158,6 +163,10 @@ This is a section for links that haven't yet been reviewed and/or allocated to a
 * [Cryptoeconomics as a Limitation on Governance](https://osf.io/wzf85/?view_only=a10581ae9a804aa197ac39ebbba05766) - 2021-11-11 - Nathan Schneider, University of Colorado Boulder
 * [Financial Times: Matt Damon’s crypto ad is more than just cringeworthy](https://www.ft.com/content/3fac474e-aa34-439a-8bdb-32b576fe2687) (paywall)
 * [Francesca Bria on Decentralisation, Sovereignty, and Web3](https://the-crypto-syllabus.com/francesca-bria-on-decentralisation/)
+
+Pros
+
+* [BanklessDAO: State of the DAOs #7: Social Tokens and the Future of Work](https://banklessdao.substack.com/p/state-of-the-daos-7-social-tokens) - 2022-01-13
 
 ### Other suggestions
 
