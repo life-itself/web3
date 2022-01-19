@@ -95,6 +95,7 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 * https://twitter.com/ncweaver
 * https://twitter.com/molly0xFFF
 * https://twitter.com/smdiehl
+  - [Crypto Criticism Threads](https://gist.github.com/sdiehl/7706ef44d951a2025fd658d1dd8687af)
 * https://twitter.com/troll_lock
 
 ### Tether, and other stablecoins
