@@ -97,7 +97,7 @@ Non-fungible tokens.
 
 ### Twitter users
 
-Whilst these users may not solely discuss crypto or web3, they do discuss it regularly, and have consistently provided well-written criticism.
+Whilst these users may not solely discuss crypto or web3, they do discuss it regularly, and have consistently provided well-written critique.
 
 * https://twitter.com/web3isgreat
 * https://twitter.com/ncweaver
@@ -107,6 +107,7 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 * https://twitter.com/troll_lock
 * https://twitter.com/CasPiancey -"Under promise, under deliver" co-host @cryptocriticpod *opinions are mine, not my employer* odds and ends @protos hold no crypto or crypto stonks
 * https://twitter.com/BennettTomlin - I do data science and track down frauds | 74% backed | Co-host @CryptoCriticPod | Writing @fud_letter | Discord: https://discord.gg/YpAUqNkhSC
+* https://twitter.com/SilvermanJacob (staff writer New Republic) & https://twitter.com/ben_mckenzie - "apparently I now write about crypto"
 
 ### Tether, and other stablecoins
 
