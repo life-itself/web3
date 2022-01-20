@@ -96,6 +96,8 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 * https://twitter.com/molly0xFFF
 * https://twitter.com/smdiehl
 * https://twitter.com/troll_lock
+* https://twitter.com/CasPiancey -"Under promise, under deliver" co-host @cryptocriticpod *opinions are mine, not my employer* odds and ends @protos hold no crypto or crypto stonks
+* https://twitter.com/BennettTomlin - I do data science and track down frauds | 74% backed | Co-host @CryptoCriticPod | Writing @fud_letter | Discord: https://discord.gg/YpAUqNkhSC
 
 ### Tether, and other stablecoins
 
@@ -164,6 +166,7 @@ This is a section for links that haven't yet been reviewed and/or allocated to a
 * [Cryptoeconomics as a Limitation on Governance](https://osf.io/wzf85/?view_only=a10581ae9a804aa197ac39ebbba05766) - 2021-11-11 - Nathan Schneider, University of Colorado Boulder
 * [Financial Times: Matt Damon’s crypto ad is more than just cringeworthy](https://www.ft.com/content/3fac474e-aa34-439a-8bdb-32b576fe2687) (paywall)
 * [Francesca Bria on Decentralisation, Sovereignty, and Web3](https://the-crypto-syllabus.com/francesca-bria-on-decentralisation/)
+* [Booming NFT art market plagued by 'mind-blowing' fraud](https://news.trust.org/item/20220118122426-mv9tu/)
 
 Pros
 
