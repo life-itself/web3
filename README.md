@@ -29,7 +29,6 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   - [Gamestop, Bitcoin and the Commoditization of Populist Rage](https://www.stephendiehl.com/blog/gamestop.html) - February 3, 2021
 * [Today on Sick Sad World: How The Cryptobros Have Fallen](https://www.jwz.org/blog/2022/01/today-on-sick-sad-world-how-the-cryptobros-have-fallen/) - 2022-01-04 by Jamie Zawinski (legendary coder, co-founder of Mozilla etc.)
 * https://moxie.org/2022/01/07/web3-first-impressions.html - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc.
-* [Technobabble, Libertarian Derp and Bitcoin by Paul Krugman in NY Times](https://nytimes.com/2021/05/20/opinion/cryptocurrency-bitcoin.html) - 2021-05-20
 * [Bitcoin, Currencies, and Fragility by Nassim Taleb - 27 Jun 2021](https://arxiv.org/abs/2106.14204) - highly critical paper by author Black Swan etc.
 * https://watershed.co.uk/studio/news/2021/12/03/case-against-crypto
 * [The European Money and Finance Forum - The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf) - Jan 2022. A comprehensive study by  SUERF - The European Money and Finance Forum that details the net negative effects of bitcoin to society.
@@ -39,6 +38,15 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud) - 2021-12-16 by Nicholas Weaver on usenix.com
 * Molly White series - https://blog.mollywhite.net/blockchain/
   * [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
+
+### Economists ###
+
+* Paul Krugman [Technobabble, Libertarian Derp and Bitcoin](https://nytimes.com/2021/05/20/opinion/cryptocurrency-bitcoin.html) - 2021-05-20
+* Joseph Stiglitz [Nobel Prize Economist Joseph Stiglitz Calls Regulators to Ban Cryptocurrencies](https://deep-resonance.org/2021/10/28/nobel-prize-economist-joseph-stiglitz-calls-regulators-to-ban-cryptocurrencies/) - 2021-10-28
+* Yanis Varoufakis [What is money, really? And why Bitcoin is not the answer (even if blockchain is brilliant & potentially helpful in democratising money)](https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/)  - 2021-08-02
+* Stephanie Kelton [Cryptocurrency and Fiat Money](https://www.youtube.com/watch?v=84wTEf9Acik) - 2017-12-23
+* Tyler Cowan [What the Crypto Crowd Doesn't Understand About Economics](https://www.bloomberg.com/opinion/articles/2021-06-21/what-the-crypto-crowd-doesn-t-understand-about-economics) - 2021-06-20
+
 
 ### Ponzi aspect
 
