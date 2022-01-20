@@ -133,6 +133,10 @@ Best intros/overviews of blockchain, crypto, web3 etc.
 
 Here we collect the best theses for why this is important/interesting/world-changing.
 
+### General
+
+* [Sean Bonner: Why Web3](https://blog.seanbonner.com/2021/10/26/why-web3/) - 2021-10-26 - by Sean Bonner. "Web3 upends the power structures we’ve grown accustomed to and puts artists and creators back into the drivers seat. ,,, Web3 offers a future where people are in charge of their own identities, not beholden to the whims of data hoarding corporations. People control their own accounts, own their own futures. ... So if you are asking “Why Web3?” The answer is simple. Web3 is the future."
+
 ### Fat protocols
 
 From https://www.usv.com/writing/2016/08/fat-protocols/
@@ -154,7 +158,7 @@ Can support more democratic, distributed governance, e.g. cooperatives (somehow)
 ### Fairer Economy
 
 * [Li Jin on the future of the creator economy](https://www.economist.com/the-world-ahead/2021/11/08/li-jin-on-the-future-of-the-creator-economy) - Shared ownership and control of online platforms is the way forward (via crypto)
-  * The irony here is we want the outcome, it's just that crypto is neither necessary nor likely to get us there. See https://rufuspollock.com/fixing-facebook/
+  * Note: we probably all want that wonderful outcome it's just that crypto is neither necessary nor likely to get us there. See https://rufuspollock.com/fixing-facebook/
 
 ## Reference
 
