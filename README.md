@@ -38,6 +38,10 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud) - 2021-12-16 by Nicholas Weaver on usenix.com
 * Molly White series - https://blog.mollywhite.net/blockchain/
   * [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
+  * [It's not still the early days](https://blog.mollywhite.net/its-not-still-the-early-days/)
+* [Against Web3 and Faux-Decentralization](https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/) - 2021-10-19 by Soatok
+* [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) - 2021-12-03 by Martin O'Leary
+* [The Register: The dark equation of harm versus good means blockchain’s had its day](https://www.theregister.com/2021/12/06/the_dark_equation_of_harm/) - 2021-12-06
 
 ### Economists ###
 
@@ -51,12 +55,13 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 ### Ponzi aspect
 
 * [Financial Times: Why bitcoin is worse than a Madoff-style Ponzi scheme](https://web.archive.org/web/20220113183816/https://www.reddit.com/r/CryptoReality/comments/rm78e3/financial_times_why_bitcoin_is_worse_than_a/) - 2021-12-22. A Ponzi scheme is a zero-sum enterprise. But bitcoin is a negative-sum phenomenon that you can’t even pursue a claim against, argues Robert McCauley. [Original](https://ft.com/content/83a14261-598d-4601-87fc-5dde528b33d0)
-* https://seattletimes.com/opinion/bitcoin-is-basically-a-ponzi-scheme/
-* https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html
+* [Seattle Times: Bitcoin is basically a Ponzi scheme](https://seattletimes.com/opinion/bitcoin-is-basically-a-ponzi-scheme/) - 2018-01-30
+* [Bitcoin is a Ponzi](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html) - 2020-12-13 by Prof Jorge Stolfi
 * [Financial Times: Albanian lessons for regulators nervously eyeing the crypto world](https://www.ft.com/content/810367e5-e0b1-4221-b303-f3012a177437) - 2021-07-05 - Albania’s 1990s pyramid scheme debacle highlights risks of regulatory paralysis on the cryptocurrency explosion
   > Once upon a time in Albania, a scrappy, alternative finance industry emerged to take on and eventually supplant a sclerotic, technologically-backward banking system. The lessons from its dramatic collapse remain relevant today. 
   >
   > Essentially, what was initially touted as a post-communist entrepreneurial success story proved to be pyramid schemes of breathtaking proportions. Slick marketing and lofty promises turned an informal, decentralised, crime-facilitating ecosystem into a mainstream mania that sucked in multitudes of people, unchecked by feeble and fitful regulatory warnings.
+* [Jacobin: Cryptocurrency Is a Giant Ponzi Scheme](https://jacobinmag.com/2022/01/cryptocurrency-scam-blockchain-bitcoin-economy-decentralization) - 2022-01-21
 
 ### Crypto and energy consumption
 
@@ -66,30 +71,32 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 
 ### Scams/frauds
 
-* [People Building ‘Blockchain City’ in Wyoming Scammed by Hackers - Vice](https://www.vice.com/en/article/k7w3am/people-building-blockchain-city-in-wyoming-scammed-by-hackers) - - 2022-01-12 - On Monday, CityDAO—the group that bought 40 acres of Wyoming in hopes of "building a city on the Ethereum blockchain”—announced that its Discord server was hacked and members' funds were successfully stolen as a result.
+* [People Building ‘Blockchain City’ in Wyoming Scammed by Hackers - Vice](https://www.vice.com/en/article/k7w3am/people-building-blockchain-city-in-wyoming-scammed-by-hackers) - 2022-01-12 - On Monday, CityDAO—the group that bought 40 acres of Wyoming in hopes of "building a city on the Ethereum blockchain”—announced that its Discord server was hacked and members' funds were successfully stolen as a result.
 * [Web3 is going just great](https://web3isgoinggreat.com/) - A timeline of scams related to cryptocurrencies, NFTs, and web3 projects since the beginning of 2021 by Molly White
 
 ### DAOs
 
 * [Is The DAO going to be DOA?](https://steemit.com/crypto-news/@dan/is-the-dao-going-to-be-doa) - 2016-05-16 - by Dan Larimer (founder of BitShares and much else). Larimer sets out most of the basic critiques of DAOs as governance innovation extremely well:
   > Fancy technology can obscure our assessment of what is really going on. The DAO solves a single problem: the corrupt trustee or administrator. It replaces voluntary compliance with a corporation’s charter under threat of lawsuit, with automated compliance with software defined rules. This subtle change may be enough to bypass regulatory hurdles facing traditional trustee’s and administrators, but it doesn’t solve most of the problems the regulations were attempting to address.
-  > 
+  >
   > What The DAO doesn’t solve is all of the other problems inherent with any joint venture. These are people problems, economic problems, and political problems. In some sense, The DAO creates many new problems caused by its ridged rules and expensive machine-enforced process for change.
   >
   > The DAO doesn’t solve the “group trap” where by losers subsidize winners. It disempowers the individual actor and forces him to submit to group decision making. It doesn’t make raising money cheaper for companies, it just adds blockchain-enforced bureaucratic and political processes.
-* [DAOs and the nature of human collaboration](https://world.hey.com/marin/daos-and-the-nature-of-human-collaboration-be162918) - 2021-08-12 by Marin Petrov. A critique of DAOs and technosolutionism.  
+* [DAOs and the nature of human collaboration](https://world.hey.com/marin/daos-and-the-nature-of-human-collaboration-be162918) - 2021-08-12 by Marin Petrov. A critique of DAOs and technosolutionism.
 
 ### NFTs
 
 Non-fungible tokens.
 
-* [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) - 2022-01-05 - Ben Thompson of Stratechery 
+* [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) - 2022-01-05 - Ben Thompson of Stratechery
 * [Brian Eno on NFTs & Automaticism](https://the-crypto-syllabus.com/brian-eno-on-nfts-and-automatism/)
 * [Detailed twitter thread by @NFTEthics alleging fraudulent or close to fraudulent behaviour by a major NTF influencer named BeanieMaxi ](https://twitter.com/NFTethics/status/1483051289022017538) - 2022-01-17 ([cached](./assets/Thread by @NFTethics re beaniemaxi.pdf))
 
 ### Specific use cases
 
-* Event ticketing: [NFT tickets — a realistic look at a big trend](https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14 
+* Event ticketing: [NFT tickets — a realistic look at a big trend](https://medium.com/@ticketpark/nft-tickets-a-realistic-look-at-a-big-trend-ae813d6f885d) – 2021-12-14
+* NFT games: [“Play-to-earn” and Bullshit Jobs](https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/) - December 28, 2021 by Paul Butler - An interesting reflexion linking web3's "Play-to-earn" concept to David Graeber's [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
+* NFT games: [Crypto Games: Report from hell](https://www.youtube.com/watch?v=YHz0xpU5Tu8) - Good video reviewing and discussing crypto games
 
 ### Humour
 
