@@ -43,7 +43,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) - 2021-12-03 by Martin O'Leary
 * [The Register: The dark equation of harm versus good means blockchain’s had its day](https://www.theregister.com/2021/12/06/the_dark_equation_of_harm/) - 2021-12-06
 
-### Economists ###
+### Economists
 
 * Paul Krugman [Technobabble, Libertarian Derp and Bitcoin](https://nytimes.com/2021/05/20/opinion/cryptocurrency-bitcoin.html) - 2021-05-20
 * Joseph Stiglitz [Nobel Prize Economist Joseph Stiglitz Calls Regulators to Ban Cryptocurrencies](https://deep-resonance.org/2021/10/28/nobel-prize-economist-joseph-stiglitz-calls-regulators-to-ban-cryptocurrencies/) - 2021-10-28
