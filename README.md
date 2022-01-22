@@ -125,7 +125,10 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 * [Bloomberg: Anyone Seen Tether’s Billions?](https://www.bloomberg.com/news/features/2021-10-07/crypto-mystery-where-s-the-69-billion-backing-the-stablecoin-tether) - 2021-10-07 - A wild search for the U.S. dollars supposedly backing the stablecoin at the center of the global cryptocurrency trade—and in the crosshairs of U.S. regulators and prosecutors. [paywalled] ([cached](./assets/anyone-seen-tethers-billions.pdf))
 * [Bloomberg: Tether Fails to Dispel Mystery on Stablecoin’s Crucial Reserves](https://www.bloomberg.com/news/articles/2021-12-03/tether-gives-more-details-on-assets-backing-crypto-stablecoin) - 2021-12-03 - Holding include $30.6 billion in commercial paper and CDs. About $1 billion moved from reverse repo notes to money funds
 
----
+### Central Bank Digital Currencies
+
+* [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm) - provides a high level overview of the current state of central bank and private sector currencies in the US, and identifies risks and challenges with the implementation of a central bank digital currency. From the paper summary: "The paper summarizes the current state of the domestic payments system and discusses the different types of digital payment methods and assets that have emerged in recent years, including stablecoins and other cryptocurrencies. It concludes by examining the potential benefits and risks of a CBDC, and identifies specific policy considerations."
+
 
 ## What is blockchain/web3 etc.
 
