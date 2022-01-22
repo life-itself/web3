@@ -130,8 +130,9 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 * [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm) - provides a high level overview of the current state of central bank and private sector currencies in the US, and identifies risks and challenges with the implementation of a central bank digital currency. From the paper summary: "The paper summarizes the current state of the domestic payments system and discusses the different types of digital payment methods and assets that have emerged in recent years, including stablecoins and other cryptocurrencies. It concludes by examining the potential benefits and risks of a CBDC, and identifies specific policy considerations."
 
+---
 
-## What is blockchain/web3 etc.
+## What is blockchain/web3 etc
 
 Best intros/overviews of blockchain, crypto, web3 etc.
 
@@ -145,7 +146,16 @@ Best intros/overviews of blockchain, crypto, web3 etc.
 
 Here we collect the best theses for why this is important/interesting/world-changing.
 
+### Bitcoin
+
+* [Bitcoin for the Open-Minded Skeptic](https://www.matthuang.com/bitcoin_for_the_open_minded_skeptic) - May 2020 - by [[people/Matt Huang]]. Note: more an argument for why Bitcoin will "make it" than any argument why that is socially valuable (or not).
+* [7 Things To Read About Bitcoin (For Institutional Investors)](https://www.paradigm.xyz/2020/05/7-things-to-read-about-bitcoin-for-institutional-investors/) - May 2020 - by [[people/Matt Huang]]
+
 ### General
+
+* [JumpCrypto Crypto Reading List (on Github)](https://github.com/JumpCrypto/crypto-reading-list)
+
+### Web3
 
 * [Sean Bonner: Why Web3](https://blog.seanbonner.com/2021/10/26/why-web3/) - 2021-10-26 - by Sean Bonner. "Web3 upends the power structures we’ve grown accustomed to and puts artists and creators back into the drivers seat. ,,, Web3 offers a future where people are in charge of their own identities, not beholden to the whims of data hoarding corporations. People control their own accounts, own their own futures. ... So if you are asking “Why Web3?” The answer is simple. Web3 is the future."
 
