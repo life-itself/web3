@@ -42,6 +42,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * [Against Web3 and Faux-Decentralization](https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/) - 2021-10-19 by Soatok
 * [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) - 2021-12-03 by Martin O'Leary
 * [The Register: The dark equation of harm versus good means blockchain’s had its day](https://www.theregister.com/2021/12/06/the_dark_equation_of_harm/) - 2021-12-06
+* [The problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) - 2022-01-21 by Dan Olson (Documentary)
 
 ### Economists
 
