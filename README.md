@@ -6,6 +6,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 
 ### General
 
+* [The problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) - 2022-01-21 - by Dan Olson (Documentary) 📺 [👉 Highly recommended 👈]
 * Stephen Diehl series - https://www.stephendiehl.com/blog.html
   * [The Case Against Crypto](https://www.stephendiehl.com/blog/against-crypto.html) - December 31, 2021
   - [Blockchainism](https://www.stephendiehl.com/blog/blockchainism.html) - December 11, 2021
@@ -42,7 +43,6 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * [Against Web3 and Faux-Decentralization](https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/) - 2021-10-19 by Soatok
 * [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) - 2021-12-03 by Martin O'Leary
 * [The Register: The dark equation of harm versus good means blockchain’s had its day](https://www.theregister.com/2021/12/06/the_dark_equation_of_harm/) - 2021-12-06
-* [The problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) - 2022-01-21 by Dan Olson (Documentary)
 
 ### Economists
 
@@ -51,7 +51,6 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * Yanis Varoufakis [What is money, really? And why Bitcoin is not the answer (even if blockchain is brilliant & potentially helpful in democratising money)](https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/)  - 2021-08-02
 * Stephanie Kelton [Cryptocurrency and Fiat Money](https://www.youtube.com/watch?v=84wTEf9Acik) - 2017-12-23
 * Tyler Cowan [What the Crypto Crowd Doesn't Understand About Economics](https://www.bloomberg.com/opinion/articles/2021-06-21/what-the-crypto-crowd-doesn-t-understand-about-economics) - 2021-06-20
-
 
 ### Ponzi aspect
 
