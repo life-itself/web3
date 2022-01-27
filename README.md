@@ -145,7 +145,7 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 Best intros/overviews of blockchain, crypto, web3 etc.
 
-* [There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) - June 2, 2019 by Bruce Schneier
+* [On Blockchain and Trust](https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html) - February 12, 2019 by Bruce Schneier. The article also appeared on wired.com as [There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/).
 - [The Myth of Decentralization and Lies about Web 2.0](https://www.emilygorcenski.com/post/the-myth-of-decentralization-and-lies-about-web-2.0/) - 2022-01-07 by Emily Gorcenski
 * http://kernel.community - A custom web3 educational community with free learning resources at https://kernel.community/en/learn/
 
