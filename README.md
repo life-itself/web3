@@ -92,6 +92,7 @@ Non-fungible tokens.
 * [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) - 2022-01-05 - Ben Thompson of Stratechery
 * [Brian Eno on NFTs & Automaticism](https://the-crypto-syllabus.com/brian-eno-on-nfts-and-automatism/)
 * [Detailed twitter thread by @NFTEthics alleging fraudulent or close to fraudulent behaviour by a major NTF influencer named BeanieMaxi ](https://twitter.com/NFTethics/status/1483051289022017538) - 2022-01-17 ([cached](./assets/Thread by @NFTethics re beaniemaxi.pdf))
+* [Jacobin: NFTs Are, Quite Simply, Bullshit](https://jacobinmag.com/2022/01/nfts-fallon-paris-hilton-bored-ape-digital-imagery-commodification) - 2022-01-26
 
 ### Specific use cases
 
