@@ -52,6 +52,14 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * Yanis Varoufakis [What is money, really? And why Bitcoin is not the answer (even if blockchain is brilliant & potentially helpful in democratising money)](https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/)  - 2021-08-02
 * Stephanie Kelton [Cryptocurrency and Fiat Money](https://www.youtube.com/watch?v=84wTEf9Acik) - 2017-12-23
 * Tyler Cowan [What the Crypto Crowd Doesn't Understand About Economics](https://www.bloomberg.com/opinion/articles/2021-06-21/what-the-crypto-crowd-doesn-t-understand-about-economics) - 2021-06-20
+* Robert Shiller [The Old Allure of New Money](https://www.project-syndicate.org/commentary/cryptocurrencies-scientific-narrative-by-robert-j--shiller-2018-05?barrier=accesspay) - 2018-05-21
+* Jeffrey Sachs [Famed economist Jeffrey Sachs rails against Bitcoin: Highly polluting and ‘almost like counterfeiting’](https://fortune.com/2021/03/16/bitcoin-jeffrey-sachs-critiques-btc/) - 2021-03-16
+* Abhijit Banerjee [Nobel Prize Winning Economist Abhijit Banerjee: Is Blockchain the Key to Financial Inclusion?](https://blockchain.news/news/nobel-prize-winning-economist-abhijit-banerjee-is-blockchain-the-key-to-financial-inclusion) - 2020-01-20
+* Amartya Sen [Prannoy Roy's Townhall With Amartya Sen On Economy, Farm Laws: Full Transcript ](https://www.ndtv.com/india-news/prannoy-roys-townhall-with-amartya-sen-on-indian-economy-farm-laws-full-transcript-2385071) - 2021-03-06
+* Steve Keen [Cryptocurrencies, Debt, and the Economy: Steve Keen interviewed by Layne Hartsell](http://www.koreaittimes.com/news/articleView.html?idxno=103792) - 2021-02-17
+* Daron Acemoğlu [The Bitcoin Fountainhead](https://www.project-syndicate.org/commentary/bitcoin-an-appealing-distraction-by-daron-acemoglu-2021-10?barrier=accesspay) - 2021-10-05
+* Richard Thaler [Economics Nobel prize winner, Richard Thaler: “The market that looks most like a bubble to me is Bitcoin and its brethren”](https://econews.pt/2018/01/22/economics-nobel-prize-winner-richard-thaler-the-market-that-looks-most-like-a-bubble-to-me-is-bitcoin-and-its-brethren/) - 2018-01-22
+* Various ['Only good for drug dealers': More Nobel prize winners snub bitcoin](https://finance.yahoo.com/news/good-drug-dealers-nobel-prize-winners-snub-bitcoin-184903784.html?ref=hackernoon.com) - 2018-04-27
 
 ### Ponzi aspect
 
