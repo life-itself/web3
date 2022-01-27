@@ -60,6 +60,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * Daron Acemoğlu [The Bitcoin Fountainhead](https://www.project-syndicate.org/commentary/bitcoin-an-appealing-distraction-by-daron-acemoglu-2021-10?barrier=accesspay) - 2021-10-05
 * Richard Thaler [Economics Nobel prize winner, Richard Thaler: “The market that looks most like a bubble to me is Bitcoin and its brethren”](https://econews.pt/2018/01/22/economics-nobel-prize-winner-richard-thaler-the-market-that-looks-most-like-a-bubble-to-me-is-bitcoin-and-its-brethren/) - 2018-01-22
 * Various ['Only good for drug dealers': More Nobel prize winners snub bitcoin](https://finance.yahoo.com/news/good-drug-dealers-nobel-prize-winners-snub-bitcoin-184903784.html?ref=hackernoon.com) - 2018-04-27
+* Yanis Varoufakis [Yanis Varoufakis on Crypto & the Left, and Techno-Feudalism](https://the-crypto-syllabus.com/yanis-varoufakis-on-techno-feudalism/) - 2022-01-26
 
 ### Ponzi aspect
 
