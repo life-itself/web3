@@ -82,9 +82,10 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 
 ### Crypto and energy consumption
 
-* https://digiconomist.net/bitcoin-energy-consumption
-* https://newyorker.com/news/daily-comment/why-bitcoin-is-bad-for-the-environment
+* [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
+* [Why Bitcoin Is Bad For The Environment](https://newyorker.com/news/daily-comment/why-bitcoin-is-bad-for-the-environment) - 2021-04-22
 * [Energy power usage CryptoArt, ETH, Blockchain spreadsheet](https://docs.google.com/spreadsheets/d/1hzzxMbytOZ1mYl9kLh_SvM6kne6JI_mdCfHIoNapr5M/edit#gid=0)
+* [How Do We Solve Bitcoin's Energy Problem?](https://www.theguardian.com/technology/2022/jan/30/how-do-we-solve-bitcoins-carbon-problem) - 2022-01-30
 
 ### Scams/frauds
 
