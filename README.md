@@ -7,6 +7,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 ### General
 
 * [The problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) - 2022-01-21 - by Dan Olson (Documentary) 📺 [👉 Highly recommended 👈]
+  * [Three things Web3 should fix in 2022](https://www.theverge.com/2022/1/28/22906010/web3-nft-internet-history-video-platformer) a response to The Problem with NFTs - 28 Jan 2022
 * Stephen Diehl series - https://www.stephendiehl.com/blog.html
   * [The Case Against Crypto](https://www.stephendiehl.com/blog/against-crypto.html) - December 31, 2021
   - [Blockchainism](https://www.stephendiehl.com/blog/blockchainism.html) - December 11, 2021
@@ -29,7 +30,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   - [The Crypto Chernobyl](https://www.stephendiehl.com/blog/chernobyl.html) - February 10, 2021
   - [Gamestop, Bitcoin and the Commoditization of Populist Rage](https://www.stephendiehl.com/blog/gamestop.html) - February 3, 2021
 * [Today on Sick Sad World: How The Cryptobros Have Fallen](https://www.jwz.org/blog/2022/01/today-on-sick-sad-world-how-the-cryptobros-have-fallen/) - 2022-01-04 by Jamie Zawinski (legendary coder, co-founder of Mozilla etc.)
-* https://moxie.org/2022/01/07/web3-first-impressions.html - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc.
+* [Web3 First Impressions](https://moxie.org/2022/01/07/web3-first-impressions.html) - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc.
 * [Bitcoin, Currencies, and Fragility by Nassim Taleb - 27 Jun 2021](https://arxiv.org/abs/2106.14204) - highly critical paper by author Black Swan etc.
 * https://watershed.co.uk/studio/news/2021/12/03/case-against-crypto
 * [The European Money and Finance Forum - The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf) - Jan 2022. A comprehensive study by  SUERF - The European Money and Finance Forum that details the net negative effects of bitcoin to society.
@@ -51,20 +52,22 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 
 ### Economists
 
-* Paul Krugman [Technobabble, Libertarian Derp and Bitcoin](https://nytimes.com/2021/05/20/opinion/cryptocurrency-bitcoin.html) - 2021-05-20
-* Joseph Stiglitz [Nobel Prize Economist Joseph Stiglitz Calls Regulators to Ban Cryptocurrencies](https://deep-resonance.org/2021/10/28/nobel-prize-economist-joseph-stiglitz-calls-regulators-to-ban-cryptocurrencies/) - 2021-10-28
-* Yanis Varoufakis [What is money, really? And why Bitcoin is not the answer (even if blockchain is brilliant & potentially helpful in democratising money)](https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/)  - 2021-08-02
 * Stephanie Kelton [Cryptocurrency and Fiat Money](https://www.youtube.com/watch?v=84wTEf9Acik) - 2017-12-23
-* Tyler Cowan [What the Crypto Crowd Doesn't Understand About Economics](https://www.bloomberg.com/opinion/articles/2021-06-21/what-the-crypto-crowd-doesn-t-understand-about-economics) - 2021-06-20
-* Robert Shiller [The Old Allure of New Money](https://www.project-syndicate.org/commentary/cryptocurrencies-scientific-narrative-by-robert-j--shiller-2018-05?barrier=accesspay) - 2018-05-21
-* Jeffrey Sachs [Famed economist Jeffrey Sachs rails against Bitcoin: Highly polluting and ‘almost like counterfeiting’](https://fortune.com/2021/03/16/bitcoin-jeffrey-sachs-critiques-btc/) - 2021-03-16
-* Abhijit Banerjee [Nobel Prize Winning Economist Abhijit Banerjee: Is Blockchain the Key to Financial Inclusion?](https://blockchain.news/news/nobel-prize-winning-economist-abhijit-banerjee-is-blockchain-the-key-to-financial-inclusion) - 2020-01-20
-* Amartya Sen [Prannoy Roy's Townhall With Amartya Sen On Economy, Farm Laws: Full Transcript ](https://www.ndtv.com/india-news/prannoy-roys-townhall-with-amartya-sen-on-indian-economy-farm-laws-full-transcript-2385071) - 2021-03-06
-* Steve Keen [Cryptocurrencies, Debt, and the Economy: Steve Keen interviewed by Layne Hartsell](http://www.koreaittimes.com/news/articleView.html?idxno=103792) - 2021-02-17
-* Daron Acemoğlu [The Bitcoin Fountainhead](https://www.project-syndicate.org/commentary/bitcoin-an-appealing-distraction-by-daron-acemoglu-2021-10?barrier=accesspay) - 2021-10-05
 * Richard Thaler [Economics Nobel prize winner, Richard Thaler: “The market that looks most like a bubble to me is Bitcoin and its brethren”](https://econews.pt/2018/01/22/economics-nobel-prize-winner-richard-thaler-the-market-that-looks-most-like-a-bubble-to-me-is-bitcoin-and-its-brethren/) - 2018-01-22
 * Various ['Only good for drug dealers': More Nobel prize winners snub bitcoin](https://finance.yahoo.com/news/good-drug-dealers-nobel-prize-winners-snub-bitcoin-184903784.html?ref=hackernoon.com) - 2018-04-27
+* Robert Shiller [The Old Allure of New Money](https://www.project-syndicate.org/commentary/cryptocurrencies-scientific-narrative-by-robert-j--shiller-2018-05?barrier=accesspay) - 2018-05-21
+* Abhijit Banerjee [Nobel Prize Winning Economist Abhijit Banerjee: Is Blockchain the Key to Financial Inclusion?](https://blockchain.news/news/nobel-prize-winning-economist-abhijit-banerjee-is-blockchain-the-key-to-financial-inclusion) - 2020-01-20
+* Steve Keen [Cryptocurrencies, Debt, and the Economy: Steve Keen interviewed by Layne Hartsell](http://www.koreaittimes.com/news/articleView.html?idxno=103792) - 2021-02-17
+* Amartya Sen [Prannoy Roy's Townhall With Amartya Sen On Economy, Farm Laws: Full Transcript ](https://www.ndtv.com/india-news/prannoy-roys-townhall-with-amartya-sen-on-indian-economy-farm-laws-full-transcript-2385071) - 2021-03-06
+* Jeffrey Sachs [Famed economist Jeffrey Sachs rails against Bitcoin: Highly polluting and ‘almost like counterfeiting’](https://fortune.com/2021/03/16/bitcoin-jeffrey-sachs-critiques-btc/) - 2021-03-16
+* Paul Krugman [Technobabble, Libertarian Derp and Bitcoin](https://nytimes.com/2021/05/20/opinion/cryptocurrency-bitcoin.html) - 2021-05-20
+* Tyler Cowen [What the Crypto Crowd Doesn't Understand About Economics](https://www.bloomberg.com/opinion/articles/2021-06-21/what-the-crypto-crowd-doesn-t-understand-about-economics) - 2021-06-20
+* Yanis Varoufakis [What is money, really? And why Bitcoin is not the answer (even if blockchain is brilliant & potentially helpful in democratising money)](https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/)  - 2021-08-02
+* Daron Acemoğlu [The Bitcoin Fountainhead](https://www.project-syndicate.org/commentary/bitcoin-an-appealing-distraction-by-daron-acemoglu-2021-10?barrier=accesspay) - 2021-10-05
+* Joseph Stiglitz [Nobel Prize Economist Joseph Stiglitz Calls Regulators to Ban Cryptocurrencies](https://deep-resonance.org/2021/10/28/nobel-prize-economist-joseph-stiglitz-calls-regulators-to-ban-cryptocurrencies/) - 2021-10-28
+* Richard Thaler [Economics Nobel prize winner, Richard Thaler: “The market that looks most like a bubble to me is Bitcoin and its brethren”](https://econews.pt/2018/01/22/economics-nobel-prize-winner-richard-thaler-the-market-that-looks-most-like-a-bubble-to-me-is-bitcoin-and-its-brethren/) - 2018-01-22
 * Yanis Varoufakis [Yanis Varoufakis on Crypto & the Left, and Techno-Feudalism](https://the-crypto-syllabus.com/yanis-varoufakis-on-techno-feudalism/) - 2022-01-26
+* Tyler Cowen [The Crypto Crash Strengthens the Case for Crypto](https://www.bloombergquint.com/gadfly/crypto-crash-strengthens-case-for-crypto-s-long-term-future) - 2022-01-27
 
 ### Ponzi aspect
 
