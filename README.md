@@ -148,6 +148,13 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 * [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm) - provides a high level overview of the current state of central bank and private sector currencies in the US, and identifies risks and challenges with the implementation of a central bank digital currency. From the paper summary: "The paper summarizes the current state of the domestic payments system and discusses the different types of digital payment methods and assets that have emerged in recent years, including stablecoins and other cryptocurrencies. It concludes by examining the potential benefits and risks of a CBDC, and identifies specific policy considerations."
 
+### Religious angles
+
+#### Christian
+
+* [What you should know about Bitcoin](https://www.thegospelcoalition.org/article/faqs-know-bitcoin/) by Joe Carter. A well-researched, accurate introduction to Bitcoin from a Christian perspective, 2017-12-27.
+* [Ask the Economist: Should a Christian Invest in Bitcoin?](https://www.thegospelcoalition.org/article/christian-invest-bitcoin/) by Greg Phelan, 2021-10-27.
+
 ---
 
 ## What is blockchain/web3 etc
