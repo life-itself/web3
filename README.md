@@ -49,6 +49,9 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   * [Ross Anderson: Why Bitcoin is Not Cash](https://www.youtube.com/watch?v=p9HH_dFcoLc) - 2018-04-10 - 📺 walks through why bitcoin is not cash and the complex legal questions it would need to deal with if it wanted to be.
   * [Ross Anderson: Tracing Stolen Bitcoin](https://www.youtube.com/watch?v=UlLN0QERWBs) - 2018-03-23 - 📺
 * [Simon Wardley: A Spoiler for the Future of Bitcoin](https://blog.gardeviance.org/2013/11/a-spoiler-for-future-bitcoin.html) - 2013-11-27 - "As you can guess, I'm not a fan of bitcoin. If left unchecked then I find it has the potential to undermine the importance of Government which is actually not good for competition and not good for the market. I hope none of the above happens and would rather see bitcoin disappear in a puff of history." (NB: he predicts massive appreciation in bitcoin and is concerned how it can undermine government and tax revenue.)
+* Kai Stinchcombe series that discusses whether blockchain can solve various real world use-cases better than traditional technologies
+  - [Kai Stinchcombe: Ten years in, nobody has come up with a use for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100) - 2017-12-23 - "Each purported use case — from payments to legal documents, from escrow to voting systems—amounts to a set of contortions to add a distributed, encrypted, anonymous ledger where none was needed. What if there isn’t actually any use for a distributed ledger at all? What if, ten years after it was invented, the reason nobody has adopted a distributed ledger at scale is because nobody wants it?"
+  - [Kai Stinchcombe: Blockchain is not only crappy technology but a bad vision for the future](https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec) - 2018-05-04 - "Blockchain is not only crappy technology but a bad vision for the future. Its failure to achieve adoption to date is because systems built on trust, norms, and institutions inherently function better than the type of no-need-for-trusted-parties systems blockchain envisions. That’s permanent: no matter how much blockchain improves it is still headed in the wrong direction."
 
 ### Economists
 
@@ -68,6 +71,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * Richard Thaler [Economics Nobel prize winner, Richard Thaler: “The market that looks most like a bubble to me is Bitcoin and its brethren”](https://econews.pt/2018/01/22/economics-nobel-prize-winner-richard-thaler-the-market-that-looks-most-like-a-bubble-to-me-is-bitcoin-and-its-brethren/) - 2018-01-22
 * Yanis Varoufakis [Yanis Varoufakis on Crypto & the Left, and Techno-Feudalism](https://the-crypto-syllabus.com/yanis-varoufakis-on-techno-feudalism/) - 2022-01-26
 * Tyler Cowen [The Crypto Crash Strengthens the Case for Crypto](https://www.bloombergquint.com/gadfly/crypto-crash-strengthens-case-for-crypto-s-long-term-future) - 2022-01-27
+* Jesse Frederik [Blockchain, the amazing solution for almost nothing](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476) - 2020-08-21 - "Blockchain technology is going to change everything: the shipping industry, the financial system, government … in fact, what won’t it change? But enthusiasm for it mainly stems from a lack of knowledge and understanding. The blockchain is a solution in search of a problem."
 
 ### Ponzi aspect
 
