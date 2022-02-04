@@ -223,6 +223,8 @@ This is a section for links that haven't yet been reviewed and/or allocated to a
 Pros
 
 * [BanklessDAO: State of the DAOs #7: Social Tokens and the Future of Work](https://banklessdao.substack.com/p/state-of-the-daos-7-social-tokens) - 2022-01-13
+* [Scanning the European Ecosystem of Distributed Ledger Technologies for Social and Public Good](https://publications.jrc.ec.europa.eu/repository/handle/JRC121675) - Oct 2020 - by Samer Hassan and colleagues
+  * Twitter thread: https://twitter.com/samerP2P/status/1317123399295041541
 
 ### Other suggestions
 
