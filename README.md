@@ -52,6 +52,12 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * Kai Stinchcombe series that discusses whether blockchain can solve various real world use-cases better than traditional technologies
   - [Kai Stinchcombe: Ten years in, nobody has come up with a use for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100) - 2017-12-23 - "Each purported use case — from payments to legal documents, from escrow to voting systems—amounts to a set of contortions to add a distributed, encrypted, anonymous ledger where none was needed. What if there isn’t actually any use for a distributed ledger at all? What if, ten years after it was invented, the reason nobody has adopted a distributed ledger at scale is because nobody wants it?"
   - [Kai Stinchcombe: Blockchain is not only crappy technology but a bad vision for the future](https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec) - 2018-05-04 - "Blockchain is not only crappy technology but a bad vision for the future. Its failure to achieve adoption to date is because systems built on trust, norms, and institutions inherently function better than the type of no-need-for-trusted-parties systems blockchain envisions. That’s permanent: no matter how much blockchain improves it is still headed in the wrong direction."
+* [Cory Doctorow: When crypto-exchanges go broke, you'll lose it all](https://pluralistic.net/2022/02/03/liquidation-preference/#we-live-in-a-society) - 2022-02-03. Why state backed money is a good thing (a feature not a bug).
+  > If you've spent much time around cryptocurrency people, you've probably heard a rant or two about "sound money" and the need to "depoliticize money." This is a foundation of blockchainism: the belief that money is born separate from states, and states invade on the private realm when they "meddle" in the money system.
+  >
+  > There are at least two serious problems with this ideology. First, it's plain wrong on the historical facts. Money did not emerge from barter systems among people. Money was and is a product of state.
+  >
+  > But even if you stipulate that money didn't originate among private markets there's another serious historical problem with "sound money." ... It's this: central banks didn't emerge to usurp the private sector's control over money. Central banks were created because without them, finance was subject to wild, terrifying, ruinous boom/bust cycles. What's more, without a central bank, money was subject to naked political meddling, which central banks (sometimes) moderated.
 
 ### Economists
 
@@ -134,10 +140,12 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 * https://twitter.com/molly0xFFF
 * https://twitter.com/smdiehl
   - [Crypto Criticism Threads](https://gist.github.com/sdiehl/7706ef44d951a2025fd658d1dd8687af)
+* https://twitter.com/rufuspollock
 * https://twitter.com/troll_lock
 * https://twitter.com/CasPiancey -"Under promise, under deliver" co-host @cryptocriticpod *opinions are mine, not my employer* odds and ends @protos hold no crypto or crypto stonks
 * https://twitter.com/BennettTomlin - I do data science and track down frauds | 74% backed | Co-host @CryptoCriticPod | Writing @fud_letter | Discord: https://discord.gg/YpAUqNkhSC
 * https://twitter.com/SilvermanJacob (staff writer New Republic) & https://twitter.com/ben_mckenzie - "apparently I now write about crypto"
+* https://twitter.com/doctorow
 
 ### Tether, and other stablecoins
 
