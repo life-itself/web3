@@ -160,6 +160,11 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 * [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm) - provides a high level overview of the current state of central bank and private sector currencies in the US, and identifies risks and challenges with the implementation of a central bank digital currency. From the paper summary: "The paper summarizes the current state of the domestic payments system and discusses the different types of digital payment methods and assets that have emerged in recent years, including stablecoins and other cryptocurrencies. It concludes by examining the potential benefits and risks of a CBDC, and identifies specific policy considerations."
 
+### Trading/Market Microstructure/Security Risks
+* [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/abs/2101.05511) - Qin et al., 2021. Technical paper characterizing and quantifying miner extracted value on Ethereum's DeFi smart contracts.
+* [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/abs/2009.14021) - Zhou et al., 2020. Technical paper detailing the "front-running" that occurs on Ethereum.
+* [An Anatomy of Bitcoin Price Manipulation](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/) - Matt Ranger, 2022. Speculative analysis of centralized cryptocurrency exchange market data to support a price manipulation hypothesis.
+
 ### Religious angles
 
 #### Christian
