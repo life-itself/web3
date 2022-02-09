@@ -58,6 +58,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   > There are at least two serious problems with this ideology. First, it's plain wrong on the historical facts. Money did not emerge from barter systems among people. Money was and is a product of state.
   >
   > But even if you stipulate that money didn't originate among private markets there's another serious historical problem with "sound money." ... It's this: central banks didn't emerge to usurp the private sector's control over money. Central banks were created because without them, finance was subject to wild, terrifying, ruinous boom/bust cycles. What's more, without a central bank, money was subject to naked political meddling, which central banks (sometimes) moderated.
+* [Internet guru Tim O'Reilly on Web3: "Get ready for the crash"](https://www.cbsnews.com/news/cryptocurrency-nft-blockchain-web3-tim-oreilly/) - Interview from Silicon Valley legend Tim O'Reilly to CBS - 2022-02-09
 
 ### Economists
 
