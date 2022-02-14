@@ -59,8 +59,9 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   >
   > But even if you stipulate that money didn't originate among private markets there's another serious historical problem with "sound money." ... It's this: central banks didn't emerge to usurp the private sector's control over money. Central banks were created because without them, finance was subject to wild, terrifying, ruinous boom/bust cycles. What's more, without a central bank, money was subject to naked political meddling, which central banks (sometimes) moderated.
 * [Internet guru Tim O'Reilly on Web3: "Get ready for the crash"](https://www.cbsnews.com/news/cryptocurrency-nft-blockchain-web3-tim-oreilly/) - Interview from Silicon Valley legend Tim O'Reilly to CBS - 2022-02-09
-
 * [David Rosenthal: Can We Mitigate Cryptocurrencies' Externalities?](https://blog.dshr.org/2022/02/ee380-talk.html)
+  * [Economies of Scale in Peer-to-Peer Networks](https://blog.dshr.org/2014/10/economies-of-scale-in-peer-to-peer.html) - 2014-10-07. Network effects lead to centralization in p2p (e.g. Bitcoin) and no good way to mitigate this.
+* [Charlie Stross: Why I want Bitcoin to Die in Fire](https://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html) - 2013-12
 
 ### Economists
 
