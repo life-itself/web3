@@ -41,6 +41,10 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * Molly White series - https://blog.mollywhite.net/blockchain/
   * [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
   * [It's not still the early days](https://blog.mollywhite.net/its-not-still-the-early-days/)
+  * [Abuse and harassment on the blockchain](https://blog.mollywhite.net/abuse-and-harassment-on-the-blockchain/)
+  * [Anonymous cryptocurrency wallets are not so simple](https://blog.mollywhite.net/anonymous-crypto-wallets/)
+  * [Cryptocurrency off-ramps, and the pressure towards centralization](https://blog.mollywhite.net/off-ramps/)
+  * [Cryptocurrency’s Robinhood effect](https://blog.mollywhite.net/cryptocurrencys-robinhood-effect/)
 * [Against Web3 and Faux-Decentralization](https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/) - 2021-10-19 by Soatok
 * [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) - 2021-12-03 by Martin O'Leary
 * [The Register: The dark equation of harm versus good means blockchain’s had its day](https://www.theregister.com/2021/12/06/the_dark_equation_of_harm/) - 2021-12-06
