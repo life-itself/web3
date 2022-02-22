@@ -62,7 +62,10 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   > There are at least two serious problems with this ideology. First, it's plain wrong on the historical facts. Money did not emerge from barter systems among people. Money was and is a product of state.
   >
   > But even if you stipulate that money didn't originate among private markets there's another serious historical problem with "sound money." ... It's this: central banks didn't emerge to usurp the private sector's control over money. Central banks were created because without them, finance was subject to wild, terrifying, ruinous boom/bust cycles. What's more, without a central bank, money was subject to naked political meddling, which central banks (sometimes) moderated.
-* [Internet guru Tim O'Reilly on Web3: "Get ready for the crash"](https://www.cbsnews.com/news/cryptocurrency-nft-blockchain-web3-tim-oreilly/) - Interview from Silicon Valley legend Tim O'Reilly to CBS - 2022-02-09
+* Internet pioneer/Silicon Valley legend Tim O'Reilly on Web3:
+  - [Why it’s too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/) - 2021-12-13
+  - ["Get ready for the crash"](https://www.cbsnews.com/news/cryptocurrency-nft-blockchain-web3-tim-oreilly/) - CBS Money Watch - 2022-02-09
+  - [Crypto and NFTs are "Pretty Serious Speculative Bubble"](https://decrypt.co/92676/internet-guru-tim-oreilly-crypto-nfts-serious-speculative-bubble) - 2022-02-10
 * [David Rosenthal: Can We Mitigate Cryptocurrencies' Externalities?](https://blog.dshr.org/2022/02/ee380-talk.html) - 2022-02-09. Having built a decentralized consensus system using Proof-of-Work (http://dx.doi.org/10.1145/945445.945451) the author has the technical knowledge to explain the design faults and limitations of permissionless blockchain systems, as well as highlighting the economic and environmental issues. Summary of critique:
   > * That the externalities I describe don't exist. You'll have a hard time proving that the waste of electricity and hardware, and the crime wave, are imaginary.
   > * That although the externalities do exist, the benefits of decentralization outweigh them. The problem here is that since the systems are not actually decentralized, we get the externalities but don't get the benefits.
