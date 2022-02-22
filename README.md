@@ -72,6 +72,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   > * That although the externalities do exist, and the systems aren't dencentralized, they're making so much money that we shouldn't worry. The problem here is that the amount of actual money you can get out of a cryptocurrency equals the amount of actual money that has been put in, minus the actual costs of mining. So the big picture is that although there may be winners, in aggregate the system loses money.
   * [Economies of Scale in Peer-to-Peer Networks](https://blog.dshr.org/2014/10/economies-of-scale-in-peer-to-peer.html) - 2014-10-07. Network effects lead to centralization in p2p (e.g. Bitcoin) and no good way to mitigate this.
 * [Charlie Stross: Why I want Bitcoin to Die in Fire](https://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html) - 2013-12
+* [The Maltese Falcon](https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf) - critique of bitcoin and financial properties of crypto assets from the CIO of JP Morgan bank. 2021-02-10
 
 ### Economists
 
