@@ -93,6 +93,8 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * Yanis Varoufakis [Yanis Varoufakis on Crypto & the Left, and Techno-Feudalism](https://the-crypto-syllabus.com/yanis-varoufakis-on-techno-feudalism/) - 2022-01-26
 * Tyler Cowen [The Crypto Crash Strengthens the Case for Crypto](https://www.bloombergquint.com/gadfly/crypto-crash-strengthens-case-for-crypto-s-long-term-future) - 2022-01-27
 * Jesse Frederik [Blockchain, the amazing solution for almost nothing](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476) - 2020-08-21 - "Blockchain technology is going to change everything: the shipping industry, the financial system, government … in fact, what won’t it change? But enthusiasm for it mainly stems from a lack of knowledge and understanding. The blockchain is a solution in search of a problem."
+* [Vice: ‘Crypto Ruined My Life’: The Mental Health Crisis Hitting Bitcoin Investors](https://www.vice.com/en/article/akvn8z/crypto-bad-for-mental-health) - 2022-02-16 - The stress and anxiety that goes with funneling your life savings into a volatile market is no joke.
+* [Ed Zitron: Solutions That Create Problems](https://ez.substack.com/p/solutions-that-create-problems) - 2022-02-22 - [The thing about Web3 is that it is uniquely useless. I have actively searched for an explanation as to why it's the future, what products it would allow us to build, what sort of *good* it would provide, and I cannot even at my most optimistic find a real use case](https://twitter.com/edzitron/status/1495891031979704321)
 
 ### Ponzi aspect
 
