@@ -54,3 +54,6 @@ Uniswap is iterating to favor "professional players":
 
 * https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm
 * https://twitter.com/HideNotSlide/status/1386358389240958977 - someone getting excited about not having transparent market makers as if this is something innovative but what about e.g. https://en.wikipedia.org/wiki/IEX
+* https://www.bis.org/publ/qtrpdf/r_qt2112v.htm - good brief overview from BIS. Note interesting footnote (no 2):
+  §
+  > The AMM trading mechanism shares similarities with the framework of Shapley and Shubik (1977), which ensures market-clearing. See L Shapley and M Shubik, "Trade using one commodity as a means of payment", Journal of Political Economy, vol 85, no 5, pp. 937–68, and H S Shin, "Comparing the robustness of trading systems to higher-order uncertainty", Review of Economic Studies, vol 63, no 1, pp. 39–59.

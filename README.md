@@ -7,6 +7,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 ### General
 
 * [The problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) - 2022-01-21 - by Dan Olson (Documentary) 📺 [👉 Highly recommended 👈]
+  * [Three things Web3 should fix in 2022](https://www.theverge.com/2022/1/28/22906010/web3-nft-internet-history-video-platformer) a response to The Problem with NFTs - 28 Jan 2022
 * Stephen Diehl series - https://www.stephendiehl.com/blog.html
   * [The Case Against Crypto](https://www.stephendiehl.com/blog/against-crypto.html) - December 31, 2021
   - [Blockchainism](https://www.stephendiehl.com/blog/blockchainism.html) - December 11, 2021
@@ -29,7 +30,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   - [The Crypto Chernobyl](https://www.stephendiehl.com/blog/chernobyl.html) - February 10, 2021
   - [Gamestop, Bitcoin and the Commoditization of Populist Rage](https://www.stephendiehl.com/blog/gamestop.html) - February 3, 2021
 * [Today on Sick Sad World: How The Cryptobros Have Fallen](https://www.jwz.org/blog/2022/01/today-on-sick-sad-world-how-the-cryptobros-have-fallen/) - 2022-01-04 by Jamie Zawinski (legendary coder, co-founder of Mozilla etc.)
-* https://moxie.org/2022/01/07/web3-first-impressions.html - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc.
+* [Web3 First Impressions](https://moxie.org/2022/01/07/web3-first-impressions.html) - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc.
 * [Bitcoin, Currencies, and Fragility by Nassim Taleb - 27 Jun 2021](https://arxiv.org/abs/2106.14204) - highly critical paper by author Black Swan etc.
 * https://watershed.co.uk/studio/news/2021/12/03/case-against-crypto
 * [The European Money and Finance Forum - The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf) - Jan 2022. A comprehensive study by  SUERF - The European Money and Finance Forum that details the net negative effects of bitcoin to society.
@@ -40,17 +41,60 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * Molly White series - https://blog.mollywhite.net/blockchain/
   * [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
   * [It's not still the early days](https://blog.mollywhite.net/its-not-still-the-early-days/)
+  * [Abuse and harassment on the blockchain](https://blog.mollywhite.net/abuse-and-harassment-on-the-blockchain/)
+  * [Anonymous cryptocurrency wallets are not so simple](https://blog.mollywhite.net/anonymous-crypto-wallets/)
+  * [Cryptocurrency off-ramps, and the pressure towards centralization](https://blog.mollywhite.net/off-ramps/)
+  * [Cryptocurrency’s Robinhood effect](https://blog.mollywhite.net/cryptocurrencys-robinhood-effect/)
 * [Against Web3 and Faux-Decentralization](https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/) - 2021-10-19 by Soatok
 * [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) - 2021-12-03 by Martin O'Leary
 * [The Register: The dark equation of harm versus good means blockchain’s had its day](https://www.theregister.com/2021/12/06/the_dark_equation_of_harm/) - 2021-12-06
+* [Blockchains and Cryptocurrencies: Burn It With Fire](https://www.youtube.com/watch?v=xCHab0dNnj4) - 2018-04-20 by Nicholas Weaver 📺 Nicholas Weaver is a staff researcher with the International Computer Science Institute (ICSI) and lecturer in EECS, where he teaches machine structures and computer security. He earned his Ph.D. in computer science from Berkeley in 2003 and joined ICSI to study network security and measurement. "The entire cryptocurrency and blockchain ecology is rife with frauds, criminalities, and tulip-mania style hype and needs to be properly disposed of into the ashes of history. A “blockchain” is just a horribly inefficient append-only file which costs a literal fortune to secure without actually providing meaningful distributed trust, while cryptocurrencies are provably inferior than actual currencies for legal real world transactions. Beyond the sheer uselessness have emerged a whole host of bad ideas, ranging from the “put a bird^H^H^H^H blockchain on it” hype to unregistered (and mostly fraudulent) securities with “Initial Coin Offerings” to an invitation for massive theft in the form of “smart” contracts."
+* [Ross Anderson et al: Bitcoin Redux: crypto crime, and how to tackle it](https://www.lightbluetouchpaper.org/2018/06/01/bitcoin-redux-crypto-crime-and-how-to-tackle-it/) ([full paper](https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_38.pdf))- 2018-06-01 - Anderson is a Professor of Security Engineering at the University Cambridge. Bitcoin Redux explains what’s going wrong in the world of cryptocurrencies. The bitcoin exchanges are developing into a shadow banking system, which do not give their customers actual bitcoin but rather display a "balance" and allow them to transact with others. However if Alice sends Bob a bitcoin, and they’re both customers of the same exchange, it just adjusts their balances rather than doing anything on the blockchain. This is an e-money service, according to European law, but is the law enforced? Not where it matters. We’ve been looking at the details.
+  * [Ross Anderson: Why Bitcoin is Not Cash](https://www.youtube.com/watch?v=p9HH_dFcoLc) - 2018-04-10 - 📺 walks through why bitcoin is not cash and the complex legal questions it would need to deal with if it wanted to be.
+  * [Ross Anderson: Tracing Stolen Bitcoin](https://www.youtube.com/watch?v=UlLN0QERWBs) - 2018-03-23 - 📺
+* [Simon Wardley: A Spoiler for the Future of Bitcoin](https://blog.gardeviance.org/2013/11/a-spoiler-for-future-bitcoin.html) - 2013-11-27 - "As you can guess, I'm not a fan of bitcoin. If left unchecked then I find it has the potential to undermine the importance of Government which is actually not good for competition and not good for the market. I hope none of the above happens and would rather see bitcoin disappear in a puff of history." (NB: he predicts massive appreciation in bitcoin and is concerned how it can undermine government and tax revenue.)
+* Kai Stinchcombe series that discusses whether blockchain can solve various real world use-cases better than traditional technologies
+  - [Kai Stinchcombe: Ten years in, nobody has come up with a use for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100) - 2017-12-23 - "Each purported use case — from payments to legal documents, from escrow to voting systems—amounts to a set of contortions to add a distributed, encrypted, anonymous ledger where none was needed. What if there isn’t actually any use for a distributed ledger at all? What if, ten years after it was invented, the reason nobody has adopted a distributed ledger at scale is because nobody wants it?"
+  - [Kai Stinchcombe: Blockchain is not only crappy technology but a bad vision for the future](https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec) - 2018-05-04 - "Blockchain is not only crappy technology but a bad vision for the future. Its failure to achieve adoption to date is because systems built on trust, norms, and institutions inherently function better than the type of no-need-for-trusted-parties systems blockchain envisions. That’s permanent: no matter how much blockchain improves it is still headed in the wrong direction."
+* [Cory Doctorow: When crypto-exchanges go broke, you'll lose it all](https://pluralistic.net/2022/02/03/liquidation-preference/#we-live-in-a-society) - 2022-02-03. Why state backed money is a good thing (a feature not a bug).
+  > If you've spent much time around cryptocurrency people, you've probably heard a rant or two about "sound money" and the need to "depoliticize money." This is a foundation of blockchainism: the belief that money is born separate from states, and states invade on the private realm when they "meddle" in the money system.
+  >
+  > There are at least two serious problems with this ideology. First, it's plain wrong on the historical facts. Money did not emerge from barter systems among people. Money was and is a product of state.
+  >
+  > But even if you stipulate that money didn't originate among private markets there's another serious historical problem with "sound money." ... It's this: central banks didn't emerge to usurp the private sector's control over money. Central banks were created because without them, finance was subject to wild, terrifying, ruinous boom/bust cycles. What's more, without a central bank, money was subject to naked political meddling, which central banks (sometimes) moderated.
+* Internet pioneer/Silicon Valley legend Tim O'Reilly on Web3:
+  - [Why it’s too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/) - 2021-12-13
+  - ["Get ready for the crash"](https://www.cbsnews.com/news/cryptocurrency-nft-blockchain-web3-tim-oreilly/) - CBS Money Watch - 2022-02-09
+  - [Crypto and NFTs are "Pretty Serious Speculative Bubble"](https://decrypt.co/92676/internet-guru-tim-oreilly-crypto-nfts-serious-speculative-bubble) - 2022-02-10
+* [David Rosenthal: Can We Mitigate Cryptocurrencies' Externalities?](https://blog.dshr.org/2022/02/ee380-talk.html) - 2022-02-09. Having built a decentralized consensus system using Proof-of-Work (http://dx.doi.org/10.1145/945445.945451) the author has the technical knowledge to explain the design faults and limitations of permissionless blockchain systems, as well as highlighting the economic and environmental issues. Summary of critique:
+  > * That the externalities I describe don't exist. You'll have a hard time proving that the waste of electricity and hardware, and the crime wave, are imaginary.
+  > * That although the externalities do exist, the benefits of decentralization outweigh them. The problem here is that since the systems are not actually decentralized, we get the externalities but don't get the benefits.
+  > * That although the externalities do exist, and the systems aren't dencentralized, they're making so much money that we shouldn't worry. The problem here is that the amount of actual money you can get out of a cryptocurrency equals the amount of actual money that has been put in, minus the actual costs of mining. So the big picture is that although there may be winners, in aggregate the system loses money.
+  * [Economies of Scale in Peer-to-Peer Networks](https://blog.dshr.org/2014/10/economies-of-scale-in-peer-to-peer.html) - 2014-10-07. Network effects lead to centralization in p2p (e.g. Bitcoin) and no good way to mitigate this.
+* [Charlie Stross: Why I want Bitcoin to Die in Fire](https://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html) - 2013-12
+* [The Maltese Falcon](https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf) - critique of bitcoin and financial properties of crypto assets from the CIO of JP Morgan bank. 2021-02-10
 
 ### Economists
 
-* Paul Krugman [Technobabble, Libertarian Derp and Bitcoin](https://nytimes.com/2021/05/20/opinion/cryptocurrency-bitcoin.html) - 2021-05-20
-* Joseph Stiglitz [Nobel Prize Economist Joseph Stiglitz Calls Regulators to Ban Cryptocurrencies](https://deep-resonance.org/2021/10/28/nobel-prize-economist-joseph-stiglitz-calls-regulators-to-ban-cryptocurrencies/) - 2021-10-28
-* Yanis Varoufakis [What is money, really? And why Bitcoin is not the answer (even if blockchain is brilliant & potentially helpful in democratising money)](https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/)  - 2021-08-02
 * Stephanie Kelton [Cryptocurrency and Fiat Money](https://www.youtube.com/watch?v=84wTEf9Acik) - 2017-12-23
-* Tyler Cowan [What the Crypto Crowd Doesn't Understand About Economics](https://www.bloomberg.com/opinion/articles/2021-06-21/what-the-crypto-crowd-doesn-t-understand-about-economics) - 2021-06-20
+* Richard Thaler [Economics Nobel prize winner, Richard Thaler: “The market that looks most like a bubble to me is Bitcoin and its brethren”](https://econews.pt/2018/01/22/economics-nobel-prize-winner-richard-thaler-the-market-that-looks-most-like-a-bubble-to-me-is-bitcoin-and-its-brethren/) - 2018-01-22
+* Various ['Only good for drug dealers': More Nobel prize winners snub bitcoin](https://finance.yahoo.com/news/good-drug-dealers-nobel-prize-winners-snub-bitcoin-184903784.html?ref=hackernoon.com) - 2018-04-27
+* Robert Shiller [The Old Allure of New Money](https://www.project-syndicate.org/commentary/cryptocurrencies-scientific-narrative-by-robert-j--shiller-2018-05?barrier=accesspay) - 2018-05-21
+* Abhijit Banerjee [Nobel Prize Winning Economist Abhijit Banerjee: Is Blockchain the Key to Financial Inclusion?](https://blockchain.news/news/nobel-prize-winning-economist-abhijit-banerjee-is-blockchain-the-key-to-financial-inclusion) - 2020-01-20
+* Steve Keen [Cryptocurrencies, Debt, and the Economy: Steve Keen interviewed by Layne Hartsell](http://www.koreaittimes.com/news/articleView.html?idxno=103792) - 2021-02-17
+* Amartya Sen [Prannoy Roy's Townhall With Amartya Sen On Economy, Farm Laws: Full Transcript ](https://www.ndtv.com/india-news/prannoy-roys-townhall-with-amartya-sen-on-indian-economy-farm-laws-full-transcript-2385071) - 2021-03-06
+* Jeffrey Sachs [Famed economist Jeffrey Sachs rails against Bitcoin: Highly polluting and ‘almost like counterfeiting’](https://fortune.com/2021/03/16/bitcoin-jeffrey-sachs-critiques-btc/) - 2021-03-16
+* Paul Krugman [Technobabble, Libertarian Derp and Bitcoin](https://nytimes.com/2021/05/20/opinion/cryptocurrency-bitcoin.html) - 2021-05-20
+* Tyler Cowen [What the Crypto Crowd Doesn't Understand About Economics](https://www.bloomberg.com/opinion/articles/2021-06-21/what-the-crypto-crowd-doesn-t-understand-about-economics) - 2021-06-20
+* Yanis Varoufakis [What is money, really? And why Bitcoin is not the answer (even if blockchain is brilliant & potentially helpful in democratising money)](https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/)  - 2021-08-02
+* Daron Acemoğlu [The Bitcoin Fountainhead](https://www.project-syndicate.org/commentary/bitcoin-an-appealing-distraction-by-daron-acemoglu-2021-10?barrier=accesspay) - 2021-10-05
+* Joseph Stiglitz [Nobel Prize Economist Joseph Stiglitz Calls Regulators to Ban Cryptocurrencies](https://deep-resonance.org/2021/10/28/nobel-prize-economist-joseph-stiglitz-calls-regulators-to-ban-cryptocurrencies/) - 2021-10-28
+* Richard Thaler [Economics Nobel prize winner, Richard Thaler: “The market that looks most like a bubble to me is Bitcoin and its brethren”](https://econews.pt/2018/01/22/economics-nobel-prize-winner-richard-thaler-the-market-that-looks-most-like-a-bubble-to-me-is-bitcoin-and-its-brethren/) - 2018-01-22
+* Yanis Varoufakis [Yanis Varoufakis on Crypto & the Left, and Techno-Feudalism](https://the-crypto-syllabus.com/yanis-varoufakis-on-techno-feudalism/) - 2022-01-26
+* Tyler Cowen [The Crypto Crash Strengthens the Case for Crypto](https://www.bloombergquint.com/gadfly/crypto-crash-strengthens-case-for-crypto-s-long-term-future) - 2022-01-27
+* Jesse Frederik [Blockchain, the amazing solution for almost nothing](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476) - 2020-08-21 - "Blockchain technology is going to change everything: the shipping industry, the financial system, government … in fact, what won’t it change? But enthusiasm for it mainly stems from a lack of knowledge and understanding. The blockchain is a solution in search of a problem."
+* [Vice: ‘Crypto Ruined My Life’: The Mental Health Crisis Hitting Bitcoin Investors](https://www.vice.com/en/article/akvn8z/crypto-bad-for-mental-health) - 2022-02-16 - The stress and anxiety that goes with funneling your life savings into a volatile market is no joke.
+* [Ed Zitron: Solutions That Create Problems](https://ez.substack.com/p/solutions-that-create-problems) - 2022-02-22 - [The thing about Web3 is that it is uniquely useless. I have actively searched for an explanation as to why it's the future, what products it would allow us to build, what sort of *good* it would provide, and I cannot even at my most optimistic find a real use case](https://twitter.com/edzitron/status/1495891031979704321)
 
 ### Ponzi aspect
 
@@ -65,9 +109,10 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 
 ### Crypto and energy consumption
 
-* https://digiconomist.net/bitcoin-energy-consumption
-* https://newyorker.com/news/daily-comment/why-bitcoin-is-bad-for-the-environment
+* [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
+* [Why Bitcoin Is Bad For The Environment](https://newyorker.com/news/daily-comment/why-bitcoin-is-bad-for-the-environment) - 2021-04-22
 * [Energy power usage CryptoArt, ETH, Blockchain spreadsheet](https://docs.google.com/spreadsheets/d/1hzzxMbytOZ1mYl9kLh_SvM6kne6JI_mdCfHIoNapr5M/edit#gid=0)
+* [How Do We Solve Bitcoin's Energy Problem?](https://www.theguardian.com/technology/2022/jan/30/how-do-we-solve-bitcoins-carbon-problem) - 2022-01-30
 
 ### Scams/frauds
 
@@ -91,7 +136,7 @@ Non-fungible tokens.
 * [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) - 2022-01-05 - Ben Thompson of Stratechery
 * [Brian Eno on NFTs & Automaticism](https://the-crypto-syllabus.com/brian-eno-on-nfts-and-automatism/)
 * [Detailed twitter thread by @NFTEthics alleging fraudulent or close to fraudulent behaviour by a major NTF influencer named BeanieMaxi ](https://twitter.com/NFTethics/status/1483051289022017538) - 2022-01-17 ([cached](./assets/Thread by @NFTethics re beaniemaxi.pdf))
-[The Problem With NFTs. Documentary by Dan Olson, Folding Ideas.](https://www.youtube.com/watch?v=YQ_xWvX1n9g) - 2022-01-21
+* [Jacobin: NFTs Are, Quite Simply, Bullshit](https://jacobinmag.com/2022/01/nfts-fallon-paris-hilton-bored-ape-digital-imagery-commodification) - 2022-01-26
 
 ### Specific use cases
 
@@ -112,10 +157,12 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 * https://twitter.com/molly0xFFF
 * https://twitter.com/smdiehl
   - [Crypto Criticism Threads](https://gist.github.com/sdiehl/7706ef44d951a2025fd658d1dd8687af)
+* https://twitter.com/rufuspollock
 * https://twitter.com/troll_lock
 * https://twitter.com/CasPiancey -"Under promise, under deliver" co-host @cryptocriticpod *opinions are mine, not my employer* odds and ends @protos hold no crypto or crypto stonks
 * https://twitter.com/BennettTomlin - I do data science and track down frauds | 74% backed | Co-host @CryptoCriticPod | Writing @fud_letter | Discord: https://discord.gg/YpAUqNkhSC
 * https://twitter.com/SilvermanJacob (staff writer New Republic) & https://twitter.com/ben_mckenzie - "apparently I now write about crypto"
+* https://twitter.com/doctorow
 
 ### Tether, and other stablecoins
 
@@ -130,13 +177,25 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 * [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm) - provides a high level overview of the current state of central bank and private sector currencies in the US, and identifies risks and challenges with the implementation of a central bank digital currency. From the paper summary: "The paper summarizes the current state of the domestic payments system and discusses the different types of digital payment methods and assets that have emerged in recent years, including stablecoins and other cryptocurrencies. It concludes by examining the potential benefits and risks of a CBDC, and identifies specific policy considerations."
 
+### Trading/Market Microstructure/Security Risks
+* [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/abs/2101.05511) - Qin et al., 2021. Technical paper characterizing and quantifying miner extracted value on Ethereum's DeFi smart contracts.
+* [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/abs/2009.14021) - Zhou et al., 2020. Technical paper detailing the "front-running" that occurs on Ethereum.
+* [An Anatomy of Bitcoin Price Manipulation](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/) - Matt Ranger, 2022. Speculative analysis of centralized cryptocurrency exchange market data to support a price manipulation hypothesis.
+
+### Religious angles
+
+#### Christian
+
+* [What you should know about Bitcoin](https://www.thegospelcoalition.org/article/faqs-know-bitcoin/) by Joe Carter. A well-researched, accurate introduction to Bitcoin from a Christian perspective, 2017-12-27.
+* [Ask the Economist: Should a Christian Invest in Bitcoin?](https://www.thegospelcoalition.org/article/christian-invest-bitcoin/) by Greg Phelan, 2021-10-27.
+
 ---
 
 ## What is blockchain/web3 etc
 
 Best intros/overviews of blockchain, crypto, web3 etc.
 
-* [There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) - June 2, 2019 by Bruce Schneier
+* [On Blockchain and Trust](https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html) - February 12, 2019 by Bruce Schneier. The article also appeared on wired.com as [There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/).
 - [The Myth of Decentralization and Lies about Web 2.0](https://www.emilygorcenski.com/post/the-myth-of-decentralization-and-lies-about-web-2.0/) - 2022-01-07 by Emily Gorcenski
 * http://kernel.community - A custom web3 educational community with free learning resources at https://kernel.community/en/learn/
 
@@ -206,6 +265,8 @@ This is a section for links that haven't yet been reviewed and/or allocated to a
 Pros
 
 * [BanklessDAO: State of the DAOs #7: Social Tokens and the Future of Work](https://banklessdao.substack.com/p/state-of-the-daos-7-social-tokens) - 2022-01-13
+* [Scanning the European Ecosystem of Distributed Ledger Technologies for Social and Public Good](https://publications.jrc.ec.europa.eu/repository/handle/JRC121675) - Oct 2020 - by Samer Hassan and colleagues
+  * Twitter thread: https://twitter.com/samerP2P/status/1317123399295041541
 
 ### Other suggestions
 
