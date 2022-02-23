@@ -268,7 +268,12 @@ Pros
 * [Scanning the European Ecosystem of Distributed Ledger Technologies for Social and Public Good](https://publications.jrc.ec.europa.eu/repository/handle/JRC121675) - Oct 2020 - by Samer Hassan and colleagues
   * Twitter thread: https://twitter.com/samerP2P/status/1317123399295041541
 
+
+### Former bitcoin enthusiasts turned skeptics
+
+* [Money corrupts; bitcoin corrupts absolutely.](https://www.cynicusrex.com/file/cryptocultscience.html) - 12-03-2021
+* [I wish I never bought bitcoin.](https://www.cynicusrex.com/file/greed.html) - 01-06-2020
+
 ### Other suggestions
 
 * New topic concerning the psychological harm, such as: gambling, greed, cultism, etc.
-* New topic along the lines of “Ex-coiners speaking out.”
