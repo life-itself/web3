@@ -22,7 +22,6 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   - [On Unintentional Scams](https://www.stephendiehl.com/blog/crypto-scams.html) - July 23, 2021
   - [How to Destroy Bitcoin](https://www.stephendiehl.com/blog/destroy-bitcoin.html) - July 13, 2021
   - [The Non-Innovation of Cryptocurrency](https://www.stephendiehl.com/blog/non-innovation.html) - July 7, 2021
-  - [Revolution Now! With Peter Joseph | Bitcoin and Financialization](https://youtu.be/bsghxd1cdeA) - May 21, 2021
   - [The Oncoming Ransomware Storm](https://www.stephendiehl.com/blog/ransomware.html) - May 11, 2021
   - [Et tu, Signal?](https://www.stephendiehl.com/blog/signal.html) - April 7, 2021
   - [The Political Case for a Blanket Cryptocurrency Ban](https://www.stephendiehl.com/blog/banbitcoin.html) - March 30, 2021
@@ -37,6 +36,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * [The Third Web](https://tante.cc/2021/12/17/the-third-web/) - 2021-12-17 - long critical essay including detailed history by [Tante](https://twitter.com/tante)
 * https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/ - 2016-07-02 - by Rufus Pollock (mainly a critique of early DAOs and techno-solutionism)
 * [Web3 takes trust, too](https://www.bloomberg.com/opinion/articles/2022-01-10/web3-takes-trust-too) - 2022-01-10 by Matt Levine on Bloomberg.com
+* [Revolution Now! With Peter Joseph | Bitcoin and Financialization](https://youtu.be/bsghxd1cdeA) - May 21, 2021
 * [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud) - 2021-12-16 by Nicholas Weaver on usenix.com
 * Molly White series - https://blog.mollywhite.net/blockchain/
   * [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)

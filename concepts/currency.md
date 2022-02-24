@@ -1,16 +1,18 @@
 # Currency
 
-Properties
+Money is any item or verifiable record that is  accepted as payment for goods and services and repayment of debts and payment of national obligations, such as taxes, in a particular jurisdiction.
+
+## Properties
 
 * Unit of Account
 * Medium of Exchange
 * Store of Value
 
-Observables
+## Qualities
 
-* durability
-* portability
-* divisibility
-* uniformity
-* limited supply
-* acceptability
+* Durability
+* Portability
+* Divisibility
+* Uniformity
+* Limited supply
+* Acceptability
