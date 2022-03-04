@@ -4,7 +4,7 @@
 
 ### A project of Life Itself Labs & friends
 
-Web3 is a huge phenomenon but it can be hard to make sense of. We're launching this collaborative initiative to address this sensemaking gap. Our focus is on the economic and political aspects more than the technological details.
+Web3 is a huge phenomenon but it can be hard to make sense of. We're launching this collaborative initiative to address this. Our focus is on the economic and political aspects rather than the technical details.
 
 We will be steel-manning the key claims made by proponents of web3 through conscious, critical and open-minded dialog with a diverse set of experts. Then teasing out the underlying hypotheses and assumptions and engaging in rigorous and constructive critique. Finally, we look at the overall aspirations of the web3 movement and examine how these might be achieved, whether through improvements to blockchain based approaches or by other means.
 
