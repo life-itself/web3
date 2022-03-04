@@ -300,3 +300,7 @@ This section is a brilliant cultural analysis of what is happening. How the cryp
 His explanation of why platform dominance e.g. of Amazon, Google, Facebook etc is a bit off ... (tendency to monopoly is built into platform systems which information and esp networked systems naturally have in abundance). See https://openrevolution.net/platformnomics
 
 > 118:28  The Facebook/Google/Amazon dominated internet  arose because the technical cost of building a modern website rose far beyond what the  vast majority of amateurs could manage, so everyone moved to templates, and then  to services, and finally to platforms.
+
+### Other critiques
+
+* Jonathan Mann thread on twitter: https://twitter.com/songadaymann/status/1486118084322762752. Basic thesis: I largely agree *and* maybe there is some good stuff in there so don't throw the whole thing out.
