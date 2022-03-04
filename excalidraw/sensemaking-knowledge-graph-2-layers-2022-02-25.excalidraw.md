@@ -17,8 +17,8 @@ Structured Sensemaking layer ^nPFJA8Kx
 
 Public goods problem ^LEqTh0hB
 
-NFTs are largely fraudulent Ponzi-like schemes
-or at best like the high end art market ^xGo8TpoW
+NFTs are largely fraudulent
+Ponzi-like schemes ^xGo8TpoW
 
 Macroeconomics of money ^yZP380o8
 
@@ -594,8 +594,8 @@ Layer 2 ^ZFrxp5pa
 		},
 		{
 			"type": "text",
-			"version": 385,
-			"versionNonce": 970137507,
+			"version": 480,
+			"versionNonce": 547673229,
 			"isDeleted": false,
 			"id": "xGo8TpoW",
 			"fillStyle": "solid",
@@ -604,26 +604,26 @@ Layer 2 ^ZFrxp5pa
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -197.41231485494632,
-			"y": -9.041450741336405,
+			"x": -207.1345370771686,
+			"y": -8.785374352447604,
 			"strokeColor": "#000000",
 			"backgroundColor": "#000",
-			"width": 323,
+			"width": 194,
 			"height": 34,
 			"seed": 854590310,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646041178012,
+			"updated": 1646369693682,
 			"fontSize": 13.91788285088718,
 			"fontFamily": 1,
-			"text": "NFTs are largely fraudulent Ponzi-like schemes\nor at best like the high end art market",
-			"rawText": "NFTs are largely fraudulent Ponzi-like schemes\nor at best like the high end art market",
+			"text": "NFTs are largely fraudulent\nPonzi-like schemes",
+			"rawText": "NFTs are largely fraudulent\nPonzi-like schemes",
 			"baseline": 29,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "NFTs are largely fraudulent Ponzi-like schemes\nor at best like the high end art market"
+			"originalText": "NFTs are largely fraudulent\nPonzi-like schemes"
 		},
 		{
 			"type": "text",
@@ -929,8 +929,8 @@ Layer 2 ^ZFrxp5pa
 		},
 		{
 			"type": "text",
-			"version": 392,
-			"versionNonce": 1682063747,
+			"version": 493,
+			"versionNonce": 319975021,
 			"isDeleted": false,
 			"id": "JHE2RLyL",
 			"fillStyle": "hachure",
@@ -939,8 +939,8 @@ Layer 2 ^ZFrxp5pa
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -262.2690972222223,
-			"y": -87.68880208333331,
+			"x": -304.6475694444445,
+			"y": -85.4796006944444,
 			"strokeColor": "#000000",
 			"backgroundColor": "#ced4da",
 			"width": 99,
@@ -949,7 +949,7 @@ Layer 2 ^ZFrxp5pa
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646041192214,
+			"updated": 1646369722698,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "Link evidence",
