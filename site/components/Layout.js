@@ -22,22 +22,24 @@ export default function Layout({ children, title='' }) {
         <link rel="preload" href="/fonts/Restora/RestoraBold.ttf" as="font" crossOrigin="" />
         <link rel="preload" href="/fonts/Restora/RestoraExtraLight.otf" as="font" crossOrigin="" />
       </Head>
-      <Nav />
-      <main>
-        {children}
-      </main>
-      <footer className="flex items-center justify-center w-full h-24 border-t mt-16">
-        <p className="flex items-center justify-center">
-          Created by
-          <a
-            href={siteConfig.authorUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img src={siteConfig.authorLogo} alt={siteConfig.author} className="ml-2 h-6 block" />
-          </a>
-        </p>
-      </footer>
+      <body className="dark:bg-[#4a4e7d]">
+        <Nav />
+        <main>
+          {children}
+        </main>
+        <footer className="flex items-center justify-center w-full h-24 border-t mt-16">
+          <p className="flex items-center justify-center">
+            Created by
+            <a
+              href={siteConfig.authorUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={siteConfig.authorLogo} alt={siteConfig.author} className="ml-2 h-6 block" />
+            </a>
+          </p>
+        </footer>
+      </body>
     </>
   )
 }

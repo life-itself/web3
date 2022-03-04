@@ -11,7 +11,7 @@ export default function MdxPage({ children }) {
   const { Component, pageProps } = children
 
   return (
-    <article className="prose mx-auto p-6">
+    <article className="prose dark:prose-invert mx-auto p-6">
       <header>
         <div className="mb-6">
           <h1>{pageProps.title}</h1>

@@ -3,6 +3,7 @@ import Script from 'next/script'
 import { useRouter } from 'next/router'
 import { DefaultSeo } from 'next-seo'
 import 'tailwindcss/tailwind.css'
+import { ThemeProvider } from 'next-themes'
 
 import siteConfig from '../config/siteConfig.js'
 import Layout from '../components/Layout'
@@ -26,7 +27,7 @@ function MyApp({ Component, pageProps }) {
   // end Google Analytics
   
   return (
-    <>
+    <ThemeProvider attribute="class" defaultTheme="dark">
       <DefaultSeo
         titleTemplate={'%s | ' + siteConfig.title}
         defaultTitle={siteConfig.title}
@@ -64,7 +65,7 @@ function MyApp({ Component, pageProps }) {
         <MdxPage children={{ Component, pageProps }} />
         }
       </Layout>
-    </>
+    </ThemeProvider>
   )
 }
 
