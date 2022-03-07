@@ -10,9 +10,13 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        nunito: ["Nunito Sans", ...defaultTheme.fontFamily.sans],
+        sans: ["Inter", ...defaultTheme.fontFamily.sans],
         serif: ["Restora", ...defaultTheme.fontFamily.serif],
       },
+      colors: {
+        // life itself yellow
+        'yellow-li': '#f0ca5e'
+      }
     },
   },
   variants: {

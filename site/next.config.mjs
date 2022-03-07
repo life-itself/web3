@@ -17,4 +17,8 @@ const withMDX = withMDXImp({
 export default withMDX({
   // Append the default value with md extensions
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
+  webpack: (config, { buildId, dev }) => {
+    config.resolve.symlinks = false
+    return config
+  }
 })
