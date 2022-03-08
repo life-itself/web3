@@ -32,7 +32,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * [Web3 First Impressions](https://moxie.org/2022/01/07/web3-first-impressions.html) - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc.
 * [Bitcoin, Currencies, and Fragility by Nassim Taleb - 27 Jun 2021](https://arxiv.org/abs/2106.14204) - highly critical paper by author Black Swan etc.
 * https://watershed.co.uk/studio/news/2021/12/03/case-against-crypto
-* [The European Money and Finance Forum - The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf) - Jan 2022. A comprehensive study by  SUERF - The European Money and Finance Forum that details the net negative effects of bitcoin to society.
+* [The European Money and Finance Forum - The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf) - Jan 2022. A comprehensive study by SUERF - The European Money and Finance Forum that details the net negative effects of bitcoin to society.
 * [The Third Web](https://tante.cc/2021/12/17/the-third-web/) - 2021-12-17 - long critical essay including detailed history by [Tante](https://twitter.com/tante)
 * https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/ - 2016-07-02 - by Rufus Pollock (mainly a critique of early DAOs and techno-solutionism)
 * [Web3 takes trust, too](https://www.bloomberg.com/opinion/articles/2022-01-10/web3-takes-trust-too) - 2022-01-10 by Matt Levine on Bloomberg.com
@@ -45,6 +45,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   * [Anonymous cryptocurrency wallets are not so simple](https://blog.mollywhite.net/anonymous-crypto-wallets/)
   * [Cryptocurrency off-ramps, and the pressure towards centralization](https://blog.mollywhite.net/off-ramps/)
   * [Cryptocurrency’s Robinhood effect](https://blog.mollywhite.net/cryptocurrencys-robinhood-effect/)
+  * [Abuse on the blockchain – Guest lecture at Stanford University](https://www.youtube.com/watch?v=hXBZ-BXfCSY)
 * [Against Web3 and Faux-Decentralization](https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/) - 2021-10-19 by Soatok
 * [The technological case against Bitcoin and blockchain](https://lukeplant.me.uk/blog/posts/the-technological-case-against-bitcoin-and-blockchain/) - 2022-03-05 by Luke Plant
 * [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) - 2021-12-03 by Martin O'Leary
@@ -148,7 +149,13 @@ Non-fungible tokens.
 
 ### Humour
 
-* [Crypto Curious](https://www.youtube.com/watch?v=N8f-BQFo7lw) - 2021-12-21 SOUTH PARK on NFTs
+* [Crypto Curious](https://www.youtube.com/watch?v=N8f-BQFo7lw) - South Park on NFTs - 2021-12-21
+* [N-FT: Non-Functioning Tower](https://www.nonfunctioningtower.com) - NFT satire - 2022-03-07
+* [“a normal person explains cryptocurrency”](https://twitter.com/avalonpenrose/status/1473753174787772418) by Avalon Penrose - 2021-12-22
+* [“my crypto friend calls me every day and this is what he sound like”](https://www.youtube.com/watch?v=TUB9jgMuC7U) by Flula - 2021-02-22
+* [The Billion-Dollar Bitcoin Scam](https://www.youtube.com/watch?v=YCuGpfMSmck) - Ordinary Things - 2020-05-31 - “What is Bitcoin? Is Bitcoin a scam? And how did Bitcoin become what it is today? Who was the Dread Pirate Roberts and what happened to the Silk Road?”
+* [Cryptocurrencies: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=g6iDZspbRMg) - 2018-03-12
+* [Don’t Understand Bitcoin? This Man Will Mumble An Explanation At You](https://www.youtube.com/watch?v=4APcgsRdW6w) by ClickHole - 2015-07-7
 
 ### Twitter users
 
@@ -180,11 +187,17 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 * [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm) - provides a high level overview of the current state of central bank and private sector currencies in the US, and identifies risks and challenges with the implementation of a central bank digital currency. From the paper summary: "The paper summarizes the current state of the domestic payments system and discusses the different types of digital payment methods and assets that have emerged in recent years, including stablecoins and other cryptocurrencies. It concludes by examining the potential benefits and risks of a CBDC, and identifies specific policy considerations."
 
 ### Trading/Market Microstructure/Security Risks
+
 * [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/abs/2101.05511) - Qin et al., 2021. Technical paper characterizing and quantifying miner extracted value on Ethereum's DeFi smart contracts.
 * [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/abs/2009.14021) - Zhou et al., 2020. Technical paper detailing the "front-running" that occurs on Ethereum.
 * [An Anatomy of Bitcoin Price Manipulation](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/) - Matt Ranger, 2022. Speculative analysis of centralized cryptocurrency exchange market data to support a price manipulation hypothesis.
 
-### Religious angles
+### Former bitcoin enthusiasts turned skeptics
+
+* [Money corrupts; bitcoin corrupts absolutely.](https://www.cynicusrex.com/file/cryptocultscience.html) by Angelino Desmet - 12-03-2021
+* [I wish I never bought bitcoin.](https://www.cynicusrex.com/file/greed.html) by Angelino Desmet - 01-06-2020
+
+### Religious skeptical angles
 
 #### Buddhist
 
@@ -198,9 +211,9 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 ---
 
-## What is blockchain/web3 etc
+## What is blockchain, web3, etc.
 
-Best intros/overviews of blockchain, crypto, web3 etc.
+Best intros/overviews of blockchain, crypto, web3, etc.
 
 * [On Blockchain and Trust](https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html) - February 12, 2019 by Bruce Schneier. The article also appeared on wired.com as [There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/).
 - [The Myth of Decentralization and Lies about Web 2.0](https://www.emilygorcenski.com/post/the-myth-of-decentralization-and-lies-about-web-2.0/) - 2022-01-07 by Emily Gorcenski
@@ -210,7 +223,7 @@ Best intros/overviews of blockchain, crypto, web3 etc.
 
 ## Iron-manning the pro arguments
 
-Here we collect the best theses for why this is important/interesting/world-changing.
+Here we collect the best theses for why blockchain/crypto“currency”/web3 is supposedly important/interesting/world-changing.
 
 ### Bitcoin
 
@@ -223,7 +236,7 @@ Here we collect the best theses for why this is important/interesting/world-chan
 
 ### Web3
 
-* [Sean Bonner: Why Web3](https://blog.seanbonner.com/2021/10/26/why-web3/) - 2021-10-26 - by Sean Bonner. "Web3 upends the power structures we’ve grown accustomed to and puts artists and creators back into the drivers seat. ,,, Web3 offers a future where people are in charge of their own identities, not beholden to the whims of data hoarding corporations. People control their own accounts, own their own futures. ... So if you are asking “Why Web3?” The answer is simple. Web3 is the future."
+* [Sean Bonner: Why Web3](https://blog.seanbonner.com/2021/10/26/why-web3/) - 2021-10-26 - by Sean Bonner. "Web3 upends the power structures we’ve grown accustomed to and puts artists and creators back into the drivers seat…Web3 offers a future where people are in charge of their own identities, not beholden to the whims of data hoarding corporations. People control their own accounts, own their own futures…So if you are asking “Why Web3?” The answer is simple. Web3 is the future."
 
 ### Fat protocols
 
@@ -274,12 +287,6 @@ Pros
 * [BanklessDAO: State of the DAOs #7: Social Tokens and the Future of Work](https://banklessdao.substack.com/p/state-of-the-daos-7-social-tokens) - 2022-01-13
 * [Scanning the European Ecosystem of Distributed Ledger Technologies for Social and Public Good](https://publications.jrc.ec.europa.eu/repository/handle/JRC121675) - Oct 2020 - by Samer Hassan and colleagues
   * Twitter thread: https://twitter.com/samerP2P/status/1317123399295041541
-
-
-### Former bitcoin enthusiasts turned skeptics
-
-* [Money corrupts; bitcoin corrupts absolutely.](https://www.cynicusrex.com/file/cryptocultscience.html) - 12-03-2021
-* [I wish I never bought bitcoin.](https://www.cynicusrex.com/file/greed.html) - 01-06-2020
 
 ### Other suggestions
 
