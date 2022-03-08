@@ -186,6 +186,10 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 ### Religious angles
 
+#### Buddhist
+
+* [Sujato Bhikkhu on Crypto](https://www.youtube.com/watch?v=CA_cfLqIkA0) by Sujato Bhikkhu. A monk explains why crypto is compatible with the teachings of the Buddha from both moral and spiritual dimensions.
+
 #### Christian
 
 * [The Christian case against Bitcoin and blockchain]( https://lukeplant.me.uk/blog/posts/the-christian-case-against-bitcoin-and-blockchain/) by Luke Plant, A reading of bitcoin philosophy and cult like phenomenon from a biblical perspective 2021-03-2022.
