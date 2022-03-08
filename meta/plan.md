@@ -21,11 +21,21 @@ Features
 * [ ] v0.3: ...
 * [ ] v1: website with integrated library and wiki. contribution flow.
 
+## Timeline
+
+### Fri 11 March - v0.1
+
+Outcome visioning: site polished and project launched
+
+* [ ] Elegant site
+* [ ] People are contacting us to contribute
+* [ ]  We have over 1000 ⭐ on github (?)
+
 ## Workstreams
 
-* [ ] Online web "home" for the published material e.g. "Making Sense of Web3" so that ... ⏫ **🏃‍♂️ See https://github.com/life-itself/web3/issues/53 issue**
+* [ ] Online web "home" for the published material e.g. "Making Sense of Web3" so that ... ⏫ **🏃‍♂️ For v0.1 https://github.com/life-itself/web3/issues/53 issue**
 * [ ] Collaboration and Contribution (paths and involved already interested people) so that we get more contributions
-* [ ] Content ⏫
+* [ ] Content ⏫ **see below and https://github.com/life-itself/web3/issues/55 issue**
 * [ ] Library 🔼 see https://github.com/life-itself/web3/issues/44
 * [ ] Engagement and signups
   * [ ] ⏫ Sign up to get updates / news …
@@ -45,3 +55,17 @@ Features
 * [ ] ➕2022-02-26 What we are bringing / aiming for (and what’s distinctive about this approach)
   * [ ] Write up our approach to sensemaking and why it matters (write up existing notes into a coherent essay)
     * [ ] Interview Rufus and/or Stephen to clarify what’s the challenge in the sensemaking
+
+### Website
+
+https://github.com/life-itself/web3/blob/main/excalidraw/website-homepage-v0.1-2022-02-23.excalidraw.svg
+
+https://excalidraw.com/#room=8bc8a0afb0afc89015dc,W3jd48r8_B2llA2CZ8A33A
+
+Inbox
+
+* [ ] Issue tree image
+  * [ ] Export it or embed?
+  * [ ] Make it 
+* [ ] can we use symlinks to display content from main part of the repo into the site itself **✅ Yes you can. Rufus has this **
+* [ ] (Front page?) Aside: Turning the SCQH into a tree esp the complication (note we have a bunch of this structure in the long version of the SCQH with bullet points). Why? A nice illustration of the hypothesis tree approach.
