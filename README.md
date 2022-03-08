@@ -45,6 +45,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   * [Anonymous cryptocurrency wallets are not so simple](https://blog.mollywhite.net/anonymous-crypto-wallets/)
   * [Cryptocurrency off-ramps, and the pressure towards centralization](https://blog.mollywhite.net/off-ramps/)
   * [Cryptocurrency’s Robinhood effect](https://blog.mollywhite.net/cryptocurrencys-robinhood-effect/)
+  * [Abuse on the blockchain – Guest lecture at Stanford University](https://www.youtube.com/watch?v=hXBZ-BXfCSY)
 * [Against Web3 and Faux-Decentralization](https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/) - 2021-10-19 by Soatok
 * [The technological case against Bitcoin and blockchain](https://lukeplant.me.uk/blog/posts/the-technological-case-against-bitcoin-and-blockchain/) - 2022-03-05 by Luke Plant
 * [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto) - 2021-12-03 by Martin O'Leary
