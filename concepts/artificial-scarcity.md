@@ -1,1 +1,3 @@
 # Artificial Scarcity
+
+#todo 

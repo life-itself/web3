@@ -20,6 +20,8 @@ An algorithm where blocks in the blockchain are validated by the consumption of 
 
 ## Hashgraphs
 
+#todo 
+
 
 
 
