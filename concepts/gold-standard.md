@@ -1,6 +1,6 @@
 # Gold Standard
 
-A monetary standard for a [[currency]]  based on precious metals, espoused as [[sound-money]] in [[austrian-economics]].
+A monetary standard for a [currency](currency.md)  based on precious metals, espoused as [sound-money](sound-money.md) in [austrian-economics](austrian-economics.md).
 
 ## Criticisms
 
