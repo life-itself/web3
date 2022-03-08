@@ -210,7 +210,7 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 ---
 
-## What is blockchain/web3 etc
+## What is blockchain, web3, etc.
 
 Best intros/overviews of blockchain, crypto, web3 etc.
 
