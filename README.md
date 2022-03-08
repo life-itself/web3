@@ -200,7 +200,7 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 
 #### Buddhist
 
-* [Sujato Bhikkhu on Crypto](https://www.youtube.com/watch?v=CA_cfLqIkA0) by Sujato Bhikkhu - 2021-12-15 - A monk explains why crypto is incompatible with the teachings of the Buddha from both moral and spiritual dimensions.
+* [Sujato Bhikkhu on Crypto](https://www.youtube.com/watch?v=CA_cfLqIkA0) by Sujato Bhikkhu. A monk explains why crypto is incompatible with the teachings of the Buddha from both moral and spiritual dimensions.
 
 #### Christian
 
