@@ -1,5 +1,5 @@
 # Web3
-An umbrella marketing term for a variety of endeveaours to integrate [[cryptoasset]], [[nft]], [[dao]], [[defi]] and [[smart-contracts]] into existing internet infrastructure.
+An umbrella marketing term for a variety of endeveaours to integrate [cryptoasset](cryptoasset.md), [nft](nft.md), [dao](dao.md), [defi](defi.md) and [smart-contracts](smart-contracts.md) into existing internet infrastructure.
 
 ## Citations
 

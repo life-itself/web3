@@ -1,10 +1,10 @@
 # Smart Contracts
-A unit of programmable logic that is stored on a [[blockchain]] and executed as part of a [[consensus-algorithm]].
+A unit of programmable logic that is stored on a [blockchain](blockchain.md) and executed as part of a [consensus-algorithm](consensus-algorithm.md).
 
-## Examples:
+## Examples
 
 * ERC20
-* [[dao]]
-* [[ico]]
-* [[AMM]]
-* [[DEX]]
+* [dao](dao.md)
+* [ico](ico.md)
+* [AMM](AMM.md)
+* [DEX](DEX.md)

@@ -1,6 +1,6 @@
 # Introduction
 
-[[web3]] is a huge phenomenon but it can be hard to make sense of. We’re launching this collaborative initiative to address this. This page serves as a spine for all concepts related  to the topic.
+[web3](web3.md) is a huge phenomenon but it can be hard to make sense of. We’re launching this collaborative initiative to address this. This page serves as a spine for all concepts related  to the topic.
 
 ## Economics
 
@@ -28,6 +28,7 @@
 * [ransomware](ransomware.md)
 * [smart-contracts](smart-contracts.md)
 * [stablecoin](stablecoin.md)
+* [mining](mining.md)
 
 ## Regulation
 
@@ -37,9 +38,9 @@
 
 ## Ideologies
 
-* [market-fundamentalism](market-fundamentalism.md)
-* [austrian-economics](austrian-economics.md)
-* [libertarianism](libertarianism.md)
-* [technosolutionism](technosolutionism.md)
-* [keynsian-economics](keynsian-economics.md)
+* [market-fundamentalism](/ideologies/market-fundamentalism.md)
+* [austrian-economics](/ideologies/austrian-economics.md)
+* [libertarianism](/idelogies/libertarianism.md)
+* [technosolutionism](/ideologies/technosolutionism.md)
+* [keynsian-economics](/ideologies/keynsian-economics.md)
 
