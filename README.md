@@ -148,7 +148,13 @@ Non-fungible tokens.
 
 ### Humour
 
-* [Crypto Curious](https://www.youtube.com/watch?v=N8f-BQFo7lw) - 2021-12-21 SOUTH PARK on NFTs
+* [Crypto Curious](https://www.youtube.com/watch?v=N8f-BQFo7lw) - South Park on NFTs - 2021-12-21
+* [N-FT: Non-Functioning Tower](https://www.nonfunctioningtower.com) - NFT satire - 2022-03-07
+* [“a normal person explains cryptocurrency”](https://twitter.com/avalonpenrose/status/1473753174787772418) by Avalon Penrose - 2021-12-22
+* [“my crypto friend calls me every day and this is what he sound like”](https://www.youtube.com/watch?v=TUB9jgMuC7U) by Flula - 2021-02-22
+* [The Billion-Dollar Bitcoin Scam](https://www.youtube.com/watch?v=YCuGpfMSmck) - Ordinary Things - 2020-05-31 - “What is Bitcoin? Is Bitcoin a scam? And how did Bitcoin become what it is today? Who was the Dread Pirate Roberts and what happened to the Silk Road?”
+* [Cryptocurrencies: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=g6iDZspbRMg) - 2018-03-12
+* [Don’t Understand Bitcoin? This Man Will Mumble An Explanation At You](https://www.youtube.com/watch?v=4APcgsRdW6w) by ClickHole - 2015-07-7
 
 ### Twitter users
 
@@ -180,15 +186,21 @@ Whilst these users may not solely discuss crypto or web3, they do discuss it reg
 * [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm) - provides a high level overview of the current state of central bank and private sector currencies in the US, and identifies risks and challenges with the implementation of a central bank digital currency. From the paper summary: "The paper summarizes the current state of the domestic payments system and discusses the different types of digital payment methods and assets that have emerged in recent years, including stablecoins and other cryptocurrencies. It concludes by examining the potential benefits and risks of a CBDC, and identifies specific policy considerations."
 
 ### Trading/Market Microstructure/Security Risks
+
 * [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/abs/2101.05511) - Qin et al., 2021. Technical paper characterizing and quantifying miner extracted value on Ethereum's DeFi smart contracts.
 * [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/abs/2009.14021) - Zhou et al., 2020. Technical paper detailing the "front-running" that occurs on Ethereum.
 * [An Anatomy of Bitcoin Price Manipulation](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/) - Matt Ranger, 2022. Speculative analysis of centralized cryptocurrency exchange market data to support a price manipulation hypothesis.
 
-### Religious angles
+### Former bitcoin enthusiasts turned skeptics
+
+* [Money corrupts; bitcoin corrupts absolutely.](https://www.cynicusrex.com/file/cryptocultscience.html) by Angelino Desmet - 12-03-2021
+* [I wish I never bought bitcoin.](https://www.cynicusrex.com/file/greed.html) by Angelino Desmet - 01-06-2020
+
+### Religious skeptical angles
 
 #### Buddhist
 
-* [Sujato Bhikkhu on Crypto](https://www.youtube.com/watch?v=CA_cfLqIkA0) by Sujato Bhikkhu. A monk explains why crypto is compatible with the teachings of the Buddha from both moral and spiritual dimensions.
+* [Sujato Bhikkhu on Crypto](https://www.youtube.com/watch?v=CA_cfLqIkA0) by Sujato Bhikkhu - 2021-12-15 - “Bhante Sujato explains the moral failings at the heart of cryptocurrencies and allied tech like bitcoin, web3, NFTs, and trustless contracts. ”
 
 #### Christian
 
@@ -223,7 +235,7 @@ Here we collect the best theses for why this is important/interesting/world-chan
 
 ### Web3
 
-* [Sean Bonner: Why Web3](https://blog.seanbonner.com/2021/10/26/why-web3/) - 2021-10-26 - by Sean Bonner. "Web3 upends the power structures we’ve grown accustomed to and puts artists and creators back into the drivers seat. ,,, Web3 offers a future where people are in charge of their own identities, not beholden to the whims of data hoarding corporations. People control their own accounts, own their own futures. ... So if you are asking “Why Web3?” The answer is simple. Web3 is the future."
+* [Sean Bonner: Why Web3](https://blog.seanbonner.com/2021/10/26/why-web3/) - 2021-10-26 - by Sean Bonner. "Web3 upends the power structures we’ve grown accustomed to and puts artists and creators back into the drivers seat…Web3 offers a future where people are in charge of their own identities, not beholden to the whims of data hoarding corporations. People control their own accounts, own their own futures…So if you are asking “Why Web3?” The answer is simple. Web3 is the future."
 
 ### Fat protocols
 
@@ -274,12 +286,6 @@ Pros
 * [BanklessDAO: State of the DAOs #7: Social Tokens and the Future of Work](https://banklessdao.substack.com/p/state-of-the-daos-7-social-tokens) - 2022-01-13
 * [Scanning the European Ecosystem of Distributed Ledger Technologies for Social and Public Good](https://publications.jrc.ec.europa.eu/repository/handle/JRC121675) - Oct 2020 - by Samer Hassan and colleagues
   * Twitter thread: https://twitter.com/samerP2P/status/1317123399295041541
-
-
-### Former bitcoin enthusiasts turned skeptics
-
-* [Money corrupts; bitcoin corrupts absolutely.](https://www.cynicusrex.com/file/cryptocultscience.html) - 12-03-2021
-* [I wish I never bought bitcoin.](https://www.cynicusrex.com/file/greed.html) - 01-06-2020
 
 ### Other suggestions
 
