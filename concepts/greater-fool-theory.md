@@ -1,0 +1,2 @@
+# Greater Fool Theory
+

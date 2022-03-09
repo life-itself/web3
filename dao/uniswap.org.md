@@ -1,6 +1,6 @@
 # Uniswap
 
-Original and one of the largest [[AMM|Automated Market Maker]]s.
+Original and one of the largest [[concepts/AMM|Automated Market Maker]]s.
 
 ![](Pasted%20image%2020220130012621.png)
 

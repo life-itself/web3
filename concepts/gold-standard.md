@@ -16,4 +16,6 @@ Very few mainstream economists believe the gold standard to be a good way to run
 
 ## Essays
 
-1.  [Ben Bernanke|@bernanke_essays_2004]
+1.  [@bernanke_essays_2004]
+2. [@krishna_when_2017]
+3. 
