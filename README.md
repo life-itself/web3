@@ -76,6 +76,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   * [Economies of Scale in Peer-to-Peer Networks](https://blog.dshr.org/2014/10/economies-of-scale-in-peer-to-peer.html) - 2014-10-07. Network effects lead to centralization in p2p (e.g. Bitcoin) and no good way to mitigate this.
 * [Charlie Stross: Why I want Bitcoin to Die in Fire](https://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html) - 2013-12
 * [The Maltese Falcon](https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf) - critique of bitcoin and financial properties of crypto assets from the CIO of JP Morgan bank. 2021-02-10
+* [Vivaldi CEO: Why Vivaldi will never create ThinkCoin](https://vivaldi.com/blog/why-vivaldi-will-never-create-thinkcoin/) - 2022-01-13 - Jon von Tetzchner: “if you look beyond the hype, you’ll find nothing more than a pyramid scheme posing as currency.”
 
 ### Economists
 
@@ -273,7 +274,6 @@ History of speculation, manias, etc.
 This is a section for links that haven't yet been reviewed and/or allocated to a particular section.
 
 * https://the-crypto-syllabus.com/web3-a-map-in-search-of-territory/ - Jan 2022 - by Evgeny Morozov
-* [Vivaldi CEO: Why Vivaldi will never create ThinkCoin](https://vivaldi.com/blog/why-vivaldi-will-never-create-thinkcoin/) - 2022-01-13
 * [Proof of Work vs Proof of Stake, and the Stablecoin Centralization Problem](https://www.lynalden.com/proof-of-stake/) - good overview of PoW vs PoS and the complexity/problems PoS adds. Second half of the article expounds on how "any smart contract blockchain that relies heavily on DeFi for its use case, can have the outcome of its hard forks significantly determined by centralized stablecoin custodians." Long article and could fit under multiple headings here.
 * https://www.reddit.com/r/anticryptocurrency/ - reddit with a significant number of links
 * https://www.profgalloway.com/web3/ - 2022-01-15 - Prof Scott Galloway @ NYU. Unequal, focused on getting rich, facilitating crime, centralized
