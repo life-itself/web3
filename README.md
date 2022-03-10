@@ -157,6 +157,8 @@ Non-fungible tokens.
 * [The Billion-Dollar Bitcoin Scam](https://www.youtube.com/watch?v=YCuGpfMSmck) - Ordinary Things - 2020-05-31 - “What is Bitcoin? Is Bitcoin a scam? And how did Bitcoin become what it is today? Who was the Dread Pirate Roberts and what happened to the Silk Road?”
 * [Cryptocurrencies: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=g6iDZspbRMg) - 2018-03-12
 * [Don’t Understand Bitcoin? This Man Will Mumble An Explanation At You](https://www.youtube.com/watch?v=4APcgsRdW6w) by ClickHole - 2015-07-7
+* [If Cryptocurrency was Honest](https://www.youtube.com/watch?v=GUs5y9leCyA)
+* [If NFTs were Honest](https://www.youtube.com/watch?v=sG_v4bb2e4k)
 
 ### Twitter users
 

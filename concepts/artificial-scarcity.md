@@ -4,5 +4,5 @@ The abstract notion of creating an asset which has no physicality or underlying 
 
 Financial instruments like bonds, stocks and derivatives are not artificially scarce.
 
-Pseudo-assets like [nft](concepts/nft.md) are artificially scarce.
+Products like [cryptoasset](cryptoasset.md) and [nft](concepts/nft.md) are artificially scarce.
 

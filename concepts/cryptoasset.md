@@ -2,6 +2,8 @@
 
 A digital asset that is traded on a [[blockchain]].
 
+Crypto assets have no [use-value](use-value.md), no [fundamental-value](fundamental-value.md), and no [income-cashflows](income-cashflows.md) and are a pure manifestation of the [greater-fool-theory](greater-fool-theory.md).
+
 ## Comparables
 
 * Zero-coupon perpetual bond

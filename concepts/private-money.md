@@ -2,7 +2,7 @@
 
 A [currency](concepts/currency.md) issued by a private party instead of a nation state.
 
-## American Wildcats
+## American Wildcat Banks
 
 ## Scottish Bank Notes
 

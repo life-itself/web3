@@ -14,3 +14,4 @@ An economic bubble is a phenomenon in markets created by herd mentality, whereby
 ## References
 
 * [@mackay_extraordinary_2012]
+* [@bernstein_delusions_2021]
