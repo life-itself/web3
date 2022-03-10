@@ -1,6 +1,6 @@
 # Private Money
 
-A [currency](concepts/currency.md) issued by a private party instead of a nation state.
+A [currency](concepts/currency.md) issued by a private party instead of a nation state or [central-banks](central-banks.md).
 
 ## American Wildcat Banks
 
