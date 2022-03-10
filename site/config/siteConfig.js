@@ -8,7 +8,7 @@ const siteConfig = {
   // url to author
   authorUrl: 'https://lifeitself.us/',
   // Google analytics key e.g. G-XXXX
-  analytics: '',
+  analytics: 'G-9DL50W4DN9',
   // optional additional nextSeo content set on each page
   // see https://github.com/garmeeh/next-seo
 //  nextSeo: {
