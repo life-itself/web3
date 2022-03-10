@@ -1,6 +1,6 @@
 # DEX = Decentralized EXchange
 
-Order-book based but p2p (i.e. without market makers). This contrasts with [[concepts/AMM]] (automated market makers) who don't have an order book.
+Order-book based but p2p (i.e. without market makers). This contrasts with [[amm]] (automated market makers) who don't have an order book.
 
 ## Limitations
 

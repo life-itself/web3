@@ -12,4 +12,5 @@ A [currency](concepts/currency.md) issued by a private party instead of a nation
 
 ## References
 
-* 
+* [@gorton_taming_2021]
+* [@hockett_moneys_2019]

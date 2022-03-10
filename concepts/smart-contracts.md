@@ -5,6 +5,6 @@ A unit of programmable logic that is stored on a [blockchain](blockchain.md) and
 
 * [dao](dao.md)
 * [ico](ico.md)
-* [AMM](concepts/AMM.md)
-* [DEX](concepts/DEX.md)
+* [amm](amm.md)
+* [dex](dex.md)
 * ERC20

@@ -1,5 +1,5 @@
 # Central Bank Digital Currency
-A digital currency issued by a [central-banks](concepts/central-banks.md).
+A digital currency issued by a [central-banks](central-banks.md).
 
 ## Examples
 
