@@ -1,0 +1,2 @@
+# Market
+A market is defined as the sum total of all the buyers and sellers with regards to the buying and selling of assets. The purpose of a market is to do price discovery to determine [market-value](market-value.md) of goods and services.
