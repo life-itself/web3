@@ -7,13 +7,13 @@ export function Hero() {
             <div className="lg:py-24">
               <h1 className="mt-4 text-4xl tracking-tight font-extrabold text-white sm:mt-5 sm:text-6xl lg:mt-6 xl:text-6xl">
                 <span className="block">Making Sense of</span>
-                <span className="block text-yellow-500">Web3 &amp; Crypto</span>
+                <span className="block text-yellow-500">Crypto &amp; Web3</span>
               </h1>
               <p className="mt-3 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                Web3 is a huge phenomenon but it can be hard to make sense of. We're here to help with introductions to key concepts and in-depth exploration of the claims for its concrete social and economic impact.
+                Crypto & Web3 are a huge phenomenon but can be hard to make sense of. We help with introductions to key concepts and in-depth evaluations of the claims for its social and economic impact.
               </p>
               <div className="mt-10 sm:mt-12">
-                <form action="#" className="sm:max-w-xl sm:mx-auto lg:mx-0">
+                <form className="sm:max-w-xl sm:mx-auto lg:mx-0" name="get-updates" data-netlify="true">
                   <div className="sm:flex">
                     <div className="min-w-0 flex-1">
                       <label htmlFor="email" className="sr-only">
