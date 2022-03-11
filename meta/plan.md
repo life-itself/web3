@@ -1,5 +1,7 @@
 # Plan
 
+High level plan is given by issue tree: https://docs.google.com/spreadsheets/d/12Yh1kuxH4uoposLUJsJifM2W_zixkAhlc7QgcKavfls/edit#gid=2049708942
+
 # Goals
 
 Features
@@ -26,9 +28,7 @@ Features
 ## Fri 11 March
 
 * [ ] [website-v0.1](projects/website-v0.1.md)
-* [ ] Launch DEFERRED to next week
-  * [ ] Announce on Emerge
-  * [ ] Announce on Life Itself
+* [ ] [announce-v0.1](projects/announce-v0.1.md) DEFERRED to next week
 
 # Workstreams
 
@@ -45,23 +45,16 @@ Features
   * [x] Tidy up main issue tree **✅2022-02-28 largely done today - last branch in main issue tree on collective sensemaking still needs some work**
   * [x] Transfer to spreadsheet and add details e.g. material needed, prioritization 
 * [ ] Publish issue trees
-* [ ] Reports - write up well with good referencing [aside: how easy is it to pdf in “proper” format via Git e.g. like the primers one]
-* [ ] Publishing an announce/intro piece on e.g. Emerge
-  * [ ] BONUS: (or 2nd article) is about this an exemplar for collective sense-making in a “time between worlds”
-* [ ] ⏫ What material do we already have ...? **🏃‍♂️ 4 interviews, SCQH ...**
+* [ ] Reports - write up well with good referencing [aside: how easy is it to pdf in "proper" format via Git e.g. like the primers one]
 * [ ] ➕2022-02-26 What we are bringing / aiming for (and what’s distinctive about this approach)
   * [ ] Write up our approach to sensemaking and why it matters (write up existing notes into a coherent essay)
-    * [ ] Interview Rufus and/or Stephen to clarify what’s the challenge in the sensemaking
 
-## Things to merge from old brainstorm
+# Inbox
 
-* [ ] Announcement post
-  * [ ] Publishing an intro piece on Emerge: Announcing the initiative (just turn SCQH into that …)
-  * [ ] BONUS: (or 2nd article) is about this an exemplar for collective sense-making in a “time between worlds”
 * [ ] Clear pathway for involvement (Job stories)
 * [ ] Where do we publish the original SCQH so that we can link others to it
   * [ ] Do we need it given we have the tidied version in about page?
   * [ ]  Reports - write up well with good referencing [aside: how easy is it to pdf in “proper” format via Git e.g. like the primers one]
-* [ ] Engagement and signups
-  * [ ] 👍👍 Sign up to get updates / news …
-  * [ ]  Subscribe to our youtube channel
+* [ ] ➕2022-03-11 Set up sponsorship for the project
+  * [ ] Identify a platform to get sponsored through (github or opencollective or ...)
+  * [ ] (?) Set up github sponsors for Life Itself

@@ -1,0 +1,3 @@
+* What are the various claims for web3/crypto (+ve or -ve) and their constructive evaluation so that as individuals and societies we make good choices whether to support, improve or curb it as well as to allocate our resources (attention, energy, money) effectively, and, finally this is happens in as a constructive, intersectional and depolarizing way as possible?
+  * What are the key high level problems / aspirations / hopes that crypto / web3 movement talks to?
+  * What is our evaluation? How does crypto/web3 hope to address that, what risks are there and how else can we address them?

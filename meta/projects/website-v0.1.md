@@ -21,9 +21,14 @@ Mockup of home page (design): https://excalidraw.com/#room=8bc8a0afb0afc89015dc,
   * [x] Guide section
   * [x] Library section
   * [ ] About the project
+  * [ ] Get Involed
 * [x] About page **✅ with SCQH**
 * [ ] Library page
 * [ ] ⏫ Sign up to get updates / news …
+* [ ] Misc
+  * [x] ⏫ Analytics
+  * [ ] Navbar
+  * [ ] Footer
 
 Bonus
 
@@ -37,9 +42,6 @@ Bonus
 * [ ] Library page
 * [ ] Guide page
 * [ ] Notes section (wiki)
-* [ ] Misc
-  * [x] ⏫ Analytics
-  * [ ] Navbar
 
 ### Home Page
 
