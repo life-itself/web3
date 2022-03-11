@@ -13,7 +13,7 @@ export function Hero() {
                 Crypto & Web3 are a huge phenomenon but can be hard to make sense of. We help with introductions to key concepts and in-depth evaluations of the claims for its social and economic impact.
               </p>
               <div className="mt-10 sm:mt-12">
-                <form className="sm:max-w-xl sm:mx-auto lg:mx-0" name="get-updates" data-netlify="true">
+                <form className="sm:max-w-xl sm:mx-auto lg:mx-0" method="POST" name="get-updates" data-netlify="true" action="/subscribed">
                   <div className="sm:flex">
                     <div className="min-w-0 flex-1">
                       <label htmlFor="email" className="sr-only">
