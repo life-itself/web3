@@ -14,11 +14,27 @@ const withMDX = withMDXImp({
     providerImportSource: "@mdx-js/react",
   },
 })
-export default withMDX({
+
+
+const config = {
   // Append the default value with md extensions
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
   webpack: (config, { buildId, dev }) => {
     config.resolve.symlinks = false
     return config
   }
-})
+}
+
+const rewrites = async () => {
+    return [
+      {
+        source: '/concepts/:page(.md)',
+        destination: '/concepts/:page',
+      },
+    ]
+}
+
+
+module.exports = {
+  withMDX(rewrites(config))
+}
