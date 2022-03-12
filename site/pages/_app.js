@@ -6,6 +6,7 @@ import { ThemeProvider } from 'next-themes'
 
 import '../styles/global.css'
 import siteConfig from '../config/siteConfig.js'
+import nextConfig from '../config/next.config.js'
 import Layout from '../components/Layout'
 import MdxPage from '../components/MDX'
 import * as gtag from '../lib/gtag'
