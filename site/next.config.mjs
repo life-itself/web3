@@ -35,6 +35,4 @@ const rewrites = async () => {
 }
 
 
-module.exports = {
-  withMDX(rewrites(config))
-}
+export default withMDX(rewrites(config))

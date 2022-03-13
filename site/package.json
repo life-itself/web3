@@ -10,6 +10,7 @@
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.4",
     "@mdx-js/loader": "^2.0.0",
+    "@mdx-js/react": "^2.0.0",
     "@next/mdx": "^12.1.0",
     "@silvenon/remark-smartypants": "^1.0.0",
     "@tailwindcss/typography": "^0.5.2",
