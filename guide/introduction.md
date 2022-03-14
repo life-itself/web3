@@ -42,7 +42,7 @@ Understand the terminology used to describe crypto and web3.
 
 Understand Web3 in terms of recent news events and interviews.
 
-* [interviews](interviews.md)
+* [interviews](interviews)
 * [claims](claims.md)
 * [recent-events](recent-events.md)
 

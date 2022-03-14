@@ -1,3 +1,2 @@
 # Asymmetric Information
-
-#todo 
+Information asymmetry is a condition in [price-formation](price-formation.md) and economics transactions where one party has more or better information than the other. This asymmetry creates an imbalance of power in transactions. This can lead to [moral-hazard](moral-hazard.md) or entire [markets](market.md) to be inefficient.
