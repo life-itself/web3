@@ -57,10 +57,11 @@ General concepts of project management
     * [ ] Job Stories 
     * [x] Key claims list ✅ **Processed to coggle claims taxonomy and deleted**
     * [x] Key aspirations ✅ **Processed to coggle and deleted**
-* [ ] Read meta folder https://github.com/life-itself/web3/tree/main/meta
-  * [ ] plan
-  * [ ] design
-* [ ] Read issue tree https://docs.google.com/spreadsheets/d/12Yh1kuxH4uoposLUJsJifM2W_zixkAhlc7QgcKavfls/edit#gid=2049708942
+* [x] Read meta folder https://github.com/life-itself/web3/tree/main/meta **✅ Read it**
+  * [x] plan **✅ Read it**
+  * [x] design **✅ Read it**
+* [x] Read issue tree https://docs.google.com/spreadsheets/d/12Yh1kuxH4uoposLUJsJifM2W_zixkAhlc7QgcKavfls/edit#gid=2049708942 ✅ **have read through issue tree, next action is to add in answers**
+* [ ]  fill in issue tree answers
 
 ## Brainstorm and Organize Plan
 
@@ -92,7 +93,7 @@ Currently have 4 locations for claims. We want to consolidate on one.
   * [x] Choose location for overall list ✅ **Consolidate on coggle https://coggle.it/diagram/YhTzF8ZnKihmLdpm/t/web3-taxonomy-of-aspirations-and-claims (for now as of 2022-03-10) as the best version. Next would be to converge with wiki**
   * [x] Move brainstorm of aspirations/claims from gdocs to the coggle ✅ **there was only fairer and stable economy section and most already there so not much to move. Have deleted from gdocs**
   * [x] Move from apirations & claims spreadsheet **✅ All already there**
-  * [ ] Consolidate wiki list https://github.com/life-itself/web3/tree/main/claims to coggle
+  * [x] Consolidate wiki list https://github.com/life-itself/web3/tree/main/claims to coggle
     * [ ] 
 * [x] Consolidate on a page on the wiki as focal location
   * [x] Create the index page
