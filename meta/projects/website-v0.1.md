@@ -21,13 +21,13 @@ Mockup of home page (design): https://excalidraw.com/#room=8bc8a0afb0afc89015dc,
   * [x] Guide section
   * [x] Library section
   * [ ] About the project
-  * [ ] Get Involed
+  * [x] Contribute
 * [x] About page **✅ with SCQH**
-* [ ] Library page
-* [ ] ⏫ Sign up to get updates / news …
+* [x] Library page
+* [x] ⏫ Sign up to get updates / news …
 * [ ] Misc
   * [x] ⏫ Analytics
-  * [ ] Navbar
+  * [x] Navbar
   * [ ] Footer
 
 Bonus
@@ -38,8 +38,8 @@ Bonus
 
 ## Tasks
 
-* [ ] Home page - see below
-* [ ] Library page
+* [x] Home page - see below
+* [x] Library page
 * [ ] Guide page
 * [ ] Notes section (wiki)
 
@@ -47,16 +47,16 @@ Bonus
 
 * [ ] Hero
   * [x] Layout
-  * [ ] Fix "get updates"
-    * [ ] EITHER: Remove "Get updates" & replace with CTA OR keep Get Updates using netlify form support => Choose what to do
-    * [ ] Do it 
+  * [x] Fix "get updates"
+    * [x] EITHER: Remove "Get updates" & replace with CTA OR keep Get Updates using netlify form support => Choose what to do **✅ trying out netlify forms https://docs.netlify.com/forms/setup/ docs**
+    * [x] Do it **✅2022-03-14 trying it out and seems to be working**
 * [ ] Latest releases
   * [x] Working
   * [ ] Replace images either with YouTube video embed or the thumbnail image (?) @eilidh
 * [x] Guide section
   * [ ] Needs longer text
 * [x] Library section
-  * [ ] Image needs changing. **[new image link](https://res.cloudinary.com/ds7qslkd0/image/upload/v1646739680/Web3/undraw_bibliophile_re_xarc_ssxnqe.svg )**
+  * [x] Image needs changing. **✅ DONE [new image link](https://res.cloudinary.com/ds7qslkd0/image/upload/v1646739680/Web3/undraw_bibliophile_re_xarc_ssxnqe.svg )**
 * [ ] Why the project
 * [ ] Get involved (front page)
 
@@ -64,33 +64,29 @@ Bonus
 
 Acceptance
 
-* [ ] `/library` landing page exists
-* [ ] brief overview
-* [ ] links to zotero
-* [ ] Also explanation of how to contribute incl organizational structure
+* [x] `/library` landing page exists
+* [x] brief overview
+* [x] links to zotero
+* [x] Also explanation of how to contribute incl organizational structure **🏃<U+200D>♂️ Done the first part and need to migrate the rest of the library contribute guide doc @eilidhross1**
 
 Tasks
 
 * [x] Basic text for library page e.g. what, etc **✅ Eilidh written. Can be found [here](https://docs.google.com/document/d/1CtQ5KsdicM_d4oI-Px7DZRls6OwxeBozVO3vgiXw7m8/edit#)**
-* [ ] Link or embed the full library
+* [x] Link or embed the full library
 
 ### Guide
 
 plan of content https://coggle.it/diagram/YidoEewvuAnxT9LA/t/web3-crypto-guide-toc
 
-* [ ] Stub `/guide/` page and could reuse quite a bit of about as introduction
+* [x] Stub `/guide/` page and could reuse quite a bit of about as introduction
 
-### Get involved `/get-involved/`
+### Contribute `/contribute/`
 
-* Developers => contribute on github
-* Non-developers
-  * Researchers / academics etc
-    * Contribute to the library, for example by adding articles and research on web3 and background topics.
-    * Write up key concepts and ideas.
-    * Proof edit articles and transcribe dialogs.
-* General: check out our videos and resources
-  * Share the work with others
-* Feedback: share it on the discussions
+* [x] Developers => contribute on github
+* [x] Non-developers
+  * [x] Researchers / academics etc
+* [x] General: check out our videos and resources and Share the work with others
+* [x] Feedback: share it on the discussions
 
 ### Inbox
 
