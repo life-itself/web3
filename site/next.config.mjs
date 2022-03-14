@@ -22,17 +22,8 @@ const config = {
   webpack: (config, { buildId, dev }) => {
     config.resolve.symlinks = false
     return config
-  }
-}
-
-const rewrites = async () => {
-    return [
-      {
-        source: '/concepts/:page(.md)',
-        destination: '/concepts/:page',
-      },
-    ]
+  },
 }
 
 
-export default withMDX(rewrites(config))
+export default withMDX(config)
