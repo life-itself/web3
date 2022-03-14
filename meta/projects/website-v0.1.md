@@ -56,7 +56,7 @@ Bonus
 * [x] Guide section
   * [ ] Needs longer text
 * [x] Library section
-  * [ ] Image needs changing
+  * [ ] Image needs changing. **[new image link](https://res.cloudinary.com/ds7qslkd0/image/upload/v1646739680/Web3/undraw_bibliophile_re_xarc_ssxnqe.svg )**
 * [ ] Why the project
 * [ ] Get involved (front page)
 
@@ -71,7 +71,7 @@ Acceptance
 
 Tasks
 
-* [ ] Basic text for library page e.g. what, etc
+* [x] Basic text for library page e.g. what, etc **✅ Eilidh written. Can be found [here](https://docs.google.com/document/d/1CtQ5KsdicM_d4oI-Px7DZRls6OwxeBozVO3vgiXw7m8/edit#)**
 * [ ] Link or embed the full library
 
 ### Guide
