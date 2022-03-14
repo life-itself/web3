@@ -25,6 +25,7 @@ export function Hero() {
                         placeholder="Enter your email"
                         className="block w-full px-4 py-3 rounded-md border-0 text-base text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900"
                       />
+                      <input type="hidden" name="form-name" value="get-updates" />
                     </div>
                     <div className="mt-3 sm:mt-0 sm:ml-3">
                       <button
