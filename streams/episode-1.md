@@ -2,7 +2,12 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_o7pRFLzJHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In Episode 1 of the series, Rufus Pollock and Stephen Diehl discuss the Neo-Metallist perspective on bitcoin and the concept of "digital" gold.
+
+In Episode 1 of the series, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on bitcoin and the concept of "digital" gold.
+
+## Topic
+
+[new-gold](../claims/new-gold.md)
 
 ## Concepts Covered
 
@@ -24,6 +29,9 @@ In Episode 1 of the series, Rufus Pollock and Stephen Diehl discuss the Neo-Meta
 * [value](../concepts/value.md)
 * [zero-sum-game](../concepts/zero-sum-game.md)
 
+## Summary
+#todo 
+
 ## References
 
 1. [@taleb_bitcoin_2021-1]
@@ -31,3 +39,4 @@ In Episode 1 of the series, Rufus Pollock and Stephen Diehl discuss the Neo-Meta
 3. [@golumbia_bitcoin_2015]
 4. [@caferra_bitcoin_2021]
 5. [@qin_bitcoins_2020]
+6. [@bernanke_essays_2004]

@@ -1,1 +1,1 @@
-# Are crypto assets a risk to the state?
+# Crypto assets pose a risk to the state

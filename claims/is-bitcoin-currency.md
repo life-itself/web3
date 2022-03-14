@@ -1,2 +1,2 @@
-# Can Bitcoin function as a currency?
+# Bitcoin can funtion as a currency
 

@@ -1,2 +1,2 @@
-# Are Crypto Assets Predatory Investments?
+# Crypto assets are predatory investments
 

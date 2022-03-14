@@ -1,1 +1,1 @@
-# Are crypto assets legal?
+# Crypto assets are legal

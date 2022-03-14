@@ -5,7 +5,7 @@ Comparison of different asset classes.
 
 |           | Monetary | Deflationary | Use Value | Fundamental Value | Income | Productive | Security | Speculative |
 | --------- | ----- | ------------ | --------- | ----------------- | ------ | ---------- | -------- | -----------  |
-| Currency  | ✔️    | ❌           | ✔️        | ❌                | ❌     | ❌         | ❌       | ❌          
+| Currency  | ✔️    | ❌           | ❌        | ❌                | ❌     | ❌         | ❌       | ❌          
 | Stock     | ❌    | ❌           | ❌        | ✔️                | ✔️     | ✔️         | ✔️       | ✔️             
 | Bond      | ❌    | ❌           | ❌        | ✔️                | ✔️     | ❌         | ✔️       | ❌           
 | Bitcoin   | ❌    | ✔️           | ❌        | ❌                | ❌     | ❌         | ✔️       | ✔️            

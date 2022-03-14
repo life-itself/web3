@@ -8,7 +8,7 @@ Often resonates with advocacy for the [gold-standard](../concepts/gold-standard.
 
 ## Prominent Thinkers
 
-* Murry Rothbard
+* Murry Rothbards
 * Ludwig von Mises
 * Friedrich Hayek
 * Saifedean Ammous
