@@ -1,1 +1,1 @@
-# Is Proof of Work  Harmful to the Environment?
+# Proof of Work Mining is Harmful to the Environment

@@ -1,2 +1,2 @@
-## Technosolutionism
+# Technosolutionism
 

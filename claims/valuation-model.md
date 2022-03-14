@@ -1,3 +1,3 @@
-# How do we value a crypto token?
+# Crypto tokens have a verifiable valuation model
 
 [fundamental-value](../concepts/fundamental-value.md)

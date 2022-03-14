@@ -5,6 +5,10 @@
 
 In Episode 2 of the series, Rufus Pollock and Stephen Diehl discuss the market fundamentalism perspective on crypto assets and the perspective on crypto assets from the perspective of day traders to quantitative hedge funds.
 
+## Topic
+
+[market-fundamentalism](../ideologies/market-fundamentalism.md)
+
 ## Concepts Covered
 
 * [artificial-scarcity](../concepts/artificial-scarcity.md)
@@ -39,6 +43,9 @@ In Episode 2 of the series, Rufus Pollock and Stephen Diehl discuss the market f
 * [valuation-model](../claims/valuation-model.md)
 * [wash-trading](../concepts/wash-trading.md)
 * [zero-sum-game](../concepts/zero-sum-game.md)
+
+## Summary
+#todo 
 
 ## References
 
