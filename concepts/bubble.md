@@ -16,6 +16,8 @@ Attempting to time the market on bubbles is a [zero-sum-game](zero-sum-game.md) 
 
 ## References
 
+
+
 * [@mackay_extraordinary_2012]
 * [@bernstein_delusions_2021]
 * [@blanchard_bubbles_1982]
