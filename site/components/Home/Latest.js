@@ -5,8 +5,7 @@ const posts = [
     href: 'https://www.youtube.com/watch?v=K5JtPTyc0y0',
     category: { name: 'Video', href: '#' },
     description: 'In this episode we discuss the view that crypto are just risky assets and unfettered and unregulated financial markets are desirable.',
-    imageUrl:
-      'https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80',
+    imageUrl: 'https://res.cloudinary.com/ds7qslkd0/image/upload/v1647344961/Web3/Market_Fundamentalism_Thumbnail_nn19qa.png'
   },
   {
     title: 'On the Potential of DAOs & Web3 with Jordan Hall',
@@ -14,8 +13,7 @@ const posts = [
     category: { name: 'Video', href: '#' },
     description: 'In this episode with Jordan Hall we discuss the potential of DAOs and Web3 for social change.',
     datetime: '2022-03-01',
-    imageUrl:
-      'https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80',
+    imageUrl: 'https://res.cloudinary.com/ds7qslkd0/image/upload/v1647344961/Web3/Potential_of_DAOs_Thumb_ko4vpa.png'
   },
   {
     title: 'Web3, Bitcoin & Neo-Metallism',
@@ -23,8 +21,7 @@ const posts = [
     category: { name: 'Video', href: '#' },
     description: 'In this episode we examine Bitcoin and the Neo-Metallist thesis i.e. that a gold-standard was a good idea and a Bitcoin-standard would be even better.',
     datetime: '2022-02-17',
-    imageUrl:
-      'https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80',
+    imageUrl: 'https://res.cloudinary.com/ds7qslkd0/image/upload/v1647344961/Web3/Neo-metallism_Thumb_vo3dhs.png',
   },
 ]
 
