@@ -24,6 +24,8 @@ Understand the terminology used to describe crypto and web3.
 
 ### Claims
 
+Explore web3 in terms of the claims of its 
+
 1. [Is bitcoin a currency?](/claims/is-bitcoin-currency.md)
 2. [What type of asset is a crypto token?](/claims/what-type-of-asset.md)
 3. [How do we value a crypto token?](/claims/valuation-model.md)
@@ -42,10 +44,12 @@ Understand the terminology used to describe crypto and web3.
 
 Understand Web3 in terms of recent news events and interviews.
 
-* [interviews](interviews)
-* [recent-events](recent-events.md)
+* [interviews](/guide/interviews)
+* [recent-events](/notes/recent-events.md)
 
-## Idealogies
+## Ideologies
+
+Understand Web3 in terms of different perspectives on politics and economics.
 
 * [market-fundamentalism](../concepts/ideologies/market-fundamentalism.md)
 * [austrian-economics](../concepts/ideologies/austrian-economics.md)
@@ -59,35 +63,35 @@ Explore the deeper theoretical concepts behind the technical and economic claims
 
 **Economics**
 
-* [artificial-scarcity](artificial-scarcity.md)
-* [asymmetric-information](asymmetric-information.md)
-* [central-banks](central-banks.md)
-* [currency](currency.md)
-* [currency-peg](currency-peg.md)
-* [free-rider-problem](free-rider-problem.md)
-* [gold-standard](gold-standard.md)
-* [market-manipulation](market-manipulation.md)
-* [moral-hazard](moral-hazard.md)
-* [public-goods-problem](public-goods-problem.md)
-* [zero-sum-game](zero-sum-game.md)
+* [artificial-scarcity](/concepts/artificial-scarcity.md)
+* [asymmetric-information](/concepts/asymmetric-information.md)
+* [central-banks](/concepts/central-banks.md)
+* [currency](/concepts/currency.md)
+* [currency-peg](/concepts/currency-peg.md)
+* [free-rider-problem](/concepts/free-rider-problem.md)
+* [gold-standard](/concepts/gold-standard.md)
+* [market-manipulation](/concepts/market-manipulation.md)
+* [moral-hazard](/concepts/moral-hazard.md)
+* [public-goods-problem](/concepts/public-goods-problem.md)
+* [zero-sum-game](/concepts/zero-sum-game.md)
 
 **Technology**
 
-* [blockchain](blockchain.md)
-* [cryptoasset](cryptoasset.md)
-* [defi](defi.md)
-* [decentralization](decentralization.md)
-* [ico](ico.md)
-* [nft](nft.md)
-* [ransomware](ransomware.md)
-* [smart-contracts](smart-contracts.md)
-* [stablecoin](stablecoin.md)
-* [mining](mining.md)
-* [cbdc](cbdc.md)
+* [blockchain](/concepts/blockchain.md)
+* [cryptoasset](/concepts/cryptoasset.md)
+* [defi](/concepts/defi.md)
+* [decentralization](/concepts/decentralization.md)
+* [ico](/concepts/ico.md)
+* [nft](/concepts/nft.md)
+* [ransomware](/concepts/ransomware.md)
+* [smart-contracts](/concepts/smart-contracts.md)
+* [stablecoin](/concepts/stablecoin.md)
+* [mining](/concepts/mining.md)
+* [cbdc](/concepts/cbdc.md)
 
 **Regulation**
 
-* [security](security.md)
-* [aml](aml.md)
-* [kyc](kyc.md)
+* [security](/concepts/security.md)
+* [aml](/concepts/aml.md)
+* [kyc](/concepts/kyc.md)
 
