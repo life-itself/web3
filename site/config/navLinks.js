@@ -1,7 +1,8 @@
 const navLinks = [
   { href: '/about', name: 'About' },
-  { href: '/library', name: 'Library' },
+  { href: '/guide', name: 'Guide' },
   { href: '/claims', name: 'Claims' },
+  { href: '/library', name: 'Library' },
   { href: '/contribute', name: 'Contribute' },
 ]
 

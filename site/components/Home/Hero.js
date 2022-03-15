@@ -1,3 +1,5 @@
+import siteConfig from 'config/siteConfig'
+
 export function Hero() {
   return (
     <div className="pt-10 sm:pt-16 lg:pt-8 lg:pb-14 lg:overflow-hidden">
@@ -38,6 +40,20 @@ export function Hero() {
                   </div>
                 </form>
               </div>
+              <p className="mt-3 text-sm text-gray-300 sm:mt-4">
+                Get short updates as we release new material or review important developments.
+              </p>
+              <p className="mt-8 text-sm text-white uppercase tracking-wide font-semibold sm:mt-10">A project of
+                <a
+                  href={siteConfig.authorUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src={siteConfig.authorLogo} alt={siteConfig.author} className="mx-1 h-6 inline" />
+                  Life Itself Labs
+                </a>
+                {' '} &amp; collaborators
+              </p>
             </div>
           </div>
           <div className="mt-12 -mb-16 sm:-mb-48 lg:m-0 lg:relative">
