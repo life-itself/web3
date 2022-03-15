@@ -6,9 +6,9 @@ High level plan is given by issue tree: https://docs.google.com/spreadsheets/d/1
 
 Features
 
-* **MMVP website up** so that we can share with people
-  * with a signup offer
-  * with a participate offer?
+* [x] **MMVP website up** so that we can share with people
+  * [x] with a signup offer
+  * [x] with a participate offer?
 * **Announced e.g. on Emerge, Blog etc** so that more people find out about this, & we have articulated the purpose of the project clearly
 * **About the project (? + thesis of structured sensemaking)** so that we can share about the project to others esp more in depth
 * **Library (based on Zotero)** so that we have a place to collect the upper layer of the sensemaking info graph
@@ -18,7 +18,7 @@ Features
 
 ## Milestones (WIP)
 
-* [ ] v0.1: single page site for the project, vision for the project
+* [x] v0.1: single page site for the project, vision for the project
 * [ ] v0.2: Working wiki + 1 substantive essay
 * [ ] v0.3: ...
 * [ ] v1: website with integrated library and wiki. contribution flow.
@@ -27,7 +27,7 @@ Features
 
 ## Fri 11 March
 
-* [ ] [website-v0.1](projects/website-v0.1.md)
+* [x] [website-v0.1](projects/website-v0.1.md)
 * [ ] [announce-v0.1](projects/announce-v0.1.md) DEFERRED to next week
 
 # Workstreams

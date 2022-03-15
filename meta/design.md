@@ -19,19 +19,47 @@ v0.1 Wireframe
 
 # Content Plan (and Info Architecture)
 
-Excalidraw: https://excalidraw.com/#room=77b4b0841586502dc440,OS7tGXbkYEf_W5Lgu8PflA
+![content-architecture-2022-03-15.excalidraw](../excalidraw/content-architecture-2022-03-15.excalidraw.svg)
 
-![image](https://user-images.githubusercontent.com/180658/156899884-8b120c6d-fc15-486a-9766-cddc687c09f2.png)
-
+Excalidraw version: https://excalidraw.com/#room=77b4b0841586502dc440,OS7tGXbkYEf_W5Lgu8PflA
 
 * Guide `/guide/`: 
-* Claims or Theses `/claims/`: TODO better name for this
+* Claims `/claims/`: TODO better name for this
 * Notes `/notes/`
 * Concepts `/concepts/`: set of key concepts
 * Library `/library`: 
 
-
 Currently have `ideologies` folder too. I wonder if we merge into notes.
+
+## Journey as a user ...
+
+* SD links a journalist to the library or a specific concept
+* I want an intro to web3 & crypto ... => /guide/
+
+and then i'm reading it and it links out to other material
+
+Collections we want to curate
+
+- Deep Dives
+- Claims
+- Concepts
+
+Types of thing in the space
+
+- DAO
+- Tokens
+- Crypto Assets
+- ICOs
+- People
+
+Conceptual
+
+- Web3
+- Crypto
+
+Flow / UI
+
+- Featured / Blog
 
 
 # Issue Tree
