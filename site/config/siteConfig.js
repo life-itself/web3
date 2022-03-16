@@ -22,8 +22,13 @@ const siteConfig = {
           type: 'image/jpg',
         }
       ]
+    },
+    twitter: {
+      handle: '@forlifeitself',
+      site: 'web3.lifeitself.us',
+      cardType: 'summary_large_image',
     }
-  }
+  },
 }
 
 module.exports = siteConfig
