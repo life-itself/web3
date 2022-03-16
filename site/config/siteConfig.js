@@ -1,5 +1,5 @@
 const siteConfig = {
-  title: 'Making Sense of Crypto & Web3',
+  title: 'Making Sense of Crypto and Web3',
   tagline: '',
   description: 'Introductions to key concepts and ideas in crypto and web3. Plus in-depth evaluation of its potential impact.',
   author: 'Life Itself and collaborators',
