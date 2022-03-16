@@ -1,7 +1,7 @@
 const siteConfig = {
   title: 'Making Sense of Crypto & Web3',
   tagline: '',
-  description: 'Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of main claims pro and con. A look at the deeper hopes and aspirations.',
+  description: 'Introductions to key concepts and ideas in crypto and web3. Plus in-depth evaluation of its potential impact.',
   author: 'Life Itself and collaborators',
   // logo image
   authorLogo: '/img//life-itself-logo.svg',
