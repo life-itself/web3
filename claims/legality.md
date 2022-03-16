@@ -1,1 +1,2 @@
 # Crypto assets are legal
+Crypto assets are unlicensed [security](../concepts/security.md) contracts for unregulated [speculative](../concepts/speculation.md) investments. The legality of this depends on jurisdiction. 

@@ -15,12 +15,15 @@ Understand the terminology used to describe crypto and web3.
 * [bitcoin](/concepts/bitcoin.md)
 * [ethereum](/concepts/ethereum.md)
 * [blockchain](/concepts/blockchain.md)
-* [currency](/concepts/currency.md)
+* [money](/concepts/money.md)
+* [sound-money](../concepts/sound-money.md)
+* [deflationary](../concepts/deflationary.md)
 * [assets](/concepts/assets.md)
 * [speculative asset](/concepts/speculation.md)
 * [crypto-exchange](/concepts/crypto-exchange.md)
 * [bubble](/concepts/bubble.md)
 * [dao](/concepts/dao.md)
+* [private-money](../concepts/private-money.md)
 
 ### Claims
 
@@ -31,16 +34,17 @@ Explore web3 in terms of the claims of its
 3. [How do we value a crypto token?](/claims/valuation-model.md)
 4. Are crypto assets a systemic risk to the economy?
 5. Are cryptoassets are being used to build a new internet?
-6. Are crypto tokens a negative-sum investment?
+6. [Are crypto tokens a negative-sum investment?](/claims/negative-sum.md)
 7. Are crypto tokens a predatory investment?
 8. Is bitcoin the basis for a new gold standard?
 9. Is bitcoin mining harmful to the environment?
 10. Are crypto assets a risk to the state?
-11. Are crypto assets legal?
-12. Is crypto a solution for the unbanked?
+11. [Are crypto assets legal?](/claims/legality.md)
+12. [Is crypto a solution for the unbanked?](/claims/crypto-unbanked.md)
 13. What is the narrative economics of crypto assets?
 14. Is web3 the next generation of the internet?
 15. Is web3 even a well-defined term?
+16. [Why does crypto have such a weird subculture?](/claims/weird-culture.md)
 
 ## Contextual
 
