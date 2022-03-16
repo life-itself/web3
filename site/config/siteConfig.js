@@ -1,8 +1,8 @@
 const siteConfig = {
-  title: 'Making Sense of Web3',
+  title: 'Making Sense of Crypto & Web3',
   tagline: '',
-  description: 'Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.',
-  author: 'Life Itself and friends',
+  description: 'Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of main claims pro and con. A look at the deeper hopes and aspirations.',
+  author: 'Life Itself and collaborators',
   // logo image
   authorLogo: '/img//life-itself-logo.svg',
   // url to author
@@ -11,19 +11,19 @@ const siteConfig = {
   analytics: 'G-9DL50W4DN9',
   // optional additional nextSeo content set on each page
   // see https://github.com/garmeeh/next-seo
-//  nextSeo: {
-//    openGraph: {
-//      images: [
-//        {
-//          url: 'https://image.url/...',
-//          alt: '',
-//          width: 1200,
-//          height: 627,
-//          type: 'image/png',
-//        }
-//      ]
-//    }
-//  }
+  nextSeo: {
+    openGraph: {
+      images: [
+        {
+          url: 'https://res.cloudinary.com/ds7qslkd0/image/upload/w_1200,c_scale/v1647434394/Web3/NbzC4V4_o7g3j5.jpg',
+          alt: 'Making Sense of Crypto & Web3 by Life Itself',
+          width: 1200,
+          height: 627,
+          type: 'image/jpg',
+        }
+      ]
+    }
+  }
 }
 
 module.exports = siteConfig
