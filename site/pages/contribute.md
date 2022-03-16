@@ -5,7 +5,7 @@ This is an open collaborative project. We already have a variety of partners and
 ### If you like research and writing
 
 * Contribute to the [library][], for example by adding articles and research on web3 and background topics.
-* Write up key concepts and ideas. You can check out our [existing list][concepts] to see which ones could be extended or improved.
+* Write up key concepts and ideas. You can check out our [existing list][https://github.com/life-itself/web3/tree/main/concepts] to see which ones could be extended or improved.
 * Proof edit articles and transcribe dialogs. Please [get in touch][contact] to find out more.
 
 ### If you like coding and designing

@@ -2,7 +2,7 @@
 
 ## What This Is
 
-This initiative is an exploration of the ideations of crypto and "web3" and its constituent technologies, aspirations and economics. The concept of [web3](/concepts/web3.md) is a fuzzy term often accused of being a buzzword that can be hard to make sense of, this initiative aims to address the misunderstands and shed a light on basic macroeconomics and technology for those tasked with doing sense-making for the public. Our [methodology](method.md) aims to create a balanced and moderate perspective that incorporates ideas from conventional macroeconomics, political economy and computer science.
+This initiative is an exploration of the ideations of crypto and "web3" and its constituent technologies, aspirations and economics. The concept of [web3](/concepts/web3.md) is a fuzzy term often accused of being a buzzword that can be hard to make sense of, this initiative aims to address the misunderstandings and shed a light on basic macroeconomics and technology for those tasked with doing sense-making for the public. Our [methodology](/guide/method.md) aims to create a balanced and moderate perspective that incorporates ideas from conventional macroeconomics, political economy and computer science.
 
 This page serves as a root from which all other topics branch and can be explored. 
 
@@ -39,13 +39,15 @@ Explore web3 in terms of the claims of its
 11. Are crypto assets legal?
 12. Is crypto a solution for the unbanked?
 13. What is the narrative economics of crypto assets?
+14. Is web3 the next generation of the internet?
+15. Is web3 even a well-defined term?
 
 ## Contextual
 
 Understand Web3 in terms of recent news events and interviews.
 
-* [interviews](/guide/interviews)
-* [recent-events](/notes/recent-events.md)
+* [Video Iterviews](/guide/interviews)
+* [Recent News Stories](/notes/recent-events.md)
 
 ## Ideologies
 
