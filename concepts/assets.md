@@ -9,7 +9,7 @@ Comparison of different asset classes.
 | Stock     | ❌    | ❌              | ❌        | ✔️                 | ✔️      | ✔️          | ✔️        | ✔️             
 | Bond      | ❌    | ❌              | ❌        | ✔️                 | ✔️      | ❌         | ✔️        | ❌           
 | Bitcoin   | ❌    | ✔️               | ❌        | ❌                | ❌     | ❌         | ✔️        | ✔️            
-| Commodity | ❌    | *               | ✔️         | ❌                | ❌     | ❌         | ✔️        | ❌           
+| Commodity | ❌    | *               | ✔️         | ❌                | ❌     | ❌         | ❌        | ❌           
 | NFT       | ❌    | ❌              | ❌        | ❌                | ❌     | ❌         | ❌       | ✔️            
 
 * (*) depends on the particular commodity

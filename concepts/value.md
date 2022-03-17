@@ -1,5 +1,12 @@
 # Value
 
-* [market-value](market-value.md)
-* [fundamental-value](fundamental-value.md)
-* [present-value](present-value.md)
+Value is a subjective concept which refers to the process by which humans measure the worth of physical goods, services or ideas in terms of a fitness function which assigns subjective or objective reality to this measure.
+
+There are many different types of value definitions.
+
+* [Market value](market-value.md)
+* [Fundamental value](fundamental-value.md)
+* [Present value](present-value.md)
+* [Sign value](sign-value.md)
+* [Use value](use-value.md)
+* [Terminal value](terminal-value.md)

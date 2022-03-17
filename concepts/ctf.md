@@ -1,0 +1,2 @@
+# Counter-terrorism financing
+Counter-terrorism financing (CFT or CTF) is a regulatory requirement that financial service providers and [money services business](money-services-business.md) may not trade or offer services with entities who are sanctioned or on terrorist watch lists.

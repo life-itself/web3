@@ -2,13 +2,13 @@
 
 A digital asset that is traded on a [blockchain](blockchain.md).
 
-Crypto assets have no [use-value](use-value.md), no [fundamental-value](fundamental-value.md), and no [income-cashflows](income-cashflows.md) and are a manifestation of the [greater-fool-theory](greater-fool-theory.md).
+Crypto assets have no [use value](use-value.md), no [fundamental value](fundamental-value.md), and no [income-cashflows](income-cashflows.md) and are a manifestation of the [greater fool theory](greater-fool-theory.md).
 
 ## Examples
 
-* [bitcoin](bitcoin.md)
-* [ethereum](ethereum.md)
-* [dogecoin](dogecoin.md)
+* [Bitcoin](bitcoin.md)
+* [Ethereum](ethereum.md)
+* [Dogecoin](dogecoin.md)
 
 ## Comparables
 
@@ -20,5 +20,5 @@ Crypto assets have no direct correspondence in traditional markets, but have sev
 * [Commodity](commodity.md) with no use value
 * Exchange traded [pyramid-scheme](pyramid-scheme.md)
 * [Derivative](derivative.md) contract with no underlying
-* [Libertarianism](ideologies/libertarianism.md) performance [art](art.md)
+* [Libertarian](ideologies/libertarianism.md) performance [art](art.md)
 * Self-organizing [ponzi-scheme](ponzi-scheme.md)

@@ -1,6 +1,8 @@
 # Consensus Algorithm
 
-A mechanism by which data is synchronised across computer and kept in a consistent state.
+A mechanism by which data is synchronised across computer and kept in a consistent state. An integral part of a [blockchain](blockchain.md) network.
+
+Many consensus algorithms use tokens rewards as an economic incentive for partipants to maintain servers which [mine](mining.md), [stake](staking.md) or participate in the consensus algorithm.. 
 
 ## Proof of Work
 

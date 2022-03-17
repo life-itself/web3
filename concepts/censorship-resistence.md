@@ -1,3 +1,2 @@
 # Censorship Resistance
-
-#todo 
+The claim or aspiration that a [decentralization](decentralization.md) network is resistant to the removal of content or transactions by an outside party or law enforcement. Censorship resistance is often touted as a feature of [blockchain](blockchain.md) and [cryptoasset](cryptoasset.md).

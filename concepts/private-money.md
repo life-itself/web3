@@ -1,6 +1,6 @@
 # Private Money
 
-A [currency](concepts/currency.md) issued by a private party instead of a nation state or [central-banks](central-banks.md). Private money has a [distribution-problem](distribution-problem.md). 
+A [currency](currency.md) issued by a private party instead of a nation state or [central-banks](central-banks.md). Private money has a [distribution-problem](distribution-problem.md). 
 
 Many [crypto assets](cryptoasset.md) allege to be a form of transnational private money in either their namesake or political imaginaries.
 

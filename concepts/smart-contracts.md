@@ -3,8 +3,9 @@ A unit of programmable logic that is stored on a [blockchain](blockchain.md) and
 
 ## Examples
 
-* [dao](dao.md)
-* [ico](ico.md)
-* [amm](amm.md)
-* [dex](dex.md)
+* [DAO](dao.md)
+* [ICO](ico.md)
+* [AMM](amm.md)
+* [DEX](dex.md)
 * ERC20
+* [mixer](mixer.md)

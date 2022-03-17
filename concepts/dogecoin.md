@@ -38,7 +38,7 @@ Dogecoin is a [bubble](bubble.md).
 
 Dogecoin investing is a [zero-sum-game](zero-sum-game.md).
 
-Dogecoin has a [narrative-economics](../claims/narrative-economics.md) based on financial nihilism.
+Dogecoin has a [narrative-economics](../claims/narrative-economics.md) based on [financial-nihilism](ideologies/financial-nihilism.md)
 
 Dogecoin shares a payout structure similar to a [ponzi-scheme](ponzi-scheme.md).
 

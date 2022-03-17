@@ -1,6 +1,14 @@
 # Recent Events
 Sources: https://www.ft.com/cryptocurrencies
 
+## # NCA calls for regulation of crypto mixers used in ‘churning criminal cash’
+
+*March 15, 2022*
+
+https://www.ft.com/content/c6df2b68-a244-4560-9911-88cc1fa61576
+
+See: [aml](../concepts/aml.md) | [crypto-exchange](../concepts/crypto-exchange.md) | [illicit-financing](../concepts/illicit-financing.md) | [regulatory-arbitrage](../concepts/regulatory-arbitrage.md)
+
 ## White House Is Set to Put Itself at Center of U.S. Crypto Policy
 
 *March 15, 2022*
@@ -19,7 +27,7 @@ See: [web3](../concepts/web3.md) | [speculation](../concepts/speculation.md) | [
 
 ## Crypto exchanges resist calls for ban on Russia transactions
 
-March 1, 2022
+*March 1, 2022*
 
 https://www.ft.com/content/33c79ec2-6d26-4083-9093-2f05c3010536
 

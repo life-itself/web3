@@ -34,7 +34,7 @@ Ethereum is a [bubble](bubble.md).
 
 Ethereum investing is a [negative-sum game](zero-sum-game.md).
 
-Ethereum has a [narrative economics](../claims/narrative-economics.md) based on [technosolutionism](ideologies/technosolutionism.md), [libertarianism](ideologies/libertarianism.md), [regulatory-arbitrage](regulatory-arbitrage.md) and aspirations of [private-money](private money.md).
+Ethereum has a [narrative economics](../claims/narrative-economics.md) based on [technosolutionism](ideologies/technosolutionism.md), [libertarianism](ideologies/libertarianism.md), [regulatory-arbitrage](regulatory-arbitrage.md) and aspirations of [private-money](private money.md) .
 
 Ethereum shares a payout structure similar to a [Ponzi scheme](ponzi-scheme.md).
 
