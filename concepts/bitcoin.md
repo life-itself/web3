@@ -24,20 +24,20 @@ Bitcoin is a [greater-fool-theory](greater-fool-theory.md) asset.
 
 Bitcoin is a form of [gambling](gambling.md).
 
-Bitcoin is a non-productive investment.s
+Bitcoin is a [non-productive](productive-asset.md) investment.
 
-Bitcoin has a negative [expected-return](expected-return.md).
+Bitcoin has a negative [expected return](expected-return.md).
 
 Bitcoin is a [security](security.md).
 
-Bitcoin is allegedly a [sound-money](sound-money.md) in the [austrian-economics](ideologies/austrian-economics.md) school of thought.
+Bitcoin is allegedly a [sound money](sound-money.md) in the [Austrian economics](ideologies/austrian-economics.md) school of thought.
 
 Bitcoin is a [bubble](bubble.md).
 
-Bitcoin investing is a [zero-sum-game](zero-sum-game.md).
+Bitcoin investing is a [negative-sum game](zero-sum-game.md).
 
-Bitcoin has a [narrative-economics](../claims/narrative-economics.md) based on [libertarianism](ideologies/libertarianism.md), [regulatory-arbitrage](regulatory-arbitrage.md) and aspirations towards [private-money](private-money.md).
+Bitcoin has a [narrative economics](../claims/narrative-economics.md) based on [libertarianism](ideologies/libertarianism.md), [regulatory arbitrage](regulatory-arbitrage.md) and aspirations of [private money](private-money.md).
 
-Bitcoin shares a payout structure similar to a [ponzi-scheme](ponzi-scheme.md).
+Bitcoin shares a payout structure similar to a [ponzi scheme](ponzi-scheme.md).
 
 Bitcoin is based on an environmentally destructive [consensus algorithm](consensus-algorithm.md) known as Proof of Work [mining](mining.md).

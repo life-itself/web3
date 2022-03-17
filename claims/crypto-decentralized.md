@@ -1,0 +1,2 @@
+# Crypto is not decentralized
+

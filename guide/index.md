@@ -57,11 +57,15 @@ Understand Web3 in terms of recent news events and interviews.
 
 Understand Web3 in terms of different perspectives on politics and economics.
 
-* [market-fundamentalism](../concepts/ideologies/market-fundamentalism.md)
-* [austrian-economics](../concepts/ideologies/austrian-economics.md)
-* [libertarianism](../concepts//idelogies/libertarianism.md)
-* [technosolutionism](../concepts/ideologies/technosolutionism.md)
-* [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
+* [Market Fundamentalism](../concepts/ideologies/market-fundamentalism.md)
+* [Financial Nihilism](../concepts/ideologies/financial-nihilism.md)
+* [Austrian Economics](../concepts/ideologies/austrian-economics.md)
+* [Libertarianism](../concepts//idelogies/libertarianism.md)
+* [Technolibertarianism](../concepts//idelogies/technolibertarianism.md)
+* [Technosolutionism](../concepts/ideologies/technosolutionism.md)
+* [Keynsian Economics](../concepts/ideologies/keynsian-economics.md)
+* [Post State Technocracy](../concepts/ideologies/post-state-technocracy.md)
+* [Accelerationism](../concepts/ideologies/accelerationism.md)
 
 ## Supporting Concepts
 
