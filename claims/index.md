@@ -1,6 +1,6 @@
 # The Aspirations and Claims of Crypto & Web3
 
-* What are the key high level problems, aspirations and hopes that crypto & web3 movement pseaks to?
+* What are the key high level problems, aspirations and hopes that crypto & web3 movement speaks to?
 * What are the specific claims made for crypto & web3?
 * What are the evaluations of those claims and evidence for them?
 
