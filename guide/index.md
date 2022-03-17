@@ -50,7 +50,7 @@ Explore web3 in terms of the claims of its
 
 Understand Web3 in terms of recent news events and interviews.
 
-* [Video Iterviews](/guide/interviews)
+* [Video Interviews](/guide/interviews)
 * [Recent News Stories](/notes/recent-events.md)
 
 ## Ideologies
