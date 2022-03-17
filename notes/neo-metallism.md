@@ -5,6 +5,8 @@
 
 In Episode 1 of the series, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on bitcoin and the concept of "digital" gold.
 
+[https://youtu.be/_o7pRFLzJHY](https://youtu.be/_o7pRFLzJHY)
+
 ## Topic
 
 [new-gold](../claims/new-gold.md)

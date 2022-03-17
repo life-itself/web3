@@ -16,9 +16,9 @@ Crypto assets have no direct correspondence in traditional markets, but have sev
 
 * Zero-coupon perpetual [bond](bond.md)
 * Unspendable [currency](currency.md)
-* [equity](security.md) with no cash flows or dividends
-* [commodity](commodity.md) with no use value
+* [Equity](security.md) with no cash flows or dividends
+* [Commodity](commodity.md) with no use value
 * Exchange traded [pyramid-scheme](pyramid-scheme.md)
-* [derivative](derivative.md) contract with no underlying
-* [libertarianism](ideologies/libertarianism.md) performance art
+* [Derivative](derivative.md) contract with no underlying
+* [Libertarianism](ideologies/libertarianism.md) performance [art](art.md)
 * Self-organizing [ponzi-scheme](ponzi-scheme.md)

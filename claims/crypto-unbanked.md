@@ -1,4 +1,4 @@
-# Crypto is a solution for the unbanked
+# Crypto is not a solution for the unbanked
 
 Crypto is not a solution to unbanked, because by its [deflationary](../concepts/deflationary.md) design it [cannot function as a currency](is-bitcoin-currency.md) therefore it is unusable as a scaleable means for purchasing goods and services.
 

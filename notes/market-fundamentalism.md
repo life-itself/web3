@@ -5,6 +5,8 @@
 
 In Episode 2 of the series, Rufus Pollock and Stephen Diehl discuss the market fundamentalism perspective on crypto assets and the perspective on crypto assets from the perspective of day traders to quantitative hedge funds.
 
+[https://youtu.be/K5JtPTyc0y0](https://youtu.be/K5JtPTyc0y0)
+
 ## Topic
 
 [market-fundamentalism](../concepts/ideologies/market-fundamentalism.md)

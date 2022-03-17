@@ -59,7 +59,7 @@ Understand Web3 in terms of different perspectives on politics and economics.
 
 * [market-fundamentalism](../concepts/ideologies/market-fundamentalism.md)
 * [austrian-economics](../concepts/ideologies/austrian-economics.md)
-* [libertarianism](/idelogies/libertarianism.md)
+* [libertarianism](../concepts//idelogies/libertarianism.md)
 * [technosolutionism](../concepts/ideologies/technosolutionism.md)
 * [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
 

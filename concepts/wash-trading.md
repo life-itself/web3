@@ -1,1 +1,2 @@
 # Wash Trading
+The trading of an [assets](assets.md) in which the same party both buys and sells the product in order to fake transaction or [market manipulate](market-manipulation.md) the price of the asset.

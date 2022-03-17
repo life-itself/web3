@@ -1,4 +1,5 @@
 # Recent Events
+Sources: https://www.ft.com/cryptocurrencies
 
 ## White House Is Set to Put Itself at Center of U.S. Crypto Policy
 
@@ -8,10 +9,25 @@ https://www.bloomberg.com/news/articles/2022-01-21/white-house-is-set-to-put-its
 
 See: [regulatory-capture](../concepts/regulatory-capture.md) | [security](../concepts/security.md) | [systemic-risk](../concepts/systemic-risk.md)
 
+## Web3 allows tech to indulge in its love of both speculation and idealism
 
-# Business Rapper Was Bad at Bitcoin Laundering
+March 4, 2022
 
-*9 February 2022*
+https://www.ft.com/content/879ae372-bb3b-4aa1-a264-ce32304a77d9
+
+See: [web3](../concepts/web3.md) | [speculation](../concepts/speculation.md) | [technolibertarianism](../concepts/ideologies/technolibertarianism.md)
+
+## Crypto exchanges resist calls for ban on Russia transactions
+
+March 1, 2022
+
+https://www.ft.com/content/33c79ec2-6d26-4083-9093-2f05c3010536
+
+See: [crypto-exchange](../concepts/crypto-exchange.md) | [aml](../concepts/aml.md) | [regulatory-arbitrage](../concepts/regulatory-arbitrage.md)
+
+## Business Rapper Was Bad at Bitcoin Laundering
+
+*February 9, 2022*
 
 https://www.bloomberg.com/opinion/articles/2022-02-09/business-rapper-was-bad-at-bitcoin-laundering
 

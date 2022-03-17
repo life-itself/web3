@@ -1,4 +1,4 @@
-# Bitcoin can function as a currency
+# Bitcoin cannot function as a currency
 
 Unlike the namesake of "cryptocurrency" might imply, [bitcoin](../concepts/bitcoin.md) is not a [currency](../concepts/currency.md). It does not fulfil the economic definition of [money](../concepts/money.md).  Instead bitcoin is best understood as a  [speculative](../concepts/speculation.md) [cryptoasset](../concepts/cryptoasset.md) or [gambling](../concepts/gambling.md) product.
 
