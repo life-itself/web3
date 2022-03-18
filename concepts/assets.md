@@ -8,8 +8,11 @@ Comparison of different asset classes.
 | Currency  | ✔️     | ❌              | ❌        | ❌                | ❌     | ❌         | ❌       | ❌          
 | Stock     | ❌    | ❌              | ❌        | ✔️                 | ✔️      | ✔️          | ✔️        | ✔️             
 | Bond      | ❌    | ❌              | ❌        | ✔️                 | ✔️      | ❌         | ✔️        | ❌           
+| Art       | ❌    | ❌              | ❌        | ❌                | ❌     | ❌         | ❌       | ✔️            
+| Gold      | ❌    | ✔               | ✔️         | ❌                | ❌     | ❌         | ❌       | ❌           
+| Commodity | ❌    | *               | ✔️         | ❌                | ❌     | ❌         | ❌       | ❌           
+| Real Estate| ❌   | ❌              | ❌        | ❌                | ✔️      | ✔️          | ❌       | ✔️            
 | Bitcoin   | ❌    | ✔️               | ❌        | ❌                | ❌     | ❌         | ✔️        | ✔️            
-| Commodity | ❌    | *               | ✔️         | ❌                | ❌     | ❌         | ❌        | ❌           
 | NFT       | ❌    | ❌              | ❌        | ❌                | ❌     | ❌         | ❌       | ✔️            
 
 * (*) depends on the particular commodity

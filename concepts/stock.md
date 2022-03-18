@@ -1,5 +1,4 @@
 # Stock
-
 A type of [security](security.md) which grants buyers access to [income-cashflows](income-cashflows.md) in a common economic enterprise.
 
 Stocks are valued by the [market](market.md) as a combination of three factors which inform price formation:

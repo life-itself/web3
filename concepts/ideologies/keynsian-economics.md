@@ -1,2 +1,2 @@
-## Keynsian Economics
+# Keynsian Economics
 

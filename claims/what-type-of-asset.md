@@ -1,6 +1,5 @@
 # What type of assets are crypto token?
-
-Crypto assets are [securities](../concepts/security.md) contracts.
+Crypto assets are [securities](../concepts/security.md) contracts for [speculative](../concepts/speculation.md) investments.
 
 See the [assets](../concepts/assets.md) comparison chart for an overview of how crypto asset compare to traditional investments and currencies.
 

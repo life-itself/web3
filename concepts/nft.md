@@ -13,6 +13,9 @@ NFTs have been critizied as having a payout structure similar to a [pyramid sche
 ## Duplication
 #todo 
 
+## Plagiarism
+#todo 
+
 ## Multiple-chains
 #todo 
 
@@ -25,7 +28,11 @@ See: https://thenftbay.org/
 #todo 
 
 ## Tinkerbell Effect
+#todo 
 
+## References
+
+* [Line Goes Up - The Problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g)
 * [@bodo_rise_2022]
 * [@diehl_tinkerbell_2021]
 * [@olson_line_2022]

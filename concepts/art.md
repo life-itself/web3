@@ -1,6 +1,5 @@
 # Art
-
-Art is an asset class which encompass a broad category of human activities that are done with "artistic intent". This is a philosophically ambiguous category but generally corresponds to activities which are stimulating because of their aesthetic, intellectual or emotional qualities. 
+Art is an asset class which encompass a broad category of human activities and artefacts that are done with "artistic intent". This is a philosophically ambiguous category but generally corresponds to activities which are stimulating because of their aesthetic, intellectual or emotional qualities. 
 
 Art is a [non-productive asset](productive-asset.md).
 
