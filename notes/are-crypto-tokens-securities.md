@@ -13,7 +13,7 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
 
 ## What are securities?
 
-* A collective legal fiction that pools money and mediates cash flows between people according to an agreed-upon framework.
+* A [security](../concepts/security.md) is a collective legal fiction that pools money and mediates [income-cashflows](../concepts/income-cashflows.md) between people according to an agreed-upon framework.
 * “A joint-stock company is a business entity in which shares of the company's stock can be bought and sold by shareholders. Each shareholder owns company stock in proportion, evidenced by their shares (certificates of ownership). Shareholders are able to transfer their shares to others without any effects to the continued existence of the company.”
 * An idea that goes all the way back to the 12th century, where medieval peasants would buy shares in a common enterprise of mills that would grind wheat. https://en.wikipedia.org/wiki/Bazacle_Milling_Company
 * Gave rise to a modern framework of laws that cover financial products from debt instruments, bonds, equities, and derivatives. The legal foundation on which all of market capitalism is built.
@@ -26,13 +26,13 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
 
 ### Pro
 
-* Landmark case from 1946, SEC vs W. J. Howey Co. set the precedent for determining what is a securities contract.
+* Landmark case from 1946, SEC vs W. J. Howey Co. set the [Howey Test](../concepts/howey-test.md) precedent for determining what is a securities contract.
   * (1) an investment of money, (2) in a common enterprise, (3) with the expectation of profit and (4) to be derived from the efforts of others.
   * Many things can be sold as securities. (stocks, chinchillas, whiskey barrels, orange trees). It’s very context dependent.
   * **If we accept the premise that crypto tokens aren’t currencies, then tokens are clearly investments made with the expectation of profit. Are crypto assets unregistered securities?**
 * Crypto tokens currently exist partially outside the US securities framework.
   * The SEC has taken action against some Initial Coin Offerings, selling debt instruments to retail, against outright Ponzi schemes and firms acting as bank-like entities. **TODO: Link examples**
-  * District courts have set precedent in many investment fraud cases that have consistently indicated token sales to US persons meet Howey test and Dodd-Frank criterion of securities sales, even if done internationally (i.e from Switzerland). If you sell to US persons it becomes a security under US law.
+  * District courts have set precedent in many investment fraud cases that have consistently indicated token sales to US persons meet [Howey Test](../concepts/howey-test.md) and Dodd-Frank criterion of securities sales, even if done internationally (i.e from Switzerland). If you sell to US persons it becomes a security under US law.
   * **A federal case or executive order that sets precedent nationally has yet not been heard in the courts.** 
   * Thousands of companies and projects' success or failure rests on token sales not being regulated as securities. If they are regulated as securities it is quite possible the entire market implodes.
 * Sale of securities depends who you are selling to, and what kind of risk and return are presented in the prospectus. 
@@ -45,7 +45,7 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
   * Many policymakers on both sides of the aisle debate whether or not the accreditation laws are too restrictive and shut the public out of high-risk-high-return investments that only wealthy people have access to.
     * On the right, then individual choice is a paramount, the government shouldn’t dictate risk-taking in markets. Just “evolution” and the natural state of being.
     * **On the left, Pikkety’s analysis that wealth generated from capital grows faster than economic output and patrimonial capitalism leads to distortions of markets and inequality**. 
-* It is very easy to create an equity crowdfunding and cap table structure on top of crypto platforms like Ethereum.
+* It is very easy to create an equity crowdfunding and cap table structure on top of crypto platforms like [ethereum](../concepts/ethereum.md).
   * Individuals can do it anonymously and raise billions of dollar equivalents in seed capital for ventures that are very early. Don’t need to involve the SEC, government or lawyers at all.
   * Previously this kind of access was gated to US persons with connections and access to funds, connections and access to capital.
   * This is a liberatory and egalitarian force that democratizes company formation that lowers barriers and allows all types of common enterprises that were previously prohibited by law.
@@ -90,3 +90,12 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
   * Is extreme levels of fraud simply the price we pay for a more dynamic economy or does this all lead to ruin like it has in the past? 
     * Evolution and capitalism metaphor: extremophiles. 
   * **What is the right interplay between investment risk and the rule of law? Is creative destruction by any extra-legal means a positive force in the world?**
+
+  
+# Topics
+* [security](../concepts/security.md)
+* [howey-test](../concepts/howey-test.md)
+* [productive-asset](../concepts/productive-asset.md)
+* [ico](../concepts/ico.md)
+
+## References

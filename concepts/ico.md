@@ -1,10 +1,9 @@
 # Initial Coin Offerings
-
 Initial coin offerings are proxy [equity](security.md) fundraising structure that allows entrepeneurs to raise [crypto assets](cryptoasset.md) in a common enterprise outside of existing securities regulation. Initial coin offerings are an example of [regulatory-arbitrage](regulatory-arbitrage.md) of [security](security.md) regulation.
 
 Initial coin offerings are illegal in the United States.
 
-## Citations
+## References
 
 * [@kharif_half_2018]
 * [@zetzsche_ico_2017]

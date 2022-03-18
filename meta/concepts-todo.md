@@ -83,13 +83,13 @@ Claims
 - [ ] [environmental-footprint](../claims/environmental-footprint.md)
 - [x] [is-bubble](../claims/is-bubble.md)
 - [ ] [narrative-economics](../concepts/narrative-economics.md)
-- [ ] [digital-gold](../claims/digital-gold.md)
+- [x] [digital-gold](../claims/digital-gold.md)
 - [ ] [new-internet](../claims/new-internet.md)
 - [ ] [risk-to-state](../claims/risk-to-state.md)
 - [ ] [systemic-risk](../concepts/systemic-risk.md)
 - [ ] [threaten-dollar](../claims/threaten-dollar.md)
-- [ ] [valuation-model](../concepts/valuation-model.md)
-- [ ] [what-type-of-asset](../claims/what-type-of-asset.md)
+- [x] [valuation-model](../concepts/valuation-model.md)
+- [x] [what-type-of-asset](../claims/what-type-of-asset.md)
 
 Ideologies
 

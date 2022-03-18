@@ -11,8 +11,8 @@ Art has no [fundamental value](fundamental-value.md) under the economic definiti
 
 Art's [intrinsic value](use-value.md) is a debated in philosophy. There is no generally agreed definition of what constitutes art.
 
-Art's value is often tied to its provenance and [sign-value](sign-value.md).
+Art's value is often tied to its provenance and [sign value](sign-value.md).
 
-Art may be [artificial-scarcity](artificial-scarcity.md) if created as part of a collection.
+Art may be [artificial scarce](artificial-scarcity.md) if created as part of a collection.
 
-The art market has a great amount of [asymmetric-information](asymmetric-information.md) and [market-manipulation](market-manipulation.md).
+The art market has a great amount of [asymmetric-information](asymmetric-information.md) and [market manipulation](market-manipulation.md).

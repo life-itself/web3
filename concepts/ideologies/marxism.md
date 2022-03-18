@@ -3,3 +3,4 @@ A political ideology rooted in the ideas of Karl Marx which asserts the inherent
 
 See: [[commodity-fetishism]]
 
+## References

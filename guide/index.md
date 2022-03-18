@@ -47,6 +47,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Are crypto assets a bubble?](../claims/is-bubble.md)
 * Are crypto assets a form of gambling?
 * Are crypto tokens an inflation hedge?
+* Is private money a desirable system?
 
 **Better Society / Financial Inclusion**
 
@@ -93,10 +94,11 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 
 ## Contextual
 
-Understand crypto and "web3" in terms of recent news events and interviews.
+Understand crypto and "web3" in terms of recent news events and interviews and external resources.
 
 * [Video Interviews](/guide/interviews)
 * [Recent News Stories](/notes/recent-events.md)
+* [Commentary on 'Line Goes Up'](../notes/olson-2022-line-go-up.md)
 
 ***
 
