@@ -57,12 +57,11 @@ function MyApp({ Component, pageProps }) {
           }}
         />
       }
-      <Layout title={pageProps.title}>
-        { Component.layout == 'js' &&
-          <Component {...pageProps} />
-        }
-        { Component.layout != 'js' &&
-        <MdxPage children={{ Component, pageProps }} />
+      <Layout title={pageProps.title ?? siteConfig.title}>
+        { 
+          Component.layout == 'js'
+            ? <Component {...pageProps} />
+            : <MdxPage children={{ Component, pageProps }} />
         }
       </Layout>
     </ThemeProvider>
