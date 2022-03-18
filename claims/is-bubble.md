@@ -6,15 +6,15 @@ Crypto assets have the characterstic price behaviour that resembles many other [
 * Joseph Stiglitz
 * Richard Thaler
 * James Heckman
-* Thomas Sargent,
+* Thomas Sargent
 * Angus Deaton
 * Oliver Hart
 
 And by central bank officials:
 
 * Alan Greenspan
-* Agustín Carstens,
-* Vítor Constâncio,
+* Agustín Carstens
+* Vítor Constâncio
 * Nout Wellink
 * Mark Carney
 

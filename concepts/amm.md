@@ -32,7 +32,7 @@ Summary
 
 From https://academy.binance.com/en/articles/what-is-uniswap-and-how-does-it-work
 
-> Automated market makers are [smart contracts](https://academy.binance.com/en/articles/what-are-smart-contracts) that hold liquidity reserves (or liquidity pools) that traders can trade against. These reserves are funded by liquidity providers. Anyone can be a liquidity provider who deposits an equivalent value of two tokens in the pool. In return, traders pay a fee to the pool that is then distributed to liquidity providers according to their share of the pool. Let’s dive into how this works in more detail.
+> Automated market makers are [smart-contracts](smart-contracts.md) that hold [liquidity](liquidity.md) reserves (or liquidity pools) that traders can trade against. These reserves are funded by liquidity providers. Anyone can be a liquidity provider who deposits an equivalent value of two tokens in the pool. In return, traders pay a fee to the pool that is then distributed to liquidity providers according to their share of the pool. Let’s dive into how this works in more detail.
 
 Uniswap is iterating to favor "professional players":
 

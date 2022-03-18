@@ -1,5 +1,4 @@
 # Ethereum
-
 Ethereum is a [cryptoasset](cryptoasset.md) that extends the [bitcoin](bitcoin.md) model to allow the execution of [smart contracts](smart-contracts.md).
 
 ## Properties

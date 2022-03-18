@@ -1,5 +1,4 @@
 # Bitcoin
-
 Bitcoin is the first [crypto asset](cryptoasset.md) investment. Used as a vehicle for [speculation](speculation.md) and [gambling](gambling.md).
 
 ## Properties
