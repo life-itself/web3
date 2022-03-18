@@ -22,3 +22,9 @@ And several notable investors have also described it as a bubble:
 
 * Warren Buffet
 * George Soros
+
+## References
+* [@blanchard_bubbles_1982]
+* [@caferra_bitcoin_2021]
+* [@fry_negative_2016]
+* [@tonelli_internet_2022]

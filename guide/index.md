@@ -45,21 +45,36 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Are crypto assets a systemic risk to the economy?](../claims/systemic-risk.md)
 * [Is bitcoin the basis for a new gold standard?](../claims/digital-gold.md)
 * [Are crypto assets a bubble?](../claims/is-bubble.md)
+* Are crypto assets a form of gambling?
+* Are crypto tokens an inflation hedge?
 
-**Financial Inclusion**
+**Better Society / Financial Inclusion**
 
 * [Is crypto a solution for the unbanked?](/claims/crypto-unbanked.md)
+* What consumer protections exist for crypto tokens?
+* Is crypto investing a form of predatory inclusion?
+* Is crypto providing faster payment rails or better remittance services?
+* [What is the narrative economics of crypto assets?](../claims/narrative-economics.md)
 * [Are crypto assets legal?](/claims/legality.md)
 * [Are crypto tokens a predatory investment?](../claims/predatory-investments.md)
 * [Are crypto tokens a negative-sum investment?](/claims/negative-sum.md)
 * Why do people invest in crypto tokens?
-* Is crypto providing faster payment rails or better remittance services?
 * [Why does crypto have such a weird subculture?](/claims/weird-culture.md)
+
+**Financial Liberty**
+
+* Is a unregulated transnational payment rail even desirable?
+* Are crypto tokens a hedge against the "debasement" of the dollar?
+* [Are crypto tokens a means to counter authoritarianism?](../claims/authoritarianism.md)
+* I want to raise money for my non-profit or public goods project?
+* Can I do a crowdfunded equity raise for my company?
 
 **Solving Public Goods Problems**
 
+* Is crypto a means to fund public goods projects?
 * [Is bitcoin mining harmful to the environment?](../claims/environmental-footprint.md)
 * Is crypto bringing about the "financialization of everything"?
+* Is crypto a giant misallocation of resources with an enormous opportunity cost?
 
 **Financial Innovation**
 
@@ -71,12 +86,8 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 **Creative Destruction**
 
 * Is web3 a means to dismantle the American tech hegemony?
+* Is web3 a means to rebuild the global financial system?
 * Are crypto tokens a means to accelerate the collapse of capitalism?
-
-**International Politics**
-
-* [What is the narrative economics of crypto assets?](../claims/narrative-economics.md)
-* [Are crypto tokens a means to counter authoritarianism?](../claims/authoritarianism.md)
 
 ***
 

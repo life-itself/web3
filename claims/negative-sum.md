@@ -8,3 +8,9 @@ This is comparable to the analogy of a game of poker and other [gambling](../con
 Investing in crypto assets is statistically guaranteed to lose money for almost all market participants because as investments they have no [income-cashflows](../concepts/income-cashflows.md). This differs drastically from [productive assets](../concepts/productive-asset.md) such as [stocks](../concepts/stock.md) ,[bonds](../concepts/bond.md) and [real-estate](../concepts/real-estate.md).
 
 See [assets](../concepts/assets.md) comparison chart for comparison of crypto assets to conventional investments.
+
+## References
+* [@taleb_bitcoin_2021]
+* [@fry_negative_2016]
+* [@stivers_alchemy_2019]
+* [@reijers_blockchain_2018]

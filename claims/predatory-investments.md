@@ -6,3 +6,12 @@ The price setting by crypto excahnges and [order-book](../concepts/order-book.md
 The base economics of crypto assets make them [negative sum](negative-sum.md) which guarantees the amount of loses in the asset class exceed the gains.
 
 Crypto assets are thus a form of predatory finance with negative [expected-return](../concepts/expected-return.md) much like [gambling](../concepts/gambling.md) in a rigged casino.
+
+## References
+* [@bindseil_encrypted_2022]
+* [@momtaz_entrepreneurial_2020]
+* [@kapsis_should_2021]
+* [@iansiti_truth_2017]
+* [@krugman_bitcoin_2018]
+* [@krugman_bitcoin_2013]
+* [@glongloff_bitcoin_nodate]
