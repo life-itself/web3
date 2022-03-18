@@ -12,6 +12,6 @@ CBDCs have been critized as being an extension of the surveillance state that co
 
 ## References
 
-* *[@kiff_survey_2020]
+* [@kiff_survey_2020]
 * [@bilotta_cbdcs_nodate]
 * [@nabilou_central_2019]

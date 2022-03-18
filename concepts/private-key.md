@@ -1,1 +1,2 @@
 # Private Key
+A cryptographic key, essentially a large number, that within a given cryptosystem gives whoever posses it access the ability to generate a public key and address which is associated with a numerical quantity on a [blockchain](blockchain.md) known as a [wallet](wallet.md) and which imparts the capacity to transact in [cryptoasset](cryptoasset.md) associated with the public key's address. 

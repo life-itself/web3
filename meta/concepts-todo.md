@@ -1,4 +1,7 @@
 # Conceps TODO
+
+First pass
+
 - [ ] [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
 - [x] [libertarianism](../concepts/ideologies/libertarianism.md)
 - [x] [market-fundamentalism](../notes/market-fundamentalism.md)
@@ -28,7 +31,9 @@
 - [x] [wash-trading](../concepts/wash-trading.md)
 - [x] [web3](../concepts/web3.md)
 
+Second Pass
 
+- [ ] [private-money](../concepts/private-money.md)
 - [ ] [amm](../concepts/amm.md)
 - [ ] [artificial-scarcity](../concepts/artificial-scarcity.md)
 - [ ] [assets](../concepts/assets.md)
@@ -53,7 +58,7 @@
 - [ ] [order-book](../concepts/order-book.md)
 - [ ] [platform-risk](../concepts/platform-risk.md)
 - [ ] [capital-formation](../concepts/capital-formation.md)
-- [ ] [private-key](../concepts/private-key.md)
+- [x] [private-key](../concepts/private-key.md)
 - [ ] [pyramid-scheme](../concepts/pyramid-scheme.md)
 - [ ] [mlm](../concepts/mlm.md)
 - [ ] [rtgs](../concepts/rtgs.md)
@@ -61,3 +66,37 @@
 - [ ] [systemic-risk](../concepts/systemic-risk.md)
 - [ ] [yield-farming](../concepts/yield-farming.md)
 - [ ] [stablecoin](../concepts/stablecoin.md)
+- [ ] [capital-formation](../concepts/capital-formation.md)
+- [ ] [commercial-paper](../concepts/commercial-paper.md)
+- [x] [reserve-currency](../concepts/reserve-currency.md)
+- [ ] [pseudonymous](../concepts/pseudonymous.md)
+- [x] [bearer-instrument](../concepts/bearer-instrument.md)
+- [x] [memecoin](../concepts/memecoin.md)
+- [x] [paper-wealth](../concepts/paper-wealth.md)
+- [ ] [endowment-effect](../concepts/endowment-effect.md)
+- [x] [bandwagon-bias](../concepts/bandwagon-bias.md)
+
+Claims
+
+- [ ] [authoritarianism](../claims/authoritarianism.md)
+- [ ] [crypto-decentralized](../claims/crypto-decentralized.md)
+- [ ] [environmental-footprint](../claims/environmental-footprint.md)
+- [x] [is-bubble](../claims/is-bubble.md)
+- [ ] [narrative-economics](../concepts/narrative-economics.md)
+- [ ] [digital-gold](../claims/digital-gold.md)
+- [ ] [new-internet](../claims/new-internet.md)
+- [ ] [risk-to-state](../claims/risk-to-state.md)
+- [ ] [systemic-risk](../concepts/systemic-risk.md)
+- [ ] [threaten-dollar](../claims/threaten-dollar.md)
+- [ ] [valuation-model](../concepts/valuation-model.md)
+- [ ] [what-type-of-asset](../claims/what-type-of-asset.md)
+
+Ideologies
+
+- [ ] [accelerationism](../concepts/ideologies/accelerationism.md)
+- [ ] [capitalism](../concepts/ideologies/capitalism.md)
+- [ ] [cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
+- [ ] [inevitablism](../concepts/ideologies/inevitablism.md)
+- [ ] [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
+- [ ] [technolibertarianism](../concepts/ideologies/technolibertarianism.md)
+- [ ] [technosolutionism](../concepts/ideologies/technosolutionism.md)

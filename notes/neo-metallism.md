@@ -9,7 +9,7 @@ In Episode 1 of the series, Rufus Pollock and Stephen Diehl discuss the neo-meta
 
 ## Topic
 
-[new-gold](../claims/new-gold.md)
+[digital-gold](../claims/digital-gold.md)
 
 ## Concepts Covered
 
