@@ -34,7 +34,7 @@ Understand the terminology used to describe crypto and web3.
 
 ### Claims
 
-Explore crypto and "web3" in terms of the claims made about it.
+Explore crypto and "web3" in terms of the claims made about it. These subclaims fall into six categories about different aspects of either technical, financial or political reconfiguration projects.
 
 **Better Economy**
 

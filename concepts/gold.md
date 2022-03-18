@@ -2,8 +2,6 @@
 Gold is a precious metal sometimes used as investment and historically as coinage for [currency](currency.md).
 
 ## Properties
-Gold is not a [currency](currency.md).
-
 Gold is a [speculative](speculation.md) investment. 
 
 Gold has no [fundamental value](fundamental-value.md).

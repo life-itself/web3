@@ -14,7 +14,7 @@ One of the ways to participate in the project is to contribute to the library. T
 
 ### Setup
 
-Set up Zotero
+Set up Zotero:
 
 * Create an account at zotero.org if you haven't already.
 * Install the Zotero Connector browser extension from: https://www.zotero.org/download/ 
