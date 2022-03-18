@@ -1,5 +1,5 @@
 # US Dollar
-The US dollar 
+The US dollar is the currency of the United States and acts as a [reserve currency](reserve-currency.md) for international commerce.
 
 ## Properties
 The dollar is a [currency](currency.md).
@@ -24,4 +24,4 @@ The dollar is a [non-productive](productive-asset.md) investment.
 
 The dollar is not a [security](security.md).
 
-The dollar is issued by a [central-banks](central-banks.md).
+The dollar is issued by a [central banks](central-banks.md).

@@ -30,34 +30,55 @@ Understand the terminology used to describe crypto and web3.
 * [Regulatory arbitrage](../concepts/regulatory-arbitrage.md)
 * [Central bank digital currency](../concepts/cbdc.md)
 
+***
+
 ### Claims
 
 Explore crypto and "web3" in terms of the claims made about it.
 
-1. [Is bitcoin a currency?](/claims/is-bitcoin-currency.md)
-2. [What type of asset is a crypto token?](/claims/what-type-of-asset.md)
-3. [How do we value a crypto token?](/claims/valuation-model.md)
-4. [Are crypto assets a systemic risk to the economy?](../claims/systemic-risk.md)
-5. [Are crypto tokens a negative-sum investment?](/claims/negative-sum.md)
-6. [Are crypto tokens a predatory investment?](../claims/predatory-investments.md)
-7. [Is bitcoin the basis for a new gold standard?](../claims/digital-gold.md)
-8. [Is bitcoin mining harmful to the environment?](../claims/environmental-footprint.md)
-9. [Are crypto assets a risk to the dollar?](../claims/threaten-dollar.md)
-10. [Are crypto assets legal?](/claims/legality.md)
-11. [Is crypto a solution for the unbanked?](/claims/crypto-unbanked.md)
-12. [What is the narrative economics of crypto assets?](../claims/narrative-economics.md)
-13. [Is web3 the next generation of the internet?](../claims/new-internet.md)
-14. [Is web3 even a well-defined term?](../claims/well-defined.md)
-15. [Why does crypto have such a weird subculture?](/claims/weird-culture.md)
-16. [Is web3 decentralized?](../claims/crypto-decentralized.md)
-17. Is web3 green?
-18. Why do people invest in crypto tokens?
-19. [Are crypto tokens a means to counter authoritarianism?](../claims/authoritarianism.md)
-20. Are crypto tokens a means to accelerate the collapse of capitalism?
-21. [Are crypto assets a bubble?](../claims/is-bubble.md)
-22. Is web3 a means to dismantle the American tech hegemony?
-23. Is crypto bringing about the "financialization of everything"?
-24. Is crypto providing faster payment rails or better remittance services?
+**Better Economy**
+
+* [Is bitcoin a currency?](/claims/is-bitcoin-currency.md)
+* [Are crypto assets a risk to the dollar?](../claims/threaten-dollar.md)
+* [What type of asset is a crypto token?](/claims/what-type-of-asset.md)
+* [How do we value a crypto token?](/claims/valuation-model.md)
+* [Are crypto assets a systemic risk to the economy?](../claims/systemic-risk.md)
+* [Is bitcoin the basis for a new gold standard?](../claims/digital-gold.md)
+* [Are crypto assets a bubble?](../claims/is-bubble.md)
+
+**Financial Inclusion**
+
+* [Is crypto a solution for the unbanked?](/claims/crypto-unbanked.md)
+* [Are crypto assets legal?](/claims/legality.md)
+* [Are crypto tokens a predatory investment?](../claims/predatory-investments.md)
+* [Are crypto tokens a negative-sum investment?](/claims/negative-sum.md)
+* Why do people invest in crypto tokens?
+* Is crypto providing faster payment rails or better remittance services?
+* [Why does crypto have such a weird subculture?](/claims/weird-culture.md)
+
+**Solving Public Goods Problems**
+
+* [Is bitcoin mining harmful to the environment?](../claims/environmental-footprint.md)
+* Is crypto bringing about the "financialization of everything"?
+
+**Financial Innovation**
+
+* [Is web3 even a well-defined term?](../claims/well-defined.md)
+* Is web3 green?
+* [Is web3 decentralized?](../claims/crypto-decentralized.md)
+* [Is web3 the next generation of the internet?](../claims/new-internet.md)
+
+**Creative Destruction**
+
+* Is web3 a means to dismantle the American tech hegemony?
+* Are crypto tokens a means to accelerate the collapse of capitalism?
+
+**International Politics**
+
+* [What is the narrative economics of crypto assets?](../claims/narrative-economics.md)
+* [Are crypto tokens a means to counter authoritarianism?](../claims/authoritarianism.md)
+
+***
 
 ## Contextual
 
@@ -65,6 +86,8 @@ Understand crypto and "web3" in terms of recent news events and interviews.
 
 * [Video Interviews](/guide/interviews)
 * [Recent News Stories](/notes/recent-events.md)
+
+***
 
 ## Ideologies
 
@@ -81,6 +104,8 @@ Explore crypto and "web3" in terms of different perspectives on politics and eco
 * [Keynsian Economics](../concepts/ideologies/keynsian-economics.md)
 * [Accelerationism](../concepts/ideologies/accelerationism.md)
 * [Cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
+
+***
 
 ## Supporting Concepts
 
