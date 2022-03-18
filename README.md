@@ -34,6 +34,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * https://watershed.co.uk/studio/news/2021/12/03/case-against-crypto
 * [The European Money and Finance Forum - The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf) - Jan 2022. A comprehensive study by SUERF - The European Money and Finance Forum that details the net negative effects of bitcoin to society.
 * [The Third Web](https://tante.cc/2021/12/17/the-third-web/) - 2021-12-17 - long critical essay including detailed history by [Tante](https://twitter.com/tante)
+* [Tante's Web3/NFT FAQ](https://tante.cc/2022/02/09/tantes-blockchain-web3-faq/)
 * https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/ - 2016-07-02 - by Rufus Pollock (mainly a critique of early DAOs and techno-solutionism)
 * [Web3 takes trust, too](https://www.bloomberg.com/opinion/articles/2022-01-10/web3-takes-trust-too) - 2022-01-10 by Matt Levine on Bloomberg.com
 * [Revolution Now! With Peter Joseph | Bitcoin and Financialization](https://youtu.be/bsghxd1cdeA) - May 21, 2021
