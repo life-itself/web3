@@ -11,7 +11,6 @@ https://www.zotero.org/groups/4600269/web3/library
 One of the ways to participate in the project is to contribute to the library. The following provides guidance on how you can contribute.
 
 ### Setup
-
 Set up Zotero:
 
 * Create an account at zotero.org if you haven't already.

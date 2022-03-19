@@ -45,9 +45,9 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Are crypto assets a systemic risk to the economy?](../claims/systemic-risk.md)
 * [Is bitcoin the basis for a new gold standard?](../claims/digital-gold.md)
 * [Are crypto assets a bubble?](../claims/is-bubble.md)
-* Are crypto assets a form of gambling?
-* Are crypto tokens an inflation hedge?
-* Is private money a desirable system?
+* [Are crypto assets a form of gambling?](../claims/is-gambling.md)
+* [Are crypto tokens an inflation hedge?](../claims/hedge-inflation.md)
+* [Is private money a desirable system?](../claims/is-private-money.md)
 
 **Better Society / Financial Inclusion**
 
@@ -56,8 +56,8 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * Is crypto investing a form of predatory inclusion?
 * Is crypto providing faster payment rails or better remittance services?
 * [What is the narrative economics of crypto assets?](../claims/narrative-economics.md)
-* [Are crypto assets legal?](/claims/legality.md)
-* [Are crypto tokens a predatory investment?](../claims/predatory-investments.md)
+* [Are crypto assets legal?](../claims/is-legal.md)
+* [Are crypto tokens a predatory investment?](../claims/is-predatory.md)
 * [Are crypto tokens a negative-sum investment?](/claims/negative-sum.md)
 * Why do people invest in crypto tokens?
 * [Why does crypto have such a weird subculture?](/claims/weird-culture.md)
