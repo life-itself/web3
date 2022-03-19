@@ -37,7 +37,7 @@ Second Pass
 - [ ] [amm](../concepts/amm.md)
 - [x] [artificial-scarcity](../concepts/artificial-scarcity.md)
 - [ ] [assets](../concepts/assets.md)
-- [ ] [bretton-woods](../concepts/bretton-woods.md)
+- [x] [bretton-woods](../concepts/bretton-woods.md)
 - [ ] [broker](../concepts/broker.md)
 - [ ] [cd](../concepts/cd.md)
 - [ ] [commodity](../concepts/commodity.md)

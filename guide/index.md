@@ -64,7 +64,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 
 **Financial Liberty**
 
-* Is a unregulated transnational payment rail even desirable?
+* [Is a unregulated transnational payment rail even desirable?](../claims/transnational-payment.md)
 * Are crypto tokens a hedge against the "debasement" of the dollar?
 * [Are crypto tokens a means to counter authoritarianism?](../claims/authoritarianism.md)
 * I want to raise money for my non-profit or public goods project?
@@ -79,6 +79,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 
 **Financial Innovation**
 
+* [Is the underlying technology of "blockchain" useful for non-monetary purposes?](../claims/blockchain-tech.md)
 * [Is web3 even a well-defined term?](../claims/well-defined.md)
 * Is web3 green?
 * [Is web3 decentralized?](../claims/crypto-decentralized.md)
@@ -97,6 +98,11 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 Understand crypto and "web3" in terms of recent news events and interviews and external resources.
 
 * [Video Interviews](/guide/interviews)
+	1. [Episode #1: Neo-Metallism](../notes/neo-metallism.md)
+	2. [Episode #2: Market Fundamentalism](../notes/market-fundamentalism.md)
+	3. [Episode #3: Securities Regulation](/notes/are-crypto-tokens-securities.md)
+	4. Episode #4: Post-state Technocracy
+	5. Episode #5: Fintech Incrementalism
 * [Recent News Stories](/notes/recent-events.md)
 * [Commentary on 'Line Goes Up'](../notes/olson-2022-line-go-up.md)
 
@@ -144,6 +150,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Ponzi scheme](../concepts/ponzi-scheme.md)
 * [Meme stocks](../concepts/meme-stock.md)
 * [Reserve currency](../concepts/reserve-currency.md)
+* [Bretton Woods system](../concepts/bretton-woods.md)
 * [Wash trading](../concepts/wash-trading.md)
 
 **Technology**

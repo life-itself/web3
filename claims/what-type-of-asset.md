@@ -5,7 +5,7 @@ See the [assets](../concepts/assets.md) comparison chart for an overview of how 
 
 Crypto assets are [not currency](is-bitcoin-currency.md) because they cannot fulfil the definition of [money](../concepts/money.md).
 
-Crypto assets are not [commodities](../concepts/commodity.md) because they have no intrinsic value needed to fulfil any productive economic activity or human need. Their definition of [use-value](../concepts/use-value.md) depends on a circular argument.
+Crypto assets are not [commodities](../concepts/commodity.md) because they have no intrinsic value needed to fulfil any productive economic activity or human need. A hypothetical definition of their [use value](../concepts/use-value.md) depends on a circular logic.
 
 Crypto assets may also be a form of [art](../concepts/art.md) under the fuzzy definition of "artistic intent".
 
@@ -13,14 +13,16 @@ Crypto assets may also be a form of [art](../concepts/art.md) under the fuzzy de
 
 Crypto assets have no direct correspondence in traditional markets, but have several pathological equivalences of traditional assets with absurd premises or terms. 
 
+* Tulip [bubble](../concepts/bubble.md)
 * Zero-coupon perpetual [bond](bond.md)
 * Unspendable [currency](currency.md)
 * [Equity](security.md) with no cash flows or dividends
-* [Commodity](commodity.md) with no use value
+* [Commodity](commodity.md) with no [use value](../concepts/use-value.md)
 * Exchange traded [pyramid-scheme](pyramid-scheme.md)
 * [Derivative](derivative.md) contract with no underlying
 * [Libertarian](ideologies/libertarianism.md) performance [art](art.md)
-* Self-organizing [ponzi-scheme](ponzi-scheme.md)
+* Self-organizing [Ponzi scheme](ponzi-scheme.md)
+* [Indulgences](https://en.wikipedia.org/wiki/Indulgence)
 
 ## References
 * [@diehl_intellectual_2021]

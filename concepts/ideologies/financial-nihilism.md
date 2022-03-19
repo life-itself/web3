@@ -4,3 +4,7 @@ A philosophy on investing and markets in which [value](../value.md) does not exi
 This is a belief system held by some who participate in [meme stock](../meme-stock.md) and [meme coin](../memecoin.md) projects.
 
 ## References
+* [@warzel_absurdity_2021]
+* [@weisenthal_bitcoin_nodate]
+* [@olson_problem_2022]
+* [@diehl_gamestop_2021]

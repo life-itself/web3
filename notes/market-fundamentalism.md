@@ -110,7 +110,6 @@ In Episode 2 of the series, Rufus Pollock and Stephen Diehl discuss the market f
 	-   Wealth transfer from public to insiders is all nearly guaranteed by the information asymmetry.
     
 ## Concepts Covered
-
 * [artificial-scarcity](../concepts/artificial-scarcity.md)
 * [assets](../concepts/assets.md)
 * [asymmetric-information](../concepts/asymmetric-information.md)
@@ -144,11 +143,7 @@ In Episode 2 of the series, Rufus Pollock and Stephen Diehl discuss the market f
 * [wash-trading](../concepts/wash-trading.md)
 * [zero-sum-game](../concepts/zero-sum-game.md)
 
-## Summary
-#todo 
-
 ## References
-
 1.  [@akerlof_market_1978]
 2. [@krugman_technobabble_2021]
 3. [@krugman_transaction_2018]

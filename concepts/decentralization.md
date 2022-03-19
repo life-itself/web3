@@ -5,6 +5,8 @@ In information technology it refers to a type of network topology in which a sys
 
 The internet is the canonical example of a decentralized network.
 
+This term is often falsely used interchangeably with "democratization", which has an orthogonal meaning.
+
 ## References
 
 * [@diehl_decentralized_2021]

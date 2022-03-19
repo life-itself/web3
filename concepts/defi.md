@@ -4,3 +4,10 @@ Defi is a broad category of [smart-contracts](smart-contracts.md) which loosely 
 DeFi generally refers to a collection of services which offer lending products offered by non-banks and which exist outside the regulatory perimeter as a form [regulatory-arbitrage](regulatory-arbitrage.md) and to fund margin trading activities to [speculaate](speculation.md) on [crypto assets](cryptoasset.md).
 
 See also [yield farming](yield-farming.md), [AMM](amm.md), [DEX](dex.md).
+
+## References
+* [@allen_defi_2022]
+* [@carter_defi_2021]
+* [@aramonte_defi_2021]
+* [@saengchote_defi_2021]
+* [@barbereau_defi_2022]

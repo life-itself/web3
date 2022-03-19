@@ -6,7 +6,8 @@ https://www.youtube.com/watch?v=YQ_xWvX1n9g
 
 * [00:00:00](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=0s) Preface
 * [00:01:12](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=72s) 0. In 2008 The Economy Collapsed
-* [00:07:09](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=429s) 1. Bitcoin [00:18:18](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=1098s) 2. Ethereum
+* [00:07:09](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=429s) 1. Bitcoin 
+* [00:18:18](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=1098s) 2. Ethereum
 * [00:24:34](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=1474s) 3. The Machine
 * [00:39:07](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=2347s) 4. NFTs Exist To Get You To Buy Crypto
 * [00:57:54](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=3474s) 5. The Unbearable Cringe Of Crypto
@@ -73,7 +74,7 @@ This whole section is worth quoting in full:
 > 
 > It all maps onto narratives of sin and deception, a chosen-few who are privileged with  advance knowledge about the promised land,   which they can achieve by holding strong  to the rituals and expelling all doubt.
 > 
-> The end product is a  self-organizing high-control group.
+> The end product is a  self-organizing [high-control group](../concepts/high-control-group.md)
 
 ---
 
