@@ -1,2 +1,2 @@
 # Valuation Model
-A mathematical model to calculate the [fundamental-value](fundamental-value.md) of a [security](security.md). 
+A mathematical model to calculate the [fundamental value](fundamental-value.md) of a [security](security.md). The field of quantitative finance concerns itself with the pricing and optimal allocation of securities contracts in terms of their [income-cashflows](income-cashflows.md) and the risks associated with the assets.

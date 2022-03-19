@@ -1,5 +1,4 @@
 # Howey Test
-
 A legal test which defines whether an investment contract is designed as a [security](security.md) under United States law.
 
 1. Investment of money 

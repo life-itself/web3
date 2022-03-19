@@ -12,7 +12,7 @@ Often resonates with advocacy for the [gold standard](../gold-standard.md) and [
 * Friedrich Hayek
 * Saifedean Ammous
 
-## Citations
+## References
 
 * Friedrich, Carl J. "The Road to Serfdom." (1945): 575-579.
 * [@ammous_bitcoin_2018]

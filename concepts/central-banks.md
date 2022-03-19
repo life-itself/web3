@@ -1,5 +1,4 @@
 # Central Banks
-
 A financial institution that manages the [currency](currency.md) and monetary supply of a nation state.
 
 The mandate of central banks is often to control domestic employment and maintain price stability of a national currency.

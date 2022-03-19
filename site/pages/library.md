@@ -1,9 +1,7 @@
 # The Library
-
 We are maintaining a comprehensive library of articles, papers, books and other materials related to the space and the surrounding discourse. It provides deeper background on specific topics along with everything you need to fully engage with, and evaluate, Web3 and the claims being made about it.
 
 ## Browse the Library
-
 Explore our library online here:
 
 https://www.zotero.org/groups/4600269/web3/library

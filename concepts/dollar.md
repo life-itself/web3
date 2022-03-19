@@ -8,8 +8,6 @@ The dollar is not a [speculative](speculation.md) investment.
 
 The dollar is [inflationary](inflationary.md).
 
-The paper form of the dollar is a [bearer instrument](bearer-instrument.md).
-
 The dollar has no [fundamental value](fundamental-value.md).
 
 The dollar has no [use value](use-value.md).

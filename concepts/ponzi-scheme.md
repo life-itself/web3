@@ -11,5 +11,4 @@ Investing in Ponzi schemes has a negative [expected return](expected-return.md).
 * [@krugman_bitcoin_2018]
 * [@hutchison_postmodern_2012]
 * [@bartoletti_dissecting_2020]
-
-See: [Investor.gov Ponzi Scheme](https://www.investor.gov/protect-your-investments/fraud/types-fraud/ponzi-scheme)
+* [Investor.gov Ponzi Scheme](https://www.investor.gov/protect-your-investments/fraud/types-fraud/ponzi-scheme)
