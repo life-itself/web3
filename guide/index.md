@@ -82,7 +82,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Is the underlying technology of "blockchain" useful for non-monetary purposes?](../claims/blockchain-tech.md)
 * [Is web3 even a well-defined term?](../claims/well-defined.md)
 * Is web3 green?
-* [Is web3 decentralized?](../claims/crypto-decentralized.md)
+* [Is web3 decentralized?](../claims/web3-decentralized.md)
 * [Is web3 the next generation of the internet?](../claims/new-internet.md)
 
 **Creative Destruction**

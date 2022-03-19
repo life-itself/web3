@@ -10,6 +10,21 @@ Investing in crypto assets is statistically guaranteed to lose money for almost 
 See [assets](../concepts/assets.md) comparison chart for comparison of crypto assets to conventional investments.
 
 ## References
+
+1. Krugman, Paul. 2018. ‘Bitcoin Is Basically a Ponzi Scheme’. The Seattle Times 30.
+1. ———. 2013. ‘Bitcoin Is Evil’. Paul Krugman Blog (blog). 28 December 2013. https://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/.
+1. ———. 2021a. ‘Technobabble, Libertarian Derp and Bitcoin’. The New York Times 21.
+1. ———. 2021b. ‘The Brutal Truth About Bitcoin’. The New York Times 21.
+1. Taleb, Nassim Nicholas. n.d. ‘Bitcoin, Currencies, and Fragility’, 6.
+1. Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’.
+1. Bindseil, Ulrich, Patrick Papsdorf, and Jürgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’. 7 January 2022. https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf.
+1. Corradi, Fiammetta, and Philipp Höfner. 2018. ‘The Disenchantment of Bitcoin: Unveiling the Myth of a Digital Currency’. International Review of Sociology 28 (1): 193–207. https://doi.org/10.1080/03906701.2018.1430067.
+1. Shri T Rabi Sankar. n.d. ‘Cryptocurrencies – An Assessment’. Reserve Bank of India. Accessed 2 March 2022. https://rbi.org.in/Scripts/BS_SpeechesView.aspx?Id=1196.
+1. Diehl, Stephen. 2021. ‘The Intellectual Incoherence of Cryptoassets’. 7 November 2021. https://www.stephendiehl.com/blog/crypto-absurd.html.
+1. ———. n.d. ‘The Case Against Crypto’. Accessed 17 February 2022. https://www.stephendiehl.com/blog/against-crypto.html.
+1. Stivers, A. 2019. ‘The Alchemy of a Pyramid: Transmutating Business Opportunity Into a Negative Sum Wealth Transfer’. http://ssrn.com/paper=3497682.
+
+## References
 * [@taleb_bitcoin_2021]
 * [@fry_negative_2016]
 * [@stivers_alchemy_2019]

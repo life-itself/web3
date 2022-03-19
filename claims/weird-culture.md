@@ -18,7 +18,8 @@ Crypto culture depends heavily on a distortion of language to signify belonging 
 * "diamond hands"
 
 ## References
-
+1. Venkataramakrishnan, Siddharth, and Robin Wigglesworth. 2021. ‘Inside the Cult of Crypto’. Financial Times, 10 September 2021. https://www.ft.com/content/9e787670-6aa7-4479-934f-f4a9fedf4829.
+1. Olson, Dan. 2022. Line Goes Up – The Problem With NFTs. https://www.youtube.com/watch?v=YQ_xWvX1n9g.
 1. Bellinger, M. (2018). The Rhetoric of Bitcoin: Money, Politics, and the Construction of Blockchain Communities [PhD Thesis]. In ResearchWorks Archive. https://digital.lib.washington.edu/researchworks/handle/1773/43342
 1. Bernstein, W. J. (2021). The Delusions of Crowds: Why People Go Mad in Groups. Grove Press.
 1. Breidbach, C. F., & Tana, S. (2021). Betting on Bitcoin: How social collectives shape cryptocurrency markets. Journal of Business Research, 122, 311–320. https://doi.org/10.1016/j.jbusres.2020.09.017
@@ -53,6 +54,11 @@ Crypto culture depends heavily on a distortion of language to signify belonging 
 1. Faustino, S. (2019). How metaphors matter: An ethnography of blockchain-based re-descriptions of the world. Journal of Cultural Economy, 12(6), 478–490. https://doi.org/10.1080/17530350.2019.1629330
 1. Penny, L. (2018). Four Days Trapped at Sea With Crypto’s Nouveau Riche. In BREAKERMAG. https://breakermag.com/trapped-at-sea-with-cryptos-nouveau-riche/
 1. Stephenson, W. (n.d.). Cryptonomicon. Harpers Review. Retrieved 2 March 2022, from https://harpers.org/archive/2022/03/cryptonomicon-bitcoin-maximalists-miami/
+1. Faustino, Sandra, Inês Faria, and Rafael Marques. 2021. ‘The Myths and Legends of King Satoshi and the Knights of Blockchain’. Journal of Cultural Economy 0 (0): 1–14. https://doi.org/10.1080/17530350.2021.1921830.
+1. Golumbia, David. 2018. ‘Zealots of the Blockchain: The True Believers of the Bitcoin Cult’. The Baffler, no. 38: 102–11.
+1. Lee, Seung Cheol. 2020. ‘Magical Capitalism, Gambler Subjects: South Korea’s Bitcoin Investment Frenzy’. Cultural Studies 0 (0): 1–24. https://doi.org/10.1080/09502386.2020.1788620.
+1. Mackay, Charles. 2012. Extraordinary Popular Delusions and the Madness of Crowds. Simon and Schuster.
+1. Samman, Amin, and Stefano Sgambati. n.d. ‘Financial Eschatology and the Libidinal Economy of Leverage’. Theory, Culture & Society (Forthcoming). https://doi.org/10.1177/02632764211070805.
 
 
 ## References

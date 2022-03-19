@@ -10,6 +10,25 @@ Bitcoin cannot form the foundation for an economic system because its volatility
 Since bitcoin is [deflationary](../concepts/deflationary.md) it encourages hording instead of spending on [productive enterprises](../concepts/productive-asset.md). This results in mass [market](../concepts/market.md) consolidation and accumulation instead of an environment in which commerce is encouraged. This property makes bitcoin completely antithetical to the entire project of a [currency](../concepts/currency.md) which definitionally exists to be spent.
 
 ## References
+1. Varoufakis, Yanis. 2021. ‘What Is Money, Really? And Why Bitcoin Is Not the Answer (Even If Blockchain Is Brilliant & Potentially Helpful in Democratising Money)’. Yanis Varoufakis (blog). 2 August 2021. https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/.
+1. Taleb, Nassim Nicholas. 2021. ‘Bitcoin, Currencies, and Fragility’. ArXiv:2106.14204 [Physics, q-Fin], July. http://arxiv.org/abs/2106.14204.
+1. Corradi, Fiammetta, and Philipp Höfner. 2018. ‘The Disenchantment of Bitcoin: Unveiling the Myth of a Digital Currency’. International Review of Sociology 28 (1): 193–207. https://doi.org/10.1080/03906701.2018.1430067.
+1. Bratspies, Rebecca M. 2018. ‘Cryptocurrency and the Myth of the Trustless Transaction’. Mich. Telecomm. & Tech. L. Rev 1. https://doi.org/10.2139/ssrn.3141605.
+1. Diehl, Stephen. 2021a. ‘The Non-Innovation of Cryptocurrency’. 7 July 2021. https://www.stephendiehl.com/blog/non-innovation.html.
+1. ———. 2021b. ‘The Intellectual Incoherence of Cryptoassets’. 7 November 2021. https://www.stephendiehl.com/blog/crypto-absurd.html.
+1. ———. n.d. ‘The Case Against Crypto’. Accessed 17 February 2022. https://www.stephendiehl.com/blog/against-crypto.html.
+1. Gerard, David. 2017. Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts. David Gerard.
+1. Kolchinski, Alex. 2022. ‘Crypto Is an Unproductive Bubble’. Alex Kolchinski (blog). 18 March 2022. https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/.
+1. Krugman, Paul. 2018. ‘Bitcoin Is Basically a Ponzi Scheme’. The Seattle Times 30.
+1. ———. 2021a. ‘Technobabble, Libertarian Derp and Bitcoin’. The New York Times 21.
+1. ———. 2021b. ‘The Brutal Truth About Bitcoin’. The New York Times 21.
+1. Olson, Dan. 2022. Line Goes Up – The Problem With NFTs. https://www.youtube.com/watch?v=YQ_xWvX1n9g.
+1. Plant, Luke. 2022. ‘The Technological Case against Bitcoin and Blockchain’. Luke Plant’s Home Page. 5 March 2022. https://lukeplant.me.uk/blog/posts/the-technological-case-against-bitcoin-and-blockchain/.
+1. Stinchcombe, Kai. 2018. ‘Blockchain Is Not Only Crappy Technology but a Bad Vision for the Future’. Medium (blog). 9 April 2018. https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec.
+1. White, Molly. 2022a. ‘Cryptocurrency Off-Ramps, and the Shift towards Centralization’. Molly White. 12 February 2022. https://blog.mollywhite.net/off-ramps/.
+1. ———. 2022b. ‘Cryptocurrency’s Robinhood Effect’. Molly White. 17 February 2022. https://blog.mollywhite.net/cryptocurrencys-robinhood-effect/.
+
+## References
 * [@taleb_bitcoin_2021-1]
 * [@corradi_disenchantment_2018]
 * [@nabilou_ignorance_2019]

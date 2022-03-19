@@ -13,7 +13,6 @@ This is an open collaborative project. We already have a variety of partners and
 * Check out the github repo for the project: https://github.com/life-itself/web3
 
 ### If you like exploring and sharing
-
 * Check out our videos and resources.
 * Share the work with others.
 

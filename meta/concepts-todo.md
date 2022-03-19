@@ -79,7 +79,7 @@ Second Pass
 Claims
 
 - [ ] [authoritarianism](../claims/authoritarianism.md)
-- [ ] [crypto-decentralized](../claims/crypto-decentralized.md)
+- [ ] [web3-decentralized](../claims/web3-decentralized.md)
 - [ ] [environmental-footprint](../claims/environmental-footprint.md)
 - [x] [is-bubble](../claims/is-bubble.md)
 - [ ] [narrative-economics](../concepts/narrative-economics.md)
