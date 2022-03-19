@@ -3,7 +3,7 @@ The economist Robert J. Shiller defines [narrative economics](../concepts/narrat
 
 > Epidemiology of narratives relevant to economic fluctuations. The human brain has always been highly tuned towards narratives, whether factual or not, to justify ongoing actions, even such basic actions as spending and investing. Stories motivate and connect activities to deeply felt values and needs. Narratives “go viral” and spread far, even worldwide, with economic impact.
 
-The phenomenon of [cryptoasset](../concepts/cryptoasset.md) and their [bubble](../concepts/bubble.md)  nature is largely driven by narratives, which may differ drastically between projects.
+The phenomenon of [cryptoasset](../concepts/cryptoasset.md) and their [bubble](../concepts/bubble.md)  nature is largely driven by narratives, which may differ drastically between projects. These narratives speak to different human needs and beliefs that touch upon ideas as vast as culture, [value](../concepts/value.md), money, art, law, identity and politics.
 
 Bitcoin has a [narrative economics](../claims/narrative-economics.md) based on [libertarianism](ideologies/libertarianism.md), [regulatory arbitrage](regulatory-arbitrage.md) and aspirations of [private money](private-money.md).
 
