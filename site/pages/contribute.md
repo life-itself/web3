@@ -17,7 +17,6 @@ This is an open collaborative project. We already have a variety of partners and
 * Share the work with others.
 
 ### Feedback
-
 Offer us your feedback and suggestions through [our forum][forum]. For example:
 
 * Are there particular topics or areas you think we should cover?
