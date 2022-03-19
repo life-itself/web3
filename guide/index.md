@@ -78,7 +78,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Is crypto a means to fund public goods projects?](../claims/is-public-goods.md)
 * [Is bitcoin mining harmful to the environment?](../claims/environmental-footprint.md)
 * [Is crypto bringing about the "financialization of everything"?](../claims/is-hyperfinancialization.md)
-* [Is crypto a giant misallocation of resources with an enormous opportunity cost?](../claims/is-opportunity-cost.md)0
+* [Is crypto a giant misallocation of resources with an enormous opportunity cost?](../claims/is-opportunity-cost.md)
 
 **Financial Innovation**
 
@@ -157,7 +157,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Wash trading](../concepts/wash-trading.md)
 * [Liquidity pool](../concepts/liquidity-pool.md)
 * [Assets](../concepts/assets.md)
-	* [Real lestate](../concepts/real-estate.md)
+	* [Real estate](../concepts/real-estate.md)
 	* [Gold](../concepts/gold.md)
 	* [Art](../concepts/art.md)
 	* [Commodity](../concepts/commodity.md)

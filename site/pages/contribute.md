@@ -3,7 +3,6 @@
 This is an open collaborative project. We already have a variety of partners and contributors and we'd love to have more! Here are some of the ways you can get involved:
 
 ### If you like research and writing
-
 * Contribute to the [library][], for example by adding articles, papers and research on web3 and background topics.
 * Write up key concepts and ideas. You can check out our [existing guide][guide] to see which ones could be extended or improved.
 	* See our [concepts-todo](../../meta/concepts-todo.md) task list for open topics.

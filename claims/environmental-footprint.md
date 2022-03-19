@@ -5,11 +5,11 @@ Bitcoin [mining](../concepts/mining.md) is enormously harmful to the environment
 2. Carbon release from fossil fuels used to power mining data centres
 3. Opportunity cost of the energy used to run [consensus algorithm](../concepts/consensus-algorithm.md) compared to more efficient of efficient [real time gross settlement systems](../concepts/rtgs.md) and traditional [payment rails](transnational-payment.md) such as SWIFT, SEPA, Visa and ACH.
 
-Crypto assets are not [providing access to the unbanked](crypto-unbanked.md) and cannot fulfil even a fraction of the services provided by the global banking sector. Crypto assets like [bitcoin](../concepts/bitcoin.md) are simply a very inefficient and settlement to issue a speculative [cryptoasset](../concepts/cryptoasset.md) used primarily for [gambling](../concepts/gambling.md) and [illicit financing](../concepts/illicit-financing.md).
+Crypto assets are not [providing access to the unbanked](crypto-unbanked.md) and cannot fulfil even a tiny fraction of the services provided by the global banking sector. Crypto assets like [bitcoin](../concepts/bitcoin.md) are simply a very inefficient and settlement to issue a speculative [cryptoasset](../concepts/cryptoasset.md) used primarily for [gambling](../concepts/gambling.md) and [illicit financing](../concepts/illicit-financing.md).
 
 BItcoin mining has the equivalent power consumption of the state of Argentina, a country with a population of 45 million people. Bitcoin mining has an e-waste footprint comparable to that of entire population of Germany.
 
-Bitcoin mining uses collectively consumes more power than all data centres run by Google, Amazon, Microsoft, Apple, Netflix, Facebook and YouTube put together.
+Bitcoin mining collectively consumes more power than all data centres run by Google, Amazon, Microsoft, Apple, Netflix, Facebook and YouTube put together.
 
 Bitcoin is simply one of thousands of crypto assets which use PoW algorithm, including the second largest asset Ethereum which together with all other assets sum some to an even larger environmental footprint and difficult to calculate environmental footprint.
 
