@@ -10,7 +10,6 @@ This is an open collaborative project. We already have a variety of partners and
 * Proof edit articles and transcribe dialogs. Please [get in touch][contact] to find out more.
 
 ### If you like coding and designing
-
 * Check out the github repo for the project: https://github.com/life-itself/web3
 
 ### If you like exploring and sharing

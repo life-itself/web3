@@ -64,7 +64,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 
 **Financial Liberty**
 
-* [Is a unregulated transnational payment rail even desirable?](../claims/transnational-payment.md)
+* [Is an unregulated transnational payment rail even desirable?](../claims/transnational-payment.md)
 * Are crypto tokens a hedge against the "debasement" of the dollar?
 * [Are crypto tokens a means to counter authoritarianism?](../claims/authoritarianism.md)
 * I want to raise money for my non-profit or public goods project?
