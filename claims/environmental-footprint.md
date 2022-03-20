@@ -75,14 +75,3 @@ Bitcoin is simply one of thousands of crypto assets which use PoW algorithm, inc
 1. Yildizbasi, Abdullah. ‘Blockchain and Renewable Energy: Integration Challenges in Circular Economy Era’. Renewable Energy 176 (2021): 183–97. https://doi.org/10.1016/j.renene.2021.05.053.
 1. Zannini, Alice. ‘Blockchain Technology as the Digital Enabler to Scale up Renewable Energy Communities and Cooperatives in Spain’, 2020.
 1. Zhu, Shuai, Malin Song, Ming Kim Lim, Jianlin Wang, and Jiajia Zhao. ‘The Development of Energy Blockchain and Its Implications for China’s Energy Sector’. Resources Policy 66 (2020): 101595. https://doi.org/10.1016/j.resourpol.2020.101595.
-
-## References
-* [@de_vries_bitcoins_2018]
-* [@vries_bitcoins_2021]
-* [@de_vries_renewable_2019]
-* [@de_vries_bitcoins_2020]
-* [@badea_economic_2021]
-* [@mora_bitcoin_2018]
-* [@gallersdorfer_energy_2020]
-* [@goodkind_cryptodamages_2020]
-* [@diehl_crypto_2021]

@@ -34,15 +34,8 @@ Crypto assets have no direct correspondence in traditional markets, but have sev
 1. Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’. https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf.
 1. Bindseil, Ulrich, Patrick Papsdorf, and Jürgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’. 7 January 2022. https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf.
 1. Corradi, Fiammetta, and Philipp Höfner. 2018. ‘The Disenchantment of Bitcoin: Unveiling the Myth of a Digital Currency’. International Review of Sociology 28 (1): 193–207. https://doi.org/10.1080/03906701.2018.1430067.
+1. Computerphile. 2018. Why Bitcoin Is Not Cash - Computerphile. https://www.youtube.com/watch?v=p9HH_dFcoLc.
 1. Diehl, Stephen. 2021. ‘The Intellectual Incoherence of Cryptoassets’. 7 November 2021. https://www.stephendiehl.com/blog/crypto-absurd.html.
 1. ———. n.d. ‘The Case Against Crypto’. Accessed 17 February 2022. https://www.stephendiehl.com/blog/against-crypto.html.
 1. Weisenthal, Joe. n.d. ‘Bitcoin Is a Faith-Based Asset’. Accessed 2 March 2022. https://www.bloomberg.com/news/articles/2021-01-21/bitcoin-is-a-faith-based-asset-joe-weisenthal.
-
-## References
-* [@diehl_intellectual_2021]
-* [@taleb_bitcoin_2021]
-* [@iansiti_truth_2017]
-* [@silverman_crypto_2021]
-* [@krugman_bitcoin_2018]
-* [@weisenthal_bitcoin_nodate]
-* [@fletcher_currency_2013]
+1. Silverman, Gary. 2021. ‘Crypto Has “No Inherent Worth” But Is Good to Trade, Says Man Group Chief’. Financial Times, 26 July 2021. https://www.ft.com/content/9275baf4-0422-43a1-b8c9-9317882ca874.
