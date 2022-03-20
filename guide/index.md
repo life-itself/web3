@@ -120,7 +120,7 @@ Explore crypto and "web3" in terms of different perspectives on politics and eco
 * [Austrian Economics](../concepts/ideologies/austrian-economics.md)
 * [Post State Technocracy](../concepts/ideologies/post-state-technocracy.md)
 * [Libertarianism](../concepts/ideologies/libertarianism.md)
-* [Technolibertarianism](../concepts/idelogies/technolibertarianism.md)
+* [Technolibertarianism](../concepts/ideologies/technolibertarianism.md)
 * [Technosolutionism](../concepts/ideologies/technosolutionism.md)
 * [Technocollectivism](../concepts/ideologies/techno-collectivism.md)
 * [Keynsian Economics](../concepts/ideologies/keynsian-economics.md)
