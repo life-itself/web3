@@ -1,14 +1,13 @@
 # Money
-Money is any item or verifiable record that is accepted as payment for goods and services and repayment of debts and payment of national obligations, such as taxes, in a particular jurisdiction. Money is issued by a [central banks](central-banks.md). 
+Money is any item or verifiable record that is accepted as payment for goods and services and repayment of debts and payment of national obligations, such as taxes, in a particular jurisdiction. Money is issued by a [central bank](central-banks.md). 
 
-* **Medium of Exchange** - The capacity of an item to expedite trade between a buyer and seller because it is widely accepted as payment for a good or service. 
+* **Medium of Exchange** - The capacity of an item to expedite trade between a buyer and seller because it is widely accepted as payment for a good and services. 
 * **Unit of Account** - The capacity of an item, or subdivisions of itself, to function as a numerical monetary unit (*numéraire*) and act as a universal measure of the [market value](market-value.md) of goods, services, and other transactions.
 * **Store of Value** - The capacity of an item to retain purchasing power into the future and capacity to be saved with a predictable variance in its [market value](market-value.md) over long time periods.
 
 Money is a social technology whose efficacy is based on both its universal acceptance in an economic region and the money's coherence to three properties:
 
 The United States [dollar](dollar.md) and the Euro are examples of money.
-
 ## Qualities
 
 The qualifies of a currency representing money are defined by coherent to three properties:
