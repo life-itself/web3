@@ -1,10 +1,5 @@
----
-aliases: Automated Market Maker
----
-
-# AMM - Automated Market Maker
-
-Automated Market Maker i.e. an algorithmic platform for trading.
+# Automated Market Maker
+Automated Market Maker or (AMM) is an algorithmic platform for trading.
 
 From https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm:
 

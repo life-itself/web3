@@ -2,14 +2,14 @@
 
 First pass
 
-- [ ] [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
+- [x] [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
 - [x] [libertarianism](../concepts/ideologies/libertarianism.md)
 - [x] [market-fundamentalism](../notes/market-fundamentalism.md)
 - [x] [marxism](../concepts/ideologies/marxism.md)
 - [x] [post-state-technocracy](../concepts/ideologies/post-state-technocracy.md)
 - [x] [techno-collectivism](../concepts/ideologies/techno-collectivism.md)
 - [x] [technolibertarianism](../concepts/ideologies/technolibertarianism.md)
-- [ ] [technosolutionism](../concepts/ideologies/technosolutionism.md)
+- [x] [technosolutionism](../concepts/ideologies/technosolutionism.md)
 - [x] [aml](../concepts/aml.md)
 - [x] [censorship-resistence](../concepts/censorship-resistence.md)
 - [x] [defi](../concepts/defi.md)
@@ -33,14 +33,14 @@ First pass
 
 Second Pass
 
-- [ ] [private-money](../concepts/private-money.md)
+- [x] [private-money](../concepts/private-money.md)
 - [ ] [amm](../concepts/amm.md)
 - [x] [artificial-scarcity](../concepts/artificial-scarcity.md)
 - [ ] [assets](../concepts/assets.md)
 - [x] [bretton-woods](../concepts/bretton-woods.md)
 - [ ] [broker](../concepts/broker.md)
 - [ ] [cd](../concepts/cd.md)
-- [ ] [commodity](../concepts/commodity.md)
+- [x] [commodity](../concepts/commodity.md)
 - [ ] [counterparty-risk](../concepts/counterparty-risk.md)
 - [ ] [cross-bridges](../concepts/cross-bridges.md)
 - [x] [deposit](../concepts/deposit.md)
@@ -54,7 +54,7 @@ Second Pass
 - [x] [mining](../concepts/mining.md)
 - [ ] [money-services-business](../concepts/money-services-business.md)
 - [ ] [mutualization](../concepts/mutualization.md)
-- [ ] [narrative-economics](../concepts/narrative-economics.md)
+- [x] [narrative-economics](../concepts/narrative-economics.md)
 - [ ] [order-book](../concepts/order-book.md)
 - [ ] [platform-risk](../concepts/platform-risk.md)
 - [ ] [capital-formation](../concepts/capital-formation.md)
@@ -69,7 +69,7 @@ Second Pass
 - [ ] [capital-formation](../concepts/capital-formation.md)
 - [ ] [commercial-paper](../concepts/commercial-paper.md)
 - [x] [reserve-currency](../concepts/reserve-currency.md)
-- [ ] [pseudonymous](../concepts/pseudonymous.md)
+- [x] [pseudonymous](../concepts/pseudonymous.md)
 - [x] [bearer-instrument](../concepts/bearer-instrument.md)
 - [x] [memecoin](../concepts/memecoin.md)
 - [x] [paper-wealth](../concepts/paper-wealth.md)
@@ -80,7 +80,7 @@ Claims
 
 - [ ] [authoritarianism](../claims/authoritarianism.md)
 - [ ] [web3-decentralized](../claims/web3-decentralized.md)
-- [ ] [environmental-footprint](../claims/environmental-footprint.md)
+- [x] [environmental-footprint](../claims/environmental-footprint.md)
 - [x] [is-bubble](../claims/is-bubble.md)
 - [ ] [narrative-economics](../concepts/narrative-economics.md)
 - [x] [digital-gold](../claims/digital-gold.md)
@@ -95,8 +95,8 @@ Ideologies
 
 - [ ] [accelerationism](../concepts/ideologies/accelerationism.md)
 - [ ] [capitalism](../concepts/ideologies/capitalism.md)
-- [ ] [cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
+- [x] [cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
 - [ ] [inevitablism](../concepts/ideologies/inevitablism.md)
-- [ ] [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
-- [ ] [technolibertarianism](../concepts/ideologies/technolibertarianism.md)
-- [ ] [technosolutionism](../concepts/ideologies/technosolutionism.md)
+- [x] [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
+- [x] [technolibertarianism](../concepts/ideologies/technolibertarianism.md)
+- [x] [technosolutionism](../concepts/ideologies/technosolutionism.md)
