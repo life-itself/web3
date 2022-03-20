@@ -2,7 +2,6 @@
 Crypto assets are unlicensed [security](../concepts/security.md) contracts for unregulated [speculative](../concepts/speculation.md) investments. The legality of this depends on jurisdiction. 
 
 ## References
-
 1. Bindseil, Ulrich, Patrick Papsdorf, and Jü rgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’.
 1. Diehl, Stephen. 2021a. ‘The Political Case for a Blanket Cryptocurrency Ban’. 30 March 2021. https://www.stephendiehl.com/blog/banbitcoin.html.
 ———. 2021b. ‘How to Destroy Bitcoin’. 13 July 2021. https://www.stephendiehl.com/blog/destroy-bitcoin.html.
