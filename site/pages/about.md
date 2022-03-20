@@ -12,7 +12,7 @@ We will be steel-manning the key claims made by proponents of web3 through consc
 
 ### Big, controversial and making sense is hard
 
-**Web3 & crypto has become a massive phenomenon** with very big claims made about its actual and potential impact. Claims that go far beyond traditional technology boosterism (better, faster) to claims for radical transformation (and improvement) of our economic and social systems – for example, web3 is revolutionary for X where X is everything from money and the economy to governance to funding public goods like (open) software, carbon removal etc.
+**Web3 & crypto has become a massive phenomenon** with very big claims made about its actual and potential impact. Claims that go far beyond traditional technology boosterism (better, faster) to claims for radical transformation (and improvement) of our economic and social systems – for example, web3 is revolutionary for X where X is everything from money and the economy to governance to funding [public goods](../../concepts/public-goods-problem.md) like (open) software, carbon removal etc.
 
 **Controversial and polarizing**: At the same time, there is an exceptional level of disagreement about these claims, even on basic points or definitions. The topic is highly controversial and even polarizing, with strong pro and anti camps. For example, within tech it is one of the most controversial topics we have ever seen and, significantly, disagreement cuts across classic ideological lines -- there are pro/anti libertarians as well as pro/anti socialists.
 

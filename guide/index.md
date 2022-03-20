@@ -31,6 +31,7 @@ Understand the terminology used to describe crypto and web3.
 * [DAO](/concepts/dao.md)
 * [Stablecoin](../concepts/stablecoin.md)
 * [Regulatory arbitrage](../concepts/regulatory-arbitrage.md)
+* [United States Dollar](/concepts/dollar.md)
 * [Central bank digital currency](../concepts/cbdc.md)
 
 ***
