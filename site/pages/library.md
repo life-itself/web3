@@ -7,7 +7,6 @@ Explore our library online here:
 https://www.zotero.org/groups/4600269/web3/library
 
 ## Contribute to the Library
-
 One of the ways to participate in the project is to contribute to the library. The following provides guidance on how you can contribute.
 
 ### Setup
