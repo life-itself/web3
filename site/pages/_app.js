@@ -27,10 +27,10 @@ function MyApp({ Component, pageProps }) {
   // end Google Analytics
 
   const pageTitle = (
-    router.pathname != "/"
-      ? // convert slug to title
-        router.pathname.split("/").pop().replace(/-/g, " ")
-      : "home"
+    router.pathname == "/"
+      ? "home"
+        // convert slug to title
+      : router.pathname.split("/").pop().replace(/-/g, " ")
   ) // capitalize first char of each word
     .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
   
@@ -65,7 +65,7 @@ function MyApp({ Component, pageProps }) {
           }}
         />
       )}
-      <Layout title={pageTitle ?? siteConfig.title}>
+      <Layout title={pageTitle}>
         {Component.layout == "js" ? (
           <Component {...pageProps} />
         ) : (
