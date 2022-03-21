@@ -210,6 +210,8 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Value](../concepts/value.md)
 * [Bubbles](../concepts/bubble.md)
 * ["Madness of crowds"](../concepts/madness-crowds.md)
+* [Decentralization](../concepts/decentralization.md)
+* [Recentralization](../concepts/recentralization.md)
 * [High control groups](../concepts/high-control-group.md)
 * [Thought terminating cliche](../concepts/thought-terminating-cliches.md)
 * [Sign value](../concepts/sign-value.md)

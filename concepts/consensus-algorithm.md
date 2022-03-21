@@ -19,5 +19,4 @@ An algorithm where blocks in the blockchain are validated by a closed and fixed 
 
 An algorithm where blocks in the blockchain are validated by the consumption of digital resources such as random access memory or disk space. The global sortition functions weighted based on the size and availability of these digital space resources.
 
-
-
+## References

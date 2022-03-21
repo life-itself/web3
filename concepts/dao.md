@@ -11,6 +11,14 @@ DAOs are best understood as shares in a common enterprise which is run by potent
 
 * Constitution DAO
 * Spice DAO
+* [democracy.earth](../dao/democracy.earth.md)
+* [diatom.fund](../dao/diatom.fund.md)
+* [hive.io](../dao/hive.io.md)
+* [hypha.earth](../dao/hypha.earth.md)
+* [joinseeds.earth](../dao/joinseeds.earth.md)
+* [klimadao.finance](../dao/klimadao.finance.md)
+* [Panvala](../dao/panvala.com.md)
+* [yogacoin.tech](../dao/yogacoin.tech.md)
 
 ## References
 
@@ -37,12 +45,3 @@ DAOs are best understood as shares in a common enterprise which is run by potent
 * Vergne, JP. 2020. ‘Decentralized vs. Distributed Organization: Blockchain, Machine Learning and the Future of the Digital Platform’. Organization Theory 1 (4): 263178772097705. https://doi.org/10.1177/2631787720977052.
 * Wissel, Tim. 2021. ‘Fairness and Freedom for Artists: Towards a Robot Economy for the Music Industry’. https://repository.tudelft.nl/islandora/object/uuid:72a5c834-177b-4b3c-a6f8-8e69e65cfdf4.
 * Wright, Steven A. 2021. ‘Measuring DAO Autonomy: Lessons From Other Autonomous Systems’. IEEE Transactions on Technology and Society 2 (1): 43–53. https://doi.org/10.1109/tts.2021.3054974.
-
-
-## References
-
-* [@morrison_dao_2020]
-* [@wright_measuring_2021]
-* [@securities_sec_2017]
-* [@rikken_ins_nodate]
-* [@brennecke_-central_2022]
