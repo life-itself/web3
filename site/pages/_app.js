@@ -37,19 +37,19 @@ function MyApp({ Component, pageProps }) {
   return (
     <ThemeProvider attribute="class" defaultTheme="dark">
       <DefaultSeo
-        titleTemplate={'%s | ' + siteConfig.title}
+        titleTemplate={"%s | " + siteConfig.title}
         defaultTitle={siteConfig.title}
         description={siteConfig.description}
         {...siteConfig.nextSeo}
       />
       {/* Global Site Tag (gtag.js) - Google Analytics */}
-      {siteConfig.analytics &&
+      {siteConfig.analytics && (
         <Script
           strategy="afterInteractive"
           src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.analytics}`}
         />
-      }
-      {siteConfig.analytics &&
+      )}
+      {siteConfig.analytics && (
         <Script
           id="gtag-init"
           strategy="afterInteractive"
@@ -64,16 +64,16 @@ function MyApp({ Component, pageProps }) {
             `,
           }}
         />
-      }
+      )}
       <Layout title={pageTitle ?? siteConfig.title}>
-        { 
-          Component.name == 'MDXContent'
-            ? <MdxPage children={{ Component, pageProps }} />
-            : <Component {...pageProps} />
-        }
+        {Component.layout == "js" ? (
+          <Component {...pageProps} />
+        ) : (
+          <MdxPage children={{ Component, pageProps }} />
+        )}
       </Layout>
     </ThemeProvider>
-  )
+  );
 }
 
       // if this is a markdown page use this layout by default ...
