@@ -11,9 +11,9 @@ import MdxPage from '../components/MDX'
 import * as gtag from '../lib/gtag'
 
 function MyApp({ Component, pageProps }) {
+  const router = useRouter()
   // Google Analytics
   if (siteConfig.analytics) {
-    const router = useRouter()
     useEffect(() => {
       const handleRouteChange = (url) => {
         gtag.pageview(url)
@@ -25,6 +25,14 @@ function MyApp({ Component, pageProps }) {
     }, [router.events])
   }
   // end Google Analytics
+
+  const pageTitle = (
+    router.pathname != "/"
+      ? // convert slug to title
+        router.pathname.split("/").pop().replace(/-/g, " ")
+      : "home"
+  ) // capitalize first char of each word
+    .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
   
   return (
     <ThemeProvider attribute="class" defaultTheme="dark">
@@ -57,11 +65,11 @@ function MyApp({ Component, pageProps }) {
           }}
         />
       }
-      <Layout title={pageProps.title ?? siteConfig.title}>
+      <Layout title={pageTitle ?? siteConfig.title}>
         { 
-          Component.layout == 'js'
-            ? <Component {...pageProps} />
-            : <MdxPage children={{ Component, pageProps }} />
+          Component.name == 'MDXContent'
+            ? <MdxPage children={{ Component, pageProps }} />
+            : <Component {...pageProps} />
         }
       </Layout>
     </ThemeProvider>
