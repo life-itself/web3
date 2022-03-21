@@ -26,6 +26,7 @@ Understand the terminology used to describe crypto and web3.
 * [Wash trading](../concepts/wash-trading.md)
 * [Crypto exchanges](/concepts/crypto-exchange.md)
 * [Greater fool theory](../concepts/greater-fool-theory.md)
+* [Zero-sum game](../concepts/zero-sum-game.md)
 * [Memecoins](../concepts/memecoin.md)
 * [Assets](/concepts/assets.md)
 * [Speculative asset](/concepts/speculation.md)

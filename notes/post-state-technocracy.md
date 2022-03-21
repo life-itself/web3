@@ -1,4 +1,5 @@
 # Post State Technocracy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZ0iCJkM3PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore the notion that crypto assets are a means to create a new form of network state outside of the existing international order.
 
@@ -22,6 +23,7 @@ https://www.youtube.com/watch?v=gZ0iCJkM3PU
 #todo 
 
 ## References
+1. Barlow, John Perry. 2019. ‘A Declaration of the Independence of Cyberspace’. Duke Law & Technology Review 18 (1): 5–7.
 1. May, Tim. 1994. ‘Cyphernomicon’.
 1. May, Timothy. 1992. ‘The Crypto Anarchist Manifesto’. High Noon on the Electronic Frontier: Conceptual Issues in Cyberspace.
 1. ‘1729 - The Network State’. n.d. 1729. Accessed 4 March 2022. https://1729.com/.
