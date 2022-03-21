@@ -14,27 +14,32 @@ What & Why: We want a clear near-term roadmap with associated tasks so that
 
 A clear near-term (1m) roadmap and a vaguer 6m roadmap in [plan](../plan.md)
 
-* [ ] Milestones / Goals
-* [ ] Rough timeline
+* [ ] Backlog
+* [ ] Prioritization
+  * [ ] Milestones / Goals
+  * [ ] Rough timeline
 * [ ] Next actions
 
-Meta (how we organize)
+### Meta (how we organize)
 
-* [ ] Team structure
+* [x] Team structure
   * [x] Scrum Lead **✅ Eilidh**
-  * [x] Product Owner **✅ Rufus***
-* [ ] Team process
-  * [ ] Clear PM infrastructure (e.g. are we using markdown/hackmd/git/obsidian or gdocs)
-  * [ ] Can we do all the work "in the open"?
-* [ ] Materials
+  * [x] Product Owner **✅ Rufus**
+* [x] Team process
+  * [x] Clear PM infrastructure e.g. where are we ...
+    * [x] Recording meeting notes **✅ ?? GDocs?**
+    * [x] Recording actions and tasks. Options are: github issues, planning docs in wiki, gdocs, spreadsheet (e.g. issue tree)? **✅ Github issues for day to day tasks. May do larger "epic/project" planning in `meta` section of wiki. Finally, Issue tree spreadsheet provides overview and we will attach tasks to items there**
+  * [x] Can we do all the work "in the open"? **Pretty much. For some job stories or interviews may need to record privately and process before sharing**
+  * [x] Are we doing iterations and of what form? **✅ Yes, we are going to do 2 week iterations.**
+* [x] Materials
+  * [x] Where is the primary location for materials etc e.g. are we using markdown/hackmd/git/obsidian or gdocs? **✅ consolidate on the wiki (markdown + github) using coggle only to provide overviews or brainstorm. More discussion below. For drafting people can use whatever they are comfortable with**
   * [x] Existing materials are tidied up (e.g. PA10) **✅ 2022-03-11 DONE except for job stories**
 
 ## Tasks
 
 * [x] Prep
 * [x] Background reading
-* [ ] Backlog generation
-* [ ] Prioritization
+* [ ] Backlog and prioritization
 * [ ] Summary
 * [ ] Misc
   * [x] Consolidate our claims database stuff in one place ✅ **2022-03-11 have consolidated on coggle for now**
@@ -61,15 +66,40 @@ General concepts of project management
   * [x] plan **✅ Read it**
   * [x] design **✅ Read it**
 * [x] Read issue tree https://docs.google.com/spreadsheets/d/12Yh1kuxH4uoposLUJsJifM2W_zixkAhlc7QgcKavfls/edit#gid=2049708942 ✅ **have read through issue tree, next action is to add in answers**
-* [ ]  fill in issue tree answers
+* [ ] fill in issue tree answers
 
-## Brainstorm and Organize Plan
+### Brainstorm and Organize 👈
 
 🚩 already have issue tree and plan.md - do we need to do more and if so where ...
 
+Brainstorming major next steps
+
+* [ ] library integration
+* [ ] guide - https://github.com/life-itself/web3/issues/77
+  * [ ] ⏩ review current status and what remains to be done
+* [ ] post existing materials
+* [ ] tech side
+
+Re the claims
+
+Outcome vision
+
+* [ ] A page for each major claim in the taxonomy
+  * [ ] The evaluation progress of each claim
+  * [ ] The evaluation (e.g. true/false)
+  * [ ] Aspirations it links to
+  * [ ] Who's making it and where (big egs)
+
+Random
+
+* [ ] A page for the major episodes we've done as the landing page for them separate from the youtube
+  * [ ] Where do these go? **✅ `/notes/`**
+  * [ ] Do we flag them into news somehow? **🚧 someday**
+
+
 ### Simplification of tools and process for content
 
-H: Consolidate and simplify material and structure
+H: Consolidate and simplify material and structure => consolidate on the wiki using coggle only to provide overviews or brainstorm.
 
 Why?
 
