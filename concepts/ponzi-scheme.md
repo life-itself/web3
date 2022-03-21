@@ -17,7 +17,7 @@ Some participants can make money investing in Ponzi schemes, but the basic fact 
 * Krugman, Paul. 2018. ‘Bitcoin Is Basically a Ponzi Scheme’. The Seattle Times 30. https://www.seattletimes.com/opinion/bitcoin-is-basically-a-ponzi-scheme/.
 * Stolfi, Jorge. n.d. ‘Bitcoin Is a Ponzi’. Accessed 19 March 2022. https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html.
 * Sohale Andrus Mortazvi. n.d. ‘Cryptocurrency Is a Giant Ponzi Scheme’. Jacobin. Accessed 20 March 2022. https://jacobinmag.com/2022/01/cryptocurrency-scam-blockchain-bitcoin-economy-decentralization.
-* *‘Why Bitcoin Is Worse than a Madoff-Style Ponzi Scheme | Financial Times’. n.d. Accessed 20 March 2022. https://www.ft.com/content/83a14261-598d-4601-87fc-5dde528b33d0.
+* ‘Why Bitcoin Is Worse than a Madoff-Style Ponzi Scheme | Financial Times’. n.d. Accessed 20 March 2022. https://www.ft.com/content/83a14261-598d-4601-87fc-5dde528b33d0.
 * ‘Bitcoin Pyramid Schemes Wreak Havoc on Brazil’s “New Egypt”’. 2022. AP NEWS. 22 January 2022. https://apnews.com/article/cryptocurrency-technology-business-brazil-bitcoin-2dc801e5e3aa477ce7983d84dc8a64bb.
 * Shri T Rabi Sankar. n.d. ‘Cryptocurrencies – An Assessment’. Reserve Bank of India. Accessed 2 March 2022. https://rbi.org.in/Scripts/BS_SpeechesView.aspx?Id=1196.
 * Bartoletti, Massimo, Salvatore Carta, Tiziana Cimoli, and Roberto Saia. 2020. ‘Dissecting Ponzi Schemes on Ethereum: Identification, Analysis, and Impact’. Future Generation Computer Systems 102: 259–77.

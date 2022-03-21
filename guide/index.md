@@ -30,6 +30,7 @@ Understand the terminology used to describe crypto and web3.
 * [Assets](/concepts/assets.md)
 * [Speculative asset](/concepts/speculation.md)
 * [Market manipulation](../concepts/market-manipulation.md)
+* [DeFi](../concepts/defi.md)
 * [DAO](/concepts/dao.md)
 * [Stablecoin](../concepts/stablecoin.md)
 * [Regulatory arbitrage](../concepts/regulatory-arbitrage.md)
@@ -192,6 +193,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 
 **Regulation**
 
+* [Howey test](../concepts/howey-test.md)
 * [Securities framework](/concepts/security.md)
 * [Anti-money laundering law](/concepts/aml.md)
 * [Know Your Customer Law](/concepts/kyc.md)

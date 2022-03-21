@@ -15,6 +15,7 @@ Art's value is often tied to its provenance and [sign value](sign-value.md).
 
 Art may be [artificial scarce](artificial-scarcity.md) if created as part of a collection.
 
-The art market has a great amount of [asymmetric-information](asymmetric-information.md) and [market manipulation](market-manipulation.md).
+The art market has a great amount of [asymmetric information](asymmetric-information.md) and [market manipulation](market-manipulation.md) and is often used a vehicle for [money laundering](money-laundering.md).
 
 ## References
+1. Solimano, Andrés. 2021. ‘The Evolution of Contemporary Arts Markets’. https://doi.org/10.4324/9781003215127.
