@@ -3,5 +3,7 @@ A situation in [market](market.md) behaviour in which participants are encourage
 
 Often cited as a factor leading to the 2008 subprime mortgage crisis.
 
+See [credit default swaps](cds.md).
+
 ## References
 * Momtaz, Paul P. 2020. ‘Entrepreneurial Finance and Moral Hazard: Evidence from Token Offerings’. Journal of Business Venturing, 106001.

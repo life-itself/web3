@@ -1,6 +1,8 @@
 # Gold
 Gold is a precious metal sometimes used as investment and historically as coinage for [currency](currency.md).
 
+See also [gold standard](gold-standard.md).
+
 ## Properties
 
 Gold has [use value](use-value.md) in jewellery and electronics.

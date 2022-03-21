@@ -26,7 +26,6 @@ See ["madness of crowds"](madness-crowds.md), [market mania](market-mania.md) an
 1. Corradi, Fiammetta, and Philipp Höfner. 2018. ‘The Disenchantment of Bitcoin: Unveiling the Myth of a Digital Currency’. International Review of Sociology 28 (1): 193–207. https://doi.org/10.1080/03906701.2018.1430067.
 1. Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’. https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf.
 1. Shri T Rabi Sankar. n.d. ‘Cryptocurrencies – An Assessment’. Reserve Bank of India. Accessed 2 March 2022. https://rbi.org.in/Scripts/BS_SpeechesView.aspx?Id=1196.
-* Baur, Dirk G., and Thomas Dimpfl. 2021. ‘The Volatility of Bitcoin and Its Role as a Medium of Exchange and a Store of Value’. Empirical Economics 61 (5): 2663–83. https://doi.org/10.1007/s00181-020-01990-5.
 * Chancellor, Edward. 1999. ‘Devil Take the Hindmost: A History of Financial Speculation’.
 * Demmler, Michael, and Amilcar Orlian Fernández Domínguez. 2021. ‘Bitcoin and the South Sea Company: A Comparative Analysis’. Revista Finanzas y Política Económica 13 (1): 197–224.
 * Kolchinski, Alex. 2022. ‘Crypto Is an Unproductive Bubble’. Alex Kolchinski (blog). 18 March 2022. https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/.

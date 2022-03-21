@@ -5,6 +5,7 @@ The technical purpose of blockchains is to create [censorship resistent](../conc
 
 ## References
 1. Schneier, Bruce. 2019. ‘There’s No Good Reason to Trust Blockchain Technology’. Wired Magazine. https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/.
+1. Jeffries, Adrianne. 2018. ‘Blockchain Is Meaningless’. The Verge 7: 2018.
 1. Rosenthal, David. n.d. ‘Stanford Lecture on Cryptocurrency’. Accessed 2 March 2022. https://blog.dshr.org/2022/02/ee380-talk.html.
 1. Stinchcombe, Kai. 2017. ‘Ten Years In, Nobody Has Come Up With a Use for Blockchain’. Hackernoon. 22 December 2017. https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100.
 1. ———. 2018. ‘Blockchain Is Not Only Crappy Technology but a Bad Vision for the Future’. Medium (blog). 9 April 2018. https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec.
@@ -21,10 +22,3 @@ The technical purpose of blockchains is to create [censorship resistent](../conc
 1. ———. 2022b. ‘It’s Not Still the Early Days’. Molly White. 14 January 2022. https://blog.mollywhite.net/its-not-still-the-early-days/.
 1. Pollock, Rufus. 2016. ‘Reflections on the Blockchain · Rufus Pollock Online’. 2 July 2016. https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/.
 1. Bindseil, Ulrich, Patrick Papsdorf, and Jürgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’. 7 January 2022. https://web.archive.org/web/20220107084533/https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf.
-
-## References
-* [@orlowski_blockchain_2018]
-* [@rauchs_2nd_2019]
-* [@bindseil_encrypted_2022]
-* [@olson_problem_2022]
-* [@diehl_case_nodate]

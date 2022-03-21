@@ -15,7 +15,7 @@ In computer science terms, the NFT definition of "ownership" refers to the proce
 ## Duplication
 NFTs have been critizied as having no way of guaranteeing uniqueness of the datum or hyperlink. Since multiple NFTs can be created that reference the same artwork there is n canonical guarantee of uniqueness that an NFT purchased is "authentic" and it remains unclear what "authentic" would mean regarding hyperlinks which are infinitely reproducible.
 
-Two smart contracts which reference the same piece of data or art are effectively identical to each other.
+Two NFT smart contracts which reference the same piece of data or art are effectively identical to each other.
 
 ## Plagiarism
 Given the duplication problem above, many artists have critized NFT sales that involve plagarized versions of art whereby a [pseudonymous](pseudonymous.md) party will "steal" or reference the work of another when deploying the [smart contract](smart-contracts.md) allowing the third party to potentially profit off the work of another with no attribution or royalties paid to the original artist.
@@ -29,7 +29,7 @@ The NFT definition of "ownership" has been critized as having no single source o
 NFTs have been critized for the fact that the hyperlinks to the data in the [smart contract](smart-contracts.md) do not point to blockchain-hosted data but instead to content served on the open internet on private servers. These servers are themselves are operated by third parties which may cease to exist or serve the content that the NFT points at. When the content goes down the hyperlink is said to *link rot* and the underlying data is no longer accesible by the alleged "owner" of the NFT and now the NFT effectively refers to nothing.
 
 ## Tinkerbell Effect
-NFTs have been critizied as only having value derived from the [tinkerbell effect](tinkerbell-effect.md) attached to the supposition that much of the NFT culture resembles either a [pyramid scheme](pyramid-scheme.md) or [high-control group](high-control-group.md) which is coercive in maintaining a shared delusion amongst members of an in group who have a financial incentive to create a market [bubble](bubble.md).
+NFTs have been critizied as only having value derived from the [tinkerbell effect](tinkerbell-effect.md) attached to the supposition that much of the NFT culture resembles either a [pyramid scheme](pyramid-scheme.md) or [high-control group](high-control-group.md) which is coercive in maintaining a shared delusion amongst members of an ingroup who have a financial incentive to create a market [bubble](bubble.md).
 
 ## Market Manipulation
 NFTs have been critized as having excessive amounts of [market manipulation](market-manipulation.md), and in particular large demonstrated cases of [wash trading](wash-trading.md) which are now expected and normalized in the market. The presence of these phenomenon makes it difficult to ascertain what (if any) of the [price formation](price-formation.md) is organic versus the work of a coordinated [cartel](cartel.md) attempting to create [asymmetric information](asymmetric-information.md) .

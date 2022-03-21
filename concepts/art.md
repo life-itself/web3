@@ -16,3 +16,5 @@ Art's value is often tied to its provenance and [sign value](sign-value.md).
 Art may be [artificial scarce](artificial-scarcity.md) if created as part of a collection.
 
 The art market has a great amount of [asymmetric-information](asymmetric-information.md) and [market manipulation](market-manipulation.md).
+
+## References

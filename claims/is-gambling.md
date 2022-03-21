@@ -4,6 +4,7 @@ Purchasing crypto assets is a form of gambling. Crypto assets have no [income](.
 Crypto assets are not gambling if one participates in a [cartel](../concepts/cartel.md) which does [pump and dump schemes](../concepts/pump-and-dump.md)  or other forms of [market manipulation](../concepts/market-manipulation.md) which uses [asymmetric information](../concepts/asymmetric-information.md) to defraud other market participants. Pump and dump schemes result in a net wealth transfer from the larger [market](../concepts/market.md) to a small set of insiders.
 
 ## References
+1. Sharma, Ruchira. 2022. ‘“Crypto Ruined My Life”: The Mental Health Crisis Hitting Bitcoin Investors’. Vice (blog). 16 February 2022. https://www.vice.com/en/article/akvn8z/crypto-bad-for-mental-health.
 1. Barrett, Claer. 2021. ‘Why Young Investors Bet the Farm on Cryptocurrencies’. Financial Times, 28 May 2021. https://www.ft.com/content/162839aa-0437-478b-a4d4-4a8d7ab71458.
 1. Powell, Jamie. 2019. ‘Crypto-Shills’. Financial Times. https://ftalphaville.ft.com/2018/11/29/1543469404000/Crypto-shills/.
 1. Dhawan, Anirudh, and Tālis J Putniņš. 2020. ‘A New Wolf in Town? Pump-and-Dump Manipulation in Cryptocurrency Markets’. Pump-and-Dump Manipulation in Cryptocurrency Markets (August 10, 2020).

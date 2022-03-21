@@ -1,7 +1,7 @@
 # Bitcoin is a means to counter authoritarian regimes
 
-## References
 
+## References
 * Bogost, Ian. 2017. ‘Cryptocurrency Might Be a Path to Authoritarianism’. The Atlantic 30.
 * Taleb, Nassim Nicholas. 2021. ‘Bitcoin, Currencies, and Fragility’. ArXiv:2106.14204 [Physics, q-Fin], July. http://arxiv.org/abs/2106.14204.
 * Krugman, Paul. 2022. ‘The Strange Alliance of Crypto and MAGA Believers’. The New York Times, 11 January 2022, sec. Opinion. https://www.nytimes.com/2022/01/10/opinion/crypto-cryptocurrency-money-conspiracy.html.
