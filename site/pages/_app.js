@@ -11,9 +11,9 @@ import MdxPage from '../components/MDX'
 import * as gtag from '../lib/gtag'
 
 function MyApp({ Component, pageProps }) {
+  const router = useRouter()
   // Google Analytics
   if (siteConfig.analytics) {
-    const router = useRouter()
     useEffect(() => {
       const handleRouteChange = (url) => {
         gtag.pageview(url)
@@ -25,23 +25,31 @@ function MyApp({ Component, pageProps }) {
     }, [router.events])
   }
   // end Google Analytics
+
+  const pageTitle = (
+    router.pathname == "/"
+      ? "home"
+        // convert slug to title
+      : router.pathname.split("/").pop().replace(/-/g, " ")
+  ) // capitalize first char of each word
+    .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
   
   return (
     <ThemeProvider attribute="class" defaultTheme="dark">
       <DefaultSeo
-        titleTemplate={'%s | ' + siteConfig.title}
+        titleTemplate={"%s | " + siteConfig.title}
         defaultTitle={siteConfig.title}
         description={siteConfig.description}
         {...siteConfig.nextSeo}
       />
       {/* Global Site Tag (gtag.js) - Google Analytics */}
-      {siteConfig.analytics &&
+      {siteConfig.analytics && (
         <Script
           strategy="afterInteractive"
           src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.analytics}`}
         />
-      }
-      {siteConfig.analytics &&
+      )}
+      {siteConfig.analytics && (
         <Script
           id="gtag-init"
           strategy="afterInteractive"
@@ -56,16 +64,16 @@ function MyApp({ Component, pageProps }) {
             `,
           }}
         />
-      }
-      <Layout title={pageProps.title ?? siteConfig.title}>
-        { 
-          Component.layout == 'js'
-            ? <Component {...pageProps} />
-            : <MdxPage children={{ Component, pageProps }} />
-        }
+      )}
+      <Layout title={pageTitle}>
+        {Component.layout == "js" ? (
+          <Component {...pageProps} />
+        ) : (
+          <MdxPage children={{ Component, pageProps }} />
+        )}
       </Layout>
     </ThemeProvider>
-  )
+  );
 }
 
       // if this is a markdown page use this layout by default ...
