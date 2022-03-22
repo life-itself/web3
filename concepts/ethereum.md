@@ -1,11 +1,14 @@
 # Ethereum
-Ethereum is a [cryptoasset](cryptoasset.md) that extends the [bitcoin](bitcoin.md) model to allow the execution of [smart contracts](smart-contracts.md).
+
+Ethereum is a [blockchain](blockchain.md) protocol and [cryptoasset](cryptoasset.md) that extends the [bitcoin](bitcoin.md) model to allow the execution of [smart contracts](smart-contracts.md).
+
+NB: following common usage we are using Ethereum for both the protocol itself, its mainnet and its associated token Ether or ETH.
 
 ## Properties
 
-Ethereum is not a [currency](currency.md).
+Ethereum is based on the [consensus algorithm](consensus-algorithm.md) known as Proof of Work [mining](mining.md).
 
-Ethereum is a [speculative](speculation.md) investment. 
+Ethereum is not a [currency](currency.md). Ethereum is a protocol and Ether is a protocol token and not a currency.
 
 Ethereum is [deflationary](deflationary.md).
 
@@ -13,15 +16,15 @@ Ethereum is a [bearer instrument](bearer-instrument.md).
 
 Ethereum has no [fundamental value](fundamental-value.md).
 
-Ethereum has no [use value](use-value.md).
+Ethereum has no [use value](use-value.md) (like most financial assets).
 
 Ethereum has no [income-cashflows](income-cashflows.md).
 
 Ethereum has a [present-value](present-value.md) of zero.
 
-Ethereum has a [terminal-value](terminal-value.md) of zero.
+Ethereum has a [market-value](market-value.md) derived from a combination of speculation and use for transactions on the network.
 
-Ethereum is a [greater-fool theory](greater-fool-theory.md) asset.
+Ethereum has a [terminal-value](terminal-value.md) of zero.
 
 Ethereum is a [non-productive](productive-asset.md) investment.
 
@@ -29,9 +32,8 @@ Ethereum has a negative [expected return](expected-return.md).
 
 Ethereum is a [security](security.md).
 
-Ethereum is based on the [consensus algorithm](consensus-algorithm.md) known as Proof of Work [mining](mining.md).
-
 ## References
+
 1. Ante, Lennart. 2020. ‘Smart Contracts on the Blockchain – A Bibliometric Analysis and Review’. SSRN Electronic Journal, no. 10: 1–48. https://doi.org/10.2139/ssrn.3576393.
 1. ———. 2021a. ‘Non-Fungible Token (NFT) Markets on the Ethereum Blockchain: Temporal Development, Cointegration and Interrelations’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3904683.
 1. ———. 2021b. ‘Smart Contracts on the Blockchain – A Bibliometric Analysis and Review’. Telematics and Informatics 57: 101519. https://doi.org/10.1016/j.tele.2020.101519.
