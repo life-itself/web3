@@ -5,7 +5,7 @@ See the [assets](../concepts/assets.md) comparison chart for an overview of how 
 
 Crypto assets are [not currency](is-bitcoin-currency.md) because they cannot fulfil the definition of [money](../concepts/money.md).
 
-Crypto assets are not [commodities](../concepts/commodity.md) because they have no intrinsic value needed to fulfil any productive economic activity or human need. A hypothetical definition of their [use value](../concepts/use-value.md) depends on a circular logic.
+Crypto assets are not [commodities](../concepts/commodity.md) because they have no intrinsic value needed to fulfil any productive economic activity or human need. Any hypothetical definition of their [use value](../concepts/use-value.md) depends on circular logic and is thus absurd.
 
 Crypto assets may also be a form of [art](../concepts/art.md) under the fuzzy definition of "artistic intent".
 

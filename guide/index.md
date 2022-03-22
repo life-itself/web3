@@ -29,6 +29,7 @@ Understand the terminology used to describe crypto and web3.
 * [Zero-sum game](../concepts/zero-sum-game.md)
 * [Memecoins](../concepts/memecoin.md)
 * [Assets](/concepts/assets.md)
+* [Intrinsic value](../concepts/use-value.md)
 * [Store of value](../concepts/store-of-value.md)
 * [Speculative asset](/concepts/speculation.md)
 * [Market manipulation](../concepts/market-manipulation.md)
@@ -172,6 +173,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 	* [Certificate deposit](../concepts/cd.md)
 	* [Dollar](../concepts/dollar.md)
 	* [Commercial paper](../concepts/commercial-paper.md)
+	* [Credit Default Swap](../concepts/cds.md)
 
 **Technology**
 
@@ -210,13 +212,14 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 **Sociology**
 
 * [Value](../concepts/value.md)
+* [Use value](../concepts/use-value.md)
+* [Sign value](../concepts/sign-value.md)
 * [Bubbles](../concepts/bubble.md)
 * ["Madness of crowds"](../concepts/madness-crowds.md)
 * [Decentralization](../concepts/decentralization.md)
 * [Recentralization](../concepts/recentralization.md)
 * [High control groups](../concepts/high-control-group.md)
 * [Thought terminating cliche](../concepts/thought-terminating-cliches.md)
-* [Sign value](../concepts/sign-value.md)
 * [Bandwagon bias](../concepts/bandwagon-bias.md)
 * [Tinkerbell effect](../concepts/tinkerbell-effect.md)
 * [Endowment effect](../concepts/endowment-effect.md)

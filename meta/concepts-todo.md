@@ -63,7 +63,7 @@ Second Pass
 - [ ] [mlm](../concepts/mlm.md)
 - [ ] [rtgs](../concepts/rtgs.md)
 - [ ] [staking](../concepts/staking.md)
-- [ ] [systemic-risk](../concepts/systemic-risk.md)
+- [x] [systemic-risk](../concepts/systemic-risk.md)
 - [ ] [yield-farming](../concepts/yield-farming.md)
 - [x] [stablecoin](../concepts/stablecoin.md)
 - [ ] [capital-formation](../concepts/capital-formation.md)
@@ -75,21 +75,6 @@ Second Pass
 - [x] [paper-wealth](../concepts/paper-wealth.md)
 - [ ] [endowment-effect](../concepts/endowment-effect.md)
 - [x] [bandwagon-bias](../concepts/bandwagon-bias.md)
-
-Claims
-
-- [ ] [authoritarianism](../claims/authoritarianism.md)
-- [ ] [web3-decentralized](../claims/web3-decentralized.md)
-- [x] [environmental-footprint](../claims/environmental-footprint.md)
-- [x] [is-bubble](../claims/is-bubble.md)
-- [ ] [narrative-economics](../concepts/narrative-economics.md)
-- [x] [digital-gold](../claims/digital-gold.md)
-- [ ] [new-internet](../claims/new-internet.md)
-- [ ] [risk-to-state](../claims/risk-to-state.md)
-- [ ] [systemic-risk](../concepts/systemic-risk.md)
-- [ ] [threaten-dollar](../claims/threaten-dollar.md)
-- [x] [valuation-model](../concepts/valuation-model.md)
-- [x] [what-type-of-asset](../claims/what-type-of-asset.md)
 
 Ideologies
 
