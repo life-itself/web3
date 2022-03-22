@@ -27,6 +27,7 @@ Bitcoin is not compatible with ESG investing.
 
 ## References
 
+
 1. Gallersdörfer, Ulrich, Lena Klaaßen, and Christian Stoll. ‘Accounting for Carbon Emissions Caused by Cryptocurrency and Token Systems’, 2021. https://arxiv.org/abs/2111.06477.
 1. Goodkind, Andrew L., Benjamin A. Jones, and Robert P. Berrens. ‘Cryptodamages: Monetary Value Estimates of the Air Pollution and Human Health Impacts of Cryptocurrency Mining’. Energy Research and Social Science 59, no. March 2019 (2020): 101281. https://doi.org/10.1016/j.erss.2019.101281.
 1. Gallersdörfer, Ulrich, Lena Klaaßen, and Christian Stoll. ‘Accounting for Carbon Emissions Caused by Cryptocurrency and Token Systems’, 2021. https://arxiv.org/abs/2111.06477.
@@ -37,3 +38,4 @@ Bitcoin is not compatible with ESG investing.
 1. Vries, Alex De. ‘Bitcoin’s Energy Consumption Is Underestimated : A Market Dynamics Approach’. Energy Research & Social Science 70, no. July (2020): 101721. https://doi.org/10.1016/j.erss.2020.101721.
 1. Vries, Alex de. ‘Bitcoin’s Growing Energy Problem’. Joule 2, no. 5 (2018): 801–5. https://doi.org/10.1016/j.joule.2018.04.016.
 1. Vries, Alex de, and Christian Stoll. ‘Bitcoin’s Growing e-Waste Problem’. Resources, Conservation and Recycling 175, no. September (2021): 105901. https://doi.org/10.1016/j.resconrec.2021.105901.
+1. Wanat, Emanuel. 2021. ‘Are Crypto-Assets Green Enough? – An Analysis of Draft EU Regulation on Markets in Crypto Assets from the Perspective of the European Green Deal’. Osteuropa Recht 67 (2): 237–50. https://doi.org/10.5771/0030-6444-2021-2-237.

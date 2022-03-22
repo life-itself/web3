@@ -41,7 +41,7 @@ We think good sensemaking begins by clarifying and agreeing the questions we wan
 * What are the [narratives](../../claims/narrative-economics.md) and claims made for web3, both positive and negative?
 * Based on the theory and evidence at our disposal, how should we evaluate these claims?
 * Given our evaluations, what should we do? Should we support and/or improve web3 technology, or, alternatively, restrict it? How does this differ across different uses (e.g. [DAOs](../../concepts/dao.md) vs [NFTs](../../concepts/nft.md))? How should we do this?
-* More generally, what options are there both in web3 and beyond to fulfil on the aspirations voiced for it? And thus, how should we direct our attention, time and money most effectively to realize these aspirations whether via web3 or other means?
+* More generally, what options are there both in web3 and beyond to fulfil on the aspirations voiced for it? And thus, how should we direct our attention, time and [money](../../concepts/money.md) most effectively to realize these aspirations whether via web3 or other means?
 
 And here is our full structured tree of questions:
 

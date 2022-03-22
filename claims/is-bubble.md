@@ -24,7 +24,6 @@ And several notable investors have also described it as a bubble:
 * George Soros
 
 ## References
-
 1. Chancellor, Edward. 1999. ‘Devil Take the Hindmost: A History of Financial Speculation’.
 1. Blanchard, Olivier J, and Mark W Watson. 1982. ‘Bubbles, Rational Expectations and Financial Markets’. NBER Working Paper, no. w0945.
 1. Bernstein, William J. 2021. The Delusions of Crowds: Why People Go Mad in Groups. Grove Press.
@@ -34,9 +33,5 @@ And several notable investors have also described it as a bubble:
 1. Mackay, Charles. 2012. Extraordinary Popular Delusions and the Madness of Crowds. Simon and Schuster.
 1. Nabilou, Hossein, and André Prüm. 2019. ‘Ignorance, Debt, and Cryptocurrencies: The Old and the New in the Law and Economics of Concurrent Currencies’. Journal of Financial Regulation 5 (1): 29–63. https://doi.org/10.1093/jfr/fjz002.
 1. Smales, L. A. 2022. ‘Investor Attention in Cryptocurrency Markets’. International Review of Financial Analysis 79: 101972. https://doi.org/10.1016/j.irfa.2021.101972.
-
-## References
-* [@blanchard_bubbles_1982]
-* [@caferra_bitcoin_2021]
-* [@fry_negative_2016]
-* [@tonelli_internet_2022]
+1. Kolchinski, Alex. 2022. ‘Crypto Is an Unproductive Bubble’. Alex Kolchinski (blog). 18 March 2022. https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/.
+1. Krugman, Paul. 2021. ‘The Brutal Truth About Bitcoin’. The New York Times 21.
