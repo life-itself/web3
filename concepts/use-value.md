@@ -3,13 +3,13 @@
 
 An example of a [commodity](commodity.md) with use value is wheat, whose use is the ability to produce flour and bread which can provide sustenance and satisfy human hunger and need for sustenance. Alternatively the use value of petrol is the capacity to burn it to produce energy. 
 
-An example of a financial product with no use value is a [stock](stock.md). Instead its [market value](market.md) is derived from its [fundamental value](fundamental-value.md) which originates from both the [legal framework](security.md) that gives rise to its existence and whose demand is generated from its exposure to [income-cashflows](income-cashflows.md).
+An example of a [financial asset](financial-asset.md) with no use value is a [stock](stock.md). Instead its [market value](market.md) is derived from its [fundamental value](fundamental-value.md) which originates from both the [legal framework](security.md) that gives rise to its existence and whose demand is generated from its exposure to [income-cashflows](income-cashflows.md).
 
 The [dollar](dollar.md) has no use value and no [fundamental value](fundamental-value.md), however it is a [monetary](money.md) instrument because of its efficacy as a [currency](currency.md).
 
-[Cypto assets](cryptoasset.md) are a [speculative](speculation.md) investment that has both no use value, no [fundamental value](fundamental-value.md) and are also non-monetary. Instead their demand is generated from [narrative](../claims/narrative-economics.md) and the [greater fool theory](greater-fool-theory.md).
+[Cypto assets](cryptoasset.md) are a [speculative](speculation.md) investment that has both no use value, no [fundamental value](fundamental-value.md) and are also non-monetary. Instead their demand curve is generated from [narrative](../claims/narrative-economics.md) and the [greater fool theory](greater-fool-theory.md).
 
-A similar historical pathological example of a [ficticious commodity](ficticious-commodity.md), with both no use value and no [fundamental-value](fundamental-value.md), would be [indulgences](https://en.wikipedia.org/wiki/Indulgence) sold by the medieval church based on [artificial demand](artificial-demand.md) induced by [narrative](narrative-economics.md).
+A historical pathological example of a [ficticious commodity](ficticious-commodity.md), with both no use value and no [fundamental-value](fundamental-value.md), would be [indulgences](https://en.wikipedia.org/wiki/Indulgence) sold by the medieval church based on [artificial demand](artificial-demand.md) induced by [narrative](narrative-economics.md).
 
 See the [asset comparison table](assets.md) for a larger enumeration of asset classes and their properties.
 

@@ -1,5 +1,5 @@
 # Private Money
-A [currency](currency.md) issued by a private party instead of a nation state or [central-banks](central-banks.md). Private money has a [distribution-problem](distribution-problem.md). 
+A [currency](currency.md) issued by a private party instead of a nation state or a [central bank](central-banks.md). Private money has a [distribution problem](distribution-problem.md).
 
 Many forms of private money are a type of *scrip* or a provisional certificate or promissory note of funds subscribed a company entitling the holder to a redemption upon demand possibly subject to restrictions.
 
@@ -19,6 +19,8 @@ Company scrip was a form of private money issued by corporations up until the ea
 
 Company scrip gave wildly asymmetric power to corporations and was deemed to be a predatory practice, and was banned in the United States and Europe in the mid 1900s.
 
+See [artificial demand](artificial-demand.md).
+
 ## Town Money
 Private money still lives in on parts of the United States and Europe in a limited form known as town money, whereby a local city or town will issue its own private notes which can be spent within a limited geographic region to encourage captive spending within a local region and to encourage tourism. These notes encourage circulation of money within the town and goods and services may be discounted when using the private money as a means of encourage to promote local businesses and increase tourist spending with the town. Town money is generally issued on small scales and is overseen by a local town government.
 
@@ -26,6 +28,8 @@ Private money still lives in on parts of the United States and Europe in a limit
 Casino tokens are a form of scrip used by customers to play [gambling](gambling.md) games at casinos. They act as a form of captive economy that allows the casino to regulate the inflows and outflows of money used in its games. Like 
 
 Under United States law if a customer purchases casino chips, they have the right to sell them back to the casino for the marked value. The casino is restricted from allowing customers to use chips to pay for goods or services, however they can be given or sold to other customers in peer to peer transactions.
+
+See [artificial demand](artificial-demand.md).
 
 ## References
 * Eich, Stefan. 2018. ‘The Currency of Politics’. The Political Theory of Money from Aristotle to Keynes.

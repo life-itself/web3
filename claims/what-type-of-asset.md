@@ -1,27 +1,26 @@
-# What type of assets are crypto token?
-Crypto assets are [securities](../concepts/security.md) contracts for [speculative](../concepts/speculation.md) investments.
+# What type of assets are crypto tokens?
+Crypto assets are [securities](../concepts/security.md) contracts for [speculative](../concepts/speculation.md) investments. This definition excludes [stablecoins](../concepts/stablecoin.md) which are a form of debt product or [deposit](../concepts/deposit.md) product.
 
-See the [assets](../concepts/assets.md) comparison chart for an overview of how crypto asset compare to traditional investments and currencies.
+Crypto assets are [not currencies](is-bitcoin-currency.md) because they cannot fulfil the definition of [money](../concepts/money.md).
 
-Crypto assets are [not currency](is-bitcoin-currency.md) because they cannot fulfil the definition of [money](../concepts/money.md).
+Crypto assets are not [financial assets](../concepts/financial-asset.md) because they have no claims on [income cashflows](income-cashflows.md), underlying [currency](currency.md) or [commodity](commodity.md), or risk transfer between counterparties.
 
-Crypto assets are not [commodities](../concepts/commodity.md) because they have no intrinsic value needed to fulfil any productive economic activity or human need. Any hypothetical definition of their [use value](../concepts/use-value.md) depends on circular logic and is thus absurd.
+Crypto assets are not [commodities](../concepts/commodity.md) because they have no [intrinsic value](../concepts/use-value.md) needed to fulfil any productive economic activity or human need. Any hypothetical definition of their [use value](../concepts/use-value.md) as a commodity depends on circular logic and is thus absurd.
 
 Crypto assets may also be a form of [art](../concepts/art.md) under the fuzzy definition of "artistic intent".
 
+See the [assets](../concepts/assets.md) comparison chart for an overview of how crypto asset compare to traditional investments and currencies.
+
 ## Comparables
+While crypto assets are securities contracts, they are a pathological form of a zero-income security because they have no underlying asset or cashflows. Thus crypto assets have no direct correspondence in traditional markets, but have several pathological equivalences of traditional assets with absurd premises or terms. 
 
-Crypto assets have no direct correspondence in traditional markets, but have several pathological equivalences of traditional assets with absurd premises or terms. 
-
-* Tulip [bubble](../concepts/bubble.md)
 * Zero-coupon perpetual [bond](bond.md)
-* Unspendable [currency](currency.md)
-* [Equity](security.md) with no cash flows or dividends
-* [Commodity](commodity.md) with no [use value](../concepts/use-value.md)
-* Exchange traded [pyramid-scheme](pyramid-scheme.md)
+* [Equity](security.md) with no cashflows or dividends
+* Exchange traded [pyramid scheme](pyramid-scheme.md)
 * [Derivative](derivative.md) contract with no underlying
 * [Libertarian](ideologies/libertarianism.md) performance [art](art.md)
 * Self-organizing [Ponzi scheme](ponzi-scheme.md)
+* Tulip [bubble](../concepts/bubble.md)
 * [Indulgences](https://en.wikipedia.org/wiki/Indulgence)
 
 ## References
