@@ -29,6 +29,7 @@ Understand the terminology used to describe crypto and web3.
 * [Zero-sum game](../concepts/zero-sum-game.md)
 * [Memecoins](../concepts/memecoin.md)
 * [Assets](/concepts/assets.md)
+* [Store of value](../claims/store-of-value.md)
 * [Speculative asset](/concepts/speculation.md)
 * [Market manipulation](../concepts/market-manipulation.md)
 * [DeFi](../concepts/defi.md)

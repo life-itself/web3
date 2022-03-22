@@ -26,8 +26,6 @@ Bitcoin is not compatible with ESG investing.
 * [Market manipulation](../concepts/market-manipulation.md)
 
 ## References
-
-
 1. Gallersdörfer, Ulrich, Lena Klaaßen, and Christian Stoll. ‘Accounting for Carbon Emissions Caused by Cryptocurrency and Token Systems’, 2021. https://arxiv.org/abs/2111.06477.
 1. Goodkind, Andrew L., Benjamin A. Jones, and Robert P. Berrens. ‘Cryptodamages: Monetary Value Estimates of the Air Pollution and Human Health Impacts of Cryptocurrency Mining’. Energy Research and Social Science 59, no. March 2019 (2020): 101281. https://doi.org/10.1016/j.erss.2019.101281.
 1. Gallersdörfer, Ulrich, Lena Klaaßen, and Christian Stoll. ‘Accounting for Carbon Emissions Caused by Cryptocurrency and Token Systems’, 2021. https://arxiv.org/abs/2111.06477.

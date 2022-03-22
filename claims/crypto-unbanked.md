@@ -17,7 +17,3 @@ The purpose of retail banking services is to provide stable, reliable and safe m
 1. Sen, A., Lindquist, J., & Kolling, M. (2020). Who’s Cashing in? Contemporary Perspectives on New Monies and Global Cashlessness (Vol. 19). Berghahn Books.
 1. Swartz, L. (2020). New money: How payment became social media. Yale University Press. https://yalebooks.yale.edu/book/9780300233223/new-money
 1. Vasudevan, R. (2020). Libra and Facebook’s Money Illusion. Challenge, 63(1), 21–39. https://doi.org/10.1080/05775132.2019.1684662
-
-## References
-* [@koning_bitcoin_2020]
-* [@knauer_what_2019]

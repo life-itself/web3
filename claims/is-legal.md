@@ -11,9 +11,3 @@ Crypto assets are unlicensed [security](../concepts/security.md) contracts for u
 1. Rae, Shaela W, and Lorraine Mastersmith. 2019. ‘Crypto Asset Trading in Canada: Entering a New Era of Regulation’. Banking & Finance Law Review 35 (1): 153–85.
 1. Shri T Rabi Sankar. n.d. ‘Cryptocurrencies – An Assessment’. Reserve Bank of India. Accessed 2 March 2022. https://rbi.org.in/Scripts/BS_SpeechesView.aspx?Id=1196.
 1. Zwitter, Andrej, and Jilles Hazenberg. 2020. ‘Decentralized Network Governance: Blockchain Technology and the Future of Regulation’. Frontiers in Blockchain 3. https://www.frontiersin.org/article/10.3389/fbloc.2020.00012.
-
-## References
-* [@hacker_crypto-securities_2018]
-* [@azgad-tromer_crypto_2018]
-* [@ivaniuk_cryptocurrency_2020]
-* [@rae_crypto_2019]
