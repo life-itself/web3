@@ -4,7 +4,6 @@ The greater fool theory is a thesis in economics that market participants can so
 The greater fool theory presumes an infinite chain of fools in order for all participants to profit or  "make it" or profit from the [bubble](bubble.md).
 
 ## References
-
 * Mackay, Charles. 2012. Extraordinary Popular Delusions and the Madness of Crowds. Simon and Schuster.
 * Bernstein, William J. 2021. The Delusions of Crowds: Why People Go Mad in Groups. Grove Press.
 * Blanchard, Olivier J, and Mark W Watson. 1982. ‘Bubbles, Rational Expectations and Financial Markets’. NBER Working Paper, no. w0945.

@@ -66,6 +66,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Are crypto assets a form of predatory inclusion?](../claims/is-predatory.md)
 * [Is crypto a solution for the unbanked?](/claims/crypto-unbanked.md)
 * [Is crypto providing faster payment rails or better remittance services?](../claims/is-better-payments.md)
+* Are NFTs are good for artists?
 * [What is the narrative economics of crypto assets?](../claims/narrative-economics.md)
 * [Are crypto assets legal?](../claims/is-legal.md)
 * [Are crypto tokens a negative-sum investment?](/claims/negative-sum.md)
@@ -163,6 +164,8 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Reserve currency](../concepts/reserve-currency.md)
 * [Bretton Woods system](../concepts/bretton-woods.md)
 * [Wash trading](../concepts/wash-trading.md)
+* [Non-economic](../concepts/non-economic.md)
+* [Paper wealth](../concepts/paper-wealth.md)
 * [Liquidity pool](../concepts/liquidity-pool.md)
 * [Artificial demand](../concepts/artificial-demand.md)
 * [Financial asset](../concepts/financial-asset.md)

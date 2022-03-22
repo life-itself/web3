@@ -6,3 +6,5 @@ Products like [crypto asset](cryptoasset.md), [NFTs](nft.md) and sometimes [art]
 Financial instruments like bonds, stocks and derivatives are not artificially scarce because of their underlying cashflows. Commodities are not artificially scarce because of their physicality and intrinsic value.
 
 There is an infinite number of non-physical artificially scare assets that can be created, thus leading to a paradox where unless demand is also infinite their [market value](market-value.md) should trend towards zero.
+
+## References

@@ -1,4 +1,5 @@
 # Yield Farming
-CDs
+
+See also [CDs](cd.md).
 
 ## References

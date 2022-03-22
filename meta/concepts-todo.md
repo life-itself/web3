@@ -1,5 +1,4 @@
 # Conceps TODO
-
 First pass
 
 - [x] [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
@@ -21,12 +20,12 @@ First pass
 - [x] [market-maker](../concepts/market-maker.md)
 - [x] [meme-stock](../concepts/meme-stock.md)
 - [x] [moral-hazard](../concepts/moral-hazard.md)
-- [ ] [order-book](../concepts/order-book.md)
+- [x] [order-book](../concepts/order-book.md)
 - [x] [public-goods-problem](../concepts/public-goods-problem.md)
 - [x] [regulatory-capture](../concepts/regulatory-capture.md)
 - [x] [regulatory-arbitrage](../concepts/regulatory-arbitrage.md)
 - [x] [shadow-bank](../concepts/shadow-bank.md)
-- [ ] [terminal-value](../concepts/terminal-value.md)
+- [x] [terminal-value](../concepts/terminal-value.md)
 - [x] [value](../concepts/value.md)
 - [x] [wash-trading](../concepts/wash-trading.md)
 - [x] [web3](../concepts/web3.md)
@@ -67,14 +66,29 @@ Second Pass
 - [ ] [yield-farming](../concepts/yield-farming.md)
 - [x] [stablecoin](../concepts/stablecoin.md)
 - [ ] [capital-formation](../concepts/capital-formation.md)
-- [ ] [commercial-paper](../concepts/commercial-paper.md)
+- [x] [commercial-paper](../concepts/commercial-paper.md)
 - [x] [reserve-currency](../concepts/reserve-currency.md)
 - [x] [pseudonymous](../concepts/pseudonymous.md)
 - [x] [bearer-instrument](../concepts/bearer-instrument.md)
 - [x] [memecoin](../concepts/memecoin.md)
 - [x] [paper-wealth](../concepts/paper-wealth.md)
-- [ ] [endowment-effect](../concepts/endowment-effect.md)
+- [x] [endowment-effect](../concepts/endowment-effect.md)
 - [x] [bandwagon-bias](../concepts/bandwagon-bias.md)
+
+Third pass
+
+- [ ] [artificial-demand](../concepts/artificial-demand.md)
+- [ ] [atomic-swap](../concepts/atomic-swap.md)
+- [ ] [bank-run](../concepts/bank-run.md)
+- [ ] [broker](../concepts/broker.md)
+- [ ] [capital-formation](../concepts/capital-formation.md)
+- [ ] [cds](../concepts/cds.md)
+- [ ] [enclosure](../concepts/enclosure.md)
+- [ ] [ficticious-commodity](../concepts/ficticious-commodity.md)
+- [ ] [market-mania](../concepts/market-mania.md)
+- [ ] [price-risk](../concepts/price-risk.md)
+- [ ] [sanctions-enforcement](../concepts/sanctions-enforcement.md)
+- [ ] [survivorship-bias](../concepts/survivorship-bias.md)
 
 Ideologies
 

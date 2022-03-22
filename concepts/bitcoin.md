@@ -29,6 +29,8 @@ Bitcoin has a negative [expected return](expected-return.md).
 
 Bitcoin is a [security](security.md).
 
+Bitcoin is [artificial scarce](artificial-scarcity.md).
+
 Bitcoin is allegedly a [sound money](sound-money.md) in the [Austrian economics](ideologies/austrian-economics.md) school of thought.
 
 Bitcoin is based on [consensus algorithm](consensus-algorithm.md) known as Proof of Work [mining](mining.md).

@@ -11,10 +11,10 @@ The technical purpose of blockchains is to create [censorship resistent](../conc
 1. ———. 2018. ‘Blockchain Is Not Only Crappy Technology but a Bad Vision for the Future’. Medium (blog). 9 April 2018. https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec.
 1. Pollock, Rufus. 2016. ‘Reflections on the Blockchain · Rufus Pollock Online’. 2 July 2016. https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/.
 1. Orlowski, A. 2018. ‘Blockchain Study Finds 0.00% Success Rate and Vendors Don’t Call Back When Asked for Evidence’. The Register. https://www.theregister.com/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/.
-1. Diehl, Stephen. 2021. ‘Blockchainism’. 11 December 2021. https://www.stephendiehl.com/blog/blockchainism.html.
 1. Manski, Sarah, and Michel Bauwens. 2020. ‘Reimagining New Socio-Technical Economics Through the Application of Distributed Ledger Technologies’. Frontiers in Blockchain 2 (January): 1–17. https://doi.org/10.3389/fbloc.2019.00029.
 1. Pardo-Guerra, Juan Pablo. 2019. Automating Finance. https://doi.org/10.1017/9781108677585.
 1. Rauchs, Michel, Apolline Blandin, Keith Bear, and Stephen B McKeon. 2019. ‘2nd Global Enterprise Blockchain Benchmarking Study’. http://ssrn.com/paper=3461765.
+1. Diehl, Stephen. 2021. ‘Blockchainism’. 11 December 2021. https://www.stephendiehl.com/blog/blockchainism.html.
 1. Diehl, Stephen. 2021a. ‘The Non-Innovation of Cryptocurrency’. 7 July 2021. https://www.stephendiehl.com/blog/non-innovation.html.
 ———. 2021b. ‘The Handwavy Technobabble Nothingburger’. 24 November 2021. https://www.stephendiehl.com/blog/nothing-burger.html.
 1. Plant, Luke. 2022. ‘The Technological Case against Bitcoin and Blockchain’. Luke Plant’s Home Page. 5 March 2022. https://lukeplant.me.uk/blog/posts/the-technological-case-against-bitcoin-and-blockchain/.
