@@ -58,11 +58,9 @@ https://www.youtube.com/watch?v=gZ0iCJkM3PU
 	4.  Why do they want to build a network state?
 		1.  On 1729.com their explanation: To do biomedical research and human genetic experiments that are prohibited in other countries.
 5.  Classic problem in political science and philosophy to create justifications for sovereign states. There are many schools of thought.
-	1.  Thomas Hobbes argued that the absolute power of the sovereign was ultimately justified by the consent of the governed, who agreed, in a hypothetical social contract, to obey the sovereign in all matters in exchange for a guarantee of peace and security.
-	    
-	2.  Jürgen Habermas argues the modern state plays a large role in structuring the economy, by regulating economic activity and being a large-scale economic consumer/producer, and through its redistributive welfare state activities.
-	    
-	3.  Conflict theories of state formation and the claims of a legitimacy based on conquest and a subsequent monopoly on violence. This is a popular view in libertarian circles. The state is in perpetual frozen conflict with the individual and taxation is a protection racket not unlike the mob.
+	1. Thomas Hobbes argued that the absolute power of the sovereign was ultimately justified by the consent of the governed, who agreed, in a hypothetical social contract, to obey the sovereign in all matters in exchange for a guarantee of peace and security.
+	2. Jürgen Habermas argues the modern state plays a large role in structuring the economy, by regulating economic activity and being a large-scale economic consumer/producer, and through its redistributive welfare state activities.
+	3. Conflict theories of state formation and the claims of a legitimacy based on conquest and a subsequent monopoly on violence. This is a popular view in libertarian circles. The state is in perpetual frozen conflict with the individual and taxation is a protection racket not unlike the mob.
 6.  The traditional functions of the nation state are being replaced by cyberspace and citizenship (what does citizenship grant me: access to a physical space, the people there and the services provided most obviously physical defense, social security, participation in governance)
 	1.  Physical access (to other people)
 	2.  Physical access to jobs
@@ -89,24 +87,24 @@ https://www.youtube.com/watch?v=gZ0iCJkM3PU
 	2.  Synthesis of ideas from Chomskyan anarchism and neoreactionary thought. 
 		1.  “Burning Man Techno-anarchism turned to nation-building ”
 10.  The supposition is that the state can (and should) be hollowed out, we can replace all of its legacy functions with software, and the public goods that it once supported can be replaced by either the private sector or blockchain apps.
-	1.  Replacing the DMV and the tax authority with automation is a genuinely appealing idea to many people. Replacing it with the private sector is more controversial.
+		1. Replacing the DMV and the tax authority with automation is a genuinely appealing idea to many people. Replacing it with the private sector is more controversial.
 11.  Modern nation states are simply too big. People reason about community and politics at a Dunbar’s number level.
-	1.  Joseph Henrich has made a strong case that Western high-trust cultures are weird by most historical and global standards. It may be a “pathological” form of organization and something better may exist.
+		1. Joseph Henrich has made a strong case that Western high-trust cultures are weird by most historical and global standards. It may be a “pathological” form of organization and something better may exist.
 12.  A more optimal form of human self-organization is somewhere between a tribe and the modern nation state. The direct democracies of ancient Greece or authoritarian capitalist city-states like Singapore are an ideal middle-way that produces greater prosperity.
-	1.  Blockchain-friendly hubs are being created across the world (El Salvador, Singapore, Zug). These cities can be purchased using crowdfunding to give blockchain technology the rights of sovereign states and create utopias which will attract top talent looking for low-taxes, business opportunities and like-minded communities.
+		1. Blockchain-friendly hubs are being created across the world (El Salvador, Singapore, Zug). These cities can be purchased using crowdfunding to give blockchain technology the rights of sovereign states and create utopias which will attract top talent looking for low-taxes, business opportunities and like-minded communities.
 13.   There is a kernel of truth in all this, western democracies are slow and sclerotic and public trust in institutions is at an all time low. The Americans legitimately elected an imbecile to control their nuclear arsenal … things are clearly not working optimally in democracy.
-	1.  Infinite supply of whataboutisms talking about the genuine deficiencies in the American hegemony and rules based international order.
+		1. Infinite supply of whataboutisms talking about the genuine deficiencies in the American hegemony and rules based international order.
 14.  "Crypto is the smartest people in the world exiting into their own economy"
-	1.  Problems like climate change show that liberal democracies and the existing international order are highly vulnerable to paralysis on global tragedy of the commons problems.
-	2.  Just like evolution, corruption is the natural state of being, so we need to embrace corruption rather than live up to the ideals of liberal democracy.
-	3.  Instead of a strong man to save us, we need strong tech.
+		1. Problems like climate change show that liberal democracies and the existing international order are highly vulnerable to paralysis on global tragedy of the commons problems.
+		2. Just like evolution, corruption is the natural state of being, so we need to embrace corruption rather than live up to the ideals of liberal democracy.
+		3. Instead of a strong man to save us, we need strong tech.
 15.  Web3 is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
-	1.  We can’t stop runaway phenomenon. We simply have to embrace them. 
-	2.  Crypto is inevitable. We can’t put the toothpaste back in the tube.
-	3.  Creative destruction is unpredictable but in the end it’s right.
-	4.  Historical inventions like the printing press were fraught with concern and risk, and yet humanity survived those paradigm shifts. The disruption of the financial system is no different than the printing press.
-	5.  The train of progress only goes one direction, get on or get off. There’s no place for Luddites in the future.
-	6.  Matt Damon superbowl ad is the soft form of this worldview.
+		1. We can’t stop runaway phenomenon. We simply have to embrace them. 
+		2. Crypto is inevitable. We can’t put the toothpaste back in the tube.
+		3. Creative destruction is unpredictable but in the end it’s right.
+		4. Historical inventions like the printing press were fraught with concern and risk, and yet humanity survived those paradigm shifts. The disruption of the financial system is no different than the printing press.
+		5. The train of progress only goes one direction, get on or get off. There’s no place for Luddites in the future.
+		6. Matt Damon superbowl ad is the soft form of this worldview.
 
 **Critique**
 
@@ -127,24 +125,24 @@ https://www.youtube.com/watch?v=gZ0iCJkM3PU
 		3.  A worldview from a VC echo chamber talking their books or trying to strongarm their heterodox views using capital.
 4.  A tech-led plutocracy, not a utopia.
 5.  The state exists for a very good reason. It’s the only structure proven to sustain public goods at a civilization level and be the guarantor of last resort for justice, defense, and monetary issuance.
-	1.  Property rights over physical goods are not enforceable with cryptography.
-	2.  Dispute resolution between humans can rarely, if ever, be reduced down to code.
-	3.  We still need magistrates and courts.
-	4.  We still inevitably need a structure like a central bank.
-	5.  How does this solve the public goods problem? There appears to be no coherent connection between crypto coins and solutions to this problem.
+	1. Property rights over physical goods are not enforceable with cryptography.
+	2. Dispute resolution between humans can rarely, if ever, be reduced down to code.
+	3. We still need magistrates and courts.
+	4. We still inevitably need a structure like a central bank.
+	5. How does this solve the public goods problem? There appears to be no coherent connection between crypto coins and solutions to this problem.
 6.  The appeals to global UBI are interesting but don't make sense economically. How will we fund it?
 7.  We'll all be full-time FX traders at face value makes zero sense. Price discovery is important but who will smelt the aluminum for your MacBook
 8.  Oligarchy of the technical elite rule and those with access to capitals, where the vast majority of the public which has no ability to purchase say in governance. Which is now purely bought and sold as a commodity.
 9.  This perspective on web3 is an embodiment of what the political theorist Macpherson calls "possessive individualism", a philosophy in which an individual is conceived as the sole proprietor of his or her skills and owes nothing to society for them. These skills (and those of others) are a commodity to be bought and sold on the open market and in such a society is demonstrated a selfish and unending thirst for consumption which is considered the crucial core of human nature.
 10.  Ronald Coase's theory of the firm as an economic answer to possessive individualism.
-	1.  Why aren’t we all sole proprietors?
-	2.  Transaction costs model
+		1. Why aren’t we all sole proprietors?
+		2. Transaction costs model
 11.  This is a bleak dystopian vision of the future.
-	1.  Neal Stpehensons’s Burbclaves
-	2.  We can’t run nation states like we run tech startups.
-	3.  Skeptical about finding a quick-fix in technology or politics. There is wisdom in learning from the past and the institutions that exist.
-	4.  Esperanto-style solutionism has never worked for societies or economies. 
-	5. Anna Neima’s book The Utopians is full of similarly minded people and communities. They usually dissolve or collapse.
+		1. Neal Stpehensons’s Burbclaves
+		2. We can’t run nation states like we run tech startups.
+		3. Skeptical about finding a quick-fix in technology or politics. There is wisdom in learning from the past and the institutions that exist.
+		4. Esperanto-style solutionism has never worked for societies or economies. 
+		5. Anna Neima’s book The Utopians is full of similarly minded people and communities. They usually dissolve or collapse.
 
 ## References
 1. Barlow, John Perry. 2019. ‘A Declaration of the Independence of Cyberspace’. Duke Law & Technology Review 18 (1): 5–7.
