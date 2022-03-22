@@ -5,6 +5,8 @@ As has been consistently noted [2,3,8] throughout historical [market manias](../
 
 This coupled with the [weird subculture](weird-culture.md) of crypto assets and a [narrative economics](../concepts/narrative-economics.md) of belonging to a [high control group](../concepts/high-control-group.md) with the promises of [easy money](../concepts/ponzi-scheme.md) is a psychologically enticing proposition for a large demographic. The synthesis of the market mania and the narrative appeal of the culture and its political [imaginarires](../concepts/narrative-economics.md) appears to be the main driver of the crypto bubble.
 
+There is also a strong sample bias in self-reported winnings of crypto assets. With partipants who make outsized returns [gambling](../concepts/gambling.md) on the [bubble](../concepts/bubble.md) are more likely to report this returns compared to the vast majority of those who lost money as guaranteed by the [negative-sum](../concepts/zero-sum-game.md) dynamics of gambling on [crypto assets](../concepts/cryptoasset.md).
+
 See [madness of crowds](../concepts/madness-crowds.md), [bubble](../concepts/bubble.md), [market mania](../concepts/market-mania.md), [speculation](../concepts/speculation.md) and [bandwagon bias](../concepts/bandwagon-bias.md).
 
 ## References
