@@ -1,7 +1,7 @@
 # Are crypto assets a hedge against inflation?
  Since [crypto asset](../concepts/cryptoasset.md) have no exposure to domestic commodities there is no evidence of anti-correlation with a basket of goods that would be inversely to the national [currency](../concepts/currency.md) in times of inflation. Instead crypto assets seem largely correlated with the broader [stock](../concepts/stock.md) market and as such are not a hedge against any macroeconomic factors of either inflation or equity markets.
  
-[Crypto assets](../concepts/cryptoasset.md) are also not a reliable [store of value](store-of-value.md) in times of market instability, and as such do not provide a safe haven of any form since they are largely correlated with the broader market and exposed to the same shocks.
+[Crypto assets](../concepts/cryptoasset.md) are also not a reliable [store of value](../concepts/store-of-value.md) in times of market instability, and as such do not provide a safe haven of any form since they are largely correlated with the broader market and exposed to the same shocks.
 
  In his whitepaper *Bitcoin, Currencies, and Fragility*, Nassim Taleb deconstructs the "inflation hedge" thesis:
  

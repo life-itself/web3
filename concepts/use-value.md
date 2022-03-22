@@ -5,10 +5,15 @@ An example of a [commodity](commodity.md) with use value of wheat is the ability
 
 An example of a financial product with no use value is a [stock](stock.md). Instead its [market value](market.md) is derived from its [fundamental value](fundamental-value.md) which originates from both the [legal framework](security.md) that gives rise to its existence and whose demand is generated from its exposure to [income-cashflows](income-cashflows.md).
 
-A historical pathological example of a [ficticious commodity](ficticious-commodity.md), with both no use value and no [fundamental-value](fundamental-value.md), would be [indulgences](https://en.wikipedia.org/wiki/Indulgence) sold by the medieval Catholic church.
+A historical pathological example of a [ficticious commodity](ficticious-commodity.md), with both no use value and no [fundamental-value](fundamental-value.md), would be [indulgences](https://en.wikipedia.org/wiki/Indulgence) sold by the medieval Catholic church based on [artificial demand](artificial-demand.md) induced by [narrative](narrative-economics.md).
+
+The [dollar](dollar.md) has no use value and no [fundamental value](fundamental-value.md), however it is a [monetary](money.md) instrument because of its efficacy as a [currency](currency.md).
+
+[Cypto assets](cryptoasset.md) are a [speculative](speculation.md) investment that has both no use value, no [fundamental value](fundamental-value.md) and are also non-monetary. Instead their demand is generated from [narrative](../claims/narrative-economics.md) and the [greater fool theory](greater-fool-theory.md).
+
+See the [asset comparison table](assets.md) for a larger enumeration of asset classes and their properties.
 
 ## References
-
 1. Shri T Rabi Sankar. n.d. ‘Cryptocurrencies – An Assessment’. Reserve Bank of India. Accessed 2 March 2022. https://rbi.org.in/Scripts/BS_SpeechesView.aspx?Id=1196.
 1. Silverman, Gary. 2021. ‘Crypto Has “No Inherent Worth” But Is Good to Trade, Says Man Group Chief’. Financial Times, 26 July 2021. https://www.ft.com/content/9275baf4-0422-43a1-b8c9-9317882ca874.
 1. Weisenthal, Joe. n.d. ‘Bitcoin Is a Faith-Based Asset’. Accessed 2 March 2022. https://www.bloomberg.com/news/articles/2021-01-21/bitcoin-is-a-faith-based-asset-joe-weisenthal.
