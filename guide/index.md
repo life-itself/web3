@@ -133,6 +133,7 @@ Explore crypto and "web3" in terms of different perspectives on politics and eco
 * [Keynsian Economics](../concepts/ideologies/keynsian-economics.md)
 * [Accelerationism](../concepts/ideologies/accelerationism.md)
 * [Cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
+* [Anarchocapitalism](../concepts/ideologies/anarchocapitalism.md)
 
 ***
 
