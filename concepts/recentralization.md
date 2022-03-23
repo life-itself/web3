@@ -1,7 +1,7 @@
 # Recentralization
-A term for [blockchain](blockchain.md) project which alleges [decentralization](decentralization.md) in either their design, yet produces an outcome in which control of the protocol remains centralized in the hands of one or several central parties. Projects may achieve this end either intentionally or unintentionally.
+A term for [blockchain](blockchain.md) projects which alleges [decentralization](decentralization.md) in either their technical design or political imaginaries, yet produce an outcome in which control of the protocol remains centralized in the hands of one or several central parties. Projects may achieve this end either intentionally or unintentionally.
 
-See [DeFi](defi.md).
+See [web3](web3.md) and [DeFi](defi.md).
 
 ## References
 1. Aramonte, Sirio, Wenqian Huang, and Andreas Schrimpf. 2021. ‘DeFi Risks and the Decentralisation Illusion’, 16.

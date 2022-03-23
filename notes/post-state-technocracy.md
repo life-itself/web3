@@ -1,21 +1,24 @@
-# Post State Technocracy
+# Post-state Technocracy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZ0iCJkM3PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore the notion that crypto assets are a means to create a new form of "network state" outside of the existing international order.
+In episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore the notion that crypto assets are a means to create a new form of "network state" outside of the existing international order.
 
 * Youtube: https://www.youtube.com/watch?v=gZ0iCJkM3PU
 * Podcast: https://anchor.fm/life-itself/episodes/On-Web3-and-Post-State-Technocracy-with-Stephen-Diehl--Rufus-Pollock-e1g4cpe
 * Wiki Topic: [Post-state technocracy](../concepts/ideologies/post-state-technocracy.md)
 
+
+***
+
 # Episode Notes
 
-**Preface**
+## Preface
 
 1.  This week we’re going to start diving into the more utopian visions of crypto and web3. Unlike in the previous interviews where we discussed positions that were largely either monetary or financial reconfiguration (reinstate the gold standard, get rich quick) this time we’ll start engaging with people who really do have a set of political imaginaries about “making the world a better place” as they see it.
 2.  Specifically we’re going to engage with the imaginaries laid out by technologists and venture capitalists about a vision that allegedly aims to transition the world from the existing US-led international order to a vision in which blockchain technology and technocracy are the new foundations for global human governance.
 3.  This thesis has been put forward in various forms. So far, the most fully articulated form that we have found is from Balaji Srinivasan. We’ll link to the source material in the show notes. 
     
-**Conflict of Interests Disclaimer**
+## Conflict of Interests Disclaimer
 
 1.  It’s hard to disentangle VC narratives from:
 	1.  Talking their books
@@ -33,7 +36,7 @@ Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian i
 3.  First rule of sociology: Whether or not this view is intellectually coherent isn’t so much as important as whether people believe in this worldview as if it were coherent.
 	1.  Prefigurative politics - the best way to predict the future is to make it.
 
-**Pro**
+## Pro
 
 1.  These ideas are all based on the overarching conception of the self-sovereignty of cyberspace.
 	1.  In their words - “A network state is a social network with an agreed-upon leader, an integrated cryptocurrency, a definite purpose, a sense of national consciousness, and a plan to crowdfund physical territory.”
@@ -94,7 +97,7 @@ Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian i
 		5. The train of progress only goes one direction, get on or get off. There’s no place for Luddites in the future.
 		6. Matt Damon superbowl ad is the soft form of this worldview.
 
-**Critique**
+## Critique
 
 1.  A philosophy built on a disdain for top-down command and control structures. 
 	1.  A conception that a classless and hierarchy-free world is possible.
@@ -132,6 +135,8 @@ Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian i
 		4. Esperanto-style solutionism has never worked for societies or economies. 
 		5. Anna Neima’s book The Utopians is full of similarly minded people and communities. They usually dissolve or collapse.
 		
+***
+	
 ## Concepts Covered
 
 * [post-state-technocracy](post-state-technocracy.md)
@@ -142,6 +147,9 @@ Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian i
 * [public-goods-problem](../concepts/public-goods-problem.md)
 * [free-rider-problem](../concepts/free-rider-problem.md)
 * [private-money](../concepts/private-money.md)
+* [anarchocapitalism](../concepts/ideologies/anarchocapitalism.md)
+
+***
 
 
 ## References

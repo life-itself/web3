@@ -2,14 +2,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K5JtPTyc0y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-A deep dive into the nature of securities and their relation to crypto tokens with Stephen Diehl and Rufus Pollock.
+In episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as "securities", their relation to crypto tokens, and the regulatory framework that exists around these structures.
 
 * Youtube:  https://www.youtube.com/watch?v=z2uAg-AIs-Y
 * Podcast: https://anchor.fm/life-itself/episodes/Are-Cryptocurrencies-Securities--The-Nature-of-Securities--Their-Relation-to-Crypto-Tokens-with-Stephen-Diehl-e1fph69
 * Wiki topic:  [Securities Framework](../concepts/security.md)
 
-In episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as "securities", their relation to crypto tokens, and the regulatory framework that exists around these structures.
+
+***
 
 # Episode Notes
 
@@ -93,12 +93,16 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
     * Evolution and capitalism metaphor: extremophiles. 
   * **What is the right interplay between investment risk and the rule of law? Is creative destruction by any extra-legal means a positive force in the world?**
 
+***
   
-# Topics
+## Concepts Covered
+
 * [security](../concepts/security.md)
 * [howey-test](../concepts/howey-test.md)
 * [productive-asset](../concepts/productive-asset.md)
 * [ico](../concepts/ico.md)
+
+***
 
 ## References
 1. Bindseil, Ulrich, Patrick Papsdorf, and Jürgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’. 7 January 2022. https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf.

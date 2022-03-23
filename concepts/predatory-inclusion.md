@@ -1,6 +1,10 @@
 # Predatory Inclusion
 Predatory inclusion refers to a process whereby members of a marginalized group are provided with access to a good, service, or opportunity from which they have historically been excluded but under suboptimal or risky conditions that jeopardize the benefits of access.
 
+With regards to financial assets this concept is typically discussed in conjunction with the [unbanked.](unbanked..md)
+
+See [crypto exchange](crypto-exchange.md).
+
 ## References
 1. ‘Guidance on Cryptoassets’. 2019. Financial Conduct Authority. https://www.fca.org.uk/publication/consultation/cp19-03.pdf#page=11.
 1. Hacker, Philipp, Ioannis Lianos, Georgios Dimitropoulos, and Stefan Eich. 2019. Regulating Blockchain: : Techno-Social and Legal Challenges. https://doi.org/10.1093/oso/9780198842187.001.0001.

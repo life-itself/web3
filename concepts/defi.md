@@ -1,7 +1,7 @@
 # Decentralized Finance (DeFi)
 Defi is a broad category of [smart-contracts](smart-contracts.md) which loosely correspond to digital contracts running on a [blockchain](blockchain.md) which allow users to create collateralized loans out of [stablecoin](stablecoin.md) and which have side payouts in so-called "[governance tokens](governance-token.md)".
 
-DeFi generally refers to a collection of services which offer lending products offered by non-banks and which exist outside the regulatory perimeter as a form [regulatory-arbitrage](regulatory-arbitrage.md) and to fund margin trading activities to [speculaate](speculation.md) on [crypto assets](cryptoasset.md).
+DeFi generally refers to a collection of services which offer lending products offered by non-banks and which exist outside the regulatory perimeter as a form [regulatory arbitrage](regulatory-arbitrage.md) and to fund margin trading activities to [speculaate](speculation.md) on [crypto assets](cryptoasset.md).
 
 See also [yield farming](yield-farming.md), [AMM](amm.md), [DEX](dex.md) and [shadow bank](shadow-bank.md).
 
@@ -12,7 +12,6 @@ See also [yield farming](yield-farming.md), [AMM](amm.md), [DEX](dex.md) and [sh
 1. Barbereau, Tom, Reilly Smethurst, Orestis Papageorgiou, Alexander Rieger, and Gilbert Fridgen. 2022. ‘DeFi, Not So Decentralized: The Measured Distribution of Voting Rights’. In Proceedings of the 55th Hawaii International Conference on System Sciences. https://scholarspace.manoa.hawaii.edu/handle/10125/80074.
 1. Barbereau, Tom, Reilly Smethurst, Orestis Papageorgiou, Johannes Sedlmeir, and Gilbert Fridgen. 2022. ‘Decentralised Finance’s Unregulated Governance: Minority Rule in the Digital Wild West’. Available at SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4001891.
 1. Brennecke, Martin, Benjamin Schellinger, Nils Urbach, and Tobias Guggenberger. 2022. ‘The De-Central Bank in Decentralized Finance: A Case Study of MakerDAO’. In 55th Hawaii International Conference on System Sciences (2022). https://doi.org/10.24251/HICSS.2022.737.
-1. Carter, Nic, and Linda Jeng. 2021. ‘DeFi Protocol Risks: The Paradox of DeFi’. SSRN Electronic Journal, 1–35. https://doi.org/10.2139/ssrn.3866699.
 1. Chen, Yan, and Cristiano Bellavitis. 2020. ‘Blockchain Disruption and Decentralized Finance: The Rise of Decentralized Business Models’. Journal of Business Venturing Insights 13. https://doi.org/10.1016/j.jbvi.2019.e00151.
 1. Ciriello, Raffaele Fabio. 2021. ‘Tokenized Index Funds: A Blockchain-Based Concept and a Multidisciplinary Research Framework’. International Journal of Information Management 61: 102400. https://doi.org/10.1016/j.ijinfomgt.2021.102400.
 1. Eikmanns, Benedikt C., Pascal Mehrwald, Isabell M. Welpe, and Philipp G. Sandner. n.d. ‘Is Ethereum the New IOS? Exploring the Platform Economy of Decentralized Finance’. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992625.

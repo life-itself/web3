@@ -1,9 +1,13 @@
-# Crypto is not a solution for the unbanked
-Crypto is not a solution for the [unbanked](../concepts/unbanked.md), because by its [deflationary](../concepts/deflationary.md) design it [cannot function as a currency](is-bitcoin-currency.md) therefore it is unusable as a scaleable means for purchasing goods and services.
+# Unbanked
+The *unbanked* is a term for individuals who lack access to traditional financial services and normal [bank](bank.md).
 
-The purpose of retail banking services is to provide stable, reliable and safe means for citizens to transact with money that is safely custodied by a trusted third party with the guarantees of regulation by the government that the party will hold their accounts on their behalf. This includes practices like customer service, deposit insurance, fraud detection, transaction reversal and issuing of payment cards.
+The most commonly cited reasons for being unbanked are:
 
-[Crypto exchanges](../concepts/crypto-exchange.md) cannot function as [banks](../concepts/bank.md) because the do not custody customer deposits and have no [deposit insurance](../concepts/deposit-insurance.md). This pushes unnecessary counterparty risk down to consumers and in the event of fraud, insolvency or market shocks customers may be left with no access to their funds. This is an unnecessary risk that is strictly worse than traditional banking products and is a form of [predatory inclusion](../concepts/predatory-inclusion.md) with parallels to predatory lending done during the subprime mortgage crisis and alternative money service business like payday loans.
+1. Insufficient funds to maintain a minimum account balance
+2. Lack of domestic banks, or untrustworthy banks with suboptimal [safety](deposit-insurance.md) regarding customer [deposits](deposit.md).
+3. Lack of government identification or proof of residency needed to pass [KYC](kyc.md) checks to open an account.``
+
+See also [predatory inclusion](predatory-inclusion.md).
 
 ## References
 1. Howson, P., & de Vries, A. (2022). Preying on the poor? Opportunities and challenges for tackling the social and environmental threats of cryptocurrencies for vulnerable and low-income communities. Energy Research and Social Science, 84(xxxx), 102394. https://doi.org/10.1016/j.erss.2021.102394
