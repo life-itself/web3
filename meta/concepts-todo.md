@@ -89,6 +89,8 @@ Third pass
 - [ ] [price-risk](../concepts/price-risk.md)
 - [ ] [sanctions-enforcement](../concepts/sanctions-enforcement.md)
 - [ ] [survivorship-bias](../concepts/survivorship-bias.md)
+- [ ] [bucket-shop](../concepts/bucket-shop.md)
+- [ ] [front-running](../concepts/front-running.md)
 
 Ideologies
 

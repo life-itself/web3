@@ -1,4 +1,5 @@
-# Crypto is not decentralized
+# Web3 is not decentralized
+In all scenarios web3 still requires central parties for its technical operation and simply involves [recentralization](../concepts/recentralization.md) of services that already exist. Since web3 is centralized then it has neither the [censorship resistance](../concepts/censorship-resistence.md) properties or [decentralization](../concepts/decentralization.md) claims its myth-making and marketing claims.
 
 ## References
 1. Walch, Angela. 2019. ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’. C. Brummer (Ed.), Crypto Assets: Legal and Monetary Perspectives, 1–36. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244.

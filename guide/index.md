@@ -167,6 +167,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Non-economic](../concepts/non-economic.md)
 * [Paper wealth](../concepts/paper-wealth.md)
 * [Liquidity pool](../concepts/liquidity-pool.md)
+* [Bucket shop](../concepts/bucket-shop.md)
 * [Artificial demand](../concepts/artificial-demand.md)
 * [Financial asset](../concepts/financial-asset.md)
 * [Assets](../concepts/assets.md)

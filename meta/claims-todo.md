@@ -4,7 +4,7 @@
 - [ ] [web3-decentralized](../claims/web3-decentralized.md)
 - [x] [environmental-footprint](../claims/environmental-footprint.md)
 - [x] [is-bubble](../claims/is-bubble.md)
-- [ ] [narrative-economics](../concepts/narrative-economics.md)
+- [x] [narrative-economics](../concepts/narrative-economics.md)
 - [x] [digital-gold](../claims/digital-gold.md)
 - [ ] [new-internet](../claims/new-internet.md)
 - [ ] [risk-to-state](../claims/risk-to-state.md)

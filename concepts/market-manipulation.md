@@ -1,6 +1,9 @@
 # Market Manipulation
 Manipulation of [price-formation](price-formation.md) and the natural operation of a [market](market.md). Can be performed by both [market makers](market-maker.md) and [cartels](cartel.md).
 
+## Front Running
+Using inside information about future orders to preempt market movements and extract from other market participants. 
+
 ## Insider Trading
 See [asymmetric-information](asymmetric-information.md).
 
@@ -11,19 +14,15 @@ See [wash-trading](wash-trading.md).
 See [pump-and-dump](pump-and-dump.md).
 
 ## Order Tampering
-
 Altering of [order-book](order-book.md) to privilege the market maker or a [cartel](cartel.md) of insiders. 
 
 ## Halting
-
 Discretionary halting of the [market](market.md) in order to prevent price movement the [market-maker](market-maker.md) does not wish to occur.
 
 ## Redemption Manipulation
-
 Discretionary restriction of the sale of assets for [currency](currency.md).
 
 ## References
-
 * Lefevre, Edwin. 2004. Reminiscences of a Stock Operator. Vol. 175. John Wiley & Sons.
 1. Dhawan, Anirudh, and Talis J. Putnins. 2020. ‘A New Wolf in Town? Pump-and-Dump Manipulation in Cryptocurrency Markets’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3670714.
 1. Hamrick, JT, Farhang Rouhi, Arghya Mukherjee, Amir Feder, Neil Gandal, Tyler Moore, and Marie Vasek. 2018a. ‘An Examination of the Cryptocurrency Pump and Dump Ecosystem’. http://ssrn.com/paper=3303365.

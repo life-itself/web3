@@ -6,13 +6,11 @@ CBDCs are either based on an *account model* or *token model*.
 CBDCs have been critized as being an extension of the surveillance state that conflicts with financial privacy norms.
 
 ## Examples
-
 * Chinese Digital Yuan
 * Bahama Sand Dollar
 * Project Hamilton
 
 ## References
-
 * Hockett, Robert C. 2019. ‘Money’s Past Is Fintech’s Future: Wildcat Crypto, the Digital Dollar, and Citizen Central Banking’.
 * Bilotta, Nicola. n.d. CBDCs and Stablecoins: The Scramble for (Controllable) Anonymity. Instituto AffariInternazionali.
 * Kiff, John, Jihad Alwazir, Sonja Davidovic, Aquiles Farias, Ashraf Khan, Tanai Khiaonarong, Majid Malaika, et al. 2020. ‘A Survey of Research on Retail Central Bank Digital Currency’. http://ssrn.com/paper=3639760.
