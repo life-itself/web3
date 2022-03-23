@@ -7,7 +7,6 @@ import { ThemeProvider } from 'next-themes'
 import '../styles/global.css'
 import siteConfig from '../config/siteConfig.js'
 import Layout from '../components/Layout'
-import MdxPage from '../components/MDX'
 import * as gtag from '../lib/gtag'
 
 function MyApp({ Component, pageProps }) {
@@ -26,14 +25,15 @@ function MyApp({ Component, pageProps }) {
   }
   // end Google Analytics
 
-  // console.log(Component)
-  // const pageTitle = (
-  //   router.pathname == "/"
-  //     ? "home"
-  //       // convert slug to title
-  //     : router.pathname.split("/").pop().replace(/-/g, " ")
-  // ) // capitalize first char of each word
-  //   .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
+  const pageTitle = (
+    // check if markdown page
+    Component.name == "Page"
+      ? pageProps.title ??
+        // convert path to title
+        pageProps._raw.flattenedPath.split("/").pop().replace(/-/g, " ")
+      : Component.name
+  ) // capitalize first char of each word
+    .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
   
   return (
     <ThemeProvider attribute="class" defaultTheme="dark">
@@ -66,7 +66,7 @@ function MyApp({ Component, pageProps }) {
           }}
         />
       )}
-      <Layout title={""}>
+      <Layout title={pageTitle}>
         <Component {...pageProps} />
       </Layout>
     </ThemeProvider>
