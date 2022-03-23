@@ -1,10 +1,10 @@
 import Head from 'next/head'
-import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
-
+import CustomLink from './Link'
 
 const components = {
   Head,
+  a: CustomLink
 }
 
 export default function MdxPage({ children }) {
