@@ -1,12 +1,16 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
+    "paths": {
+      "contentlayer/generated": ["./.contentlayer/generated"]
+    }
   },
   "include": [
     "**/*.ts",
     "**/*.tsx",
     "**/*.js",
     "**/*.jsx",
+    ".contentlayer/generated", "contentlayer.config.js",
   ],
   "exclude": ["node_modules"]
 }

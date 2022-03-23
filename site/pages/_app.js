@@ -26,13 +26,14 @@ function MyApp({ Component, pageProps }) {
   }
   // end Google Analytics
 
-  const pageTitle = (
-    router.pathname == "/"
-      ? "home"
-        // convert slug to title
-      : router.pathname.split("/").pop().replace(/-/g, " ")
-  ) // capitalize first char of each word
-    .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
+  // console.log(Component)
+  // const pageTitle = (
+  //   router.pathname == "/"
+  //     ? "home"
+  //       // convert slug to title
+  //     : router.pathname.split("/").pop().replace(/-/g, " ")
+  // ) // capitalize first char of each word
+  //   .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
   
   return (
     <ThemeProvider attribute="class" defaultTheme="dark">
@@ -65,19 +66,11 @@ function MyApp({ Component, pageProps }) {
           }}
         />
       )}
-      <Layout title={pageTitle}>
-        {Component.layout == "js" ? (
-          <Component {...pageProps} />
-        ) : (
-          <MdxPage children={{ Component, pageProps }} />
-        )}
+      <Layout title={""}>
+        <Component {...pageProps} />
       </Layout>
     </ThemeProvider>
   );
 }
-
-      // if this is a markdown page use this layout by default ...
-      // const MyLayout = pageProps.
-  
 
 export default MyApp
