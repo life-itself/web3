@@ -6,7 +6,6 @@ Attempting to time the market on bubbles is a [zero-sum game](zero-sum-game.md) 
 See ["madness of crowds"](madness-crowds.md), [market mania](market-mania.md) and [bandwagon bias](bandwagon-bias.md).
 
 ## Examples
-
 * South Sea Bubble
 * Beanie Baby Bubble
 * London Rail Bubble

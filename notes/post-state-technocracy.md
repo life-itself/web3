@@ -1,25 +1,13 @@
 # Post State Technocracy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZ0iCJkM3PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore the notion that crypto assets are a means to create a new form of network state outside of the existing international order.
+Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore the notion that crypto assets are a means to create a new form of "network state" outside of the existing international order.
 
-https://www.youtube.com/watch?v=gZ0iCJkM3PU
+* Youtube: https://www.youtube.com/watch?v=gZ0iCJkM3PU
+* Podcast: https://anchor.fm/life-itself/episodes/On-Web3-and-Post-State-Technocracy-with-Stephen-Diehl--Rufus-Pollock-e1g4cpe
+* Wiki Topic: [Post-state technocracy](../concepts/ideologies/post-state-technocracy.md)
 
-## Topic
-[post-state-technocracy](../concepts/ideologies/post-state-technocracy.md)
-
-## Concepts Covered
-
-* [post-state-technocracy](post-state-technocracy.md)
-* [cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
-* [technosolutionism](../concepts/ideologies/technosolutionism.md)
-* [public-goods-problem](../concepts/public-goods-problem.md)
-* [narrative-economics](../concepts/narrative-economics.md)
-* [public-goods-problem](../concepts/public-goods-problem.md)
-* [free-rider-problem](../concepts/free-rider-problem.md)
-* [private-money](../concepts/private-money.md)
-
-## Episode Notes
+# Episode Notes
 
 **Preface**
 
@@ -143,8 +131,22 @@ https://www.youtube.com/watch?v=gZ0iCJkM3PU
 		3. Skeptical about finding a quick-fix in technology or politics. There is wisdom in learning from the past and the institutions that exist.
 		4. Esperanto-style solutionism has never worked for societies or economies. 
 		5. Anna Neima’s book The Utopians is full of similarly minded people and communities. They usually dissolve or collapse.
+		
+## Concepts Covered
+
+* [post-state-technocracy](post-state-technocracy.md)
+* [cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
+* [technosolutionism](../concepts/ideologies/technosolutionism.md)
+* [public-goods-problem](../concepts/public-goods-problem.md)
+* [narrative-economics](../concepts/narrative-economics.md)
+* [public-goods-problem](../concepts/public-goods-problem.md)
+* [free-rider-problem](../concepts/free-rider-problem.md)
+* [private-money](../concepts/private-money.md)
+
 
 ## References
+1. Neima, Anna. The Utopians: Six Attempts to Build the Perfect Society. Pan Macmillan, 2021.
+1. Henrich, Joseph. The WEIRDest people in the world: How the West became psychologically peculiar and particularly prosperous. Penguin UK, 2020.
 1. Barlow, John Perry. 2019. ‘A Declaration of the Independence of Cyberspace’. Duke Law & Technology Review 18 (1): 5–7.
 1. May, Tim. 1994. ‘Cyphernomicon’.
 1. May, Timothy. 1992. ‘The Crypto Anarchist Manifesto’. High Noon on the Electronic Frontier: Conceptual Issues in Cyberspace.

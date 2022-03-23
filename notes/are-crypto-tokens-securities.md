@@ -5,7 +5,9 @@
 
 A deep dive into the nature of securities and their relation to crypto tokens with Stephen Diehl and Rufus Pollock.
 
-https://www.youtube.com/watch?v=z2uAg-AIs-Y
+* Youtube:  https://www.youtube.com/watch?v=z2uAg-AIs-Y
+* Podcast: https://anchor.fm/life-itself/episodes/Are-Cryptocurrencies-Securities--The-Nature-of-Securities--Their-Relation-to-Crypto-Tokens-with-Stephen-Diehl-e1fph69
+* Wiki topic:  [Securities Framework](../concepts/security.md)
 
 In episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as "securities", their relation to crypto tokens, and the regulatory framework that exists around these structures.
 
@@ -99,27 +101,28 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
 * [ico](../concepts/ico.md)
 
 ## References
-* Bank of International Settlements. 2018. ‘Cryptocurrencies: Looking beyond the Hype’. In . Bank for International Settlements Basel. https://www.bis.org/publ/arpdf/ar2018e5.htm.
-* Boreiko, Dmitri, Guido Ferrarini, and Paolo Giudici. 2019. ‘Blockchain Startups and Prospectus Regulation’. European Business Organization Law Review 20 (4): 665–94. https://doi.org/10.1007/s40804-019-00168-6.
-* Brownsword, Roger. 2020. Law 3.0: Rules, Regulation, and Technology. Routledge.
-* Burilov, Vlad. 2019. ‘Regulation of Crypto Tokens and Initial Coin Offerings in the EU: De Lege Lata and de Lege Ferenda’. European Journal of Comparative Law and Governance 6 (2): 146–86. https://doi.org/10.1163/22134514-00602003.
-* Butler, Simon. 2021. ‘Cyber 9/11 Will Not Take Place: A User Perspective of Bitcoin and Cryptocurrencies from Underground and Dark Net Forums’. In Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12812 LNCS:135–53. Springer. https://doi.org/10.1007/978-3-030-79318-0_8.
-* Cumming, Douglas J., Sofia Johan, and Anshum Pant. 2019. ‘Regulation of the Crypto-Economy: Managing Risks, Challenges, and Regulatory Uncertainty’. Journal of Risk and Financial Management 12 (3): 126. https://doi.org/10.3390/jrfm12030126.
-* Ferrari, Valeria. 2020. ‘The Regulation of Crypto-Assets in the EU – Investment and Payment Tokens under the Radar’. Maastricht Journal of European and Comparative Law 27 (3): 325–42. https://doi.org/10.1177/1023263X20911538.
-* Finck, Michèle. 2018. Blockchain Regulation and Governance in Europe. Blockchain Regulation and Governance in Europe. Cambridge University Press. https://doi.org/10.1017/9781108609708.
-* Goforth, Carol R. 2021. ‘Regulation of Crypto: Who Is the Securities and Exchange Commission Protecting?’ American Business Law Journal 58 (3): 643–705. https://doi.org/10.1111/ablj.12192.
-* Guadamuz, Andres, and Chris Marsden. 2015. ‘Blockchains and Bitcoin: Regulatory Responses to Cryptocurrencies’. First Monday 20 (12). https://doi.org/10.5210/fm.v20i12.6198.
-* Hacker, Philipp, Ioannis Lianos, Georgios Dimitropoulos, and Stefan Eich. 2019. Regulating Blockchain: : Techno-Social and Legal Challenges. https://doi.org/10.1093/oso/9780198842187.001.0001.
-* Hofman, Darra, Quinn DuPont, Angela Walch, and Ivan Beschastnikh. 2021. ‘Blockchain Governance: De Facto (x) or Designed?’ In Building Decentralized Trust, 21–33. Springer.
-* Kapsis, Ilias. 2021. ‘Should We Trade Market Stability for More Financial Inclusion? The Case of Crypto-Assets Regulation in EU’. FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention, 85–104. https://doi.org/10.4324/9781003020998-9.
-* Kraus, Daniel, Thierry Obrist, and Olivier Hari. 2019. Blockchains, Smart Contracts, Decentralised Autonomous Organisations and the Law. Edward Elgar Publishing. https://doi.org/10.4337/9781788115131.
-* Lee, Joseph. 2022. Crypto-Finance, Law and Regulation: Governing an Emerging Ecosystem. Routledge. https://www.routledge.com/Crypto-Finance-Law-and-Regulation-Governing-an-Emerging-Ecosystem/Lee/p/book/9780367086619.
-* Liaw, K. Thomas. 2021. ‘Trading and Regulation of Cryptocurrencies, Stablecoins and Other Cryptoassets’.
-* Maia, Guilherme, and João Vieira dos Santos. 2021. ‘MiCA and DeFi (“Proposal for a Regulation on Market in Crypto-Assets” and ’Decentralised Finance’)’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3875355.
-* Rae, Shaela W, and Lorraine Mastersmith. 2019. ‘Crypto Asset Trading in Canada: Entering a New Era of Regulation’. Banking & Finance Law Review 35 (1): 153–85.
-* Reiners, Lee. 2020. ‘Cryptocurrency and the State: An Unholy Alliance’. S. Cal. Interdisc. LJ 30: 695.
-* Walch, Angela. 2015a. ‘The Bitcoin Blockchain as Financial Market Infrastructure: A Consideration of Operational Risk’. NYUJ Legis. & Pub. Pol’y 18: 837.
-* ———. 2015b. ‘The Bitcoin Blockchain as Financial Market Infrastructure: A Consideration of Operational Risk’. NYUJ Legis. & Pub. Pol’y 18: 837.
-* ———. 2019a. ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’. C. Brummer (Ed.), Crypto Assets: Legal and Monetary Perspectives, 1–36. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244.
-* ———. 2019b. ‘In Code (Rs) We Trust: Software Developers as Fiduciaries in Public Blockchains’.
-* ———. 2019c. ‘Software Developers as Fiduciaries in Public Blockchains’. Regulating Blockchain. Techno-Social and Legal Challenges, Ed. by Philipp Hacker, Ioannis Lianos, Georgios Dimitropoulos & Stefan Eich, Oxford University Press, 2019. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3203198.
+1. Bindseil, Ulrich, Patrick Papsdorf, and Jürgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’. 7 January 2022. https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf.
+1. Bank of International Settlements. 2018. ‘Cryptocurrencies: Looking beyond the Hype’. In . Bank for International Settlements Basel. https://www.bis.org/publ/arpdf/ar2018e5.htm.
+1. Boreiko, Dmitri, Guido Ferrarini, and Paolo Giudici. 2019. ‘Blockchain Startups and Prospectus Regulation’. European Business Organization Law Review 20 (4): 665–94. https://doi.org/10.1007/s40804-019-00168-6.
+1. Brownsword, Roger. 2020. Law 3.0: Rules, Regulation, and Technology. Routledge.
+1. Burilov, Vlad. 2019. ‘Regulation of Crypto Tokens and Initial Coin Offerings in the EU: De Lege Lata and de Lege Ferenda’. European Journal of Comparative Law and Governance 6 (2): 146–86. https://doi.org/10.1163/22134514-00602003.
+1. Butler, Simon. 2021. ‘Cyber 9/11 Will Not Take Place: A User Perspective of Bitcoin and Cryptocurrencies from Underground and Dark Net Forums’. In Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12812 LNCS:135–53. Springer. https://doi.org/10.1007/978-3-030-79318-0_8.
+1. Cumming, Douglas J., Sofia Johan, and Anshum Pant. 2019. ‘Regulation of the Crypto-Economy: Managing Risks, Challenges, and Regulatory Uncertainty’. Journal of Risk and Financial Management 12 (3): 126. https://doi.org/10.3390/jrfm12030126.
+1. Ferrari, Valeria. 2020. ‘The Regulation of Crypto-Assets in the EU – Investment and Payment Tokens under the Radar’. Maastricht Journal of European and Comparative Law 27 (3): 325–42. https://doi.org/10.1177/1023263X20911538.
+1. Finck, Michèle. 2018. Blockchain Regulation and Governance in Europe. Blockchain Regulation and Governance in Europe. Cambridge University Press. https://doi.org/10.1017/9781108609708.
+1. Goforth, Carol R. 2021. ‘Regulation of Crypto: Who Is the Securities and Exchange Commission Protecting?’ American Business Law Journal 58 (3): 643–705. https://doi.org/10.1111/ablj.12192.
+1. Guadamuz, Andres, and Chris Marsden. 2015. ‘Blockchains and Bitcoin: Regulatory Responses to Cryptocurrencies’. First Monday 20 (12). https://doi.org/10.5210/fm.v20i12.6198.
+1. Hacker, Philipp, Ioannis Lianos, Georgios Dimitropoulos, and Stefan Eich. 2019. Regulating Blockchain: : Techno-Social and Legal Challenges. https://doi.org/10.1093/oso/9780198842187.001.0001.
+1. Hofman, Darra, Quinn DuPont, Angela Walch, and Ivan Beschastnikh. 2021. ‘Blockchain Governance: De Facto (x) or Designed?’ In Building Decentralized Trust, 21–33. Springer.
+1. Kapsis, Ilias. 2021. ‘Should We Trade Market Stability for More Financial Inclusion? The Case of Crypto-Assets Regulation in EU’. FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention, 85–104. https://doi.org/10.4324/9781003020998-9.
+1. Kraus, Daniel, Thierry Obrist, and Olivier Hari. 2019. Blockchains, Smart Contracts, Decentralised Autonomous Organisations and the Law. Edward Elgar Publishing. https://doi.org/10.4337/9781788115131.
+1. Lee, Joseph. 2022. Crypto-Finance, Law and Regulation: Governing an Emerging Ecosystem. Routledge. https://www.routledge.com/Crypto-Finance-Law-and-Regulation-Governing-an-Emerging-Ecosystem/Lee/p/book/9780367086619.
+1. Liaw, K. Thomas. 2021. ‘Trading and Regulation of Cryptocurrencies, Stablecoins and Other Cryptoassets’.
+1. Maia, Guilherme, and João Vieira dos Santos. 2021. ‘MiCA and DeFi (“Proposal for a Regulation on Market in Crypto-Assets” and ’Decentralised Finance’)’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3875355.
+1. Rae, Shaela W, and Lorraine Mastersmith. 2019. ‘Crypto Asset Trading in Canada: Entering a New Era of Regulation’. Banking & Finance Law Review 35 (1): 153–85.
+1. Reiners, Lee. 2020. ‘Cryptocurrency and the State: An Unholy Alliance’. S. Cal. Interdisc. LJ 30: 695.
+1. Walch, Angela. 2015a. ‘The Bitcoin Blockchain as Financial Market Infrastructure: A Consideration of Operational Risk’. NYUJ Legis. & Pub. Pol’y 18: 837.
+1. ———. 2015b. ‘The Bitcoin Blockchain as Financial Market Infrastructure: A Consideration of Operational Risk’. NYUJ Legis. & Pub. Pol’y 18: 837.
+1. ———. 2019a. ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’. C. Brummer (Ed.), Crypto Assets: Legal and Monetary Perspectives, 1–36. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244.
+1. ———. 2019b. ‘In Code (Rs) We Trust: Software Developers as Fiduciaries in Public Blockchains’.
+1. ———. 2019c. ‘Software Developers as Fiduciaries in Public Blockchains’. Regulating Blockchain. Techno-Social and Legal Challenges, Ed. by Philipp Hacker, Ioannis Lianos, Georgios Dimitropoulos & Stefan Eich, Oxford University Press, 2019. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3203198.
