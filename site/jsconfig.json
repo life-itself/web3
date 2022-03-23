@@ -10,7 +10,7 @@
     "**/*.tsx",
     "**/*.js",
     "**/*.jsx",
-    ".contentlayer/generated", "contentlayer.config.js",
+    ".contentlayer/generated", "contentlayer.config.ts",
   ],
   "exclude": ["node_modules"]
 }
