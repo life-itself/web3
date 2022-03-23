@@ -7,7 +7,7 @@ Tax avoidance is a form of [regulatory arbitrage](regulatory-arbitrage.md).
 
 ## References
 1. Eich, Stefan. 2019. ‘Old Utopias, New Tax Havens: The Politics of Bitcoin in Historical Perspective’. Regulating Blockchain: Techno-Social and Legal Challenges, 85–98.
-1. Bindseil, Ulrich, Patrick Papsdorf, and Jü rgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’.
+1. Bindseil, Ulrich, Patrick Papsdorf, and Jürgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’. 7 January 2022. https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf.
 1. Brummer, Chris. 2019. Cryptoassets: Legal, Regulatory, and Monetary Perspectives. Oxford University Press.
 1. Ferrari, Valeria. 2020. ‘The Regulation of Crypto-Assets in the EU – Investment and Payment Tokens under the Radar’. Maastricht Journal of European and Comparative Law 27 (3): 325–42. https://doi.org/10.1177/1023263X20911538.
 1. Fletcher, Emily, Charles Larkin, and Shaen Corbet. 2021. ‘Countering Money Laundering and Terrorist Financing: A Case for Bitcoin Regulation’. Research in International Business and Finance 56 (January): 101387. https://doi.org/10.1016/j.ribaf.2021.101387.

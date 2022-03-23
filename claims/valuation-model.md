@@ -9,7 +9,7 @@ Other products in [bubble](../concepts/bubble.md) such as tulips or beanie babie
 
 ## References
 1. Taleb, Nassim Nicholas. 2021. ‘Bitcoin, Currencies, and Fragility’. ArXiv:2106.14204 [Physics, q-Fin], July. http://arxiv.org/abs/2106.14204.
-1. Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’.
+1. Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’. https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf.
 1. Silverman, Gary. 2021. ‘Crypto Has “No Inherent Worth” But Is Good to Trade, Says Man Group Chief’. Financial Times, 26 July 2021. https://www.ft.com/content/9275baf4-0422-43a1-b8c9-9317882ca874.
 1. Stolfi, Jorge. n.d. ‘Bitcoin Is a Ponzi’. Accessed 19 March 2022. https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html.
 1. Diehl, Stephen. 2021. ‘The Intellectual Incoherence of Cryptoassets’. 7 November 2021. https://www.stephendiehl.com/blog/crypto-absurd.html.
