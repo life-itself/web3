@@ -18,7 +18,7 @@ While crypto assets are securities contracts, they are a pathological form of a 
 * [Equity](security.md) with no cashflows or dividends
 * Exchange traded [pyramid scheme](pyramid-scheme.md)
 * [Derivative](derivative.md) contract with no underlying
-* [Libertarian](../concepts/libertarianism.md) performance [art](art.md)
+* [Libertarian](ideologies/libertarianism.md) performance [art](art.md)
 * Self-organizing [Ponzi scheme](ponzi-scheme.md)
 * Tulip [bubble](../concepts/bubble.md)
 * [Indulgences](https://en.wikipedia.org/wiki/Indulgence)

@@ -9,7 +9,7 @@ The idea revolves around the politics that individuals are self-sovereign and th
 
 The ideas behind [bitcoin](../bitcoin.md) can be traced to another seminal work *The Crypto Anarchist Manifesto*.
 
-See also [anarchocapitalism](../anarchocapitalism.md), [libertarianism](libertarianism.md) and [post-state technocracy](../../notes/post-state-technocracy.md).
+See also [anarchocapitalism](anarchocapitalism.md), [libertarianism](libertarianism.md) and [post-state technocracy](../../notes/post-state-technocracy.md).
 
 ## References
 * May, Tim. 1994. ‘Cyphernomicon’.

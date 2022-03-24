@@ -3,7 +3,7 @@ A political ideology that aims to minimize the role of government in the lives o
 
 Libertarians generally believe in a minimal nation state whose role exists to provide for public defense, the rule of law, and to enforce civil contract law.
 
-See also [technosolutionism](technosolutionism.md), [cryptoanarchism](../cryptoanarchism.md) and [post-state technocracy](../../notes/post-state-technocracy.md).
+See also [technosolutionism](technosolutionism.md), [cryptoanarchism](cryptoanarchism.md) and [post-state technocracy](../../notes/post-state-technocracy.md).
 
 ## References
 * Wolf, Martin. 2019. ‘The Libertarian Fantasies of Cryptocurrencies’. Financial Times, February. https://www.ft.com/content/eeeacd7c-2e0e-11e9-ba00-0251022932c8.

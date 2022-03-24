@@ -44,7 +44,7 @@ In Episode 1 of the series, Rufus Pollock and Stephen Diehl discuss the neo-meta
 ## Concepts Covered
 
 * [gold-standard](../concepts/gold-standard.md)
-* [austrian-economics](../concepts/austrian-economics.md)
+* [austrian-economics](../concepts/ideologies/austrian-economics.md)
 * [bitcoin](../concepts/bitcoin.md)
 * [bubble](../concepts/bubble.md)
 * [commodity](../concepts/commodity.md)

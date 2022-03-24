@@ -44,7 +44,7 @@ March 4, 2022
 
 https://www.ft.com/content/879ae372-bb3b-4aa1-a264-ce32304a77d9
 
-See: [web3](../concepts/web3.md) | [speculation](../concepts/speculation.md) | [technolibertarianism](../concepts/technolibertarianism.md)
+See: [web3](../concepts/web3.md) | [speculation](../concepts/speculation.md) | [technolibertarianism](../concepts/ideologies/technolibertarianism.md)
 
 ***
 

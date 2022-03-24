@@ -5,7 +5,7 @@ In episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and S
 
 * Youtube: https://www.youtube.com/watch?v=gZ0iCJkM3PU
 * Podcast: https://anchor.fm/life-itself/episodes/On-Web3-and-Post-State-Technocracy-with-Stephen-Diehl--Rufus-Pollock-e1g4cpe
-* Wiki Topic: [Post-state technocracy](../concepts/post-state-technocracy.md)
+* Wiki Topic: [Post-state technocracy](../concepts/ideologies/post-state-technocracy.md)
 
 
 ***
@@ -140,14 +140,14 @@ In episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and S
 ## Concepts Covered
 
 * [post-state-technocracy](post-state-technocracy.md)
-* [cryptoanarchism](../concepts/cryptoanarchism.md)
-* [technosolutionism](../concepts/technosolutionism.md)
+* [cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
+* [technosolutionism](../concepts/ideologies/technosolutionism.md)
 * [public-goods-problem](../concepts/public-goods-problem.md)
 * [narrative-economics](../concepts/narrative-economics.md)
 * [public-goods-problem](../concepts/public-goods-problem.md)
 * [free-rider-problem](../concepts/free-rider-problem.md)
 * [private-money](../concepts/private-money.md)
-* [anarchocapitalism](../concepts/anarchocapitalism.md)
+* [anarchocapitalism](../concepts/ideologies/anarchocapitalism.md)
 
 ***
 
