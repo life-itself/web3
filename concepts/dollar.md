@@ -8,8 +8,6 @@ The dollar is a [currency](currency.md).
 
 The dollar is issued by a [central bank](central-banks.md).
 
-The dollar is a [public good](public-goods-problem.md).
-
 The dollar is [inflationary](inflationary.md).
 
 The dollar has no [fundamental value](fundamental-value.md).

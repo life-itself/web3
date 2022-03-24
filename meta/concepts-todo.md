@@ -1,14 +1,14 @@
 # Conceps TODO
 First pass
 
-- [x] [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
-- [x] [libertarianism](../concepts/ideologies/libertarianism.md)
+- [x] [keynsian-economics](../concepts/keynsian-economics.md)
+- [x] [libertarianism](../concepts/libertarianism.md)
 - [x] [market-fundamentalism](../notes/market-fundamentalism.md)
-- [x] [marxism](../concepts/ideologies/marxism.md)
-- [x] [post-state-technocracy](../concepts/ideologies/post-state-technocracy.md)
-- [x] [techno-collectivism](../concepts/ideologies/techno-collectivism.md)
-- [x] [technolibertarianism](../concepts/ideologies/technolibertarianism.md)
-- [x] [technosolutionism](../concepts/ideologies/technosolutionism.md)
+- [x] [marxism](../concepts/marxism.md)
+- [x] [post-state-technocracy](../concepts/post-state-technocracy.md)
+- [x] [techno-collectivism](../concepts/techno-collectivism.md)
+- [x] [technolibertarianism](../concepts/technolibertarianism.md)
+- [x] [technosolutionism](../concepts/technosolutionism.md)
 - [x] [aml](../concepts/aml.md)
 - [x] [censorship-resistence](../concepts/censorship-resistence.md)
 - [x] [defi](../concepts/defi.md)
@@ -94,10 +94,10 @@ Third pass
 
 Ideologies
 
-- [ ] [accelerationism](../concepts/ideologies/accelerationism.md)
-- [ ] [capitalism](../concepts/ideologies/capitalism.md)
-- [x] [cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
-- [ ] [inevitablism](../concepts/ideologies/inevitablism.md)
-- [x] [keynsian-economics](../concepts/ideologies/keynsian-economics.md)
-- [x] [technolibertarianism](../concepts/ideologies/technolibertarianism.md)
-- [x] [technosolutionism](../concepts/ideologies/technosolutionism.md)
+- [ ] [accelerationism](../concepts/accelerationism.md)
+- [ ] [capitalism](../concepts/capitalism.md)
+- [x] [cryptoanarchism](../concepts/cryptoanarchism.md)
+- [ ] [inevitablism](../concepts/inevitablism.md)
+- [x] [keynsian-economics](../concepts/keynsian-economics.md)
+- [x] [technolibertarianism](../concepts/technolibertarianism.md)
+- [x] [technosolutionism](../concepts/technosolutionism.md)
