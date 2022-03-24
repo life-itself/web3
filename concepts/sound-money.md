@@ -1,7 +1,7 @@
 # Sound Money
-An [Austrian economics](ideologies/austrian-economics.md) philosophy that an idealized [currency](currency.md) should be backed by a finite unchanging supply and fixed supply of a [commodity](commodity.md), or more recently a [cryptoasset](cryptoasset.md).
+An [Austrian economics](austrian-economics.md) philosophy that an idealized [currency](currency.md) should be backed by a finite unchanging supply and fixed supply of a [commodity](commodity.md), or more recently a [cryptoasset](cryptoasset.md).
 
-See [gold standard](gold-standard.md) and [libertarianism](ideologies/libertarianism.md).
+See [gold standard](gold-standard.md) and [libertarianism](libertarianism.md).
 
 ## References
 * Doctorow, Cory. 2022. ‘Money Is Power’. 3 February 2022. https://pluralistic.net/2022/02/03/liquidation-preference/.

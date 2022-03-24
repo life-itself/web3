@@ -1,7 +1,7 @@
 # Memecoin
 A meme coin is a [cryptoasset](cryptoasset.md) which has no pretense of [fundamental value](fundamental-value.md) or [utility](use-value.md) but instead is a [greater fool](greater-fool-theory.md) investment based trend-following of an image or symbol in popular culture.
 
-See [dogecoin](dogecoin.md) and [financial nihilism](ideologies/financial-nihilism.md).
+See [dogecoin](dogecoin.md) and [financial nihilism](financial-nihilism.md).
 
 ## References
 1. Warzel, Charlie. 2021. ‘The Absurdity Is the Point’. Substack newsletter. Galaxy Brain (blog). 11 May 2021. https://warzel.substack.com/p/the-absurdity-is-the-point.

@@ -9,7 +9,7 @@ In Episode 2 of the series, Rufus Pollock and Stephen Diehl discuss the market f
 
 ## Topic
 
-[market-fundamentalism](../concepts/ideologies/market-fundamentalism.md)
+[market-fundamentalism](../concepts/market-fundamentalism.md)
 
 ## Summary
 

@@ -6,7 +6,6 @@ In computer science terms, a blockchain is an [immutable](immutability.md) data 
 The term has been overloaded extensively and other data structures and topologies have been described as blockchain regardless of their use. See [permissioned blockchain](permissioned-blockchain.md).
 
 ## References
-
 1. Schneier, Bruce. 2019. ‘There’s No Good Reason to Trust Blockchain Technology’. Wired Magazine. https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/.
 1. Jeffries, Adrianne. 2018. ‘Blockchain Is Meaningless’. The Verge 7: 2018.
 1. Rosenthal, David. n.d. ‘Stanford Lecture on Cryptocurrency’. Accessed 2 March 2022. https://blog.dshr.org/2022/02/ee380-talk.html.
