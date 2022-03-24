@@ -24,16 +24,6 @@ function MyApp({ Component, pageProps }) {
     }, [router.events])
   }
   // end Google Analytics
-
-  const pageTitle = (
-    // check if markdown page
-    Component.name == "Page"
-      ? pageProps.title ??
-        // convert path to title
-        pageProps._raw.flattenedPath.split("/").pop().replace(/-/g, " ")
-      : Component.name
-  ) // capitalize first char of each word
-    .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
   
   return (
     <ThemeProvider attribute="class" defaultTheme="dark">
@@ -66,7 +56,7 @@ function MyApp({ Component, pageProps }) {
           }}
         />
       )}
-      <Layout title={pageTitle}>
+      <Layout>
         <Component {...pageProps} />
       </Layout>
     </ThemeProvider>

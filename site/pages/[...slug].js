@@ -1,7 +1,7 @@
 import MdxPage from '../components/MDX';
 import { allOtherPages } from 'contentlayer/generated';
 import { useMDXComponent } from 'next-contentlayer/hooks';
-import { NewsArticleJsonLd } from 'next-seo';
+import { NewsArticleJsonLd, NextSeo } from 'next-seo';
 
 
 export default function Page({ body, ...rest }) {
@@ -17,8 +17,19 @@ export default function Page({ body, ...rest }) {
       tags: rest.tags,
     }
   }
+
+  const titleFromUrl = rest._raw.flattenedPath
+    .split("/")
+    .pop()
+    .replace(/-/g, " ")
+    // capitalize first char of each word
+    .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
+  
   return (
-    <MdxPage children={children} />
+    <>
+      <NextSeo title={children.frontmatter.title ?? titleFromUrl} />
+      <MdxPage children={children} />
+    </>
   );
 }
 
