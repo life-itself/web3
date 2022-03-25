@@ -1,38 +1,41 @@
+import Logo from "../public/img/life-itself-logo.svg"
+
 const siteConfig = {
-  title: 'Making Sense of Crypto and Web3',
-  tagline: '',
-  description: 'Introductions to key concepts and ideas in crypto and web3. Plus in-depth evaluation of its potential impact.',
-  author: 'Life Itself and collaborators',
+  title: "Making Sense of Crypto and Web3",
+  tagline: "",
+  description:
+    "Introductions to key concepts and ideas in crypto and web3. Plus in-depth evaluation of its potential impact.",
+  author: "Life Itself and collaborators",
   // logo image
-  authorLogo: '/img//life-itself-logo.svg',
+  authorLogo: "/img//life-itself-logo.svg",
   // url to author
-  authorUrl: 'https://lifeitself.us/',
+  authorUrl: "https://lifeitself.us/",
   // Google analytics key e.g. G-XXXX
-  analytics: 'G-9DL50W4DN9',
+  analytics: "G-9DL50W4DN9",
   // optional additional nextSeo content set on each page
   // see https://github.com/garmeeh/next-seo
   nextSeo: {
     openGraph: {
       images: [
         {
-          url: 'https://res.cloudinary.com/ds7qslkd0/image/upload/w_1200,c_scale/v1647434394/Web3/NbzC4V4_o7g3j5.jpg',
-          alt: 'Making Sense of Crypto & Web3 by Life Itself',
+          url: "https://res.cloudinary.com/ds7qslkd0/image/upload/w_1200,c_scale/v1647434394/Web3/NbzC4V4_o7g3j5.jpg",
+          alt: "Making Sense of Crypto & Web3 by Life Itself",
           width: 1200,
           height: 627,
-          type: 'image/jpg',
-        }
-      ]
+          type: "image/jpg",
+        },
+      ],
     },
     twitter: {
-      handle: '@forlifeitself',
-      site: 'web3.lifeitself.us',
-      cardType: 'summary_large_image',
-    }
+      handle: "@forlifeitself",
+      site: "web3.lifeitself.us",
+      cardType: "summary_large_image",
+    },
   },
   social: [
     {
-      name: 'Facebook',
-      href: 'https://www.facebook.com/forlifeitself',
+      name: "Facebook",
+      href: "https://www.facebook.com/forlifeitself",
       icon: (props) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path
@@ -44,8 +47,8 @@ const siteConfig = {
       ),
     },
     {
-      name: 'Instagram',
-      href: 'https://www.instagram.com/forlifeitself/',
+      name: "Instagram",
+      href: "https://www.instagram.com/forlifeitself/",
       icon: (props) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path
@@ -57,8 +60,8 @@ const siteConfig = {
       ),
     },
     {
-      name: 'Twitter',
-      href: 'https://twitter.com/forlifeitself',
+      name: "Twitter",
+      href: "https://twitter.com/forlifeitself",
       icon: (props) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
@@ -66,19 +69,42 @@ const siteConfig = {
       ),
     },
     {
-      name: 'GitHub',
-      href: 'https://github.com/life-itself/web3',
+      name: "GitHub",
+      href: "https://github.com/life-itself/web3",
       icon: (props) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
-          <path
-            fillRule="evenodd"
-            d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
-            clipRule="evenodd"
-          />
+          <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" />
+        </svg>
+      ),
+    },
+    {
+      name: "YouTube",
+      href: "https://www.youtube.com/channel/UCmBq3VO9w_MLTKD_CHsYN-Q",
+      icon: (props) => (
+        <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
+          <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+        </svg>
+      ),
+    },
+    {
+      name: "Podcast",
+      href: "https://anchor.fm/life-itself",
+      icon: (props) => (
+        <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
+          <path d="M1.503 9.678c-.83 0-1.5.67-1.5 1.5v1.63a1.5 1.5 0 103 0v-1.63c0-.83-.67-1.5-1.5-1.5zm20.994 0c-.83 0-1.5.67-1.5 1.5v1.63a1.5 1.5 0 103 0v-1.63c0-.83-.67-1.5-1.5-1.5zM6.68 14.587c-.83 0-1.5.67-1.5 1.5v1.63a1.5 1.5 0 103 0v-1.62c0-.83-.67-1.5-1.5-1.5zm0-9.817c-.83 0-1.5.67-1.5 1.5v5.357a1.5 1.5 0 003 0V6.258c0-.83-.67-1.5-1.5-1.5zm10.638 0c-.83 0-1.5.67-1.5 1.5v1.64a1.5 1.5 0 003 0V6.27c0-.83-.67-1.5-1.5-1.5zM12 0c-.83 0-1.5.67-1.5 1.5v1.63a1.5 1.5 0 103 0V1.5c0-.83-.67-1.499-1.5-1.499zm0 19.355c-.83 0-1.5.67-1.5 1.5v1.64a1.5 1.5 0 103 .01v-1.64c0-.82-.67-1.5-1.5-1.5zm5.319-8.457c-.83 0-1.5.68-1.5 1.5v5.328a1.5 1.5 0 003 0v-5.329c0-.83-.67-1.5-1.5-1.5zM12 6.128c-.83 0-1.5.68-1.5 1.5v8.728a1.5 1.5 0 003 0V7.638c0-.83-.67-1.5-1.5-1.5z" />
+        </svg>
+      ),
+    },
+    {
+      name: "Life Itself",
+      href: "https://lifeitself.us/labs",
+      icon: (props) => (
+        <svg viewBox="0 0 24 24" {...props}>
+          <image href={Logo.src} width={24} height={24} />
         </svg>
       ),
     },
   ],
-}
+};
 
 module.exports = siteConfig
