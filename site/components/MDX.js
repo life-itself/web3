@@ -1,8 +1,9 @@
 import Head from 'next/head'
-import Link from 'next/link'
+import { Paragraph } from './Link'
 
 const components = {
   Head,
+  p: Paragraph
 }
 
 export default function MdxPage({ children }) {
