@@ -36,21 +36,43 @@ export default function Nav() {
                 </div>
                 <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
                   {/* Current: "border-indigo-500 text-gray-900", Default: "border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700" */}
-                  {navLinks.map((item,i) => (
+                  {navLinks.map((item, i) => (
                     <Link key={i} href={item.href}>
                       <a
                         key={item.name}
                         href={item.href}
-                        className={item.current ?
-                          'border-indigo-500 text-gray-900 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium' :
-                          'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium'
+                        className={
+                          item.current
+                            ? "border-indigo-500 text-gray-900 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
+                            : "border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
                         }
-                        aria-current={item.current ? 'page' : undefined}
+                        aria-current={item.current ? "page" : undefined}
                       >
                         {item.name}
                       </a>
-                      </Link>
-                    ))}
+                    </Link>
+                  ))}
+                </div>
+                <div className="hidden sm:flex items-center justify-end w-full space-x-4">
+                  {siteConfig.social.map(
+                    ({ name, href, icon: Icon }) =>
+                      ["YouTube", "GitHub", "Life Itself"].includes(name) && (
+                        <div
+                          key={name}
+                          className="inline-flex items-center space-x-2 pt-1 opacity-100 hover:opacity-70"
+                        >
+                          <Icon className="w-[16px] inline-flex items-center" />
+                          <a
+                            href={href}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-sm font-medium text-gray-500 hover:underline"
+                          >
+                            {name}
+                          </a>
+                        </div>
+                      )
+                  )}
                 </div>
               </div>
             </div>
@@ -59,25 +81,26 @@ export default function Nav() {
           <Disclosure.Panel className="sm:hidden">
             <div className="pt-2 pb-4 space-y-1">
               {/* Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700" */}
-              {navLinks.map((item,i) => (
+              {navLinks.map((item, i) => (
                 <Link key={i} href={item.href}>
                   <a
                     key={item.name}
                     href={item.href}
-                    className={item.current ?
-                      'bg-indigo-50 border-indigo-500 text-indigo-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium' :
-                      'border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium'
+                    className={
+                      item.current
+                        ? "bg-indigo-50 border-indigo-500 text-indigo-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium"
+                        : "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium"
                     }
-                    aria-current={item.current ? 'page' : undefined}
+                    aria-current={item.current ? "page" : undefined}
                   >
                     {item.name}
                   </a>
-                  </Link>
-                ))}
+                </Link>
+              ))}
             </div>
           </Disclosure.Panel>
         </>
       )}
     </Disclosure>
-  )
+  );
 }
