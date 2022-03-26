@@ -8,6 +8,9 @@ Money is any item or verifiable record that is accepted as payment for goods and
 Money is a social technology whose efficacy is based on both its universal acceptance in an economic region and the money's coherence to three properties:
 
 The United States [dollar](dollar.md) and the Euro are examples of money.
+
+See also [private money](private-money.md).
+
 ## Qualities
 
 The qualifies of a currency representing money are defined by coherent to three properties:

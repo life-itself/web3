@@ -33,9 +33,9 @@ First pass
 Second Pass
 
 - [x] [private-money](../concepts/private-money.md)
-- [ ] [amm](../concepts/amm.md)
+- [x] [amm](../concepts/amm.md)
 - [x] [artificial-scarcity](../concepts/artificial-scarcity.md)
-- [ ] [assets](../concepts/assets.md)
+- [x] [assets](../concepts/assets.md)
 - [x] [bretton-woods](../concepts/bretton-woods.md)
 - [ ] [broker](../concepts/broker.md)
 - [ ] [cd](../concepts/cd.md)
@@ -46,9 +46,9 @@ Second Pass
 - [x] [deposit-insurance](../concepts/deposit-insurance.md)
 - [ ] [dex](../concepts/dex.md)
 - [x] [exit-scam](../concepts/exit-scam.md)
-- [ ] [free-rider-problem](../concepts/free-rider-problem.md)
+- [x] [free-rider-problem](../concepts/free-rider-problem.md)
 - [x] [bank](../concepts/bank.md)
-- [ ] [illicit-financing](../concepts/illicit-financing.md)
+- [x] [illicit-financing](../concepts/illicit-financing.md)
 - [x] [mixer](../concepts/mixer.md)
 - [x] [mining](../concepts/mining.md)
 - [ ] [money-services-business](../concepts/money-services-business.md)

@@ -7,6 +7,7 @@ See also [yield farming](yield-farming.md), [AMM](amm.md), [DEX](dex.md) and [sh
 
 ## References
 1. Allen, Hilary J. 2022. ‘DeFi: Shadow Banking 2.0?’ William & Mary Law Review, Forthcoming.
+1. Walch, Angela. 2019. ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’. C. Brummer (Ed.), Crypto Assets: Legal and Monetary Perspectives, 1–36. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244.
 1. Anker-Sørensen, Linn, and Dirk A Zetzsche. 2021. ‘From Centralized to Decentralized Finance: The Issue Of’. Available at SSRN 3978815. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978815.
 1. Aramonte, Sirio, Wenqian Huang, and Andreas Schrimpf. 2021. ‘DeFi Risks and the Decentralisation Illusion’, 16.
 1. Barbereau, Tom, Reilly Smethurst, Orestis Papageorgiou, Alexander Rieger, and Gilbert Fridgen. 2022. ‘DeFi, Not So Decentralized: The Measured Distribution of Voting Rights’. In Proceedings of the 55th Hawaii International Conference on System Sciences. https://scholarspace.manoa.hawaii.edu/handle/10125/80074.
