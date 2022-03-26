@@ -59,7 +59,7 @@ Bernanke, Ben S., and Harold James. "The gold standard, deflation, and financial
 ## Concepts Covered
 
 * [gold-standard](../concepts/gold-standard.md)
-* [austrian-economics](../concepts/ideologies/austrian-economics.md)
+* [austrian-economics](../concepts/austrian-economics.md)
 * [bitcoin](../concepts/bitcoin.md)
 * [bubble](../concepts/bubble.md)
 * [commodity](../concepts/commodity.md)

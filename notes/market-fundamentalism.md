@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=K5JtPTyc0y0
 
 ## Topic
 
-[market-fundamentalism](../concepts/ideologies/market-fundamentalism.md)
+[market-fundamentalism](../concepts/market-fundamentalism.md)
 
 ## Summary
 

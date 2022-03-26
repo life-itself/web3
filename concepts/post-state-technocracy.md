@@ -1,7 +1,7 @@
 # Post-state Technocracy
 The political ideology that [blockchain](../blockchain.md) and [cryptoasset](../cryptoasset.md) are a tool to dismantle nation states and install a form of anarchism in which governance and institutions are replaced with technology and a new global transnational plutocracy of those holding crypto assets.
 
-See also [technosolutionism](technosolutionism.md), [cryptoanarchism](cryptoanarchism.md) and [libertarianism](libertarianism.md).
+See also [technosolutionism](technosolutionism.md), [cryptoanarchism](../cryptoanarchism.md) and [libertarianism](../libertarianism.md).
 
 ## References
 * Eich, Stefan. 2019. ‘Old Utopias, New Tax Havens: The Politics of Bitcoin in Historical Perspective’. Regulating Blockchain: Techno-Social and Legal Challenges, 85–98.

@@ -124,18 +124,18 @@ Understand crypto and "web3" in terms of recent news events and interviews and e
 
 Explore crypto and "web3" in terms of different perspectives on politics and economics.
 
-* [Market Fundamentalism](../concepts/ideologies/market-fundamentalism.md)
-* [Financial Nihilism](../concepts/ideologies/financial-nihilism.md)
-* [Austrian Economics](../concepts/ideologies/austrian-economics.md)
-* [Post State Technocracy](../concepts/ideologies/post-state-technocracy.md)
-* [Libertarianism](../concepts/ideologies/libertarianism.md)
-* [Technolibertarianism](../concepts/ideologies/technolibertarianism.md)
-* [Cryptoanarchism](../concepts/ideologies/cryptoanarchism.md)
-* [Anarchocapitalism](../concepts/ideologies/anarchocapitalism.md)
-* [Keynsian Economics](../concepts/ideologies/keynsian-economics.md)
-* [Technosolutionism](../concepts/ideologies/technosolutionism.md)
-* [Technocollectivism](../concepts/ideologies/techno-collectivism.md)
-* [Accelerationism](../concepts/ideologies/accelerationism.md)
+* [Market Fundamentalism](../concepts/market-fundamentalism.md)
+* [Financial Nihilism](../concepts/financial-nihilism.md)
+* [Austrian Economics](../concepts/austrian-economics.md)
+* [Post State Technocracy](../concepts/post-state-technocracy.md)
+* [Libertarianism](../concepts/libertarianism.md)
+* [Technolibertarianism](../concepts/technolibertarianism.md)
+* [Cryptoanarchism](../concepts/cryptoanarchism.md)
+* [Anarchocapitalism](../concepts/anarchocapitalism.md)
+* [Keynsian Economics](../concepts/keynsian-economics.md)
+* [Technosolutionism](../concepts/technosolutionism.md)
+* [Technocollectivism](../concepts/techno-collectivism.md)
+* [Accelerationism](../concepts/accelerationism.md)
 
 ***
 
@@ -148,6 +148,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Artificial scarcity](/concepts/artificial-scarcity.md)
 * [Asymmetric information](/concepts/asymmetric-information.md)
 * [Central banks](/concepts/central-banks.md)
+* [Capital formation](../concepts/capital-formation.md)
 * [Currency](/concepts/currency.md)
 * [Currency peg](/concepts/currency-peg.md)
 * [Free rider problem](/concepts/free-rider-problem.md)
