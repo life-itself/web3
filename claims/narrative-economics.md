@@ -69,7 +69,7 @@ Dogecoin is an example of a crypto asset with no political imaginaries, no [curr
 * Moore, Daniel, and Thomas Rid. 2016. ‘Cryptopolitik and the Darknet’. Survival 58 (1): 7–38. https://doi.org/10.1080/00396338.2016.1142085.
 * Phillips, David J. 1998. Digital Cash and the Surveillance Society: Negotiating Identification in New Consumer Payment Systems. University of Pennsylvania. https://search.proquest.com/openview/7ca922683fe4b5a94427e0ba59af4def/1?pq-origsite=gscholar&cbl=18750&diss=y.
 * West, Sarah Myers. 2018. ‘Cryptographic Imaginaries and the Networked Public’. Internet Policy Review 7 (2): 1–16. https://doi.org/10.14763/2018.2.792.
-* *———. 2020. ‘Survival of the Cryptic: Tracing Technological Imaginaries across Ideologies, Infrastructures, and Community Practices’. New Media and Society, 1461444820983017. https://doi.org/10.1177/1461444820983017.
+* ———. 2020. ‘Survival of the Cryptic: Tracing Technological Imaginaries across Ideologies, Infrastructures, and Community Practices’. New Media and Society, 1461444820983017. https://doi.org/10.1177/1461444820983017.
 
 TODO: group by narrative
 

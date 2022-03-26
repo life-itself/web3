@@ -131,7 +131,10 @@ Explore crypto and "web3" in terms of different perspectives on politics and eco
 * [Keynsian Economics](../concepts/keynsian-economics.md)
 * [Technosolutionism](../concepts/technosolutionism.md)
 * [Technocollectivism](../concepts/techno-collectivism.md)
+* [Technopopulism](../concepts/technopopulism.md)
 * [Accelerationism](../concepts/accelerationism.md)
+* [Crypto-inevitablism](../concepts/inevitablism.md)
+* [Capitalism](../concepts/capitalism.md)
 
 ***
 

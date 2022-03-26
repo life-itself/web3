@@ -1,7 +1,7 @@
 # Technosolutionism
 Technosolutionism is belief and broader ideology that every social, political and access problem has a solution based in development of new technology.
 
-See also [technocollectivism](../techno-collectivism.md).
+See also [techno-collectivism](techno-collectivism.md) and [post-state technocracy](post-state-technocracy.md).
 
 ## References
 

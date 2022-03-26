@@ -81,7 +81,7 @@ Third pass
 - [ ] [atomic-swap](../concepts/atomic-swap.md)
 - [ ] [bank-run](../concepts/bank-run.md)
 - [x] [broker](../concepts/broker.md)
-- [x] [capital-formation](../concepts/capital-formation.md)
+- [x] [capital-formation](../concepts/capital-formation.md)![](../concepts/WeCrashed.S01E02.480p.x264-mSD[eztv.re].mkv)
 - [x] [cds](../concepts/cds.md)
 - [ ] [enclosure](../concepts/enclosure.md)
 - [ ] [ficticious-commodity](../concepts/ficticious-commodity.md)
@@ -94,10 +94,10 @@ Third pass
 
 Ideologies
 
-- [ ] [accelerationism](../concepts/accelerationism.md)
-- [ ] [capitalism](../concepts/capitalism.md)
+- [x] [accelerationism](../concepts/accelerationism.md)
+- [x] [capitalism](../concepts/capitalism.md)
 - [x] [cryptoanarchism](../concepts/cryptoanarchism.md)
-- [ ] [inevitablism](../concepts/inevitablism.md)
+- [x] [inevitablism](../concepts/inevitablism.md)
 - [x] [keynsian-economics](../concepts/keynsian-economics.md)
 - [x] [technolibertarianism](../concepts/technolibertarianism.md)
 - [x] [technosolutionism](../concepts/technosolutionism.md)
