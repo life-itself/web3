@@ -5,24 +5,25 @@ Crypto exchanes are not regulated as [market makers](market-maker.md) or [broker
 
 Many crypto exchanges offer their own [stablecoin](stablecoin.md) whose reserves may be comingled with customer funds.
 
-See also [market manipulation](market-manipulation.md),  [economic cartel](cartel.md) and [recentralization](recentralization.md).
-
-## Jurisdictions
-
-Crypto exchanges are commonly set up in jurisdictions with loose or corrupt financial regulatory authorities.
+Crypto exchanges are commonly set up in jurisdictions with loose or corrupt financial regulatory authorities. These include, but are not limited to:
 
 * Seychelles
+* Malta
+* Jersey
+* Isle of Mann
 * The Bahamas
 * Cayman Islands
 * Singapore
 
-## References
+See also [bucket shop](bucket-shop.md), [market manipulation](market-manipulation.md),  [economic cartel](cartel.md), [recentralization](recentralization.md) and [platform risk](platform-risk.md).
 
-* Ivaniuk, Viktoria. 2020. ‘Cryptocurrency Exchange Regulation – An International Review’. Magda Dziembowska, Robert Dziembowski, Apelacja w Postępowaniu, 67.
-* White, Molly. 2022. ‘Cryptocurrency Off-Ramps, and the Shift towards Centralization’. Molly White. 12 February 2022. https://blog.mollywhite.net/off-ramps/.
-* Lefevre, Edwin. 2004. Reminiscences of a Stock Operator. Vol. 175. John Wiley & Sons.
-* Cumming, Douglas J., Sofia Johan, and Anshum Pant. 2019. ‘Regulation of the Crypto-Economy: Managing Risks, Challenges, and Regulatory Uncertainty’. Journal of Risk and Financial Management 12 (3): 126. https://doi.org/10.3390/jrfm12030126.
-* Canning, Tonya. 2018. ‘"We Don’t Want Hippy Money”: Contradiction and Exchange in a Local Currency System’. PhD Thesis. https://dalspace.library.dal.ca/handle/10222/74190.
-* Johnson, Kristin N. 2021. ‘Decentralized Finance: Regulating Cryptocurrency Exchanges’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3831439.
-* Mizrach, Bruce. 2021. ‘Stablecoins: Survivorship, Transactions Costs and Exchange Microstructure’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3835219.
-* Roubini, Nouriel. 2019. ‘The Great Crypto Heist’. Project Syndicate 16. https://www.project-syndicate.org/commentary/cryptocurrency-exchanges-are-financial-scams-by-nouriel-roubini-2019-07.
+## References
+1. Doctorow, C. (2022, February 3). Pluralistic: 03 Feb 2022 – Pluralistic: Daily links from Cory Doctorow. https://pluralistic.net/2022/02/03/liquidation-preference/
+1. Ivaniuk, Viktoria. 2020. ‘Cryptocurrency Exchange Regulation – An International Review’. Magda Dziembowska, Robert Dziembowski, Apelacja w Postępowaniu, 67.
+1. White, Molly. 2022. ‘Cryptocurrency Off-Ramps, and the Shift towards Centralization’. Molly White. 12 February 2022. https://blog.mollywhite.net/off-ramps/.
+1. Lefevre, Edwin. 2004. Reminiscences of a Stock Operator. Vol. 175. John Wiley & Sons.
+1. Cumming, Douglas J., Sofia Johan, and Anshum Pant. 2019. ‘Regulation of the Crypto-Economy: Managing Risks, Challenges, and Regulatory Uncertainty’. Journal of Risk and Financial Management 12 (3): 126. https://doi.org/10.3390/jrfm12030126.
+1. Canning, Tonya. 2018. ‘"We Don’t Want Hippy Money”: Contradiction and Exchange in a Local Currency System’. PhD Thesis. https://dalspace.library.dal.ca/handle/10222/74190.
+1. Johnson, Kristin N. 2021. ‘Decentralized Finance: Regulating Cryptocurrency Exchanges’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3831439.
+1. Mizrach, Bruce. 2021. ‘Stablecoins: Survivorship, Transactions Costs and Exchange Microstructure’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3835219.
+1. Roubini, Nouriel. 2019. ‘The Great Crypto Heist’. Project Syndicate 16. https://www.project-syndicate.org/commentary/cryptocurrency-exchanges-are-financial-scams-by-nouriel-roubini-2019-07.

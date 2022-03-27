@@ -25,6 +25,7 @@ Understand the terminology used to describe crypto and web3.
 * [Greater fool theory](../concepts/greater-fool-theory.md)
 * [Zero-sum game](../concepts/zero-sum-game.md)
 * [Memecoins](../concepts/memecoin.md)
+* [Pre-mine](../concepts/pre-mine.md)
 * [Assets](/concepts/assets.md)
 * [Intrinsic value](../concepts/use-value.md)
 * [Store of value](../concepts/store-of-value.md)
@@ -33,7 +34,9 @@ Understand the terminology used to describe crypto and web3.
 * [DeFi](../concepts/defi.md)
 * [DAO](/concepts/dao.md)
 * [Stablecoin](../concepts/stablecoin.md)
+* [Smart contract](../concepts/smart-contracts.md)
 * [Regulatory arbitrage](../concepts/regulatory-arbitrage.md)
+* [Predatory inclusion](../concepts/predatory-inclusion.md)
 * [United States Dollar](/concepts/dollar.md)
 * [Central bank digital currency](../concepts/cbdc.md)
 
@@ -237,3 +240,10 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Endowment effect](../concepts/endowment-effect.md)
 * [Predatory inclusion](../concepts/predatory-inclusion.md)
 * [Enclosure](../concepts/enclosure.md)
+
+**Meta**
+
+* [Value](../concepts/value.md)
+* [Risk](../concepts/risk.md)
+* [Regulation](../claims/regulation.md)
+* [Market manipulation](../concepts/market-manipulation.md)

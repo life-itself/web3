@@ -42,7 +42,7 @@ NFTs have been critizied as having a payout structure similar to a [pyramid sche
 ## Comparables
 NFTs have been compared to metaphors and other schemes in which narrative-driven [ficticious commodites](ficticious-commodity.md) are also sold based on the [Tinkerbell effect](tinkerbell-effect.md).
 
-* A purchasable recipe with no physical good or rights attached.
+* A purchasable receipt with no physical good or rights attached.
 * Name-A-Star Registries
 * [Indulgences](https://en.wikipedia.org/wiki/Indulgence)
 

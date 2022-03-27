@@ -65,7 +65,7 @@ Second Pass
 - [x] [systemic-risk](../concepts/systemic-risk.md)
 - [ ] [yield-farming](../concepts/yield-farming.md)
 - [x] [stablecoin](../concepts/stablecoin.md)
-- [ ] [capital-formation](../concepts/capital-formation.md)
+- [x] [capital-formation](../concepts/capital-formation.md)
 - [x] [commercial-paper](../concepts/commercial-paper.md)
 - [x] [reserve-currency](../concepts/reserve-currency.md)
 - [x] [pseudonymous](../concepts/pseudonymous.md)
@@ -84,9 +84,9 @@ Third pass
 - [ ] [enclosure](../concepts/enclosure.md)
 - [ ] [ficticious-commodity](../concepts/ficticious-commodity.md)
 - [x] [market-mania](../concepts/market-mania.md)
-- [ ] [price-risk](../concepts/price-risk.md)
-- [ ] [sanctions-enforcement](../concepts/sanctions-enforcement.md)
-- [ ] [survivorship-bias](../concepts/survivorship-bias.md)
+- [x] [price-risk](../concepts/price-risk.md)
+- [x] [sanctions-enforcement](../concepts/sanctions-enforcement.md)
+- [x] [survivorship-bias](../concepts/survivorship-bias.md)
 - [x] [bucket-shop](../concepts/bucket-shop.md)
 - [x] [front-running](../concepts/front-running.md)
 
@@ -99,3 +99,12 @@ Ideologies
 - [x] [keynsian-economics](../concepts/keynsian-economics.md)
 - [x] [technolibertarianism](../concepts/technolibertarianism.md)
 - [x] [technosolutionism](../concepts/technosolutionism.md)
+
+Fourth Pass
+
+- [ ] [liquidity-pool](../concepts/liquidity-pool.md)
+- [ ] [cds](../concepts/cds.md)
+- [ ] [cross-bridges](../concepts/cross-bridges.md)
+- [ ] [staking](../concepts/staking.md)
+- [ ] [technopopulism](../concepts/technopopulism.md)
+- [ ] [yield-farming](../concepts/yield-farming.md)
