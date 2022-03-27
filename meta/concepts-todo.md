@@ -40,7 +40,7 @@ Second Pass
 - [x] [broker](../concepts/broker.md)
 - [x] [cd](../concepts/cd.md)
 - [x] [commodity](../concepts/commodity.md)
-- [ ] [counterparty-risk](../concepts/counterparty-risk.md)
+- [x] [counterparty-risk](../concepts/counterparty-risk.md)
 - [ ] [cross-bridges](../concepts/cross-bridges.md)
 - [x] [deposit](../concepts/deposit.md)
 - [x] [deposit-insurance](../concepts/deposit-insurance.md)
@@ -55,8 +55,8 @@ Second Pass
 - [x] [mutualization](../concepts/mutualization.md)
 - [x] [narrative-economics](../concepts/narrative-economics.md)
 - [x] [order-book](../concepts/order-book.md)
-- [ ] [platform-risk](../concepts/platform-risk.md)
-- [ ] [capital-formation](../concepts/capital-formation.md)
+- [x] [platform-risk](../concepts/platform-risk.md)
+- [x] [capital-formation](../concepts/capital-formation.md)
 - [x] [private-key](../concepts/private-key.md)
 - [x] [pyramid-scheme](../concepts/pyramid-scheme.md)
 - [x] [mlm](../concepts/mlm.md)
@@ -77,20 +77,18 @@ Second Pass
 
 Third pass
 
-- [ ] [artificial-demand](../concepts/artificial-demand.md)
-- [ ] [atomic-swap](../concepts/atomic-swap.md)
-- [ ] [bank-run](../concepts/bank-run.md)
+- [x] [artificial-demand](../concepts/artificial-demand.md)
+- [x] [bank-run](../concepts/bank-run.md)
 - [x] [broker](../concepts/broker.md)
-- [x] [capital-formation](../concepts/capital-formation.md)![](../concepts/WeCrashed.S01E02.480p.x264-mSD[eztv.re].mkv)
 - [x] [cds](../concepts/cds.md)
 - [ ] [enclosure](../concepts/enclosure.md)
 - [ ] [ficticious-commodity](../concepts/ficticious-commodity.md)
-- [ ] [market-mania](../concepts/market-mania.md)
+- [x] [market-mania](../concepts/market-mania.md)
 - [ ] [price-risk](../concepts/price-risk.md)
 - [ ] [sanctions-enforcement](../concepts/sanctions-enforcement.md)
 - [ ] [survivorship-bias](../concepts/survivorship-bias.md)
 - [x] [bucket-shop](../concepts/bucket-shop.md)
-- [ ] [front-running](../concepts/front-running.md)
+- [x] [front-running](../concepts/front-running.md)
 
 Ideologies
 

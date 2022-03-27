@@ -123,7 +123,7 @@ Explore crypto and "web3" in terms of different perspectives on politics and eco
 * [Market Fundamentalism](../concepts/market-fundamentalism.md)
 * [Financial Nihilism](../concepts/financial-nihilism.md)
 * [Austrian Economics](../concepts/austrian-economics.md)
-* [Post State Technocracy](../concepts/post-state-technocracy.md)
+* [Post-state Technocracy](../concepts/post-state-technocracy.md)
 * [Libertarianism](../concepts/libertarianism.md)
 * [Technolibertarianism](../concepts/technolibertarianism.md)
 * [Cryptoanarchism](../concepts/cryptoanarchism.md)
