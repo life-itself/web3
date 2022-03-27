@@ -1,4 +1,8 @@
-# Is crypto providing faster payment rails or better remittance services?
+# There is an enormous opportunity cost to building crypto
+
+Crypto companies and projects are draining resources and capital that could be better invested in [productive assets](../concepts/productive-asset.md). Since these assets are [non-economic](../concepts/non-economic.md) they do not produce any net wealth or value for society as a whole, much like buying and holding physical commodities but without the commodities having [any use case or purpose](../concepts/ficticious-commodity.md). 
+
+The crypto project on a whole is therefore a drain on both capital markets and the technology industry since it is consuming time, resources, and talent that could be put towards more productive enterprises. It is a form a civilizational brain-drain towards projects which result in no net good and massive negative exteranlities on the world.
 
 ## References
 1. Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’. https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf.
