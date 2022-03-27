@@ -18,7 +18,7 @@
 - [x] [is-disrupt-hegemony](../claims/is-disrupt-hegemony.md)
 - [x] [is-hyperfinancialization](../claims/is-hyperfinancialization.md)
 - [ ] [is-legal](../claims/is-legal.md)
-- [ ] [is-new-financial-system](../claims/is-new-financial-system.md)
+- [x] [is-new-financial-system](../claims/is-new-financial-system.md)
 - [x] [is-opportunity-cost](../claims/is-opportunity-cost.md)
 - [ ] [is-private-money](../claims/is-private-money.md)
 - [ ] [is-public-goods](../claims/is-public-goods.md)
