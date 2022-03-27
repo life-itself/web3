@@ -15,4 +15,3 @@ See also [Pyramid scheme](pyramid-scheme.md), [Ponzi scheme](ponzi-scheme.md), a
 1. Bartoletti, Massimo, Salvatore Carta, Tiziana Cimoli, and Roberto Saia. 2020. ‘Dissecting Ponzi Schemes on Ethereum: Identification, Analysis, and Impact’. Future Generation Computer Systems 102: 259–77.
 1. Corradi, Fiammetta, and Philipp Höfner. 2018. ‘The Disenchantment of Bitcoin: Unveiling the Myth of a Digital Currency’. International Review of Sociology 28 (1): 193–207. https://doi.org/10.1080/03906701.2018.1430067.
 1. Moore, Tyler, Jie Han, and Richard Clayton. 2012. ‘The Postmodern Ponzi Scheme: Empirical Analysis of High-Yield Investment Programs’. In Financial Cryptography and Data Security, edited by Angelos D. Keromytis, 7397:41–56. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-32946-3_4.
-1. [Investor.gov Ponzi Scheme](https://www.investor.gov/protect-your-investments/fraud/types-fraud/ponzi-scheme)

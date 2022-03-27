@@ -5,6 +5,8 @@ Pre-mines are most often distributed to venture capital firms.
 
 Pre-mines have been criticised as an obscured form of [pump and dump](pump-and-dump.md) scheme.
 
+A pre-mine is an posited solution to the [distribution problem](distribution-problem.md).
+
 ## References
 * Livni, Ephrat, and Andrew Ross Sorkin. 2021. ‘The Dramatic Crash of a Buzzy Cryptocurrency Raises Eyebrows’. The New York Times, 28 June 2021, sec. Business. https://www.nytimes.com/2021/06/28/business/dealbook/icp-cryptocurrency-crash.html.
 * Cornish, Chloe, and Richard Waters. 2018. ‘Silicon Valley Investors Line up to Back Telegram ICO’. Financial Times, January. https://www.ft.com/content/790d9506-0175-11e8-9650-9c0ad2d7c5b5.
