@@ -5,7 +5,8 @@ CBDCs are either based on an *account model* or *token model*.
 
 CBDCs have been critized as being an extension of the surveillance state that conflicts with financial privacy norms.
 
-## Examples
+Examples of pending or live CBDC projects by nation states:
+
 * Chinese Digital Yuan
 * Bahama Sand Dollar
 * Project Hamilton

@@ -8,3 +8,5 @@ For example a basket of tech stocks picked randomly during the height of the dot
 See also [endowment effect](endowment-effect.md) and [bandwagon bias](bandwagon-bias.md).
 
 ## References
+1. Shaffer, Daniel S. 2010. Profiting in Economic Storms: A Historic Guide to Surviving Depression, Deflation, Hyperinflation, and Market Bubbles. John Wiley & Sons.
+1. Grinold, Richard C., and Ronald N. Kahn. Active portfolio management: Quantitative theory and applications. Probus, 1995.

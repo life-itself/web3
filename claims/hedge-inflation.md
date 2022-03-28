@@ -8,8 +8,8 @@
 > The experience of March 2020, during the market panic upon the onset of the pandemic, when bitcoin dropped farther than the stock market —and subsequently recovered with it upon the massive injection of liquidity is sufficient evidence that it cannot remotely be used as a tail hedge against systemic risk. Furthermore, bitcoin appears to respond to liquidity, exactly like other bubble items. It is also uncertain what could happen should the internet experience a general, or an even a regional, outage — particularly if it takes place during a financial collapse.
 
 ## References
-* Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’.
-* Shaffer, Daniel S. 2010. Profiting in Economic Storms: A Historic Guide to Surviving Depression, Deflation, Hyperinflation, and Market Bubbles. John Wiley & Sons.
-* Taleb, Nassim Nicholas. 2021. ‘Bitcoin, Currencies, and Fragility’. ArXiv:2106.14204 [Physics, q-Fin], July. http://arxiv.org/abs/2106.14204.
-* Wang, Gangjin, Yanping Tang, Chi Xie, and Shou Chen. 2019. ‘Is Bitcoin a Safe Haven or a Hedging Asset? Evidence from China’. Journal of Management Science and Engineering 4 (3): 173–88. https://doi.org/10.1016/j.jmse.2019.09.001.
-* Frisch, Helmut. 1983. Theories of Inflation. Cambridge University Press.
+1. Shaffer, Daniel S. 2010. Profiting in Economic Storms: A Historic Guide to Surviving Depression, Deflation, Hyperinflation, and Market Bubbles. John Wiley & Sons.
+1. Taleb, Nassim Nicholas. 2021. ‘Bitcoin, Currencies, and Fragility’. ArXiv:2106.14204 [Physics, q-Fin], July. http://arxiv.org/abs/2106.14204.
+1. Wang, Gangjin, Yanping Tang, Chi Xie, and Shou Chen. 2019. ‘Is Bitcoin a Safe Haven or a Hedging Asset? Evidence from China’. Journal of Management Science and Engineering 4 (3): 173–88. https://doi.org/10.1016/j.jmse.2019.09.001.
+1. Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’.
+1. Frisch, Helmut. 1983. Theories of Inflation. Cambridge University Press.

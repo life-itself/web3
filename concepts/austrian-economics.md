@@ -5,7 +5,7 @@ This school of thought has seen a resurgence in relation to [crypto assets](../c
 
 Often resonates with advocacy for the [gold standard](../gold-standard.md) and [libertarianism](libertarianism.md).
 
-## Prominent Thinkers
+Prominent Thinkers in the Austrian tradition are:
 
 * Murry Rothbards
 * Ludwig von Mises
