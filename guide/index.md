@@ -52,7 +52,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Are crypto assets a risk to the dollar?](../claims/threaten-dollar.md)
 * [What type of asset is a crypto token?](/claims/what-type-of-asset.md)
 * [How do we value a crypto token?](/claims/valuation-model.md)
-* [Are crypto assets a systemic risk to the economy?](../claims/systemic-risk.md)
+* [Are crypto assets a systemic risk to the economy?](../claims/is-systemic-risk.md)
 * [Is bitcoin the basis for a new gold standard?](../claims/digital-gold.md)
 * [Are crypto assets a bubble?](../claims/is-bubble.md)
 * [Are crypto assets a form of gambling?](../claims/is-gambling.md)
@@ -66,7 +66,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Are crypto assets a form of predatory inclusion?](../claims/is-predatory.md)
 * [Is crypto a solution for the unbanked?](/claims/crypto-unbanked.md)
 * [Is crypto providing faster payment rails or better remittance services?](../claims/is-better-payments.md)
-* Are NFTs are good for artists?
+* [Are NFTs are good for artists?](../claims/nfts-artists.md)
 * [What is the narrative economics of crypto assets?](../claims/narrative-economics.md)
 * [Are crypto assets legal?](../claims/is-legal.md)
 * [Are crypto tokens a negative-sum investment?](/claims/negative-sum.md)
