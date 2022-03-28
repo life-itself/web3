@@ -1,4 +1,4 @@
-# Crypto assets pose systemic risk to the larger economy
+# Crypto assets may pose systemic risk to the larger economy
 
 Crypto assets do not currently pose a [systemic risk](../concepts/systemic-risk.md) to the United States economy, but may in the future if their growth is left unchecked. Allegedly the [paper wealth](paper-wealth.md) locked up into crypto tokens is allegedly only on the order of the $1 trillion which is inconsequential next to the amount of capital allocated in both the US equities and bond markets. Crypto is still a relatively tiny asset class and a sudden crash in the market, while devastating to individual retail investors, would likely not bring amount much damage to financial institutions or markets as a whole. 
 

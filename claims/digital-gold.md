@@ -1,4 +1,4 @@
-# Bitcoin is the basis for a new gold standard
+# Bitcoin is not the basis for a new gold standard
 The neo-metallist claim is that bitcoin can operate as a new asset class which exhibits similar financial properties to [gold](../concepts/gold.md).  The strong version of this claim asserts that a new [gold standard](../concepts/gold-standard.md) can be built on top of bitcoin and that this can form the basis for a market economy.
 
 These claims do not stand up to scrutiny as bitcoin has no consistent track record of being a reliable store of value, it's price movements are extremely volatile and thus is not a reliable place to store value on long time scales. Bitcoin's price behavior is uncorrelated with gold and is largely correlated with the broader stock market making it an unreliable safe haven in times of market volatility since it is directly exposed to the price action of the Nasdaq.
