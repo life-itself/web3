@@ -1,3 +1,1 @@
-# Is crypto a means to fund public goods projects?
-
-## References
+# Crypto is not a sustainable way to fund public goods

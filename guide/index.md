@@ -245,5 +245,5 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 
 * [Value](../concepts/value.md)
 * [Risk](../concepts/risk.md)
-* [Regulation](../claims/regulation.md)
+* [Regulation](../concepts/regulation.md)
 * [Market manipulation](../concepts/market-manipulation.md)

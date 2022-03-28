@@ -3,12 +3,11 @@ A financial institution that manages the [currency](currency.md) and monetary su
 
 The mandate of central banks is often to control domestic employment and maintain price stability of a national currency.
 
-## Examples
+Examples of central banks include:
 
-* Federal Reserve
+* United States Federal Reserve
 * European Central Bank
 * Bank of England
 
 ## References
-
-* [@braun_central_2019]
+1. Braun, Benjamin, and Daniela Gabor. 2019. ‘Central Banking, Shadow Banking, and Infrastructural Power’. https://doi.org/10.31235/osf.io/nf9ms.
