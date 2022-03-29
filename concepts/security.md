@@ -3,6 +3,9 @@ A legal framework in which counterparties to a contract are given time-varying r
 
 ## Examples
 
-* [stock](stock.md)
-* [bond](bond.md)
-* [derivative](derivative.md)
+* [Stock](stock.md)
+* [Bond](bond.md)
+* [Derivative](derivative.md)
+
+## References
+1. Coffee Jr, John C., Hillary Sale, and M. Todd Henderson. "Securities regulation: Cases and materials." (2015).

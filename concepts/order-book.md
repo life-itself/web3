@@ -10,3 +10,6 @@ The other property of an order book making is the *tick size* which refers to th
 There are vast differences in design of different matching engines and ways of calculating the market maker spread to give rise to different dynamics of [price formation](price-formation.md) on a given exchange. Distortions of the order book and order matching can be used to do [market manipulation](market-manipulation.md).
 
 ## References
+1. Harris, Larry. Trading and exchanges: Market microstructure for practitioners. OUP USA, 2003.
+1. Cont, Rama, Arseniy Kukanov, and Sasha Stoikov. "The price impact of order book events." Journal of financial econometrics 12, no. 1 (2014): 47-88.
+1. Mertens, Jean-François. "The limit-price mechanism." Journal of Mathematical Economics 39, no. 5-6 (2003): 433-528.
