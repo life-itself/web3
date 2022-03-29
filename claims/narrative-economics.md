@@ -72,13 +72,3 @@ Dogecoin is an example of a crypto asset with no political imaginaries, no [curr
 * ———. 2020. ‘Survival of the Cryptic: Tracing Technological Imaginaries across Ideologies, Infrastructures, and Community Practices’. New Media and Society, 1461444820983017. https://doi.org/10.1177/1461444820983017.
 
 TODO: group by narrative
-
-## References
-* [@golumbia_bitcoin_2015]
-* [@reijers_blockchain_2018]
-* [@beltramini_cryptoanarchist_2021]
-* [@shiller_narrative_2017]
-* [@may_crypto_1992]
-* [@curran_wikileaks_2013]
-* [@krugman_technobabble_2021]
-* [@krugman_strange_2022]

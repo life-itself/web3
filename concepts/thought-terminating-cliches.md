@@ -7,7 +7,7 @@ A acronym or saying that is used within a [high control group](high-control-grou
 * Anti-intellectualism
 * Tribalism
 
-See also [bandwagon bias](bandwagon-bias.md), [high-control-group](high-control-group.md), [madness of crowds](madness-crowds.md)and [Tinkerbell effect](tinkerbell-effect.md).
+See also [bandwagon bias](bandwagon-bias.md), [high-control-group](high-control-group.md), [madness of crowds](madness-crowds.md) and [Tinkerbell effect](tinkerbell-effect.md).
 
 ## References
 1. Bernstein, William J. 2021. The Delusions of Crowds: Why People Go Mad in Groups. Grove Press.

@@ -5,5 +5,4 @@
 4. [Systemic risk](systemic-risk.md)
 
 ## References
-1. Grinold, Richard C., and Ronald N. Kahn. Active portfolio management: Quantitative theory and applications. Probus, 1995.
-1. Wilmott, Paul. Paul Wilmott introduces quantitative finance. John Wiley & Sons, 2007.
+1. Petro, Louis W., James P. Martin, Adam A. Wadecki, and Harry Cendrowski. The handbook of fraud deterrence. John Wiley & Sons, 2007.

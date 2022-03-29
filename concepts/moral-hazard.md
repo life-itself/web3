@@ -6,4 +6,5 @@ Often cited as a factor leading to the 2008 subprime mortgage crisis.
 See [credit default swaps](cds.md).
 
 ## References
-* Momtaz, Paul P. 2020. ‘Entrepreneurial Finance and Moral Hazard: Evidence from Token Offerings’. Journal of Business Venturing, 106001.
+1. Momtaz, Paul P. 2020. ‘Entrepreneurial Finance and Moral Hazard: Evidence from Token Offerings’. Journal of Business Venturing, 106001.
+1. Ball, Laurence M. The Fed and Lehman Brothers: setting the record straight on a financial disaster. Cambridge University Press, 2018.
