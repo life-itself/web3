@@ -6,4 +6,5 @@ Front running is illegal in the United States when trading [securities](security
 See also [broker](broker.md), [asymmetric information](asymmetric-information.md), [market manipulation](market-manipulation.md) and [price-formation](price formation.md).
 
 ## References
+1. Aldridge, Irene. High-frequency trading: a practical guide to algorithmic strategies and trading systems. Vol. 604. John Wiley & Sons, 2013.
 1. Akerlof, George A. "The market for “lemons”: Quality uncertainty and the market mechanism." In Uncertainty in economics, pp. 235-251. Academic Press, 1978.

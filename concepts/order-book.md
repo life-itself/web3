@@ -11,5 +11,6 @@ There are vast differences in design of different matching engines and ways of c
 
 ## References
 1. Harris, Larry. Trading and exchanges: Market microstructure for practitioners. OUP USA, 2003.
+1. Aldridge, Irene. High-frequency trading: a practical guide to algorithmic strategies and trading systems. Vol. 604. John Wiley & Sons, 2013.
 1. Cont, Rama, Arseniy Kukanov, and Sasha Stoikov. "The price impact of order book events." Journal of financial econometrics 12, no. 1 (2014): 47-88.
 1. Mertens, Jean-François. "The limit-price mechanism." Journal of Mathematical Economics 39, no. 5-6 (2003): 433-528.

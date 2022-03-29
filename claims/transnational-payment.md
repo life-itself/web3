@@ -6,7 +6,7 @@ Today there already exists and enormous [shadow banking](../concepts/shadow-bank
 
 The incorporation of crypto into the shadow banking system, which is already happening, is providing even easier access for disreputable individuals to avoid taxes and to expand their holdings abroad. Instead of offshore shell companies, these individuals will use [stablecoin](../concepts/stablecoin.md) and [cryptoasset](../concepts/cryptoasset.md) to hide their money from tax authorities.
 
-From the public interest perspective none of this setup is desirable, since it allows the already wealth to avoid paying taxes and supporting [public goods](../concepts/public-goods-problem.md) and the welfare state which supports people will less resources than wealthy individuals. Crypto thus exasperates wealth inequality and allows individuals to circumvent the rule of law and undermine the entire social contract of democracy.
+From the public interest perspective none of this setup is desirable, since it allows the already wealth to avoid paying taxes and supporting [public goods](../concepts/public-goods-problem.md) and the welfare state which supports people with less resources than wealthy individuals. Crypto thus exasperates wealth inequality and allows individuals to circumvent the rule of law and undermine the entire social contract of democracy.
 
 ## References
 1. Allen, Hilary J. 2022. ‘DeFi: Shadow Banking 2.0?’ William & Mary Law Review, Forthcoming.
