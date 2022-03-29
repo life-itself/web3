@@ -4,3 +4,4 @@ Insurance a bank holds against its [deposit](deposit.md) to protect depositors f
 See also [bank run](bank-run.md) and [mutualization](mutualization.md).
 
 ## References
+1. Roche, Cullen O. 2011. ‘Understanding the Modern Monetary System’. http://ssrn.com/paper=1905625.

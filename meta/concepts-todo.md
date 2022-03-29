@@ -106,5 +106,5 @@ Fourth Pass
 - [x] [cds](../concepts/cds.md)
 - [x] [cross-bridges](../concepts/cross-bridges.md)
 - [x] [staking](../concepts/staking.md)
-- [ ] [technopopulism](../concepts/technopopulism.md)
+- [x] [technopopulism](../concepts/technopopulism.md)
 - [x] [yield-farming](../concepts/yield-farming.md)

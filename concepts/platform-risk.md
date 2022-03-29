@@ -9,3 +9,4 @@ Unregulated [crypto exchanges](crypto-exchange.md) are subject to extreme [platf
 1. Ferrari, Valeria. 2020. ‘The Regulation of Crypto-Assets in the EU – Investment and Payment Tokens under the Radar’. Maastricht Journal of European and Comparative Law 27 (3): 325–42. https://doi.org/10.1177/1023263X20911538.
 1. Finck, Michèle. 2018. Blockchain Regulation and Governance in Europe. Blockchain Regulation and Governance in Europe. Cambridge University Press. https://doi.org/10.1017/9781108609708.
 1. Grinold, Richard C., and Ronald N. Kahn. Active portfolio management: Quantitative theory and applications. Probus, 1995.
+1. Petro, Louis W., James P. Martin, Adam A. Wadecki, and Harry Cendrowski. The handbook of fraud deterrence. John Wiley & Sons, 2007.
