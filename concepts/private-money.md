@@ -32,25 +32,25 @@ Under United States law if a customer purchases casino chips, they have the righ
 See [artificial demand](artificial-demand.md).
 
 ## References
-* Eich, Stefan. 2018. ‘The Currency of Politics’. The Political Theory of Money from Aristotle to Keynes.
-* Hockett, Robert C. 2019. ‘Money’s Past Is Fintech’s Future: Wildcat Crypto, the Digital Dollar, and Citizen Central Banking’.
-* Steele, Graham. 2021. ‘The Miner of Last Resort: Digital Currency, Shadow Money and the Role of the Central Bank’. Technology and Government, Emerald Studies in Media and Communications, Forthcoming.
-* Gorton, Gary B., and Jeffery Zhang. 2021b. ‘Taming Wildcat Stablecoins’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3888752.
-* Varoufakis, Yanis. 2021. ‘What Is Money, Really? And Why Bitcoin Is Not the Answer (Even If Blockchain Is Brilliant & Potentially Helpful in Democratising Money)’. Yanis Varoufakis (blog). 2 August 2021. https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/.
-* Bazzani, Giacomo. 2020. ‘Money as a Tool for Collective Action’. Partecipazione e Conflitto 13 (1): 438–61. https://doi.org/10.1285/i20356609v13i1p438.
-* *‘Private Money vs Totally-Public Money, plus Some History | Financial Times’. n.d. Accessed 20 March 2022. https://www.ft.com/content/40592d6d-5a32-3606-a54f-cdc411e90c20.
-* Canning, Tonya. 2018. ‘"We Don’t Want Hippy Money”: Contradiction and Exchange in a Local Currency System’. PhD Thesis. https://dalspace.library.dal.ca/handle/10222/74190.
-* Dini, Paolo, and Alexandros Kioupkiolis. 2019. ‘The Alter-Politics of Complementary Currencies: The Case of Sardex’. Cogent Social Sciences 5 (1). https://doi.org/10.1080/23311886.2019.1646625.
-* Doria, Luigi, and Luca Fantacci. 2018. ‘Evaluating Complementary Currencies: From the Assessment of Multiple Social Qualities to the Discovery of a Unique Monetary Sociality’. Quality and Quantity 52 (3): 1291–1314. https://doi.org/10.1007/s11135-017-0520-9.
-* Hileman, Garrick. 2017. ‘Alternative Currencies: A Historical Survey and Taxonomy’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2747975.
-* Larue, Louis. 2020. ‘“A Conceptual Framework for Classifying Currencies”.’ International Journal of Community Currency Research 24 (1): 45–60.
-* *———. n.d. ‘The Case against Alternative Currencies’. Politics, Philosophy & Economics 0 (0): 1470594X211065784. https://doi.org/10.1177/1470594X211065784.
-* Nabilou, Hossein, and André Prüm. 2019. ‘Ignorance, Debt, and Cryptocurrencies: The Old and the New in the Law and Economics of Concurrent Currencies’. Journal of Financial Regulation 5 (1): 29–63. https://doi.org/10.1093/jfr/fjz002.
-* North, Peter. 2007. Money and Liberation: The Micropolitics of Alternative Currency Movements. University of Minnesota Press. https://www.upress.umn.edu/book-division/books/money-and-liberation.
-* North, Peter, Vicky Nowak, Alan Southern, and Matt Thompson. 2020. ‘Generative Anger: From Social Enterprise to Antagonistic Economies’. Rethinking Marxism 32 (3): 330–47. https://doi.org/10.1080/08935696.2020.1780669.
-* Pacione, Michael. 1997. ‘Local Exchange Trading Systems as a Response to the Globalisation of Capitalism’. Urban Studies 34 (8): 1179–99. https://doi.org/10.1080/0042098975583.
-* Petz, Marcus. 2020. ‘When Is Money Not a Currency? Developments from Finland of Proto-Community Currencies’. International Journal of Community Currency Research 24 (2): 30–53.
-* Sartori, Laura. 2020. ‘The Social Life of Sardex and Liberex: Kin or Acquaintances?: A Comparison between Two Mutual Credit Circuits in Italy’. Partecipazione e Conflitto 13 (1): 487–513. https://doi.org/10.1285/i20356609v13i1p487.
-* Schroeder, Rolf F. H. 2020. ‘Beyond the Veil of Money: Boundaries as Constitutive Elements of Complementary Currencies’. The Japanese Political Economy 46 (1): 17–41. https://doi.org/10.1080/2329194x.2020.1762499.
-* Scott, Brett. 2022. Cloudmoney: Cash, Cards, Crypto, and the War for Our Wallets. Harper Business. https://www.harperacademic.com/book/9780062936325/cloudmoney/.
-* Seyfang, G. 2001. ‘Community Currencies: Small Change for a Green Economy’. Environment and Planning A 33 (6): 975–96. https://doi.org/10.1068/a33216.
+1. Eich, Stefan. 2018. ‘The Currency of Politics’. The Political Theory of Money from Aristotle to Keynes.
+1. Hockett, Robert C. 2019. ‘Money’s Past Is Fintech’s Future: Wildcat Crypto, the Digital Dollar, and Citizen Central Banking’.
+1. Steele, Graham. 2021. ‘The Miner of Last Resort: Digital Currency, Shadow Money and the Role of the Central Bank’. Technology and Government, Emerald Studies in Media and Communications, Forthcoming.
+1. Gorton, Gary B., and Jeffery Zhang. 2021b. ‘Taming Wildcat Stablecoins’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3888752.
+1. Varoufakis, Yanis. 2021. ‘What Is Money, Really? And Why Bitcoin Is Not the Answer (Even If Blockchain Is Brilliant & Potentially Helpful in Democratising Money)’. Yanis Varoufakis (blog). 2 August 2021. https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/.
+1. Bazzani, Giacomo. 2020. ‘Money as a Tool for Collective Action’. Partecipazione e Conflitto 13 (1): 438–61. https://doi.org/10.1285/i20356609v13i1p438.
+1. *‘Private Money vs Totally-Public Money, plus Some History | Financial Times’. n.d. Accessed 20 March 2022. https://www.ft.com/content/40592d6d-5a32-3606-a54f-cdc411e90c20.
+1. Canning, Tonya. 2018. ‘"We Don’t Want Hippy Money”: Contradiction and Exchange in a Local Currency System’. PhD Thesis. https://dalspace.library.dal.ca/handle/10222/74190.
+1. Dini, Paolo, and Alexandros Kioupkiolis. 2019. ‘The Alter-Politics of Complementary Currencies: The Case of Sardex’. Cogent Social Sciences 5 (1). https://doi.org/10.1080/23311886.2019.1646625.
+1. Doria, Luigi, and Luca Fantacci. 2018. ‘Evaluating Complementary Currencies: From the Assessment of Multiple Social Qualities to the Discovery of a Unique Monetary Sociality’. Quality and Quantity 52 (3): 1291–1314. https://doi.org/10.1007/s11135-017-0520-9.
+1. Hileman, Garrick. 2017. ‘Alternative Currencies: A Historical Survey and Taxonomy’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2747975.
+1. Larue, Louis. 2020. ‘“A Conceptual Framework for Classifying Currencies”.’ International Journal of Community Currency Research 24 (1): 45–60.
+1. *———. n.d. ‘The Case against Alternative Currencies’. Politics, Philosophy & Economics 0 (0): 1470594X211065784. https://doi.org/10.1177/1470594X211065784.
+1. Nabilou, Hossein, and André Prüm. 2019. ‘Ignorance, Debt, and Cryptocurrencies: The Old and the New in the Law and Economics of Concurrent Currencies’. Journal of Financial Regulation 5 (1): 29–63. https://doi.org/10.1093/jfr/fjz002.
+1. North, Peter. 2007. Money and Liberation: The Micropolitics of Alternative Currency Movements. University of Minnesota Press. https://www.upress.umn.edu/book-division/books/money-and-liberation.
+1. North, Peter, Vicky Nowak, Alan Southern, and Matt Thompson. 2020. ‘Generative Anger: From Social Enterprise to Antagonistic Economies’. Rethinking Marxism 32 (3): 330–47. https://doi.org/10.1080/08935696.2020.1780669.
+1. Pacione, Michael. 1997. ‘Local Exchange Trading Systems as a Response to the Globalisation of Capitalism’. Urban Studies 34 (8): 1179–99. https://doi.org/10.1080/0042098975583.
+1. Petz, Marcus. 2020. ‘When Is Money Not a Currency? Developments from Finland of Proto-Community Currencies’. International Journal of Community Currency Research 24 (2): 30–53.
+1. Sartori, Laura. 2020. ‘The Social Life of Sardex and Liberex: Kin or Acquaintances?: A Comparison between Two Mutual Credit Circuits in Italy’. Partecipazione e Conflitto 13 (1): 487–513. https://doi.org/10.1285/i20356609v13i1p487.
+1. Schroeder, Rolf F. H. 2020. ‘Beyond the Veil of Money: Boundaries as Constitutive Elements of Complementary Currencies’. The Japanese Political Economy 46 (1): 17–41. https://doi.org/10.1080/2329194x.2020.1762499.
+1. Scott, Brett. 2022. Cloudmoney: Cash, Cards, Crypto, and the War for Our Wallets. Harper Business. https://www.harperacademic.com/book/9780062936325/cloudmoney/.
+1. Seyfang, G. 2001. ‘Community Currencies: Small Change for a Green Economy’. Environment and Planning A 33 (6): 975–96. https://doi.org/10.1068/a33216.

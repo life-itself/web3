@@ -23,7 +23,7 @@ Discretionary halting of the [market](market.md) in order to prevent price movem
 Discretionary restriction of the sale of assets for [currency](currency.md).
 
 ## References
-* Lefevre, Edwin. 2004. Reminiscences of a Stock Operator. Vol. 175. John Wiley & Sons.
+1. Lefevre, Edwin. 2004. Reminiscences of a Stock Operator. Vol. 175. John Wiley & Sons.
 1. Dhawan, Anirudh, and Talis J. Putnins. 2020. ‘A New Wolf in Town? Pump-and-Dump Manipulation in Cryptocurrency Markets’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3670714.
 1. Hamrick, JT, Farhang Rouhi, Arghya Mukherjee, Amir Feder, Neil Gandal, Tyler Moore, and Marie Vasek. 2018a. ‘An Examination of the Cryptocurrency Pump and Dump Ecosystem’. http://ssrn.com/paper=3303365.
 1. *———. 2018b. ‘The Economics of Cryptocurrency Pump and Dump Schemes’.
