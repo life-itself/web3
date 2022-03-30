@@ -1,4 +1,4 @@
-# Neo-metallism
+# Neo-Metallism
 
 In episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on bitcoin and the concept of "digital" gold.
 
