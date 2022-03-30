@@ -13,7 +13,6 @@ const CustomHeading = ({ as, ...rest }) => {
   useEffect(() => {
     toc.map((t) => {
       if (t.content === rest.children) {
-        console.log(t.slug)
         setValue(t.slug);
       }
     });
