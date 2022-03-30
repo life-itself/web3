@@ -6,6 +6,7 @@ Because of [regulatory capture](regulatory-capture.md) some MLM schemes are lega
 See also [Pyramid scheme](pyramid-scheme.md), [Ponzi scheme](ponzi-scheme.md), and [zero-sum game](zero-sum-game.md).
 
 ## References
+1. Mims, Christopher. n.d. ‘NFTs, Cryptocurrencies and Web3 Are Multilevel Marketing Schemes for a New Generation - WSJ’. Accessed 14 March 2022. https://www.wsj.com/articles/nfts-cryptocurrencies-and-web3-are-multilevel-marketing-schemes-for-a-new-generation-11645246824.
 1. Krugman, Paul. 2018. ‘Bitcoin Is Basically a Ponzi Scheme’. The Seattle Times 30. https://www.seattletimes.com/opinion/bitcoin-is-basically-a-ponzi-scheme/.
 1. Stolfi, Jorge. n.d. ‘Bitcoin Is a Ponzi’. Accessed 19 March 2022. https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html.
 1. Sohale Andrus Mortazvi. n.d. ‘Cryptocurrency Is a Giant Ponzi Scheme’. Jacobin. Accessed 20 March 2022. https://jacobinmag.com/2022/01/cryptocurrency-scam-blockchain-bitcoin-economy-decentralization.
@@ -15,3 +16,4 @@ See also [Pyramid scheme](pyramid-scheme.md), [Ponzi scheme](ponzi-scheme.md), a
 1. Bartoletti, Massimo, Salvatore Carta, Tiziana Cimoli, and Roberto Saia. 2020. ‘Dissecting Ponzi Schemes on Ethereum: Identification, Analysis, and Impact’. Future Generation Computer Systems 102: 259–77.
 1. Corradi, Fiammetta, and Philipp Höfner. 2018. ‘The Disenchantment of Bitcoin: Unveiling the Myth of a Digital Currency’. International Review of Sociology 28 (1): 193–207. https://doi.org/10.1080/03906701.2018.1430067.
 1. Moore, Tyler, Jie Han, and Richard Clayton. 2012. ‘The Postmodern Ponzi Scheme: Empirical Analysis of High-Yield Investment Programs’. In Financial Cryptography and Data Security, edited by Angelos D. Keromytis, 7397:41–56. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-32946-3_4.
+1. Olson, Dan. 2022a. Line Goes Up – The Problem With NFTs. https://www.youtube.com/watch?v=YQ_xWvX1n9g.

@@ -4,3 +4,6 @@ An *exit scam* or *rugpull* is a type of fraud in which the operators of crypto 
 The anonomous nature of many [defi](defi.md) projects means these types of fraud are frequent and difficult to trace or prosecute by law enforcment.
 
 See also [securities law](security.md) and [KYC requirements](kyc.md).
+
+## References
+1. Petro, Louis W., James P. Martin, Adam A. Wadecki, and Harry Cendrowski. The handbook of fraud deterrence. John Wiley & Sons, 2007.

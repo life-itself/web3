@@ -4,3 +4,4 @@ Credit default swaps are a type of [derivative](derivative.md) contract with und
 See also [regulatory-capture](regulatory-capture.md) and [derivative](derivative.md).
 
 ## References
+1. Ball, Laurence M. The Fed and Lehman Brothers: setting the record straight on a financial disaster. Cambridge University Press, 2018.

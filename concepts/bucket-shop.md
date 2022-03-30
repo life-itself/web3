@@ -6,3 +6,4 @@ Bucket shops were made in illegal in the United States in 1922. Bucket shops are
 See also [crypto exchange](crypto-exchange.md).
 
 ## References
+1. Lefevre, Edwin. 2004. Reminiscences of a Stock Operator. Vol. 175. John Wiley & Sons.

@@ -9,3 +9,6 @@ There are many different types of value definitions that occur in different disc
 * [Sign value](sign-value.md)
 * [Use value](use-value.md)
 * [Terminal value](terminal-value.md)
+
+## References
+1. Schroeder, Mark. "Value theory." (2008).

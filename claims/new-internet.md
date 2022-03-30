@@ -12,6 +12,7 @@ The notion that crypto is building new internet is pernicious form of myth-makin
 1. Blank, Steve. "A Secret History of Silicon Valley." Computer History Museum (2008).
 1. O’Reilly, Tim. 2021. ‘Why It’s Too Early to Get Excited About Web3’. O’Reilly Media. 13 December 2021. https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/.
 1. Morozov, Evgeny. 2022. ‘Web3: A Map in Search of Territory’. The Crypto Syllabus. 13 January 2022. https://the-crypto-syllabus.com/web3-a-map-in-search-of-territory/.
+1. Marx, Paris. n.d. ‘Why Web3, the Blockchain and Crypto Internet, Is Doomed to Fail’. Accessed 29 March 2022. https://www.businessinsider.com/web3-blockchain-crypto-internet-doomed-fail-doesnt-live-up-hype-2022-3?r=US&IR=T.
 1. Patterson, Dan. 2022. ‘Internet Guru Tim O’Reilly on Web3: “Get Ready for the Crash”’. CBS News. 10 February 2022. https://www.cbsnews.com/news/web3-cryptocurrency-nft-tim-oreilly/.
 1. Weaver, Nicholas. 2021. ‘The Web3 Fraud’. USENIX. 16 December 2021. https://www.usenix.org/publications/loginonline/web3-fraud.
 1. Tante. 2021. ‘The Third Web’. Nodes in a Social Network (blog). 17 December 2021. https://tante.cc/2021/12/17/the-third-web/.

@@ -8,3 +8,6 @@ A payment network arises out of network effects of collection of interconnected 
 See also [decentralization](decentralization.md) and [recentralization](recentralization.md).
 
 ## References 
+1. Katz, Michael L., and Carl Shapiro. "Systems competition and network effects." Journal of economic perspectives 8, no. 2 (1994): 93-115.
+1. Metcalfe, Bob. "Metcalfe's law after 40 years of ethernet." Computer 46, no. 12 (2013): 26-31.
+1. Newman, Mark EJ. "The mathematics of networks." The new palgrave encyclopedia of economics 2, no. 2008 (2008): 1-12.

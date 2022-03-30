@@ -29,13 +29,3 @@ Crypto assets are thus a form of predatory finance with negative [expected-retur
 1. ———. 2021a. ‘Technobabble, Libertarian Derp and Bitcoin’. The New York Times 21.
 1. ———. 2021b. ‘The Brutal Truth About Bitcoin’. The New York Times 21.
 1. Taleb, Nassim Nicholas. 2021. ‘Bitcoin, Currencies, and Fragility’. ArXiv:2106.14204 [Physics, q-Fin], July. http://arxiv.org/abs/2106.14204.
-
-
-## References
-* [@bindseil_encrypted_2022]
-* [@momtaz_entrepreneurial_2020]
-* [@kapsis_should_2021]
-* [@iansiti_truth_2017]
-* [@krugman_bitcoin_2018]
-* [@krugman_bitcoin_2013]
-* [@glongloff_bitcoin_nodate]

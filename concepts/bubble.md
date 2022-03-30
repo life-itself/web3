@@ -3,9 +3,8 @@ An economic bubble is a phenomenon in [markets](market.md) created by herd menta
 
 Attempting to time the market on bubbles is a [zero-sum game](zero-sum-game.md) and has a negative [expected return](expected-return.md).
 
-See ["madness of crowds"](madness-crowds.md), [market mania](market-mania.md) and [bandwagon bias](bandwagon-bias.md).
+Historical bubbles:
 
-## Examples
 * South Sea Bubble
 * Beanie Baby Bubble
 * London Rail Bubble
@@ -13,6 +12,8 @@ See ["madness of crowds"](madness-crowds.md), [market mania](market-mania.md) an
 * Dot-com Bubble
 * Japanese Real Estate Bubble
 * [Crypto asset](cryptoasset.md) Bubble
+
+See ["madness of crowds"](madness-crowds.md), [market mania](market-mania.md) and [bandwagon bias](bandwagon-bias.md).
 
 ## References
 

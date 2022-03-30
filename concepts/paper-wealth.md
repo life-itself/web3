@@ -4,3 +4,6 @@ Paper wealth is [value](value.md) that is stored on behalf of a customer or coun
 [Crypto assets](cryptoasset.md) held in [crypto exchanges](crypto-exchange.md) are an example of paper wealth.
 
 See also [counterparty risk](counterparty-risk.md) and [bank run](bank-run.md).
+
+## References
+1. Petro, Louis W., James P. Martin, Adam A. Wadecki, and Harry Cendrowski. The handbook of fraud deterrence. John Wiley & Sons, 2007.

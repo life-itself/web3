@@ -228,6 +228,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Value](../concepts/value.md)
 * [Use value](../concepts/use-value.md)
 * [Sign value](../concepts/sign-value.md)
+* [Whataboutism](../concepts/whataboutism.md)
 * [Bubbles](../concepts/bubble.md)
 * ["Madness of crowds"](../concepts/madness-crowds.md)
 * [Decentralization](../concepts/decentralization.md)

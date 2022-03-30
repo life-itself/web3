@@ -1,7 +1,7 @@
 # Technocollectivism
 A loose set of political or organisational ideologies that [blockchain](../blockchain.md), [crypto assets](../cryptoasset.md) and [DAOs](../dao.md) can be used to enable new forms of organisations in which capital formation can occur outside of existing power structures. These include a variety of experiments in social choice theory, futarchy and digital cooperatives.
 
-See also [technosolutionism](technosolutionism.md).
+See also [technosolutionism](technosolutionism.md) and [techno-obscurantism](techno-obscurantism.md).
 
 ## References
 * Arjaliès, Diane-Laure. 2020. ‘“At the Very Beginning, There’S This Dream.” the Role of Utopia in the Workings of Local and Cryptocurrencies’. In Handbook of Alternative Finance. February. https://www.researchgate.net/publication/333755384_AT_THE_VERY_BEGINNING_THERE'S_THIS_DREAM_THE_ROLE_OF_UTOPIA_IN_THE_WORKINGS_OF_LOCAL_AND_CRYPTOCURRENCIES.

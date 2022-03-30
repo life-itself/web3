@@ -30,6 +30,7 @@ Crypto culture depends heavily on a distortion of language to signify belonging 
 1. Faria, I. (2021). The market, the regulator, and the government: Making a blockchain ecosystem in the Netherlands. Finance and Society, 7(1), 40–56. https://doi.org/10.2218/finsoc.v7i1.5590
 1. Faustino, S. (2019). How metaphors matter: An ethnography of blockchain-based re-descriptions of the world. Journal of Cultural Economy, 12(6), 478–490. https://doi.org/10.1080/17530350.2019.1629330
 1. Fletcher, J. (2013). Currency in Transition: An Ethnographic Inquiry of Bitcoin Adherents. https://stars.library.ucf.edu/etd/2748/
+1. Gerard, David. 2017. Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts. David Gerard.
 1. Gerard, D. (n.d.). Neo-Nazis Bet Big on Bitcoin (And Lost). Retrieved 3 March 2022, from https://foreignpolicy.com/2019/03/19/neo-nazis-banked-on-bitcoin-cryptocurrency-farright-christchurch/
 1. Glongloff, M. (n.d.). Bitcoin, GameStop Are More Cults Than Investments. Bloomberg. Retrieved 2 March 2022, from https://www.bloomberg.com/opinion/articles/2021-03-02/bitcoin-btc-gamestop-gme-are-more-cults-than-investments
 1. Golumbia, D. (2016). The Politics of Bitcoin: Software as Right-wing Extremism. University of Minnesota Press.
@@ -59,8 +60,3 @@ Crypto culture depends heavily on a distortion of language to signify belonging 
 1. Lee, Seung Cheol. 2020. ‘Magical Capitalism, Gambler Subjects: South Korea’s Bitcoin Investment Frenzy’. Cultural Studies 0 (0): 1–24. https://doi.org/10.1080/09502386.2020.1788620.
 1. Mackay, Charles. 2012. Extraordinary Popular Delusions and the Madness of Crowds. Simon and Schuster.
 1. Samman, Amin, and Stefano Sgambati. n.d. ‘Financial Eschatology and the Libidinal Economy of Leverage’. Theory, Culture & Society (Forthcoming). https://doi.org/10.1177/02632764211070805.
-
-
-## References
-* [@olson_line_2022]
-* [@golumbia_bitcoin_2015]
