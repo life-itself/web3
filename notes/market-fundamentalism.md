@@ -1,18 +1,46 @@
 # Market Fundamentalism
 
-In Episode 2 of the series, Rufus Pollock and Stephen Diehl discuss the market fundamentalism perspective on crypto assets and the perspective on crypto assets from the perspective of day traders to quantitative hedge funds.
+In Episode 2 of the series, Rufus Pollock and Stephen Diehl explore perspectives on crypto assets, from that of day traders to quantitative hedge funds, focusing in particualr on the market fundamentalist position.
 
-https://www.youtube.com/watch?v=K5JtPTyc0y0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K5JtPTyc0y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Topic
 
-[market-fundamentalism](../concepts/market-fundamentalism.md)
+
+* Youtube:  https://www.youtube.com/watch?v=K5JtPTyc0y0
+* Podcast: https://anchor.fm/life-itself/episodes/Crypto--Traders-and-Unfettered-Financial-Markets-with-Stephen-Diehl-e1fgm2d
+* Wiki topic:  [Market Fundamentalism](../concepts/market-fundamentalism.md)
+
+
+*** 
+
+# Episode Notes
 
 ## Summary
 
 The trader or market fundamentalist view likely represents a majority of interest and activity in crypto. The ideology encompasses the viewpoint that crypto is about **making money** i.e. that crypto investing and trading can make those who engage in it a lot of money. More deeply it is the view that the unfettered and unregulated nature of crypto-markets is a good thing and represents a "freer" and better form of financial markets.
 
-### Who holds this position?
+Rufus and Stephen 'steel man' the market fundamentalism position, exploring four key claims:
+1. Unregulated markets allow companies to so what they're supposed to do: maximize returns to shareholders.
+2. Markets are likeable to evolution; they have no moral quality.
+3. Crypto-trading is a public good
+4. There is no non-public disclosure about the risks of these assets, everyone is going in with their eyes open that this is the wild west.
+
+Rufus and Stephen end their conversation with an analysis of the market fundamentalist position and the associated claims.
+
+
+
+## What type of asset is a crypto token? How do we value it? Is there a comparable asset?
+
+* Zero-coupon perpetual bond?
+* Currency you wouldn’t want to spend?
+* Equity with no cash flows or dividends? https://en.wikipedia.org/wiki/Blue_sky_law
+* Commodity with no use value?
+* Exchange traded pyramid schemes?
+* Derivative contract with no underlying?
+* Libertarian performance art split into 21 million pieces https://en.wikipedia.org/wiki/Monte_Carlo_Bonds
+* If we value it as a "block box" financial product (ala Nassim Taleb) we find it’s present value can only be zero. https://www.fooledbyrandomness.com/BTC-QF.pdf
+
+## Who is trading crypto?
 
 * The day-trader in the pub, WallStreetBets demographic.
   * [Barrett, Claer. ‘Why Young Investors Bet the Farm on Cryptocurrencies’. Financial Times, 2021.](https:www.ft.com/content/162839aa-0437-478b-a4d4-4a8d7ab71458):
@@ -28,7 +56,7 @@ The trader or market fundamentalist view likely represents a majority of interes
   * Sharks *love* the minnows
 
 
-### Why is this an interesting group and position to examine?
+### Why is this an interesting group and position (crypto can make me money) to examine?
 
 * Likely represents a majority of interest and activity in crypto (and even DAOs) from the day-trader in the pub up to the wall street trader
 * Generally not brought up explicitly as much in the crypto / web3 discussion (for obvious reasons: it is not as substantive or attractive position to espouse publicly)
@@ -39,27 +67,31 @@ The trader or market fundamentalist view likely represents a majority of interes
 * However, may actually account for a good portion of the interest and even political/social support for this area
 * Legitimizing segment especially for regulators ("hey even Goldman Sachs or JP Morgan are involved, this must be a legitimate area / industry")
 
-## Steel-manning the Market Fundamentalist Position
 
-* [Friedman Doctrine](https://en.wikipedia.org/wiki/Friedman_doctrine)  applied to unregulated markets. Optimize for shareholder value.
-  * Now we get to redefine shareholder to mean token holder, without any regulatory baggage from traditional markets. 
-  * Line must go up at any cost.
-* Markets have no moral quality.
-  * They are a mechanism likeable to evolution: selects for fitness and success
+## Steel-manning the market fundamentalism position
+
+* Unregulated markets allow companies to so what they're supposed to do: maximize returns to shareholders.
+  * [Friedman Doctrine](https://en.wikipedia.org/wiki/Friedman_doctrine)  applied to unregulated markets. Optimize for shareholder value.
+    * Now we get to redefine shareholder to mean token holder, without any regulatory baggage from traditional markets. 
+    * Line must go up at any cost.
+  * Crypto products are risk assets that have no fundamentals, but that’s not necessarily a problem because you can make money on trading them. 
+    * There other financial products (ETNs - exchange traded notes, OTM put options, volatility swaps) many of which are intrinsically negative-sum and high-risk as well, these are allowed in markets … so why shouldn’t crypto be.
+      * [Credit Suisse defends controversial financial product at the center of the market turmoil](https://www.cnbc.com/2018/02/07/credit-suisse-defends-controversial-xiv-etn-amid-market-turmoil.html)
+* Markets are likeable to evolution; they have no moral quality.
+  * Markets are a mechanism likeable to evolution: they select for fitness and success
   * If I'm allowed to trade products that are massively asymmetric and disadvantageous to retail traders (individual, non-professional market participants) then I can and I will => it will eliminate those inefficient players (it punishes unfitness and rewards fitness)
-* I’m just participating in price discovery of a new asset class. 
-* Even if I know it’s a [greater fool asset](../concepts/greater-fool-theory), if I have access to non-public information and more capital I can (and should) use it and exit before the other fools.
-  * Some people legitimately did make money trading on South Sea Bubble, Dotcom Bubble, Tulip Mania
-  * These booms and busts are a natural part of market cycles
-* Crypto products are risk assets that have no fundamentals, but that’s not necessarily a problem because you can make money on trading them. 
-  * There other financial products (ETNs - exchange traded notes, OTM put options, volatility swaps) many of which are intrinsically negative-sum and high-risk as well, these are allowed in markets … so why shouldn’t crypto be.
-  * [Credit Suisse defends controversial financial product at the center of the market turmoil](https://www.cnbc.com/2018/02/07/credit-suisse-defends-controversial-xiv-etn-amid-market-turmoil.html)
-* If the market allows manipulation (pump and dumps, insider trading, wash trading) this is public knowledge and it is reflected in the price formation of the assets. There is no non-public disclosure about the risks of these assets, everyone is going in with their eyes open that this is the wild west. 
-* Investment Hypothesis  1: Tokens are an investment product that exists to secure compute cycles for people to run computation on a globally distributed state machine using the market to create game theoretic incentive to run other’s computations as a “public good”. That state machine has an operating cost and that creates synthetic demand for people who need to buy it, at any cost, to run computation on the chain.
-* Investment Hypothesis 2: We can treat crypto tokens as a synthetic hedge against the entire class of assets with fundamentals. They're a place to park money in times of loose monetary policy to chase yield when there's nothing else left to buy, because other funds circularly trade this thesis.
-* Institutional investors should be able to leverage their AUM to take high-risk positions just like they are in other private markets. If retail wants to participate with the “sharks” then it’s on them to understand the risks not on the people they’re trading against. The fiduciary mandate of hedge funds is to take positions on behalf of their LPs in beta uncorrelated positions.
+  * Even if I know it’s a [greater fool asset](../concepts/greater-fool-theory), if I have access to non-public information and more capital I can (and should) use it and exit before the other fools.
+    * Some people legitimately did make money trading on South Sea Bubble, Dotcom Bubble, Tulip Mania
+    * These booms and busts are a natural part of market cycles
+* Crypto-trading is a public good
+  * Tokens are an investment product that exists to secure compute cycles for people to run computation on a globally distributed state machine using the market to create game theoretic incentive to run other’s computations as a “public good”. That state machine has an operating cost and that creates synthetic demand for people who need to buy it, at any cost, to run computation on the chain.
+  * We can treat crypto tokens as a synthetic hedge against the entire class of assets with fundamentals. They're a place to park money in times of loose monetary policy to chase yield when there's nothing else left to buy, because other funds circularly trade this thesis.
+  * I’m just participating in price discovery of a new asset class.
+* There is no non-public disclosure about the risks of these assets. Everyone is going in with their eyes open that this is the wild west.
+  * If the market allows manipulation (pump and dumps, insider trading, wash trading) this is public knowledge and it is reflected in the price formation of the assets. 
+  * Institutional investors should be able to leverage their AUM to take high-risk positions just like they are in other private markets. If retail wants to participate with the “sharks” then it’s on them to understand the risks not on the people they’re trading against. The fiduciary mandate of hedge funds is to take positions on behalf of their LPs in beta uncorrelated positions.
 
-## Analyzing the Market Fundamentalist Position
+## Analyzing the market fundamentalism position
 
 * Everything that has been illegal for 80 years is suddenly allowed. Exchanges are basically like bucket shops from the 1920s. Everything is allowed:
   * Wash-trading
@@ -92,17 +124,6 @@ The trader or market fundamentalist view likely represents a majority of interes
   * A deformation of character: we become enslaved to the idea of getting rich quick (cf Salgado). Capitalist alienation
 * Terribly pathological form of capitalism that doesn't result in price formation on collective enterprise, goods or services. Funds are betting on financial fantasy castles in the sky detached from any day to day reality of human life.
   * What is the purpose of public markets then?
-
-### What type of asset is a crypto token? How do we value it? Is there a comparable asset?
-
-* Zero-coupon perpetual bond?
-* Currency you wouldn’t want to spend?
-* Equity with no cash flows or dividends? https://en.wikipedia.org/wiki/Blue_sky_law
-* Commodity with no use value?
-* Exchange traded pyramid schemes?
-* Derivative contract with no underlying?
-* Libertarian performance art split into 21 million pieces https://en.wikipedia.org/wiki/Monte_Carlo_Bonds
-* If we value it as a "block box" financial product (ala Nassim Taleb) we find it’s present value can only be zero. https://www.fooledbyrandomness.com/BTC-QF.pdf
 * A captive market for “fictitious commodities” (Marxist term) that is controlled by opaque unregulated market making and an economic cartel.
   * This is great if you're inside the cartel. Not so great if you aren’t.
   * Wealth transfer from public to insiders is all but guaranteed by the information asymmetry.
