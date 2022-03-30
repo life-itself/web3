@@ -56,7 +56,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
   * Sharks *love* the minnows
 
 
-### Why is this an interesting group and position (crypto can make me money) to examine?
+## Why is this an interesting group and position (crypto can make me money) to examine?
 
 * Likely represents a majority of interest and activity in crypto (and even DAOs) from the day-trader in the pub up to the wall street trader
 * Generally not brought up explicitly as much in the crypto / web3 discussion (for obvious reasons: it is not as substantive or attractive position to espouse publicly)
