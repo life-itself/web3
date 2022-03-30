@@ -40,7 +40,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 * Libertarian performance art split into 21 million pieces https://en.wikipedia.org/wiki/Monte_Carlo_Bonds
 * If we value it as a "block box" financial product (ala Nassim Taleb) we find it’s present value can only be zero. https://www.fooledbyrandomness.com/BTC-QF.pdf
 
-## Who is trading crypto?
+## Who is Trading Crypto?
 
 * The day-trader in the pub, WallStreetBets demographic.
   * [Barrett, Claer. ‘Why Young Investors Bet the Farm on Cryptocurrencies’. Financial Times, 2021.](https:www.ft.com/content/162839aa-0437-478b-a4d4-4a8d7ab71458):
@@ -56,7 +56,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
   * Sharks *love* the minnows
 
 
-## Why is the crypto-can-make-me-money position so interesting to examine?
+## Why is the Crypto-Can-Make-Me-Money Position So Interesting to Examine?
 
 * Likely represents a majority of interest and activity in crypto (and even DAOs) from the day-trader in the pub up to the wall street trader
 * Generally not brought up explicitly as much in the crypto / web3 discussion (for obvious reasons: it is not as substantive or attractive position to espouse publicly)
@@ -68,7 +68,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 * Legitimizing segment especially for regulators ("hey even Goldman Sachs or JP Morgan are involved, this must be a legitimate area / industry")
 
 
-## Steel-manning the market fundamentalism position
+## Steel-Manning the Market Fundamentalism Position
 
 * Unregulated markets allow companies to so what they're supposed to do: maximize returns to shareholders.
   * [Friedman Doctrine](https://en.wikipedia.org/wiki/Friedman_doctrine)  applied to unregulated markets. Optimize for shareholder value.
@@ -91,7 +91,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
   * If the market allows manipulation (pump and dumps, insider trading, wash trading) this is public knowledge and it is reflected in the price formation of the assets. 
   * Institutional investors should be able to leverage their AUM to take high-risk positions just like they are in other private markets. If retail wants to participate with the “sharks” then it’s on them to understand the risks not on the people they’re trading against. The fiduciary mandate of hedge funds is to take positions on behalf of their LPs in beta uncorrelated positions.
 
-## Analyzing the market fundamentalism position
+## Analyzing the Market Fundamentalism Position
 
 * Everything that has been illegal for 80 years is suddenly allowed. Exchanges are basically like bucket shops from the 1920s. Everything is allowed:
   * Wash-trading
