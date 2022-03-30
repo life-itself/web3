@@ -203,6 +203,207 @@
   {
     "toc": [
       {
+        "content": "Introduction",
+        "slug": "introduction",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Key Concepts",
+        "slug": "key-concepts",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Claims",
+        "slug": "claims",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Better Economy",
+        "slug": "better-economy",
+        "lvl": 4,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Better Society / Financial Inclusion",
+        "slug": "better-society--financial-inclusion",
+        "lvl": 4,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Financial Liberty",
+        "slug": "financial-liberty",
+        "lvl": 4,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Solving Public Goods Problems",
+        "slug": "solving-public-goods-problems",
+        "lvl": 4,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Financial Innovation",
+        "slug": "financial-innovation",
+        "lvl": 4,
+        "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "Creative Destruction",
+        "slug": "creative-destruction",
+        "lvl": 4,
+        "i": 8,
+        "seen": 0
+      },
+      {
+        "content": "Contextual",
+        "slug": "contextual",
+        "lvl": 2,
+        "i": 9,
+        "seen": 0
+      },
+      {
+        "content": "Ideologies",
+        "slug": "ideologies",
+        "lvl": 2,
+        "i": 10,
+        "seen": 0
+      },
+      {
+        "content": "Supporting Concepts",
+        "slug": "supporting-concepts",
+        "lvl": 2,
+        "i": 11,
+        "seen": 0
+      },
+      {
+        "content": "Economics",
+        "slug": "economics",
+        "lvl": 4,
+        "i": 12,
+        "seen": 0
+      },
+      {
+        "content": "Technology",
+        "slug": "technology",
+        "lvl": 4,
+        "i": 13,
+        "seen": 0
+      },
+      {
+        "content": "Regulation",
+        "slug": "regulation",
+        "lvl": 4,
+        "i": 14,
+        "seen": 0
+      },
+      {
+        "content": "Sociology",
+        "slug": "sociology",
+        "lvl": 4,
+        "i": 15,
+        "seen": 0
+      }
+    ],
+    "readingTime": 5,
+    "excerpt": "Introduction\n\nThis page serves as a root from which all other topics branch and can be explored. \n\nKey Concepts\n\nUnderstand the terminology used to describe crypto and web3.\n\nWeb3\nCrypto asset\nBitcoin",
+    "sectionSlug": "/guide",
+    "sectionWeight": 0,
+    "sectionTitle": "Guide",
+    "isIndex": true,
+    "slug": "/guide"
+  },
+  {
+    "toc": [
+      {
+        "content": "Interviews",
+        "slug": "interviews",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Interviews\n\nEpisode #1: Neo-Metallism\nEpisode #2: Market Fundamentalism\nEpisode #3: Securities Regulation\nEpisode #4: Post-state Technocracy\nEpisode #5: Fintech Incrementalism",
+    "sectionSlug": "/guide",
+    "sectionWeight": 0,
+    "sectionTitle": "Guide",
+    "isIndex": false,
+    "slug": "/guide/interviews"
+  },
+  {
+    "toc": [
+      {
+        "content": "Guide to Web3 and Crypto",
+        "slug": "guide-to-web3-and-crypto",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Introduction",
+        "slug": "introduction",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Big, controversial and making sense is hard",
+        "slug": "big-controversial-and-making-sense-is-hard",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "The Problem: the stakes are high, making sense matters and we're struggling",
+        "slug": "the-problem-the-stakes-are-high-making-sense-matters-and-were-struggling",
+        "lvl": 3,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "We need better sensemaking. How do we get there?",
+        "slug": "we-need-better-sensemaking-how-do-we-get-there",
+        "lvl": 3,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Our Approach",
+        "slug": "our-approach",
+        "lvl": 3,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Get Involved",
+        "slug": "get-involved",
+        "lvl": 3,
+        "i": 6,
+        "seen": 0
+      }
+    ],
+    "readingTime": 9,
+    "excerpt": "Guide to Web3 and Crypto\n\nWeb3 and Crypto have become a huge phenomenon but can be hard to make sense of.\n\nThis guide provides an introduction to the topic starting with the basics. It focuses more on",
+    "sectionSlug": "/guide",
+    "sectionWeight": 0,
+    "sectionTitle": "Guide",
+    "isIndex": false,
+    "slug": "/guide/method"
+  },
+  {
+    "toc": [
+      {
         "content": "Bitcoin is not a means to counter authoritarian regimes",
         "slug": "bitcoin-is-not-a-means-to-counter-authoritarian-regimes",
         "lvl": 1,
