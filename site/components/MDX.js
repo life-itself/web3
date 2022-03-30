@@ -7,8 +7,8 @@ import { getPostBySlug } from '../lib/api';
 
 const CustomHeading = ({ as, ...rest }) => {
   const [value, setValue] = useState("");
-  const { query } = useRouter();
-  const post = getPostBySlug(`/${query.slug[0]}`);
+  const { asPath } = useRouter();
+  const post = getPostBySlug(asPath.split("#")[0]);
   const toc = post.toc
   useEffect(() => {
     toc.map((t) => {
@@ -43,9 +43,9 @@ const components = {
 };
 
 export default function MdxPage({ children }) {
-  const { query } = useRouter();
+  const { asPath } = useRouter();
   const { Component, frontmatter } = children;
-    const post = getPostBySlug(`/${query.slug[0]}`)
+    const post = getPostBySlug(asPath.split("#")[0]);
   return (
     <div className="flex justify-center">
       <article className="prose dark:prose-invert p-6 min-w-full ">
