@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useRouter } from "next/router";
 import Scrollspy from "react-scrollspy";
 import ArrowRight from "./icons/ArrowRight";
 
@@ -9,6 +10,8 @@ export default function TOC({
   contentSelector,
   depth = 2,
 }) {
+  const { asPath, pathName } = useRouter();
+  console.log(pathName);
   if (!toc || !toc.length) return null;
   const minLevel = toc.reduce(
     (mLevel, item) => (!mLevel || item.lvl < mLevel ? item.lvl : mLevel),
@@ -29,6 +32,7 @@ export default function TOC({
         .replace(/\s/gi, "-")
         .toLowerCase(),
     }));
+  console.log(tocItems)
   const [open, setOpen] = useState(false);
   return (
     <div
@@ -62,17 +66,17 @@ export default function TOC({
       <div className={`${!open && "hidden"} ${cssBreakingPoint}:block`}>
         <Scrollspy
           items={tocItems.map((item) => item.slugWithATag)}
-          currentClassName="text-primary-600 font-bold"
+          currentClassName="text-base font-extrabold text-yellow-500"
           componentTag="div"
           rootEl={contentSelector}
         >
           {tocItems.map((item, index) => (
             <a
+              key={index}
               className={`pl-${
                 (item.lvl - minLevel) * 2
               } block mb-1 transition duration-100 ease-in-out no-underline font-normal text-sm font-sans antialiased hover:underline`}
               href={`#${item.slug}`}
-              key={index}
             >
               {item.content}
             </a>

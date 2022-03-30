@@ -3,10 +3,9 @@ import { useState, useEffect } from "react";
 import Head from "next/head";
 import ContentLayout from "./ContentLayout";
 import { Paragraph } from "./Link";
-import { getPostBySlug, getAllPosts } from '../lib/api';
+import { getPostBySlug } from '../lib/api';
 
 const CustomHeading = ({ as, ...rest }) => {
-  console.log(as)
   const [value, setValue] = useState("");
   const { asPath } = useRouter();
   const post = getPostBySlug(asPath);
