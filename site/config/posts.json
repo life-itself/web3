@@ -554,9 +554,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Crypto tokens are not a means to destroy capitalism\n\nCrypto tokens are indeed a form of predatory investment that may have wide-reaching consequences in the lives of people it harms. However it is not",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
@@ -572,9 +579,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Is web3 a means to dismantle the American tech hegemony?\n\nWeb3 is not a means to disrupt the American tech hegemony, companies like Google, Facebook, Amazon etc. Since web3 has no coherent meaning or ",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
@@ -722,13 +736,6 @@
         "lvl": 2,
         "i": 1,
         "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 1
       }
     ],
     "readingTime": 3,
@@ -872,13 +879,6 @@
         "lvl": 2,
         "i": 2,
         "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 3,
-        "seen": 1
       }
     ],
     "readingTime": 6,
@@ -1114,7 +1114,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nReferences\n\nWanat, Emanuel. 2021. ‘Are Crypto-Assets Green En",
+    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nSee also ESG investing and crypto, environmental-footprint an",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -1136,13 +1136,6 @@
         "lvl": 2,
         "i": 1,
         "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 1
       }
     ],
     "readingTime": 6,
@@ -1667,9 +1660,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Crypto tokens are not a means to destroy capitalism\n\nCrypto tokens are indeed a form of predatory investment that may have wide-reaching consequences in the lives of people it harms. However it is not",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
@@ -1685,9 +1685,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Is web3 a means to dismantle the American tech hegemony?\n\nWeb3 is not a means to disrupt the American tech hegemony, companies like Google, Facebook, Amazon etc. Since web3 has no coherent meaning or ",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
@@ -1835,13 +1842,6 @@
         "lvl": 2,
         "i": 1,
         "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 1
       }
     ],
     "readingTime": 3,
@@ -1985,13 +1985,6 @@
         "lvl": 2,
         "i": 2,
         "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 3,
-        "seen": 1
       }
     ],
     "readingTime": 6,
@@ -2227,7 +2220,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nReferences\n\nWanat, Emanuel. 2021. ‘Are Crypto-Assets Green En",
+    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nSee also ESG investing and crypto, environmental-footprint an",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -2249,13 +2242,6 @@
         "lvl": 2,
         "i": 1,
         "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 1
       }
     ],
     "readingTime": 6,
@@ -2386,9 +2372,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Anti Money Laundering\n\n Money laundering is a criminal activity in which the provenance of money associated with a crime are obscured by passing the funds through legitimate businesses to obscure thei",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -2520,7 +2513,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 3,
     "excerpt": "Artificial Scarcity\n\nThe abstract notion of creating an asset whose supply is artificially determined and set by the issuer instead of by its physicality or underlying whose demand curve would be gene",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -2672,6 +2665,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -2747,10 +2747,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Bond\n\nA bond is a security financial product that represents a promise by a borrower to pay a lender their principal and periodic interest (called a coupon) on a loan.",
+    "excerpt": "Bond\n\nA bond is a security financial product that represents a promise by a borrower to pay a lender their principal and periodic interest (called a coupon) on a loan. \n\nReferences\n\nRoche, Cullen O. 2",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -2764,6 +2771,13 @@
         "slug": "bretton-woods",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -2810,17 +2824,10 @@
         "seen": 0
       },
       {
-        "content": "Examples",
-        "slug": "examples",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -2915,9 +2922,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Cartel\n\nAn economic cartel use a non-public agreement to restrict the supply or fix the price of an asset. A cartel is a formal type of market-manipulation. Cartels are considered to be against the pu",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -3058,10 +3072,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Collateralization",
+    "excerpt": "Collateralization\n\nReferences",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -3111,7 +3132,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Commodity\n\nAn asset that is used for its use value as an input to an economic process.\n\nExamples of commodities include:\n\nPetroleum\nWheat\nPork\nAluminium\n\nReferences\n\nWilmott, Paul. Paul Wilmott introd",
+    "excerpt": "Commodity\n\nAn asset that is used for its use value as an input to an economic process.\n\nExamples of commodities include:\n\nPetroleum\nWheat\nPork\nAluminium\n\nReferences\n\nRoche, Cullen O. 2011. ‘Understand",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -3336,10 +3357,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Currency Peg\n\nA currency peg is a policy in which an asset is set to a specific fixed exchange rate for its currency with a foreign currency or basket of currencies.",
+    "excerpt": "Currency Peg\n\nA currency peg is a policy in which an asset is set to a specific fixed exchange rate for its currency with a foreign currency or basket of currencies.\n\nReferences\n\nRoche, Cullen O. 2011",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -3511,10 +3539,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Deposit\n\nMoney that held on behalf of a client of a bank.",
+    "excerpt": "Deposit\n\nMoney that held on behalf of a client of a bank.\n\nReferences\n\nRoche, Cullen O. 2011. ‘Understanding the Modern Monetary System’. http://ssrn.com/paper=1905625.",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -3579,9 +3614,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Distribution Problem\n\nThe distribution problem refers to a set of hypothetical solutions to achieve a equitable (or other property) of distribution in the bootstrapping of a private-money. Effectively",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -3735,6 +3777,13 @@
         "slug": "exit-scam",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -3929,6 +3978,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "Examples",
+        "slug": "examples",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -4120,7 +4176,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Initial Coin Offerings\n\nInitial coin offerings are proxy equity fundraising structure that allows entrepeneurs to raise crypto assets in a common enterprise outside of existing securities regulation. ",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -4136,9 +4192,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Illicit Financing\n\nIllicit financial flows are illegal movements of money from one country to another that are illegally earned, transferred, or associated with criminal activity.\n\nSee also money laun",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -4279,9 +4342,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Know Your Customer\n\nKnow your customer or (KYC) is a regulatory requirement where a provider of a financial services provider or bank must collect personally identifiable information about its custome",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -4297,10 +4367,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Leverage\n\nLeverage refers to the use of debt to increase the size of a position in an investment.",
+    "excerpt": "Leverage\n\nLeverage refers to the use of debt to increase the size of a position in an investment.\n\nReferences\n\nRoche, Cullen O. 2011. ‘Understanding the Modern Monetary System’. http://ssrn.com/paper=",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -4440,9 +4517,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Market Maker\n\nA entity of business with performs the business of creating a market, connecting buyers and sellers to exchange goods and services. The trading of financial assets is a regulated activit",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -4582,6 +4666,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -4627,15 +4718,15 @@
         "seen": 0
       },
       {
-        "content": "Examples",
-        "slug": "examples",
+        "content": "References",
+        "slug": "references",
         "lvl": 2,
         "i": 1,
         "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Meme Stock\n\nThe trading of a public stock detached from its fundamental value as pure speculation. Timing a meme stock bubble is a zero-sum game. \n\nSee also financial nihilism.\n\nExamples\n\nGamestop\nAMC",
+    "excerpt": "Meme Stock\n\nThe trading of a public stock detached from its fundamental value as pure speculation. Timing a meme stock bubble is a zero-sum game. \n\nExamples of memestocks include:\n\nGamestop\nAMC\nTesla\n",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -4659,7 +4750,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Memecoin\n\nA meme coin is a cryptoasset which has no pretense of fundamental value or utility but instead is a greater fool investment based trend-following of an image or symbol in popular culture.\n\nS",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -5084,6 +5175,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -5136,7 +5234,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Platform Risk\n\nIn financial risk analysis, platform risk is the risk that the market maker or trading platform ceases to operate as a company. In this event the customers of the platform may be left w",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -5262,7 +5360,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Present Value\n\nIn quantitative finance, the present value of a financial asset is the expected income stream determined as of the date of valuation. \n\nSee also terminal value.\n\nReferences\n\nGrinold, Ri",
+    "excerpt": "Present Value\n\nIn quantitative finance, the present value of a financial asset is the expected income stream determined as of the date of valuation. \n\nSee also terminal value and valuation model.\n\nRef",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -5605,10 +5703,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Regulation\n\nSanctions enforcement\nKnow Your Customer\nAnti-money laundering law\nCounter-terrorism financing\nMoney services business\nMarket manipulation",
+    "excerpt": "Regulation\n\nSanctions enforcement\nKnow Your Customer\nAnti-money laundering law\nCounter-terrorism financing\nMoney services business\nMarket manipulation\n\nReferences\n\nDal Bó, Ernesto. \"Regulatory capture",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -5648,6 +5753,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -5668,17 +5780,10 @@
         "seen": 0
       },
       {
-        "content": "Historical World Reserve Currencies",
-        "slug": "historical-world-reserve-currencies",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -5708,7 +5813,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Risk\n\nCounterparty risk\nPlatform risk\nPrice risk\nSystemic risk\n\nReferences\n\nGrinold, Richard C., and Ronald N. Kahn. Active portfolio management: Quantitative theory and applications. Probus, 1995.\nWi",
+    "excerpt": "Risk\n\nCounterparty risk\nPlatform risk\nPrice risk\nSystemic risk\n\nReferences\n\nPetro, Louis W., James P. Martin, Adam A. Wadecki, and Harry Cendrowski. The handbook of fraud deterrence. John Wiley & Sons",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -5722,6 +5827,13 @@
         "slug": "real-time-gross-settlement",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -5773,6 +5885,13 @@
         "lvl": 2,
         "i": 1,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -5815,6 +5934,13 @@
         "slug": "sign-value",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -5883,7 +6009,7 @@
       }
     ],
     "readingTime": 2,
-    "excerpt": "Sound Money\n\nAn Austrian economics philosophy that an idealized currency should be backed by a finite unchanging supply and fixed supply of a commodity, or more recently a cryptoasset.\n\nSee gold stand",
+    "excerpt": "Sound Money\n\nAn Austrian economics philosophy that an idealized currency should be backed by a finite unchanging supply and fixed supply of a commodity, or more recently a cryptoasset.\n\nSound money is",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -5933,7 +6059,7 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "Stablecoin\n\nA crypto asset that is pegged (currLency-peg) to a real world currency such as the dollar or euro. Stablecoins may be issued on multiple blockchain.\n\nStablecoins may be leverage against th",
+    "excerpt": "Stablecoin\n\nA crypto asset that is pegged (see currLency peg) to a real world currency such as the dollar or euro. Stablecoins may be issued on multiple blockchain.\n\nStablecoins may be leverage agains",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -5972,6 +6098,13 @@
         "slug": "stock",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -6091,6 +6224,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -6144,7 +6284,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Techno-populism\n\nReferences\n\nBinder, Carola. 2021. ‘Technopopulism and Central Banks’. SSRN Electronic Journal. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3823456.",
+    "excerpt": "Techno-populism\n\nTechno-populism is a form of populism which is built around using information technology and appeals to technology as a means to advance its goals.\n\nReferences\n\nBinder, Carola. 2021. ",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -6184,6 +6324,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -6212,7 +6359,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Thought Terminating Cliche\n\nA acronym or saying that is used within a high control group to quell dissent or discourage rational inquiry. \n\nReferences\n\nBernstein, William J. 2021. The Delusions of Cro",
+    "excerpt": "Thought Terminating Cliche\n\nA acronym or saying that is used within a high control group to quell dissent or discourage rational inquiry. Thought terminating cliches are often tied to appeals to epist",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -6302,6 +6449,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -6319,6 +6473,13 @@
         "slug": "value",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -6338,10 +6499,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "Refrences",
+        "slug": "refrences",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Crypto Wallet\n\nAn unhosted wallet is a crypto wallet not stored on a crypto exchange or with a custodial service and whose private key is individually managed by the user.",
+    "excerpt": "Crypto Wallet\n\nAn unhosted wallet is a crypto wallet not stored on a crypto exchange or with a custodial service and whose private key is individually managed by the user.\n\nRefrences\n\nHarvey, John, an",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -6422,6 +6590,31 @@
     "sectionTitle": "Concepts",
     "isIndex": false,
     "slug": "/concepts/whale"
+  },
+  {
+    "toc": [
+      {
+        "content": "Whataboutism",
+        "slug": "whataboutism",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Whataboutism\n\nIn debate, a whataboutism is a fallacy of responding to an accusation or difficult question by making a counter-accusation or raising a different issue as a means of distracting from the",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/whataboutism"
   },
   {
     "toc": [
@@ -6791,49 +6984,56 @@
         "seen": 0
       },
       {
-        "content": "What are securities?",
-        "slug": "what-are-securities",
+        "content": "Summary",
+        "slug": "summary",
         "lvl": 2,
         "i": 2,
         "seen": 0
       },
       {
-        "content": "The debate about crypto investments",
-        "slug": "the-debate-about-crypto-investments",
+        "content": "What Are Securities?",
+        "slug": "what-are-securities",
         "lvl": 2,
         "i": 3,
         "seen": 0
       },
       {
-        "content": "Pro",
-        "slug": "pro",
-        "lvl": 3,
+        "content": "The Debate Aurrounding Crypto Investments",
+        "slug": "the-debate-aurrounding-crypto-investments",
+        "lvl": 2,
         "i": 4,
         "seen": 0
       },
       {
-        "content": "Critique",
-        "slug": "critique",
+        "content": "Steel Manning the Position that Crypto Investments Should Not Be Brought Within Tformhe Securities Regulation Framework",
+        "slug": "steel-manning-the-position-that-crypto-investments-should-not-be-brought-within-tformhe-securities-regulation-framework",
         "lvl": 3,
         "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Analysis",
+        "slug": "analysis",
+        "lvl": 3,
+        "i": 6,
         "seen": 0
       },
       {
         "content": "Concepts Covered",
         "slug": "concepts-covered",
         "lvl": 2,
-        "i": 6,
+        "i": 7,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 7,
+        "i": 8,
         "seen": 0
       }
     ],
-    "readingTime": 12,
+    "readingTime": 13,
     "excerpt": "Are Crypto Tokens Securities?\n\nIn episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as \"securities\", their relation to crypto tokens, and the ",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
@@ -6851,9 +7051,9 @@
         "seen": 0
       },
       {
-        "content": "Topic",
-        "slug": "topic",
-        "lvl": 2,
+        "content": "Episode Notes",
+        "slug": "episode-notes",
+        "lvl": 1,
         "i": 1,
         "seen": 0
       },
@@ -6865,37 +7065,37 @@
         "seen": 0
       },
       {
-        "content": "Who holds this position?",
-        "slug": "who-holds-this-position",
-        "lvl": 3,
+        "content": "What type of asset is a crypto token? How do we value it? Is there a comparable asset?",
+        "slug": "what-type-of-asset-is-a-crypto-token-how-do-we-value-it-is-there-a-comparable-asset",
+        "lvl": 2,
         "i": 3,
         "seen": 0
       },
       {
-        "content": "Why is this an interesting group and position to examine?",
-        "slug": "why-is-this-an-interesting-group-and-position-to-examine",
-        "lvl": 3,
+        "content": "Who is Trading Crypto?",
+        "slug": "who-is-trading-crypto",
+        "lvl": 2,
         "i": 4,
         "seen": 0
       },
       {
-        "content": "Steel-manning the Market Fundamentalist Position",
-        "slug": "steel-manning-the-market-fundamentalist-position",
+        "content": "Why is the Crypto-Can-Make-Me-Money Position So Interesting to Examine?",
+        "slug": "why-is-the-crypto-can-make-me-money-position-so-interesting-to-examine",
         "lvl": 2,
         "i": 5,
         "seen": 0
       },
       {
-        "content": "Analyzing the Market Fundamentalist Position",
-        "slug": "analyzing-the-market-fundamentalist-position",
+        "content": "Steel-Manning the Market Fundamentalism Position",
+        "slug": "steel-manning-the-market-fundamentalism-position",
         "lvl": 2,
         "i": 6,
         "seen": 0
       },
       {
-        "content": "What type of asset is a crypto token? How do we value it? Is there a comparable asset?",
-        "slug": "what-type-of-asset-is-a-crypto-token-how-do-we-value-it-is-there-a-comparable-asset",
-        "lvl": 3,
+        "content": "Analyzing the Market Fundamentalism Position",
+        "slug": "analyzing-the-market-fundamentalism-position",
+        "lvl": 2,
         "i": 7,
         "seen": 0
       },
@@ -6914,8 +7114,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 9,
-    "excerpt": "Market Fundamentalism\n\nIn Episode 2 of the series, Rufus Pollock and Stephen Diehl discuss the market fundamentalism perspective on crypto assets and the perspective on crypto assets from the perspect",
+    "readingTime": 10,
+    "excerpt": "Market Fundamentalism\n\nIn episode #2 of the series, Rufus Pollock and Stephen Diehl explore a common incentive for investing in crypto: the belief - held by day traders and quantitative hedge funds al",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",
@@ -6925,37 +7125,37 @@
   {
     "toc": [
       {
-        "content": "Neo-metallism",
+        "content": "Neo-Metallism",
         "slug": "neo-metallism",
         "lvl": 1,
         "i": 0,
         "seen": 0
       },
       {
-        "content": "Topic",
-        "slug": "topic",
-        "lvl": 2,
+        "content": "Episode Notes",
+        "slug": "episode-notes",
+        "lvl": 1,
         "i": 1,
         "seen": 0
       },
       {
-        "content": "Episode Notes",
-        "slug": "episode-notes",
+        "content": "Summary",
+        "slug": "summary",
         "lvl": 2,
         "i": 2,
         "seen": 0
       },
       {
-        "content": "Steel-manning the Neo-metallist Position",
-        "slug": "steel-manning-the-neo-metallist-position",
+        "content": "What is Neo-Metallism?",
+        "slug": "what-is-neo-metallism",
         "lvl": 2,
         "i": 3,
         "seen": 0
       },
       {
-        "content": "Gold as currency",
+        "content": "Gold as Currency",
         "slug": "gold-as-currency",
-        "lvl": 3,
+        "lvl": 2,
         "i": 4,
         "seen": 0
       },
@@ -6967,36 +7167,43 @@
         "seen": 0
       },
       {
-        "content": "Bitcoin as the new Gold enabling a new Gold Standard",
-        "slug": "bitcoin-as-the-new-gold-enabling-a-new-gold-standard",
-        "lvl": 3,
+        "content": "Steel-Manning the Neo-Metallist Position",
+        "slug": "steel-manning-the-neo-metallist-position",
+        "lvl": 2,
         "i": 6,
         "seen": 0
       },
       {
-        "content": "Critique",
-        "slug": "critique",
+        "content": "Evaluating the Neo-Metallist Position",
+        "slug": "evaluating-the-neo-metallist-position",
         "lvl": 2,
         "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "A Final Note on Trust",
+        "slug": "a-final-note-on-trust",
+        "lvl": 2,
+        "i": 8,
         "seen": 0
       },
       {
         "content": "Concepts Covered",
         "slug": "concepts-covered",
         "lvl": 2,
-        "i": 8,
+        "i": 9,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 9,
+        "i": 10,
         "seen": 0
       }
     ],
-    "readingTime": 6,
-    "excerpt": "Neo-metallism\n\nIn Episode 1 of the series, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on bitcoin and the concept of \"digital\" gold.\n\nhttps://www.youtube.com/embed/_o7pRFLzJH",
+    "readingTime": 13,
+    "excerpt": "Neo-Metallism\n\nIn episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on bitcoin and the concept of \"digital\" gold.\n\nYoutube",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",
@@ -7796,9 +8003,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Crypto tokens are not a means to destroy capitalism\n\nCrypto tokens are indeed a form of predatory investment that may have wide-reaching consequences in the lives of people it harms. However it is not",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
@@ -7814,9 +8028,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Is web3 a means to dismantle the American tech hegemony?\n\nWeb3 is not a means to disrupt the American tech hegemony, companies like Google, Facebook, Amazon etc. Since web3 has no coherent meaning or ",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
@@ -7964,13 +8185,6 @@
         "lvl": 2,
         "i": 1,
         "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 1
       }
     ],
     "readingTime": 3,
@@ -8114,13 +8328,6 @@
         "lvl": 2,
         "i": 2,
         "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 3,
-        "seen": 1
       }
     ],
     "readingTime": 6,
@@ -8356,7 +8563,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nReferences\n\nWanat, Emanuel. 2021. ‘Are Crypto-Assets Green En",
+    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nSee also ESG investing and crypto, environmental-footprint an",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -8378,13 +8585,6 @@
         "lvl": 2,
         "i": 1,
         "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 1
       }
     ],
     "readingTime": 6,
@@ -8515,9 +8715,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Anti Money Laundering\n\n Money laundering is a criminal activity in which the provenance of money associated with a crime are obscured by passing the funds through legitimate businesses to obscure thei",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -8649,7 +8856,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 3,
     "excerpt": "Artificial Scarcity\n\nThe abstract notion of creating an asset whose supply is artificially determined and set by the issuer instead of by its physicality or underlying whose demand curve would be gene",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -8801,6 +9008,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -8876,10 +9090,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Bond\n\nA bond is a security financial product that represents a promise by a borrower to pay a lender their principal and periodic interest (called a coupon) on a loan.",
+    "excerpt": "Bond\n\nA bond is a security financial product that represents a promise by a borrower to pay a lender their principal and periodic interest (called a coupon) on a loan. \n\nReferences\n\nRoche, Cullen O. 2",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -8893,6 +9114,13 @@
         "slug": "bretton-woods",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -8939,17 +9167,10 @@
         "seen": 0
       },
       {
-        "content": "Examples",
-        "slug": "examples",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -9044,9 +9265,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Cartel\n\nAn economic cartel use a non-public agreement to restrict the supply or fix the price of an asset. A cartel is a formal type of market-manipulation. Cartels are considered to be against the pu",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -9187,10 +9415,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Collateralization",
+    "excerpt": "Collateralization\n\nReferences",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -9240,7 +9475,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Commodity\n\nAn asset that is used for its use value as an input to an economic process.\n\nExamples of commodities include:\n\nPetroleum\nWheat\nPork\nAluminium\n\nReferences\n\nWilmott, Paul. Paul Wilmott introd",
+    "excerpt": "Commodity\n\nAn asset that is used for its use value as an input to an economic process.\n\nExamples of commodities include:\n\nPetroleum\nWheat\nPork\nAluminium\n\nReferences\n\nRoche, Cullen O. 2011. ‘Understand",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -9465,10 +9700,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Currency Peg\n\nA currency peg is a policy in which an asset is set to a specific fixed exchange rate for its currency with a foreign currency or basket of currencies.",
+    "excerpt": "Currency Peg\n\nA currency peg is a policy in which an asset is set to a specific fixed exchange rate for its currency with a foreign currency or basket of currencies.\n\nReferences\n\nRoche, Cullen O. 2011",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -9640,10 +9882,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Deposit\n\nMoney that held on behalf of a client of a bank.",
+    "excerpt": "Deposit\n\nMoney that held on behalf of a client of a bank.\n\nReferences\n\nRoche, Cullen O. 2011. ‘Understanding the Modern Monetary System’. http://ssrn.com/paper=1905625.",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -9708,9 +9957,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Distribution Problem\n\nThe distribution problem refers to a set of hypothetical solutions to achieve a equitable (or other property) of distribution in the bootstrapping of a private-money. Effectively",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -9864,6 +10120,13 @@
         "slug": "exit-scam",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -10058,6 +10321,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "Examples",
+        "slug": "examples",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -10249,7 +10519,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Initial Coin Offerings\n\nInitial coin offerings are proxy equity fundraising structure that allows entrepeneurs to raise crypto assets in a common enterprise outside of existing securities regulation. ",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -10265,9 +10535,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Illicit Financing\n\nIllicit financial flows are illegal movements of money from one country to another that are illegally earned, transferred, or associated with criminal activity.\n\nSee also money laun",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -10408,9 +10685,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Know Your Customer\n\nKnow your customer or (KYC) is a regulatory requirement where a provider of a financial services provider or bank must collect personally identifiable information about its custome",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -10426,10 +10710,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Leverage\n\nLeverage refers to the use of debt to increase the size of a position in an investment.",
+    "excerpt": "Leverage\n\nLeverage refers to the use of debt to increase the size of a position in an investment.\n\nReferences\n\nRoche, Cullen O. 2011. ‘Understanding the Modern Monetary System’. http://ssrn.com/paper=",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -10569,9 +10860,16 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Market Maker\n\nA entity of business with performs the business of creating a market, connecting buyers and sellers to exchange goods and services. The trading of financial assets is a regulated activit",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -10711,6 +11009,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -10756,15 +11061,15 @@
         "seen": 0
       },
       {
-        "content": "Examples",
-        "slug": "examples",
+        "content": "References",
+        "slug": "references",
         "lvl": 2,
         "i": 1,
         "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Meme Stock\n\nThe trading of a public stock detached from its fundamental value as pure speculation. Timing a meme stock bubble is a zero-sum game. \n\nSee also financial nihilism.\n\nExamples\n\nGamestop\nAMC",
+    "excerpt": "Meme Stock\n\nThe trading of a public stock detached from its fundamental value as pure speculation. Timing a meme stock bubble is a zero-sum game. \n\nExamples of memestocks include:\n\nGamestop\nAMC\nTesla\n",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -10788,7 +11093,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Memecoin\n\nA meme coin is a cryptoasset which has no pretense of fundamental value or utility but instead is a greater fool investment based trend-following of an image or symbol in popular culture.\n\nS",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -11213,6 +11518,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -11265,7 +11577,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
+    "readingTime": 2,
     "excerpt": "Platform Risk\n\nIn financial risk analysis, platform risk is the risk that the market maker or trading platform ceases to operate as a company. In this event the customers of the platform may be left w",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -11391,7 +11703,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Present Value\n\nIn quantitative finance, the present value of a financial asset is the expected income stream determined as of the date of valuation. \n\nSee also terminal value.\n\nReferences\n\nGrinold, Ri",
+    "excerpt": "Present Value\n\nIn quantitative finance, the present value of a financial asset is the expected income stream determined as of the date of valuation. \n\nSee also terminal value and valuation model.\n\nRef",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -11734,10 +12046,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Regulation\n\nSanctions enforcement\nKnow Your Customer\nAnti-money laundering law\nCounter-terrorism financing\nMoney services business\nMarket manipulation",
+    "excerpt": "Regulation\n\nSanctions enforcement\nKnow Your Customer\nAnti-money laundering law\nCounter-terrorism financing\nMoney services business\nMarket manipulation\n\nReferences\n\nDal Bó, Ernesto. \"Regulatory capture",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -11777,6 +12096,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -11797,17 +12123,10 @@
         "seen": 0
       },
       {
-        "content": "Historical World Reserve Currencies",
-        "slug": "historical-world-reserve-currencies",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -11837,7 +12156,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Risk\n\nCounterparty risk\nPlatform risk\nPrice risk\nSystemic risk\n\nReferences\n\nGrinold, Richard C., and Ronald N. Kahn. Active portfolio management: Quantitative theory and applications. Probus, 1995.\nWi",
+    "excerpt": "Risk\n\nCounterparty risk\nPlatform risk\nPrice risk\nSystemic risk\n\nReferences\n\nPetro, Louis W., James P. Martin, Adam A. Wadecki, and Harry Cendrowski. The handbook of fraud deterrence. John Wiley & Sons",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -11851,6 +12170,13 @@
         "slug": "real-time-gross-settlement",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -11902,6 +12228,13 @@
         "lvl": 2,
         "i": 1,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -11944,6 +12277,13 @@
         "slug": "sign-value",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -12012,7 +12352,7 @@
       }
     ],
     "readingTime": 2,
-    "excerpt": "Sound Money\n\nAn Austrian economics philosophy that an idealized currency should be backed by a finite unchanging supply and fixed supply of a commodity, or more recently a cryptoasset.\n\nSee gold stand",
+    "excerpt": "Sound Money\n\nAn Austrian economics philosophy that an idealized currency should be backed by a finite unchanging supply and fixed supply of a commodity, or more recently a cryptoasset.\n\nSound money is",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -12062,7 +12402,7 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "Stablecoin\n\nA crypto asset that is pegged (currLency-peg) to a real world currency such as the dollar or euro. Stablecoins may be issued on multiple blockchain.\n\nStablecoins may be leverage against th",
+    "excerpt": "Stablecoin\n\nA crypto asset that is pegged (see currLency peg) to a real world currency such as the dollar or euro. Stablecoins may be issued on multiple blockchain.\n\nStablecoins may be leverage agains",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -12101,6 +12441,13 @@
         "slug": "stock",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -12220,6 +12567,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -12273,7 +12627,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Techno-populism\n\nReferences\n\nBinder, Carola. 2021. ‘Technopopulism and Central Banks’. SSRN Electronic Journal. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3823456.",
+    "excerpt": "Techno-populism\n\nTechno-populism is a form of populism which is built around using information technology and appeals to technology as a means to advance its goals.\n\nReferences\n\nBinder, Carola. 2021. ",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -12313,6 +12667,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -12341,7 +12702,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Thought Terminating Cliche\n\nA acronym or saying that is used within a high control group to quell dissent or discourage rational inquiry. \n\nReferences\n\nBernstein, William J. 2021. The Delusions of Cro",
+    "excerpt": "Thought Terminating Cliche\n\nA acronym or saying that is used within a high control group to quell dissent or discourage rational inquiry. Thought terminating cliches are often tied to appeals to epist",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -12431,6 +12792,13 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
@@ -12448,6 +12816,13 @@
         "slug": "value",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -12467,10 +12842,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "Refrences",
+        "slug": "refrences",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Crypto Wallet\n\nAn unhosted wallet is a crypto wallet not stored on a crypto exchange or with a custodial service and whose private key is individually managed by the user.",
+    "excerpt": "Crypto Wallet\n\nAn unhosted wallet is a crypto wallet not stored on a crypto exchange or with a custodial service and whose private key is individually managed by the user.\n\nRefrences\n\nHarvey, John, an",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -12551,6 +12933,31 @@
     "sectionTitle": "Concepts",
     "isIndex": false,
     "slug": "/concepts/whale"
+  },
+  {
+    "toc": [
+      {
+        "content": "Whataboutism",
+        "slug": "whataboutism",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Whataboutism\n\nIn debate, a whataboutism is a fallacy of responding to an accusation or difficult question by making a counter-accusation or raising a different issue as a means of distracting from the",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/whataboutism"
   },
   {
     "toc": [
@@ -12920,49 +13327,56 @@
         "seen": 0
       },
       {
-        "content": "What are securities?",
-        "slug": "what-are-securities",
+        "content": "Summary",
+        "slug": "summary",
         "lvl": 2,
         "i": 2,
         "seen": 0
       },
       {
-        "content": "The debate about crypto investments",
-        "slug": "the-debate-about-crypto-investments",
+        "content": "What Are Securities?",
+        "slug": "what-are-securities",
         "lvl": 2,
         "i": 3,
         "seen": 0
       },
       {
-        "content": "Pro",
-        "slug": "pro",
-        "lvl": 3,
+        "content": "The Debate Aurrounding Crypto Investments",
+        "slug": "the-debate-aurrounding-crypto-investments",
+        "lvl": 2,
         "i": 4,
         "seen": 0
       },
       {
-        "content": "Critique",
-        "slug": "critique",
+        "content": "Steel Manning the Position that Crypto Investments Should Not Be Brought Within Tformhe Securities Regulation Framework",
+        "slug": "steel-manning-the-position-that-crypto-investments-should-not-be-brought-within-tformhe-securities-regulation-framework",
         "lvl": 3,
         "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Analysis",
+        "slug": "analysis",
+        "lvl": 3,
+        "i": 6,
         "seen": 0
       },
       {
         "content": "Concepts Covered",
         "slug": "concepts-covered",
         "lvl": 2,
-        "i": 6,
+        "i": 7,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 7,
+        "i": 8,
         "seen": 0
       }
     ],
-    "readingTime": 12,
+    "readingTime": 13,
     "excerpt": "Are Crypto Tokens Securities?\n\nIn episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as \"securities\", their relation to crypto tokens, and the ",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
@@ -12980,9 +13394,9 @@
         "seen": 0
       },
       {
-        "content": "Topic",
-        "slug": "topic",
-        "lvl": 2,
+        "content": "Episode Notes",
+        "slug": "episode-notes",
+        "lvl": 1,
         "i": 1,
         "seen": 0
       },
@@ -12994,37 +13408,37 @@
         "seen": 0
       },
       {
-        "content": "Who holds this position?",
-        "slug": "who-holds-this-position",
-        "lvl": 3,
+        "content": "What type of asset is a crypto token? How do we value it? Is there a comparable asset?",
+        "slug": "what-type-of-asset-is-a-crypto-token-how-do-we-value-it-is-there-a-comparable-asset",
+        "lvl": 2,
         "i": 3,
         "seen": 0
       },
       {
-        "content": "Why is this an interesting group and position to examine?",
-        "slug": "why-is-this-an-interesting-group-and-position-to-examine",
-        "lvl": 3,
+        "content": "Who is Trading Crypto?",
+        "slug": "who-is-trading-crypto",
+        "lvl": 2,
         "i": 4,
         "seen": 0
       },
       {
-        "content": "Steel-manning the Market Fundamentalist Position",
-        "slug": "steel-manning-the-market-fundamentalist-position",
+        "content": "Why is the Crypto-Can-Make-Me-Money Position So Interesting to Examine?",
+        "slug": "why-is-the-crypto-can-make-me-money-position-so-interesting-to-examine",
         "lvl": 2,
         "i": 5,
         "seen": 0
       },
       {
-        "content": "Analyzing the Market Fundamentalist Position",
-        "slug": "analyzing-the-market-fundamentalist-position",
+        "content": "Steel-Manning the Market Fundamentalism Position",
+        "slug": "steel-manning-the-market-fundamentalism-position",
         "lvl": 2,
         "i": 6,
         "seen": 0
       },
       {
-        "content": "What type of asset is a crypto token? How do we value it? Is there a comparable asset?",
-        "slug": "what-type-of-asset-is-a-crypto-token-how-do-we-value-it-is-there-a-comparable-asset",
-        "lvl": 3,
+        "content": "Analyzing the Market Fundamentalism Position",
+        "slug": "analyzing-the-market-fundamentalism-position",
+        "lvl": 2,
         "i": 7,
         "seen": 0
       },
@@ -13043,8 +13457,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 9,
-    "excerpt": "Market Fundamentalism\n\nIn Episode 2 of the series, Rufus Pollock and Stephen Diehl discuss the market fundamentalism perspective on crypto assets and the perspective on crypto assets from the perspect",
+    "readingTime": 10,
+    "excerpt": "Market Fundamentalism\n\nIn episode #2 of the series, Rufus Pollock and Stephen Diehl explore a common incentive for investing in crypto: the belief - held by day traders and quantitative hedge funds al",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",
@@ -13054,37 +13468,37 @@
   {
     "toc": [
       {
-        "content": "Neo-metallism",
+        "content": "Neo-Metallism",
         "slug": "neo-metallism",
         "lvl": 1,
         "i": 0,
         "seen": 0
       },
       {
-        "content": "Topic",
-        "slug": "topic",
-        "lvl": 2,
+        "content": "Episode Notes",
+        "slug": "episode-notes",
+        "lvl": 1,
         "i": 1,
         "seen": 0
       },
       {
-        "content": "Episode Notes",
-        "slug": "episode-notes",
+        "content": "Summary",
+        "slug": "summary",
         "lvl": 2,
         "i": 2,
         "seen": 0
       },
       {
-        "content": "Steel-manning the Neo-metallist Position",
-        "slug": "steel-manning-the-neo-metallist-position",
+        "content": "What is Neo-Metallism?",
+        "slug": "what-is-neo-metallism",
         "lvl": 2,
         "i": 3,
         "seen": 0
       },
       {
-        "content": "Gold as currency",
+        "content": "Gold as Currency",
         "slug": "gold-as-currency",
-        "lvl": 3,
+        "lvl": 2,
         "i": 4,
         "seen": 0
       },
@@ -13096,36 +13510,43 @@
         "seen": 0
       },
       {
-        "content": "Bitcoin as the new Gold enabling a new Gold Standard",
-        "slug": "bitcoin-as-the-new-gold-enabling-a-new-gold-standard",
-        "lvl": 3,
+        "content": "Steel-Manning the Neo-Metallist Position",
+        "slug": "steel-manning-the-neo-metallist-position",
+        "lvl": 2,
         "i": 6,
         "seen": 0
       },
       {
-        "content": "Critique",
-        "slug": "critique",
+        "content": "Evaluating the Neo-Metallist Position",
+        "slug": "evaluating-the-neo-metallist-position",
         "lvl": 2,
         "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "A Final Note on Trust",
+        "slug": "a-final-note-on-trust",
+        "lvl": 2,
+        "i": 8,
         "seen": 0
       },
       {
         "content": "Concepts Covered",
         "slug": "concepts-covered",
         "lvl": 2,
-        "i": 8,
+        "i": 9,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 9,
+        "i": 10,
         "seen": 0
       }
     ],
-    "readingTime": 6,
-    "excerpt": "Neo-metallism\n\nIn Episode 1 of the series, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on bitcoin and the concept of \"digital\" gold.\n\nhttps://www.youtube.com/embed/_o7pRFLzJH",
+    "readingTime": 13,
+    "excerpt": "Neo-Metallism\n\nIn episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on bitcoin and the concept of \"digital\" gold.\n\nYoutube",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",

@@ -21,7 +21,6 @@
     "markdown-toc": "^1.2.0",
     "next": "^12.1.0",
     "next-contentlayer": "^0.1.2",
-    "next-mdx-remote": "^4.0.2",
     "next-seo": "^4.28.1",
     "next-themes": "^0.1.1",
     "react": "^17.0.2",
@@ -29,12 +28,9 @@
     "react-player": "^2.10.0",
     "react-scrollspy": "^3.4.3",
     "reading-time": "^1.5.0",
-    "rehype": "^12.0.1",
-    "rehype-slug": "^5.0.1",
     "remark-gfm": "^3.0.0",
     "remark-slug": "^7.0.0",
-    "remark-toc": "^8.0.0",
-    "to-vfile": "^7.2.3"
+    "remark-toc": "^8.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
