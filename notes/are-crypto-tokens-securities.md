@@ -1,8 +1,10 @@
 # Are Crypto Tokens Securities?
 
+In episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as "securities", their relation to crypto tokens, and the regulatory framework that exists around these structures.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K5JtPTyc0y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as "securities", their relation to crypto tokens, and the regulatory framework that exists around these structures.
+
 
 * Youtube:  https://www.youtube.com/watch?v=z2uAg-AIs-Y
 * Podcast: https://anchor.fm/life-itself/episodes/Are-Cryptocurrencies-Securities--The-Nature-of-Securities--Their-Relation-to-Crypto-Tokens-with-Stephen-Diehl-e1fph69
@@ -13,6 +15,21 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
 
 # Episode Notes
 
+## Summary
+
+There is currently debate about how crypto investments fall under the existing securities regulatory framework. In this conversation, Stephen Diehl and Rufus Pollock dig into this debate, exploring what securities are and how they relate to crypto tokens.
+
+Rufus and Stephen then consider the question, should crypto tokens be subject to the same regulation as securities? They 'steel man' the position that crypto investments should not be regulated as securities, outlining 3 key claims:
+1. Unregulated crypto investment is a liberatory and egalitarian force that democratizes company formation, lowers barriers, and allows all types of common enterprises that were previously prohibited by law.
+2. The ability to raise capital outside of the rule of law is a human right that is a safeguard against tyranny.
+3. Equity markets are ripe for disruption - it is time for the start of a new era that will reconfigure the entire global economy.
+
+Rufus and Stephen end their conversation with an analysis of this position and the associated claims.
+
+
+
+
+
 ## What are securities?
 
 * A [security](../concepts/security.md) is a collective legal fiction that pools money and mediates [income-cashflows](../concepts/income-cashflows.md) between people according to an agreed-upon framework.
@@ -21,19 +38,16 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
 * Gave rise to a modern framework of laws that cover financial products from debt instruments, bonds, equities, and derivatives. The legal foundation on which all of market capitalism is built.
 * **Because of their centrality to markets, securities have strict registration, ownership and transfer regulation.**
 
-## The debate about crypto investments
+## The debate surrounding crypto investments
 
 * There is currently debate about how crypto investments fall under the existing securities regulatory framework. This is being debated inside the government regulatory agencies, on the floor of the senate, and in the courts.
 * The outcome of the final ruling will potentially impact trillions of notional value in “scofflaw” investments of potentially unregistered securities.
-
-### Pro
-
 * Landmark case from 1946, SEC vs W. J. Howey Co. set the [Howey Test](../concepts/howey-test.md) precedent for determining what is a securities contract.
   * (1) an investment of money, (2) in a common enterprise, (3) with the expectation of profit and (4) to be derived from the efforts of others.
   * Many things can be sold as securities. (stocks, chinchillas, whiskey barrels, orange trees). It’s very context dependent.
   * **If we accept the premise that crypto tokens aren’t currencies, then tokens are clearly investments made with the expectation of profit. Are crypto assets unregistered securities?**
 * Crypto tokens currently exist partially outside the US securities framework.
-  * The SEC has taken action against some Initial Coin Offerings, selling debt instruments to retail, against outright Ponzi schemes and firms acting as bank-like entities. **TODO: Link examples**
+  * The SEC has taken action against some [Initial Coin Offerings](https://www.sec.gov/ICO), [selling debt instruments to retail](https://www.reuters.com/article/sec-investors-retail-idUSL2N0XB0NU20150414), against outright [Ponzi schemes](https://www.sec.gov/spotlight/enf-actions-ponzi.shtml), and **firms acting as bank-like entities.** 
   * District courts have set precedent in many investment fraud cases that have consistently indicated token sales to US persons meet [Howey Test](../concepts/howey-test.md) and Dodd-Frank criterion of securities sales, even if done internationally (i.e from Switzerland). If you sell to US persons it becomes a security under US law.
   * **A federal case or executive order that sets precedent nationally has yet not been heard in the courts.** 
   * Thousands of companies and projects' success or failure rests on token sales not being regulated as securities. If they are regulated as securities it is quite possible the entire market implodes.
@@ -46,7 +60,8 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
   * Case example: Theranos raised $724 million from private accredited investors including Henry Kissinger and Betsy Devos. The people in the blast radius of the fraud were all fabulously wealthy and invested capital they already allocated to high-risk investments anyways.
   * Many policymakers on both sides of the aisle debate whether or not the accreditation laws are too restrictive and shut the public out of high-risk-high-return investments that only wealthy people have access to.
     * On the right, then individual choice is a paramount, the government shouldn’t dictate risk-taking in markets. Just “evolution” and the natural state of being.
-    * **On the left, Pikkety’s analysis that wealth generated from capital grows faster than economic output and patrimonial capitalism leads to distortions of markets and inequality**. 
+    * On the left, Pikkety’s analysis that wealth generated from capital grows faster than economic output and patrimonial capitalism leads to distortions of markets and inequality. 
+### Steel manning the position that crypto investments should not be brought within the securities regulation framework
 * It is very easy to create an equity crowdfunding and cap table structure on top of crypto platforms like [ethereum](../concepts/ethereum.md).
   * Individuals can do it anonymously and raise billions of dollar equivalents in seed capital for ventures that are very early. Don’t need to involve the SEC, government or lawyers at all.
   * Previously this kind of access was gated to US persons with connections and access to funds, connections and access to capital.
@@ -56,7 +71,7 @@ In episode #3 of our ongoing deep dive into web3 and crypto, we explore the natu
 * Equity markets are ripe for disruption and it is time for the **twilight of the Securities Act** and the start of a new era that will reconfigure the entire global economy. 
   * Hypothesis: What happens on the other side of that financial reconfiguration can only be better than we currently have.
 
-### Critique
+### Analysis 
 
 * We tried the complete laissez faire caveat emptor securities model in the 1920s. **It ended very badly**.
 * The kind of fly-by-night “There Will Be Blood” type of charlatans ran wild selling securities to the public.
