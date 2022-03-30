@@ -27,7 +27,7 @@ In this episode, Rufus and Stephen explore the neo-metallist position, dividing 
 
 Rufus and Stephen then evaluate the neo-metallism position, before ending with a note on trust.
 
-## What is neo-metallism?
+## What is Neo-Metallism?
 
 
 The term neo-metallism stems from metallism, a school of thinking which relates to the connection between money and some form of commodity. 
@@ -37,7 +37,7 @@ Neo-metallism argues that cryptocurrencies, and in particular Bitcoin, can and s
 
 
 
-## Gold as currency
+## Gold as Currency
 
 * Gold has a historical precedent as money across cultures going back millenia.
 * Multiple cultures have independently used it as currency.
@@ -50,7 +50,7 @@ Neo-metallism argues that cryptocurrencies, and in particular Bitcoin, can and s
 * Gold theoretically acts as a universal numeraire across economic systems allowing interchange and commerce. It is a fixed “measuring sticking” for economic value that cannot be changed.
 * It satisfies the definition of money, it can theoretically function as a unit of account, medium of exchange, and store of value. The only issue is that it incurs storage costs and is not easily transported because of its density and physicality.
 
-### Why the gold standard: fiat money, sound money and the gold standard
+### Why the Gold Standard: Fiat Money, Sound Money and the Gold Standard
 
 * The Austrian school of economics regards gold as a (possibly only) example of "sound money" because it is immune to government intervention in the supply, effectively by the laws of physics. It cannot be “debased” or changed. (Aside: Of course, governments have found ways to "debase" gold-based currencies -- usually by altering the coinage in various ways).
 * Fiat money allows for both variable supply and demand with the goal of maintaining price stability and targeting a desired inflation amount which encourages productive enterprise. Historically, going all the way back to the invention of banking in Florence, there have been examples of mismanaged fiat currencies which have not managed either their supply or demand properly and spun into either deflationary or inflationary spirals and the public lost trust in the notes and their value become illusory.
@@ -62,7 +62,7 @@ Neo-metallism argues that cryptocurrencies, and in particular Bitcoin, can and s
   * Private money is not only desirable, it is inevitable because hard “commodity-based'' money will inevitably replace soft money. Gresham’s law
   * Cantillon Effect - Inflation is not simply an average rise in prices. Prices do not rise proportionally or simultaneously. This results in arbitrary and unfair benefits to people who have not created any economic value and detriment to others who have not destroyed anything of economic value by destroying savings. Inflationary fiat money is thus a tax on people who sell their labor for wages and don’t hold assets and disincentivizes economic activity, encourages financial speculation, and results in market consolidation.
 
-## Steel-manning the neo-metallist position
+## Steel-Manning the Neo-Metallist Position
 
 The Gold Standard is Good
 * The Managerial Argument
@@ -87,7 +87,7 @@ Bitcoin is Better
   *  Bitcoin is arguably more decentralized. Gold supply is mostly controlled by sovereign nations like the U.S., China, Germany, and other European countries.
 
 
-## Evaluating the neo-metallist position
+## Evaluating the Neo-Metallist Position
 
 'The Gold Standard is Good'
 
@@ -123,7 +123,7 @@ Bitcoin is Better
     * Single currency systems were adopted as these are significantly more efficient. A single price in a single currency allows far easier exchange of goods. Having multiple issuers of currency adds friction to trade, as one must convert the value of a given object between currencies before exchange can take place. 
     * The history of large issuances of private money isn't good.These systems are subject to fraud and a general breakdown of trust. If any bank can issue its own banknotes, how does one know which bank is reliable and which isn’t?
 
-## A final note on trust
+## A Final Note on Trust
 * In the world of Bitcon, and blockchain more generally, replacing interpersonal trust with cryptographic verification mechanisms is seen as positive; we no longer need trust: in states, governmental institutions or one another.
 * The problem with trust is that when you get rid of it, it's very hard to get it back. If crypto were to fail we would risk a large-scale general reduction in trust. Even if it were to succeed, it would likely lead to a significantly diminished role for trust at a broader level.
 * At the root of trustless blockchain technologies are assumptions about human nature, which have significant implications for how we approach vital questions of social cooperation. 
