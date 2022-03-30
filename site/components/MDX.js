@@ -1,38 +1,44 @@
+import { useRouter } from 'next/router'
 import Head from "next/head";
+import ContentLayout from "./ContentLayout";
 import { Paragraph } from "./Link";
+import { getPostBySlug, getAllPosts } from '../lib/api';
 
-const Heading2 = ({ children }) => {
-  const idText = children.replace(/ /g, "_").toLowerCase();
-
-  return <h2 id={idText}>{children}</h2>;
-};
 const components = {
   Head,
   p: Paragraph,
-  h2: Heading2,
 };
 
 export default function MdxPage({ children }) {
+  const { asPath } = useRouter();
   const { Component, frontmatter } = children;
-
+    const posts = getAllPosts()
+    const post = getPostBySlug(asPath)
   return (
-    <article className="prose dark:prose-invert mx-auto p-6">
-      <header>
-        <div className="mb-6">
-          <h1>{frontmatter.title}</h1>
-          {frontmatter.authors && (
-            <div className="-mt-6">
-              <p className="opacity-60 pl-1">{frontmatter.authors}</p>
-            </div>
-          )}
-          {frontmatter.description && (
-            <p className="description">{frontmatter.description}</p>
-          )}
-        </div>
-      </header>
-      <main>
-        <Component components={components} />
-      </main>
-    </article>
+    <div className="flex justify-center">
+      <article className="prose dark:prose-invert p-6 min-w-full ">
+        <header>
+          <div className="mb-6">
+            <h1>{frontmatter.title}</h1>
+            {frontmatter.authors && (
+              <div className="-mt-6">
+                <p className="opacity-60 pl-1">{frontmatter.authors}</p>
+              </div>
+            )}
+            {frontmatter.description && (
+              <p className="description">{frontmatter.description}</p>
+            )}
+          </div>
+        </header>
+        <ContentLayout
+          post={post}
+         
+        >
+          <main>
+            <Component components={components} />
+          </main>
+        </ContentLayout>
+      </article>
+    </div>
   );
 }

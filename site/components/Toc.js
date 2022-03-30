@@ -30,18 +30,17 @@ export default function TOC({
         .toLowerCase(),
     }));
   const [open, setOpen] = useState(false);
-
   return (
     <div
       className={`${className} ${
         tocItems.length ? "" : "hidden"
-      } ${cssBreakingPoint}:block z-20`}
-      onClick={() => setOpen(!open)}
+      } ${cssBreakingPoint}:block z-20 w-9/12`}
     >
       <div
         className={`flex cursor-pointer ${
           tocItems.length ? "" : "hidden"
         } ${cssBreakingPoint}:cursor-auto`}
+        onClick={() => setOpen(!open)}
       >
         <h5
           className={`${
@@ -71,7 +70,7 @@ export default function TOC({
             <a
               className={`pl-${
                 (item.lvl - minLevel) * 2
-              } block mb-1 transition duration-100 ease-in-out text-gray-500 font-normal text-sm font-sans antialiased hover:text-gray-700 hover:font-medium`}
+              } block mb-1 transition duration-100 ease-in-out no-underline font-normal text-sm font-sans antialiased hover:underline`}
               href={`#${item.slug}`}
               key={index}
             >

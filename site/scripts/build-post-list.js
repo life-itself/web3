@@ -13,13 +13,12 @@ const { slugify } = require("markdown-toc/lib/utils");
 const readingTime = require("reading-time");
 const { markdownToTxt } = require("markdown-to-txt");
 
-let specWeight = 100;
 const result = [];
 const basePath = "content";
 const postDirectories = [
   [`${basePath}/guide`, "/guide"],
   [`${basePath}/claims`, "/claims"],
-  [`${basePath}/about`, "/about"],
+  [`${basePath}`, "/about"],
   [`${basePath}/library`, "/library"],
 ];
 walkDirectories(postDirectories, result);
@@ -77,28 +76,6 @@ function walkDirectories(directories, result, sectionWeight = 0, sectionTitle) {
         details.slug = details.isIndex
           ? sectionSlug
           : slug.replace(/\.md$/, "");
-        // if (details.slug.includes("/specifications/") && !details.title) {
-        //   const fileBaseName = basename(data.slug); // ex. v2.0.0 | v2.1.0-2021-06-release
-        //   const fileName = fileBaseName.split("-")[0]; // v2.0.0 | v2.1.0
-
-        //   if (fileBaseName.includes("release")) {
-        //     details.isPrerelease = true;
-        //     details.releaseDate = getReleaseDate(fileBaseName);
-        //   }
-
-        //   details.weight = specWeight--;
-
-        //   if (fileName.startsWith("v")) {
-        //     details.title = capitalize(fileName.slice(1));
-        //   } else {
-        //     details.title = capitalize(fileName);
-        //   }
-
-        //   if (details.isPrerelease) {
-        //     // this need to be separate because the `-` in "Pre-release" will get removed by `capitalize()` function
-        //     details.title += " (Pre-release)";
-        //   }
-        // }
         result.push(details);
       }
     }
@@ -129,10 +106,3 @@ function capitalize(text) {
     .map((word) => `${word[0].toUpperCase()}${word.substr(1)}`)
     .join(" ");
 }
-
-// function getReleaseDate(text) {
-//   // ex. filename = v2.1.0-2021-06-release
-//   const splittedText = text.split("-"); // ['v2.1.0', '2021', '06', 'release']
-//   const releaseDate = `${splittedText[1]}-${splittedText[2]}`; // '2021-06'
-//   return releaseDate;
-// }

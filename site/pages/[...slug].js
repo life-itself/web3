@@ -2,6 +2,7 @@ import MdxPage from '../components/MDX';
 import { allOtherPages } from 'contentlayer/generated';
 import { useMDXComponent } from 'next-contentlayer/hooks';
 import { NewsArticleJsonLd, NextSeo } from 'next-seo';
+import TOC from 'components/Toc';
 
 
 export default function Page({ body, ...rest }) {
@@ -24,11 +25,12 @@ export default function Page({ body, ...rest }) {
     .replace(/-/g, " ")
     // capitalize first char of each word
     .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
-  
   return (
     <>
       <NextSeo title={children.frontmatter.title ?? titleFromUrl} />
       <MdxPage children={children} />
+
+      <TOC />
     </>
   );
 }
