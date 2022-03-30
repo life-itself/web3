@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "node scripts/build-post-list.js && next dev",
-    "build": "next build",
+    "build": "node scripts/build-post-list.js && next build",
     "export": "next export",
     "start": "next start"
   },
