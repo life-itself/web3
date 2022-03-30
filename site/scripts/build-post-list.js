@@ -39,19 +39,11 @@ function walkDirectories(directories, result, sectionWeight = 0, sectionTitle) {
     for (let file of files) {
       let details;
       const fileName = join(directory, file);
-      const fileNameWithSection = join(fileName, "_section.md");
       const slug = fileName.replace(new RegExp(`^${basePath}`), "");
       if (isDirectory(fileName)) {
-        if (existsSync(fileNameWithSection)) {
-          details = frontMatter(
-            readFileSync(fileNameWithSection, "utf-8")
-          ).data;
-          details.title = details.title || capitalize(basename(fileName));
-        } else {
           details = {
             title: capitalize(basename(fileName)),
           };
-        }
         details.isSection = true;
         details.slug = slug;
         result.push(details);
@@ -61,7 +53,7 @@ function walkDirectories(directories, result, sectionWeight = 0, sectionTitle) {
           details.weight,
           details.title
         );
-      } else if (file.endsWith(".md") && !fileName.endsWith("/_section.md")) {
+      } else if (file.endsWith(".md")) {
         const fileContent = readFileSync(fileName, "utf-8");
         const { data, content } = frontMatter(fileContent);
         details = data;

@@ -13,32 +13,22 @@ export default function TOC({
   const { asPath, pathName } = useRouter();
   console.log(pathName);
   if (!toc || !toc.length) return null;
-  const minLevel = toc.reduce(
-    (mLevel, item) => (!mLevel || item.lvl < mLevel ? item.lvl : mLevel),
-    0
-  );
-  const tocItems = toc
-    .filter((item) => item.lvl <= minLevel + depth)
-    .map((item) => ({
-      ...item,
-      content: item.content
-        .replace(/[\s]?\{\#[\w\d\-_]+\}$/, "")
-        .replace(/(<([^>]+)>)/gi, ""),
-      //For TOC rendering in specification files in the spec repo we have "a" tags added manually to the spec markdown document
-      //MDX takes these "a" tags and uses them to render the "id" for headers like a-namedefinitionsapplicationaapplication
-      //slugWithATag contains transformed heading name that is later used for scroll spy identification
-      slugWithATag: item.content
-        .replace(/<|>|"|\\|\/|=/gi, "")
-        .replace(/\s/gi, "-")
-        .toLowerCase(),
-    }));
+  const minLevel = toc.reduce((mLevel, item) => (!mLevel || item.lvl < mLevel) ? item.lvl : mLevel, 0)
+  const tocItems = toc.filter(item => item.lvl <= minLevel + depth).map(item => ({
+    ...item,
+    content: item.content.replace(/[\s]?\{\#[\w\d\-_]+\}$/, '').replace(/(<([^>]+)>)/gi, ''),
+    //For TOC rendering in specification files in the spec repo we have "a" tags added manually to the spec markdown document
+    //MDX takes these "a" tags and uses them to render the "id" for headers like a-namedefinitionsapplicationaapplication
+    //slugWithATag contains transformed heading name that is later used for scroll spy identification
+    slugWithATag: item.content.replace(/<|>|"|\\|\/|=/gi, '').replace(/\s/gi, '-').toLowerCase()
+}))
   console.log(tocItems)
   const [open, setOpen] = useState(false);
   return (
     <div
       className={`${className} ${
         tocItems.length ? "" : "hidden"
-      } ${cssBreakingPoint}:block z-20 w-9/12`}
+      } ${cssBreakingPoint}:block z-20 w-full`}
     >
       <div
         className={`flex cursor-pointer ${

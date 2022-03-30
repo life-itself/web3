@@ -64,7 +64,7 @@ export default function MdxPage({ children }) {
           </div>
         </header>
         <ContentLayout post={post}>
-          <main className="w-4/5 p-4">
+          <main className="lg:w-full p-4">
             <Component components={components} />
           </main>
         </ContentLayout>
