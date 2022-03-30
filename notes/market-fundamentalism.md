@@ -1,6 +1,6 @@
 # Market Fundamentalism
 
-In Episode 2 of the series, Rufus Pollock and Stephen Diehl explore perspectives on crypto assets, from that of day traders to quantitative hedge funds, focusing in particualr on the market fundamentalist position.
+In episode #3 of the series, Rufus Pollock and Stephen Diehl explore a common incentive for investing in crypto: the belief - held by day traders and quantitative hedge funds alike - that crypto can make those who trade it a lot of money. Particular focus in this episode is placed on the 'market fundamentalist' position.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K5JtPTyc0y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
