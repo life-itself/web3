@@ -19,7 +19,7 @@ const postDirectories = [
   [`${basePath}/guide`, "/guide"],
   [`${basePath}/claims`, "/claims"],
   [`${basePath}`, "/about"],
-  [`${basePath}/library`, "/library"],
+  [`${basePath}`, "/library"],
 ];
 walkDirectories(postDirectories, result);
 if (process.env.NODE_ENV === "production") {

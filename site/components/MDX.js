@@ -12,7 +12,6 @@ const components = {
 export default function MdxPage({ children }) {
   const { asPath } = useRouter();
   const { Component, frontmatter } = children;
-    const posts = getAllPosts()
     const post = getPostBySlug(asPath)
   return (
     <div className="flex justify-center">
@@ -30,11 +29,8 @@ export default function MdxPage({ children }) {
             )}
           </div>
         </header>
-        <ContentLayout
-          post={post}
-         
-        >
-          <main>
+        <ContentLayout post={post}>
+          <main className="w-4/5 p-4">
             <Component components={components} />
           </main>
         </ContentLayout>
