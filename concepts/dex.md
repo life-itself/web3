@@ -1,5 +1,5 @@
 # Decentralized Exchange
-A form of [market making](market-maker.md) done via a [smart-contracts](smart-contracts.md). In this setup the [order-book](order-book.md) is based on peer-to-peer transactions instead of through a central party like a [crypto-exchange](crypto-exchange.md). This contrasts with [AMM](AMM.md) (automated market makers) who don't have an [order book](order-book.md) and instead use [liquidity pools](liquidity-pool.md).
+A form of [market making](market-maker.md) done via a [smart-contracts](smart-contracts.md). In this setup the [order-book](order-book.md) is based on peer-to-peer transactions instead of through a central party like a [crypto exchange](crypto-exchange.md). This contrasts with [AMM](AMM.md) (automated market makers) who don't have an [order book](order-book.md) and instead use [liquidity pools](liquidity-pool.md).
 
 Decentralized exchanges lack the ability to withdraw currencies like [dollar](dollar.md) and Euros because they have no access to the [banking](bank.md) system to issue payments.
 

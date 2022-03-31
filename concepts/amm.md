@@ -46,7 +46,6 @@ Uniswap is iterating to favor "professional players":
 > However, with this additional layer of complexity, “lazy” LPs are going to earn much less in trading fees than professional players who can constantly keep optimizing their strategy.
 
 ## References
-
 1. Allen, Hilary J. 2022. ‘DeFi: Shadow Banking 2.0?’ William & Mary Law Review, Forthcoming.
 1. Walch, Angela. 2019. ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’. C. Brummer (Ed.), Crypto Assets: Legal and Monetary Perspectives, 1–36. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244.
 1. Anker-Sørensen, Linn, and Dirk A Zetzsche. 2021. ‘From Centralized to Decentralized Finance: The Issue Of’. Available at SSRN 3978815. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978815.

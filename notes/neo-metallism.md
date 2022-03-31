@@ -131,10 +131,6 @@ Bitcoin is Better
 * Aside from its impacts on Bitcoin’s potential as a gold substitute, the issue of trust has serious ramifications for how we govern our societies. 
 
 
-
-
-
-
 ## Concepts Covered
 
 * [gold-standard](../concepts/gold-standard.md)
@@ -156,10 +152,19 @@ Bitcoin is Better
 * [zero-sum-game](../concepts/zero-sum-game.md)
 
 ## References
-
-1. [@taleb_bitcoin_2021-1]
-2. [@arnosti_bitcoin_2022]
-3. [@golumbia_bitcoin_2015]
-4. [@caferra_bitcoin_2021]
-5. [@qin_bitcoins_2020]
-6. [@bernanke_essays_2004]
+1. Bemanke, Ben, and Harold James. 1991. ‘The Gold Standard, Deflation, and Financial Crisis in the Great Depression: An International Comparison’. In Financial Markets and Financial Crises, 33–68. University of Chicago Press. https://www.nber.org/books-and-chapters/financial-markets-and-financial-crises/gold-standard-deflation-and-financial-crisis-great-depression-international-comparison.
+1. Bernanke, B. S. (2004). Essays on the Great Depression. Princeton University Press.
+1. Eich, Stefan. 2018. ‘The Currency of Politics’. The Political Theory of Money from Aristotle to Keynes.
+1. Green, Russell A. "Gold Standard or Fool’s Gold? Should the US Consider Returning to the Gold Standard?." Issue Brief 02.23. 16 (2016).
+1. Ammous, Saifedean. 2018. The Bitcoin Standard: The Decentralized Alternative to Central Banking. Hoboken, New Jersey: Wiley.
+1. Sanz Bas, David. 2020. ‘Hayek and the Cryptocurrency Revolution’. Iberian Journal of the History of Economic Thought 7 (1): 15–28. https://doi.org/10.5209/ijhe.69403.
+1. Friedrich, Carl J. "The Road to Serfdom." (1945): 575-579.
+1. Selmi, R., Bouoiyour, J., & Wohar, M. E. (2022). “Digital Gold” and geopolitics. Research in International Business and Finance, 59, 101512. https://doi.org/10.1016/j.ribaf.2021.101512
+1. Krugman, Paul. "The hangover theory." Slate. December 3 (1998).
+1. Krugman, Paul (7 April 2010). "The Conscience of a Liberal: Martin And The Austrians". The New York Times. Archived from the original on 23 September 2011. 
+1. Allon, F. (2018). Money after Blockchain: Gold, Decentralised Politics and the New Libertarianism. Australian Feminist Studies, 33(96), 223–243. https://doi.org/10.1080/08164649.2018.1517245
+1. Caferra, R., Tedeschi, G., & Morone, A. (2021). Bitcoin: Bubble that bursts or Gold that glitters? Economics Letters, 205, 109942. https://doi.org/10.1016/j.econlet.2021.109942
+1. Wang, G., Tang, Y., Xie, C., & Chen, S. (2019). Is bitcoin a safe haven or a hedging asset? Evidence from China. Journal of Management Science and Engineering, 4(3), 173–188. https://doi.org/10.1016/j.jmse.2019.09.001
+1. Caferra, Rocco, Gabriele Tedeschi, and Andrea Morone. 2021. ‘Bitcoin: Bubble That Bursts or Gold That Glitters?’ Economics Letters 205: 109942. https://doi.org/10.1016/j.econlet.2021.109942.
+1. Wolf, Martin. 2019. ‘The Libertarian Fantasies of Cryptocurrencies’. Financial Times, February. https://www.ft.com/content/eeeacd7c-2e0e-11e9-ba00-0251022932c8.
+1. Fantacci, Luca. 2019. ‘Cryptocurrencies and the Denationalization of Money’. International Journal of Political Economy 48 (2): 105–26. https://doi.org/10.1080/08911916.2019.1624319.
