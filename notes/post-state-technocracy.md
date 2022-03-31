@@ -62,8 +62,10 @@ This thesis has been put forward in various forms. So far, the most fully articu
   * Why do they want to build a network state?
     * A network state can allow biomedical research and human genetic experiments that are prohibited in other countries - explanation from [1729.com](https://1729.com/) 
 * **Claim 2:** The state can (and should) be hollowed out
+  *   Nation states are being dissolved from within. The internet is global, the internet is the basis of human life, so borders should not exist. Citizenship is an anachronism.
+      * “The 21st century doesn’t belong to China, the United States, or Silicon Valley. It belongs to the internet.”
+      * “There is a coming war between the United States government and the forces of China, Bitcoin and the internet.” This war is extremely desirable and we should work to accelerate it.
   * We can replace all of its legacy functions with software, and the public goods that it once supported can be replaced by either the private sector or blockchain apps.
-  * Nation states are being dissolved from within. The internet is global, the internet is the basis of human life, so borders should not exist. Citizenship is an anachronism.
   * The traditional functions of the nation state are being replaced by cyberspace and citizenship. 
     * Citizenship grants me: access to a physical space, the people there and the services provided most obviously physical defense, social security, participation in governance. 
     * Cyberspace and citizenship offer: Physical access (to other people); Physical access to jobs; Control of a currency; Regulation; Property rights enforcement nationally & internationally (justice and arbitration?); Redistribution (and addressing redistribution) and public goods
@@ -71,18 +73,11 @@ This thesis has been put forward in various forms. So far, the most fully articu
   * Joseph Henrich has made a strong case that Western high-trust cultures are weird by most historical and global standards. It may be a “pathological” form of organization and something better may exist.
   * A more optimal form of human self-organization is somewhere between a tribe and the modern nation state. The direct democracies of ancient Greece or authoritarian capitalist city-states like Singapore are an ideal middle-way that produces greater prosperity.
   * Blockchain-friendly hubs are being created across the world (El Salvador, Singapore, Zug). These cities can be purchased using crowdfunding to give blockchain technology the rights of sovereign states and create utopias which will attract top talent looking for low-taxes, business opportunities and like-minded communities.
-* **Claim 4:** People have successfully built antifragile services that exist outside the regulatory perimeter that have endured the test of time.
-  * ThePirateBay has existed since 2003 despite government attempts to remove it from the internet. No government cares enough to really pursue it because it only infringes on the private sector and there’s no political will to shut it down.
-* **Claim 5:** The future inevitably “belongs” to one ideology.
-  * “There is a coming war between the United States government and the forces of China, Bitcoin and the internet.”
-  * This war is extremely desirable and we should work to accelerate it.
-* **Claim 6:** Belief in the “great cycles of history” model and the decline of Pax Americana.
-  * “The 21st century doesn’t belong to China, the United States, or Silicon Valley. It belongs to the internet.”
-* **Claim 7:** "Crypto is the smartest people in the world exiting into their own economy"
+* **Claim 4:** "Crypto is the smartest people in the world exiting into their own economy"
   * Problems like climate change show that liberal democracies and the existing international order are highly vulnerable to paralysis on global tragedy of the commons problems.
   * Just like evolution, corruption is the natural state of being, so we need to embrace corruption rather than live up to the ideals of liberal democracy.
   * Instead of a strong man to save us, we need strong tech.
-* **Claim 8:** Web3 is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
+* **Claim 5:** Web3 is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
   * We can’t stop runaway phenomenon. We simply have to embrace them.
   * Crypto is inevitable. We can’t put the toothpaste back in the tube.
   * Creative destruction is unpredictable but in the end it’s right.
@@ -107,11 +102,12 @@ This thesis has been put forward in various forms. So far, the most fully articu
     * Biomedical experimentation outside of the regulatory perimeter is generally considered a bad idea for very good reasons.
     *  "Crypto is the smartest people in the world exiting into their own economy"
 * **Claim 2:** "The state can (and should) be hollowed out"
-  * We can replace all of the state's legacy functions with software, and the public goods that it once supported can be replaced by either the private sector or blockchain apps.
-    * Replacing the DMV and the tax authority with automation is a genuinely appealing idea to many people. 
-    * Replacing it with the private sector is more controversial.
-  * "The internet is global, the internet is the basis of human life, so borders should not exist.""
-    * “No borders politics” is legitimately a divergence from classical right wing positions. Usually resonantes with far-left positions. This is an interesting shift in thinking.
+  * "Nation states are being dissolved from within. The internet is global, the internet is the basis of human life, so borders should not exist."
+    *    “No borders politics” is legitimately a divergence from classical right wing positions. Usually resonantes with far-left positions. This is an interesting shift in thinking.
+  * "We can replace all of the state's legacy functions with software, and the public goods that it once supported can be replaced by either the private sector or blockchain apps.""
+    * Replacing the DMV and the tax authority with automation is a genuinely appealing idea to many people. Replacing it with the private sector is more controversial.
+    *  People have successfully built antifragile services that exist outside the regulatory perimeter that have endured the test of time: 
+        * ThePirateBay has existed since 2003 despite government attempts to remove it from the internet. No government cares enough to really pursue it because it only infringes on the private sector and there’s no political will to shut it down.
   *  "The traditional functions of the nation state are being replaced by cyberspace and citizenship." There is a grain of truth in this:
       * Zoom and Twitter connect people across the world.
       * Remote working is now a reality
@@ -129,13 +125,10 @@ This thesis has been put forward in various forms. So far, the most fully articu
 * **Claim 3:** "Modern nation states are simply too big". 
   * There is a kernel of truth in all this, western democracies are slow and sclerotic and public trust in institutions is at an all time low. The Americans legitimately elected an imbecile to control their nuclear arsenal … things are clearly not working optimally in democracy.
   * Infinite supply of whataboutisms talking about the genuine deficiencies in the American hegemony and rules based international order.
-* **Claim 4:** People have successfully built antifragile services that exist outside the regulatory perimeter that have endured the test of time.
-* **Claim 5:** The future inevitably “belongs” to one ideology.
-* **Claim 6:** Belief in the “great cycles of history” model and the decline of Pax Americana.
-* **Claim 7:** "Crypto is the smartest people in the world exiting into their own economy"
+* **Claim 4:** "Crypto is the smartest people in the world exiting into their own economy"
   * A tech-led plutocracy, not a utopia.
   *  The result would be an oligarchy: the technical elite and those with access to capital rule.
-* **Claim 8:** Web3 is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
+* **Claim 5:** Web3 is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
   * This is a vision of the future detached from the lived experience and day to day economics of the vast majority of people globally.
   * We'll all be full-time FX traders at face value makes zero sense. Price discovery is important but who will smelt the aluminum for your MacBook?
   * How will this new economy function when their financial system can't even be used to buy goods and services?
