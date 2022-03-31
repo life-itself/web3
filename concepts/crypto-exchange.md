@@ -7,6 +7,8 @@ Many crypto exchanges offer their own [stablecoin](stablecoin.md) whose reserves
 
 Crypto exchanges are commonly set up in jurisdictions with loose or corrupt financial regulatory authorities. These include, but are not limited to:
 
+* Antigua 
+* Barbuda
 * Seychelles
 * Malta
 * Jersey

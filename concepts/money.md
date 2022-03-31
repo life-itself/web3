@@ -5,15 +5,11 @@ Money is any item or verifiable record that is accepted as payment for goods and
 * **Unit of Account** - The capacity of an item, or subdivisions of itself, to function as a numerical monetary unit (*numéraire*) and act as a universal measure of the [market value](market-value.md) of goods, services, and other transactions.
 * **Store of Value** - The capacity of an item to retain purchasing power into the future and capacity to be saved with a predictable variance in its [market value](market-value.md) over long time periods.
 
-Money is a social technology whose efficacy is based on both its universal acceptance in an economic region and the money's coherence to three properties:
+Money is a social technology whose efficacy is based on both its universal acceptance in an economic region and the money's coherence to three properties above.
 
 The United States [dollar](dollar.md) and the Euro are examples of money.
 
-See also [private money](private-money.md).
-
-## Qualities
-
-The qualifies of a currency representing money are defined by coherent to three properties:
+The qualifies of a currency representing money are defined by coherent several other properties:
 
 * Durability
 * Portability
@@ -21,6 +17,8 @@ The qualifies of a currency representing money are defined by coherent to three 
 * Uniformity
 * Limited supply
 * Wide acceptability
+
+See also [private money](private-money.md) and [currency](currency.md).
 
 ## References
 1. Eich, Stefan. 2018. ‘The Currency of Politics’. The Political Theory of Money from Aristotle to Keynes.
