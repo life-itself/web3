@@ -2,7 +2,7 @@
 
 In episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as "securities", their relation to crypto tokens, and the regulatory framework that exists around these structures.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=z2uAg-AIs-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="hhttps://www.youtube.com/watch?v=z2uAg-AIs-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
