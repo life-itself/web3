@@ -1,11 +1,9 @@
 # Decentralized Exchange
-Order-book based but peer-to-peer transactions (i.e. without market makers). This contrasts with [AMM](AMM.md) (automated market makers) who don't have an order book.
+A form of [market making](market-maker.md) done via a [smart-contracts](smart-contracts.md). In this setup the [order-book](order-book.md) is based on peer-to-peer transactions instead of through a central party like a [crypto-exchange](crypto-exchange.md). This contrasts with [AMM](AMM.md) (automated market makers) who don't have an [order book](order-book.md) and instead use [liquidity pools](liquidity-pool.md).
 
-## Limitations
+Decentralized exchanges lack the ability to withdraw currencies like [dollar](dollar.md) and Euros because they have no access to the [banking](bank.md) system to issue payments.
 
-From https://academy.binance.com/en/articles/what-is-uniswap-and-how-does-it-work
-
-> Due to the inherent limitations of [blockchain](blockchain.md) technology, it has been a challenge to build DEXes that meaningfully compete with their centralized counterparts. Most DEXes could improve both in terms of performance and user experience.
+See also [crypto exchange](crypto-exchange.md), [bucket shop](bucket-shop.md), [mixer](mixer.md) and [money laundering](money-laundering.md).
 
 ## References
 1. Allen, Hilary J. 2022. ‘DeFi: Shadow Banking 2.0?’ William & Mary Law Review, Forthcoming.

@@ -112,6 +112,6 @@ Fourth Pass
 Fifth pass
 
 - [ ] [enclosure](../concepts/enclosure.md)
-- [ ] [amm](../concepts/amm.md)
-- [ ] [dex](../concepts/dex.md)
-- [ ] [narrative-economics](../concepts/narrative-economics.md)
+- [x] [amm](../concepts/amm.md)
+- [x] [dex](../concepts/dex.md)
+- [x] [narrative-economics](../concepts/narrative-economics.md)
