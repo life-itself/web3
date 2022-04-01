@@ -77,16 +77,16 @@ Rufus and Stephen end their conversation with an analysis of this position and t
 * The kind of fly-by-night “There Will Be Blood” type of charlatans ran wild selling securities to the public.
   * Most US states created Blue Sky Laws to  "to stop the sale of stock in fly-by-night concerns, visionary oil wells, distant gold mines and other fraudulent exploitations."
   * History is repeating itself exactly like it did then. **Shibu Inu and Dogecoin were the blue sky securities of the 1920s**. People were attracted to get rich quick schemes back then just as much as they are today. Human psychology is remarkably invariant across time.
-* As part of the New Deal, the United States signs into law the Securities Act of 1933, Glass-Steagall Act of 1933, Securities Exchange Act of 1934. These largey clean up the fraud. The US framework is the blueprint for many industrialized nations to do the same.
+* As part of the New Deal, the United States signs into law the Securities Act of 1933, Glass-Steagall Act of 1933, Securities Exchange Act of 1934. These largely clean up the fraud. The US framework is the blueprint for many industrialized nations to do the same.
   * The Great Depression ends and the US is victorious in WWII.
   * A long peace in financial markets. 
   * Bank runs are entirely eliminated.
-  * US capital markets become extremely large, robust and a new era of unrivaled growth and private innovation.
+  * US capital markets become extremely large, robust and a new era of unrivalled growth and private innovation.
   * Centrist Hypothesis: Regulated capital markets, taken on the whole arc of human history, produce relative prosperity.
 * According to the SEC crypto tokens meet the Howey test and thus are securities contracts.
   * This fits with our general intuition about the intent and purpose retail day traders are buying them. They’re investing in common ventures with the expectation of profit from the sale of tokens the same as equity.
   * The enterprises possibly now exist as anonymous internet entities and Discord servers now instead of law firms and board rooms.
-  * Some DAO governance tokens quite literally are designed to imitate voting shares as seen in existing equity structures.
+  * Some [DAO](../concepts/dao.md) governance tokens quite literally are designed to imitate voting shares as seen in existing equity structures.
   * How do we bring the great mass of scofflaw unregistered securities within the regulatory perimeter to protect the public? Is this even possible?
 * The smartphone era gives retail investors access to the public equities market with unparalleled levels of simplicity unseen in markets. There’s also a genuine interest in giving retail investors access to private equity investments.
   * Is such a structure even possible?
@@ -94,7 +94,7 @@ Rufus and Stephen end their conversation with an analysis of this position and t
     * As an entrepreneur do we really want a cap table with 200,000 retired janitors from Idaho writing $500 checks into early companies. What is the legal overhead of this under the Securities Act?
   * Is it desirable?
     * High risk, high return. But with a 95% failure rate is it even appropriate for retail? Venture is not a great asset class compared to index funds in terms of brute returns.
-    * If we lower the barriers to entry, the ICO bubble is a case study in even higher failure rates. Unprecedented levels of fraud unseen in developed markets since the 1920s.
+    * If we lower the barriers to entry, the [ICO](../concepts/ico.md) bubble is a case study in even higher failure rates. Unprecedented levels of fraud unseen in developed markets since the 1920s.
     * **ICOs are like a public stock offering before the company even exists or has a product.**
     * Giving seed-stage ventures billions of seed capital detached from revenue, traction, or product market fit is a recipe for disaster.
     * There’s a perverse incentive to simply abscond with seed money rather than actually build anything.

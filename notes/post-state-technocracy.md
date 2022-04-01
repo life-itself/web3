@@ -17,9 +17,9 @@ In episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and S
 
 ## Summary
 
-In previous epsidoes Rufus and Stephen have discussed positions that largely regard either monetary or financial reconfiguration (reinstate the gold standard, get rich quick). In this episide they start engaging with political imaginaries about “making the world a better place”.
+In previous episodes Rufus and Stephen have discussed positions that largely regard either monetary or financial reconfiguration (reinstate the [gold standard](../concepts/gold-standard.md), get rich quick). In this episode they start engaging with political imaginaries about “making the world a better place”.
 
-In this episode, Rufus and Stephen engage with the vision laid out by technologists and venture capitalists of a transition from the existing US-led international order to a world in which blockchain technology and technocracy are the new foundations for global human governance.
+In this episode, Rufus and Stephen engage with the vision laid out by technologists and venture capitalists of a transition from the existing US-led international order to a world in which [blockchain](../concepts/blockchain.md) technology and technocracy are the new foundations for global human governance.
 
 This thesis has been put forward in various forms. So far, the most fully articulated form that we have found is from Balaji Srinivasan. See the show notes below for links to source material.
 
@@ -77,7 +77,7 @@ This thesis has been put forward in various forms. So far, the most fully articu
   * Problems like climate change show that liberal democracies and the existing international order are highly vulnerable to paralysis on global tragedy of the commons problems.
   * Just like evolution, corruption is the natural state of being, so we need to embrace corruption rather than live up to the ideals of liberal democracy.
   * Instead of a strong man to save us, we need strong tech.
-* **Claim 5:** Web3 is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
+* **Claim 5:** [web3](../concepts/web3.md) is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
   * We can’t stop runaway phenomenon. We simply have to embrace them.
   * Crypto is inevitable. We can’t put the toothpaste back in the tube.
   * Creative destruction is unpredictable but in the end it’s right.
@@ -96,14 +96,14 @@ This thesis has been put forward in various forms. So far, the most fully articu
   * A worldview from a venture capitalist echo chamber talking their books or trying to strongarm their heterodox views using capital.
 * **Claim 1:** "We’ve hit a wall on physical progress, so the “digital realm” is the only frontier accessible."
   * The entire argument is predicated on the technology being able to do the things they claim, perhaps at some point in the future. This is falsely treated as a technical reality and an inevitability.
-    * The claims of cryptocurrencies or “algorithmic central banks” having the capacity to serve as national currencies seems unsubstantiated by evidence.
+    * The claims of cryptocurrencies or “algorithmic [central banks](../concepts/central-banks.md)” having the capacity to serve as national currencies seems unsubstantiated by evidence.
     * Postal service claim - In the 1700s nothing moved faster than a horse. Yet the advent of the steam engine and capacity to send information faster than horse didn’t fundamentally alter our notions of statehood and justice.
     * Comparisons to kibbutzim and moshavim.
     * Biomedical experimentation outside of the regulatory perimeter is generally considered a bad idea for very good reasons.
     *  "Crypto is the smartest people in the world exiting into their own economy"
 * **Claim 2:** "The state can (and should) be hollowed out"
   * "Nation states are being dissolved from within. The internet is global, the internet is the basis of human life, so borders should not exist."
-    *    “No borders politics” is legitimately a divergence from classical right wing positions. Usually resonantes with far-left positions. This is an interesting shift in thinking.
+    *    “No borders politics” is legitimately a divergence from classical right wing positions. Usually resonates with far-left positions. This is an interesting shift in thinking.
   * "We can replace all of the state's legacy functions with software, and the public goods that it once supported can be replaced by either the private sector or blockchain apps.""
     * Replacing the DMV and the tax authority with automation is a genuinely appealing idea to many people. Replacing it with the private sector is more controversial.
     *  People have successfully built antifragile services that exist outside the regulatory perimeter that have endured the test of time: 
@@ -111,7 +111,7 @@ This thesis has been put forward in various forms. So far, the most fully articu
   *  "The traditional functions of the nation state are being replaced by cyberspace and citizenship." There is a grain of truth in this:
       * Zoom and Twitter connect people across the world.
       * Remote working is now a reality
-      * Transferwise and wire transfers have lower barriers to money flows
+      * Transferwise and wire transfers have lower barriers to [remittences](../claims/is-better-payments.md)
       * The sufficiency of self-regulation in the private sector is a popular perspective
       * Digital commodities are regulated internationally (ICANN, web hosting)
       * Self-organizing communities (everything from good things like Linux and Open Source to bad things like 4chan and QAnon) have proved enormously influential in shaping culture and creating public goods.
@@ -119,18 +119,18 @@ This thesis has been put forward in various forms. So far, the most fully articu
     * Property rights over physical goods are not enforceable with cryptography.
     * Dispute resolution between humans can rarely, if ever, be reduced down to code.
     * We still need magistrates and courts.
-    * We still inevitably need a structure like a central bank.
-    * How does this solve the public goods problem? There appears to be no coherent connection between crypto coins and solutions to this problem.
+    * We still inevitably need a structure like a [central bank](../concepts/central-banks.md)
+    * How does this solve the [public goods problem](../concepts/public-goods-problem.md)? There appears to be no coherent connection between crypto coins and solutions to this problem.
     * Who will fix the potholes in the road? Why will they fix the potholes? c.f. [Cartmanland](https://en.wikipedia.org/wiki/Cartmanland)
 * **Claim 3:** "Modern nation states are simply too big". 
   * There is a kernel of truth in all this, western democracies are slow and sclerotic and public trust in institutions is at an all time low. The Americans legitimately elected an imbecile to control their nuclear arsenal … things are clearly not working optimally in democracy.
-  * Infinite supply of whataboutisms talking about the genuine deficiencies in the American hegemony and rules based international order.
+  * Infinite supply of [whataboutisms](../concepts/whataboutism.md) talking about the genuine deficiencies in the American hegemony and rules based international order.
 * **Claim 4:** "Crypto is the smartest people in the world exiting into their own economy"
   * A tech-led plutocracy, not a utopia.
   *  The result would be an oligarchy: the technical elite and those with access to capital rule.
-* **Claim 5:** Web3 is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
+* **Claim 5:** [web3](../concepts/web3.md) is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
   * This is a vision of the future detached from the lived experience and day to day economics of the vast majority of people globally.
-  * We'll all be full-time FX traders at face value makes zero sense. Price discovery is important but who will smelt the aluminum for your MacBook?
+  * We'll all be full-time FX traders at face value makes zero sense. Price discovery is important but who will smelt the aluminium for your MacBook?
   * How will this new economy function when their financial system can't even be used to buy goods and services?
     * “Crypto doesn’t currently function as money, not because of technical or economics limitations, but because statists won’t give up their power.”
     * Doesn’t include the view that the economics of the system are wrong to give rise to a medium of exchange.
@@ -140,7 +140,7 @@ This thesis has been put forward in various forms. So far, the most fully articu
 
 
 * This is a bleak dystopian vision of the future.
-  * [Neal Stpehensons’s Burbclaves](https://en.wikipedia.org/wiki/Snow_Crash)
+  * [Neal Stephensons’s Burbclaves](https://en.wikipedia.org/wiki/Snow_Crash)
   * We can’t run nation states like we run tech startups.
   * Skeptical about finding a quick-fix in technology or politics. There is wisdom in learning from the past and the institutions that exist.
   * Esperanto-style solutionism has never worked for societies or economies. 
