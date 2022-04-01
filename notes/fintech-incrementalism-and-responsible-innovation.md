@@ -2,14 +2,6 @@
 
 In episode #5 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl explore the claim that blockchain can be a vehicle for increase in financialization through the development of more complex, blockchain based financial products. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-* Youtube: https://www.youtube.com/XXX
-* Podcast: https://anchor.fm/life-itself/episodes/XXX
-* Wiki Topic: [XXX](../concepts/XXX.md)
-
 
 ***
 
