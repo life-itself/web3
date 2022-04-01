@@ -1,6 +1,6 @@
 # Webinars
 
-Our webiar series addresses the most significant, policy-relevant issues around web3 and blockchain. They provide an objective overview of the information needed for decision making in key sectors, outlining the considerations and strategies required to respond effectively.
+Our webinar series addresses the most significant, policy-relevant issues around web3 and blockchain. They provide an objective overview of the information needed for decision making in key sectors, outlining the considerations and strategies required to respond effectively.
 
 The webinars will be invite only unless otherwise specified, but we will be posting content covering the topics covered to the site. Each will involve an expert panel discussion followed by a significant period of Q&A and participant led conversation, to ensure pressing questions are addressed. All webinars will be conducted under Chatham House Rules.
 
