@@ -15,6 +15,7 @@ Understand the terminology used to describe crypto and web3.
 * [Money](/concepts/money.md)
 * [NFT](../concepts/nft.md)
 * [Private money](../concepts/private-money.md)
+* [Fiat money](../concepts/fiat-money.md)
 * [Deflationary asset](../concepts/deflationary.md)
 * [Sound money](../concepts/sound-money.md)
 * [Ponzi scheme](../concepts/ponzi-scheme.md)

@@ -20,10 +20,11 @@ In episode #2 of the series, Rufus Pollock and Stephen Diehl explore a common in
 The trader or market fundamentalist view likely represents a majority of interest and activity in crypto. The ideology encompasses the viewpoint that crypto is about **making money** i.e. that crypto investing and trading can make those who engage in it a lot of money. More deeply it is the view that the unfettered and unregulated nature of crypto-markets is a good thing and represents a "freer" and better form of financial markets.
 
 Rufus and Stephen 'steel man' the market fundamentalism position, exploring four key claims:
-1. Unregulated markets allow companies to so what they're supposed to do: maximize returns to shareholders.
-2. Markets are likeable to evolution; they have no moral quality.
-3. Crypto-trading is a public good
-4. There is no non-public disclosure about the risks of these assets, everyone is going in with their eyes open that this is the wild west.
+
+1. [Unregulated](../concepts/regulation.md) markets allow companies to so what they're supposed to do: maximize returns to shareholders.
+2. [Markets](../concepts/market.md) are likeable to evolution; they have no moral quality.
+3. Crypto-trading is a [public good](../concepts/public-goods-problem.md)
+4. There is no [non-public](../concepts/asymmetric-information.md) disclosure about the risks of these assets, everyone is going in with their eyes open that this is the wild west.
 
 Rufus and Stephen end their conversation with an analysis of the market fundamentalist position and the associated claims.
 
@@ -31,20 +32,19 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 
 ## What type of asset is a crypto token? How do we value it? Is there a comparable asset?
 
-* Zero-coupon perpetual bond?
-* Currency you wouldn’t want to spend?
-* Equity with no cash flows or dividends? https://en.wikipedia.org/wiki/Blue_sky_law
-* Commodity with no use value?
-* Exchange traded pyramid schemes?
-* Derivative contract with no underlying?
-* Libertarian performance art split into 21 million pieces https://en.wikipedia.org/wiki/Monte_Carlo_Bonds
-* If we value it as a "block box" financial product (ala Nassim Taleb) we find it’s present value can only be zero. https://www.fooledbyrandomness.com/BTC-QF.pdf
+* Zero-coupon perpetual [bond](../concepts/bond.md)?
+* [Currency](../concepts/currency.md) that discourages spending?
+* [Equity](../concepts/stock.md) with no cash flows or dividends? https://en.wikipedia.org/wiki/Blue_sky_law?
+* [Commodity](../concepts/commodity.md) with no [use value](../concepts/use-value.md)?
+* Exchange traded [pyramid scheme](../concepts/pyramid-scheme.md)?
+* [Derivative](../concepts/derivative.md) contract with no underlying?
+* [Libertarian](../concepts/libertarianism.md) performance [art](../concepts/art.md) split into 21 million pieces https://en.wikipedia.org/wiki/Monte_Carlo_Bonds
+* If we value it as a "block box" [financial asset](../concepts/financial-asset.md) (ala Nassim Taleb) we find it’s [present value](../concepts/present-value.md) can only be zero. https://www.fooledbyrandomness.com/BTC-QF.pdf
 
 ## Who is Trading Crypto?
 
 * The day-trader in the pub, WallStreetBets demographic.
-  * [Barrett, Claer. ‘Why Young Investors Bet the Farm on Cryptocurrencies’. Financial Times, 2021.](https:www.ft.com/content/162839aa-0437-478b-a4d4-4a8d7ab71458):
-    
+	* [Barrett, Claer. ‘Why Young Investors Bet the Farm on Cryptocurrencies’. Financial Times, 2021.](https:www.ft.com/content/162839aa-0437-478b-a4d4-4a8d7ab71458):
     > "I’ll either be rich, or wrong." This is how Sam, a 29-year-old cryptocurrency enthusiast I interviewed on this week’s Money Clinic podcast, summarized his strategy for investing the last £2,000 of his savings in a hugely volatile and unregulated asset class. Claiming that he's not a natural risk taker, Sam has never set foot inside a casino or put money on a horse. "To me, that seems stupid, like you’re throwing money away." He has never considered investing in stocks and shares. Being self-employed, he's never paid into a pension or thought about setting up a self-invested personal pension (Sipp). "No one’s ever given me that kind of information," he says. So why is he prepared to risk his spare cash betting on crypto? Sam found out his younger brother had turned a £3,000 investment into £30,000 within four years — money he now intends to use as a property deposit. "I was very surprised and it made me feel a bit stupid . . . why aren’t I doing this?"*
     * cf low bets in general: tiny but possible asymmetric returns. A regressive tax or distributed lottery.
 * Quants and Hedge funds
@@ -58,11 +58,11 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 
 ## Why is the Crypto-Can-Make-Me-Money Position So Interesting to Examine?
 
-* Likely represents a majority of interest and activity in crypto (and even DAOs) from the day-trader in the pub up to the wall street trader
-* Generally not brought up explicitly as much in the crypto / web3 discussion (for obvious reasons: it is not as substantive or attractive position to espouse publicly)
+* Likely represents a majority of interest and activity in crypto (and even [DAOs](../concepts/dao.md)) from the day-trader in the pub up to the wall street trader
+* Generally not brought up explicitly as much in the crypto / [web3](../concepts/web3.md) discussion (for obvious reasons: it is not as substantive or attractive position to espouse publicly)
 * The political imaginaries aren’t there - "I just want to make money", "Greed is good"
   * Consequences and externalities be damned
-  * Hyper-capitalist
+  * Hyper-[capitalist](../concepts/capitalism.md)
   * At the extreme: "Life is nothing but a competition to be the criminal rather than the victim."
 * However, may actually account for a good portion of the interest and even political/social support for this area
 * Legitimizing segment especially for regulators ("hey even Goldman Sachs or JP Morgan are involved, this must be a legitimate area / industry")
@@ -75,41 +75,41 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
     * Now we get to redefine shareholder to mean token holder, without any regulatory baggage from traditional markets. 
     * Line must go up at any cost.
   * Crypto products are risk assets that have no fundamentals, but that’s not necessarily a problem because you can make money on trading them. 
-    * There other financial products (ETNs - exchange traded notes, OTM put options, volatility swaps) many of which are intrinsically negative-sum and high-risk as well, these are allowed in markets … so why shouldn’t crypto be.
+    * There other financial products (ETNs - exchange traded notes, volatility swaps) many of which are intrinsically negative-sum and high-risk as well, these are allowed in markets … so why shouldn’t crypto be.
       * [Credit Suisse defends controversial financial product at the center of the market turmoil](https://www.cnbc.com/2018/02/07/credit-suisse-defends-controversial-xiv-etn-amid-market-turmoil.html)
 * Markets are likeable to evolution; they have no moral quality.
-  * Markets are a mechanism likeable to evolution: they select for fitness and success
-  * If I'm allowed to trade products that are massively asymmetric and disadvantageous to retail traders (individual, non-professional market participants) then I can and I will => it will eliminate those inefficient players (it punishes unfitness and rewards fitness)
+  * Markets are a mechanism likeable to evolution: they [select](../concepts/price-formation.md) for fitness and success
+  * If I'm allowed to trade products that are massively [asymmetric](../concepts/asymmetric-information.md) and disadvantageous to retail traders (individual, non-professional market participants) then I can and I will => it will eliminate those inefficient players (it punishes unfitness and rewards fitness)
   * Even if I know it’s a [greater fool asset](../concepts/greater-fool-theory), if I have access to non-public information and more capital I can (and should) use it and exit before the other fools.
-    * Some people legitimately did make money trading on South Sea Bubble, Dotcom Bubble, Tulip Mania
+    * Some people legitimately did make money trading on [bubbles](../concepts/bubble.md): South Sea Bubble, Dotcom Bubble, Tulip Mania
     * These booms and busts are a natural part of market cycles
 * Crypto-trading is a public good
-  * Tokens are an investment product that exists to secure compute cycles for people to run computation on a globally distributed state machine using the market to create game theoretic incentive to run other’s computations as a “public good”. That state machine has an operating cost and that creates synthetic demand for people who need to buy it, at any cost, to run computation on the chain.
-  * We can treat crypto tokens as a synthetic hedge against the entire class of assets with fundamentals. They're a place to park money in times of loose monetary policy to chase yield when there's nothing else left to buy, because other funds circularly trade this thesis.
-  * I’m just participating in price discovery of a new asset class.
+  * Tokens are an investment product that exists to secure compute cycles for people to run computation on a globally distributed state machine using the market to create game theoretic incentive to run other’s computations as a “public good”. That state machine has an operating cost and that creates [artificial demand](../concepts/artificial-demand.md) for people who need to buy it, at any cost, to run computation on the chain.
+  * We can treat crypto tokens as a synthetic hedge against the entire class of assets with [fundamental value](../concepts/fundamental-value.md). They're a place to park money in times of loose monetary policy to chase yield when there's nothing else left to buy, because other funds circularly trade this thesis. So it may be self-fulfilling.
+  * I’m just participating in [price discovery](../concepts/price-formation.md) of a new asset class.
 * There is no non-public disclosure about the risks of these assets. Everyone is going in with their eyes open that this is the wild west.
-  * If the market allows manipulation (pump and dumps, insider trading, wash trading) this is public knowledge and it is reflected in the price formation of the assets. 
+  * If the market allows [market manipulation](../concepts/market-manipulation.md) ([pump and dumps](../concepts/pump-and-dump.md), insider trading, [wash trading](../concepts/wash-trading.md)) this is public knowledge and it is reflected in the price formation of the assets. 
   * Institutional investors should be able to leverage their AUM to take high-risk positions just like they are in other private markets. If retail wants to participate with the “sharks” then it’s on them to understand the risks not on the people they’re trading against. The fiduciary mandate of hedge funds is to take positions on behalf of their LPs in beta uncorrelated positions.
 
 ## Analyzing the Market Fundamentalism Position
 
 * Everything that has been illegal for 80 years is suddenly allowed. Exchanges are basically like bucket shops from the 1920s. Everything is allowed:
-  * Wash-trading
-  * Front-running
+  * [Wash trading](../concepts/wash-trading.md)
+  * [Front running](../concepts/front-running.md)
   * Painting the tape
-  * Insider trading
+  * [Insider trading](../concepts/asymmetric-information.md)
   * Arbitrarily halting trading
-  * Price manipulation and order book tampering
+  * Price manipulation and [order book](../concepts/order-book.md) tampering
   * Pump and dumps
   * Canceling orders arbitrarily
-  * Refusing cash withdrawals
+  * [Refusing cash withdrawels](../concepts/counterparty-risk.md)
   * Offering 125x leverage on options
   * Clearing house and in-house prop trading are in the same room
   * Exchanges have their own proprietary trading arm
   * Trading against their own clients
-* Markets work best when we have abundant public information and minimize fraud and collusion in price formation.
+* Markets work best when we have abundant public information and minimize fraud and collusion in [price formation](../concepts/price-formation.md)
     * https://excalidraw.com/#room=6319a3e121dbdb6edf28,0u9Ht45kupjqkHD8kCuUAQ 
-* We have no idea how much leverage is baked into the entire market, induced by products like unbaked stablecoins which can seemingly produce limitless amounts of unsecured debt products on demand.
+* We have no idea how much [leverage](../concepts/leverage.md) is baked into the entire market, induced by products like unbaked [stablecoins](../concepts/stablecoin.md) which can seemingly produce limitless amounts of unsecured debt products on demand.
     * [Tether minted most USDT to just 2 firms — Alameda and Cumberland](https://protos.com/tether-minted-usdt-stablecoin-crypto-two-alameda-cumberland/)
 * What does that lead to?
   * Inequality (money flows to the sharks)
@@ -120,13 +120,13 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
     * In markets - assuming that markets esp financial markets have some value then undermining faith in them is problematic. Cf the 1920s/1930s which led to much of the market regulations we have today
       * You may think this is a good if you are anarchist-nihilist
   * Just because you can trade something doesn't mean it’s good for the world (opium trade, slave trade, asbestos)
-  * Moral hazard - public is incentivized to take on disproportionate risk expecting a bailout
+  * [Moral hazard](../concepts/moral-hazard.md)- public is incentivized to take on disproportionate risk expecting a bailout
   * A deformation of character: we become enslaved to the idea of getting rich quick (cf Salgado). Capitalist alienation
-* Terribly pathological form of capitalism that doesn't result in price formation on collective enterprise, goods or services. Funds are betting on financial fantasy castles in the sky detached from any day to day reality of human life.
-  * What is the purpose of public markets then?
-* A captive market for “fictitious commodities” (Marxist term) that is controlled by opaque unregulated market making and an economic cartel.
+* Terribly pathological form of [capitalism](../concepts/capitalism.md) that doesn't result in price formation on collective enterprise, goods or services. Funds are betting on financial fantasy castles in the sky detached from any day to day reality of human life.
+  * What is the purpose of public [markets](../concepts/market.md) then?
+* A captive market for [ficticious commodities](../concepts/ficticious-commodity.md) that is controlled by opaque unregulated market making and an economic [cartel](../concepts/cartel.md).
   * This is great if you're inside the cartel. Not so great if you aren’t.
-  * Wealth transfer from public to insiders is all but guaranteed by the information asymmetry.
+  * Wealth transfer from public to insiders is all but guaranteed by the information [asymmetry](../concepts/asymmetric-information.md).
 
 ## Concepts Covered
 * [artificial-scarcity](../concepts/artificial-scarcity.md)
