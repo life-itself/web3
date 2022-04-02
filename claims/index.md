@@ -1,27 +1,64 @@
 # The Aspirations and Claims of Crypto & Web3
+Explore crypto and "web3" in terms of the claims made about it. These subclaims fall into six categories about different aspects of either technical, financial or political reconfiguration projects.
 
-* What are the key high level problems, aspirations and hopes that crypto & web3 movement speaks to?
-* What are the specific claims made for crypto & web3?
-* What are the evaluations of those claims and evidence for them?
+#### Better Economy
+
+* [Is bitcoin a currency?](/claims/is-bitcoin-currency.md)
+* [Are crypto assets a risk to the dollar?](../claims/threaten-dollar.md)
+* [What type of asset is a crypto token?](/claims/what-type-of-asset.md)
+* [How do we value a crypto token?](/claims/valuation-model.md)
+* [Are crypto assets a systemic risk to the economy?](../claims/is-systemic-risk.md)
+* [Is bitcoin the basis for a new gold standard?](../claims/digital-gold.md)
+* [Are crypto assets a bubble?](../claims/is-bubble.md)
+* [Are crypto assets a form of gambling?](../claims/is-gambling.md)
+* [Are crypto tokens an inflation hedge?](../claims/hedge-inflation.md)
+* [Is private money a desirable system?](../claims/is-private-money.md)
+* [Is bitcoin compataible with ESG investing?](../claims/bitcoin-esg.md)
+
+#### Better Society / Financial Inclusion
+
+* [What consumer protections exist for crypto assets?](../claims/consumer-protections.md)
+* [Are crypto assets a form of predatory inclusion?](../claims/is-predatory.md)
+* [Is crypto a solution for the unbanked?](/claims/crypto-unbanked.md)
+* [Is crypto providing faster payment rails or better remittance services?](../claims/is-better-payments.md)
+* [Are NFTs are good for artists?](../claims/nfts-artists.md)
+* [What is the narrative economics of crypto assets?](../claims/narrative-economics.md)
+* [Are crypto assets legal?](../claims/is-legal.md)
+* [Are crypto tokens a negative-sum investment?](/claims/negative-sum.md)
+* [Why do people invest in crypto tokens?](../claims/why-invest.md)
+* [Why does crypto have such a weird subculture?](/claims/weird-culture.md)
+
+#### Financial Liberty
+
+* [Is an unregulated transnational payment rail even desirable?](../claims/transnational-payment.md)
+* [Are crypto tokens a hedge against the "debasement" of the dollar?](../claims/hedge-debasement.md)
+* [Are crypto tokens a means to counter authoritarianism?](../claims/authoritarianism.md)
+* [Can I raise money for my non-profit using crypto tokens?](../claims/is-raise-nonprofit.md)
+* [Can I do a crowdfunded equity raise for my company using crypto tokens?](../claims/is-raise-company.md)
+
+#### Solving Public Goods Problems
+
+* [Is crypto a means to fund public goods projects?](../claims/is-public-goods.md)
+* [Is bitcoin mining harmful to the environment?](../claims/environmental-footprint.md)
+* [Is crypto bringing about the "financialization of everything"?](../claims/is-hyperfinancialization.md)
+* [Is crypto a giant misallocation of resources with an enormous opportunity cost?](../claims/is-opportunity-cost.md)
+
+#### Financial Innovation
+
+* [Is the underlying technology of "blockchain" useful for non-monetary purposes?](../claims/blockchain-tech.md)
+* [Is web3 even a well-defined term?](../claims/well-defined.md)
+* [Is web3 green?](../claims/web3-green.md)
+* [Is web3 decentralized?](../claims/web3-decentralized.md)
+* [Is web3 the next generation of the internet?](../claims/new-internet.md)
+
+#### Creative Destruction
+
+* [Is web3 a means to dismantle the American tech hegemony?](../claims/is-disrupt-hegemony.md)
+* [Is web3 a means to rebuild the global financial system?](../claims/is-new-financial-system.md)
+* [Are crypto tokens a means to accelerate the collapse of capitalism?](../claims/is-collapse.md)
 
 ## Taxonomy of Aspirations and Claims
 
 https://coggle.it/diagram/YhTzF8ZnKihmLdpm/t/web3-taxonomy-of-aspirations-and-claims
 
 ![](https://res.cloudinary.com/ds7qslkd0/image/upload/v1647356492/Web3/Web3_Taxonomy_of_Aspirations_and_Claims_m4bmpq.png)
-
-## TODO
-
-#todo/writing #todo/clarify 
-
-* Aspirations and Claims: a short section explaining relationship of aspirations and claims
-* Web of claims: claims depend on other claims. We use hypothesis trees to break down claims
-* Claims vs questions: do we frame things as questions or statements e.g. Bitcoin is a currency vs Can Bitcoin function as a currency? Bitcoin harms the environment vs Does Bitcoin harm the environment?
-
-## Subclaims
-
-* How do we value a crypto token?
-* Are crypto assets a risk to the state?
-* What is the narrative of crypto assets?
-* Can Bitcoin function as a currency?
-* Are crypto tokens are securities (what type of assets are crypto token?)

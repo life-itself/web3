@@ -43,68 +43,6 @@ Understand the terminology used to describe crypto and web3.
 
 ***
 
-### Claims
-
-Explore crypto and "web3" in terms of the claims made about it. These subclaims fall into six categories about different aspects of either technical, financial or political reconfiguration projects.
-
-#### Better Economy
-
-* [Is bitcoin a currency?](/claims/is-bitcoin-currency.md)
-* [Are crypto assets a risk to the dollar?](../claims/threaten-dollar.md)
-* [What type of asset is a crypto token?](/claims/what-type-of-asset.md)
-* [How do we value a crypto token?](/claims/valuation-model.md)
-* [Are crypto assets a systemic risk to the economy?](../claims/is-systemic-risk.md)
-* [Is bitcoin the basis for a new gold standard?](../claims/digital-gold.md)
-* [Are crypto assets a bubble?](../claims/is-bubble.md)
-* [Are crypto assets a form of gambling?](../claims/is-gambling.md)
-* [Are crypto tokens an inflation hedge?](../claims/hedge-inflation.md)
-* [Is private money a desirable system?](../claims/is-private-money.md)
-* [Is bitcoin compataible with ESG investing?](../claims/bitcoin-esg.md)
-
-#### Better Society / Financial Inclusion
-
-* [What consumer protections exist for crypto assets?](../claims/consumer-protections.md)
-* [Are crypto assets a form of predatory inclusion?](../claims/is-predatory.md)
-* [Is crypto a solution for the unbanked?](/claims/crypto-unbanked.md)
-* [Is crypto providing faster payment rails or better remittance services?](../claims/is-better-payments.md)
-* [Are NFTs are good for artists?](../claims/nfts-artists.md)
-* [What is the narrative economics of crypto assets?](../claims/narrative-economics.md)
-* [Are crypto assets legal?](../claims/is-legal.md)
-* [Are crypto tokens a negative-sum investment?](/claims/negative-sum.md)
-* [Why do people invest in crypto tokens?](../claims/why-invest.md)
-* [Why does crypto have such a weird subculture?](/claims/weird-culture.md)
-
-#### Financial Liberty
-
-* [Is an unregulated transnational payment rail even desirable?](../claims/transnational-payment.md)
-* [Are crypto tokens a hedge against the "debasement" of the dollar?](../claims/hedge-debasement.md)
-* [Are crypto tokens a means to counter authoritarianism?](../claims/authoritarianism.md)
-* [Can I raise money for my non-profit using crypto tokens?](../claims/is-raise-nonprofit.md)
-* [Can I do a crowdfunded equity raise for my company using crypto tokens?](../claims/is-raise-company.md)
-
-#### Solving Public Goods Problems
-
-* [Is crypto a means to fund public goods projects?](../claims/is-public-goods.md)
-* [Is bitcoin mining harmful to the environment?](../claims/environmental-footprint.md)
-* [Is crypto bringing about the "financialization of everything"?](../claims/is-hyperfinancialization.md)
-* [Is crypto a giant misallocation of resources with an enormous opportunity cost?](../claims/is-opportunity-cost.md)
-
-#### Financial Innovation
-
-* [Is the underlying technology of "blockchain" useful for non-monetary purposes?](../claims/blockchain-tech.md)
-* [Is web3 even a well-defined term?](../claims/well-defined.md)
-* [Is web3 green?](../claims/web3-green.md)
-* [Is web3 decentralized?](../claims/web3-decentralized.md)
-* [Is web3 the next generation of the internet?](../claims/new-internet.md)
-
-#### Creative Destruction
-
-* [Is web3 a means to dismantle the American tech hegemony?](../claims/is-disrupt-hegemony.md)
-* [Is web3 a means to rebuild the global financial system?](../claims/is-new-financial-system.md)
-* [Are crypto tokens a means to accelerate the collapse of capitalism?](../claims/is-collapse.md)
-
-***
-
 ## Contextual
 
 Understand crypto and "web3" in terms of recent news events and interviews and external resources.
@@ -115,6 +53,7 @@ Understand crypto and "web3" in terms of recent news events and interviews and e
 	3. [Episode #3: Securities Regulation](/notes/are-crypto-tokens-securities.md)
 	4. [Episode #4: Post-state Technocracy](../notes/post-state-technocracy.md)
 	5. [Episode #5: Fintech Incrementalism](../notes/fintech-incrementalism-and-responsible-innovation.md)
+	6. Episode #6: Mining and Climate Change
 * [Recent News Stories](/notes/recent-events.md)
 * [Commentary on 'Line Goes Up'](../notes/olson-2022-line-go-up.md)
 
