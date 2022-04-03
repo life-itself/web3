@@ -40,6 +40,8 @@ Understand the terminology used to describe crypto and web3.
 * [Predatory inclusion](../concepts/predatory-inclusion.md)
 * [United States Dollar](/concepts/dollar.md)
 * [Central bank digital currency](../concepts/cbdc.md)
+* [Proof of work](../concepts/proof-of-work.md)
+* [Proof of stake](../concepts/proof-of-stake.md)
 
 ***
 

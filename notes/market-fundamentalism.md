@@ -48,8 +48,8 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
     > "I’ll either be rich, or wrong." This is how Sam, a 29-year-old cryptocurrency enthusiast I interviewed on this week’s Money Clinic podcast, summarized his strategy for investing the last £2,000 of his savings in a hugely volatile and unregulated asset class. Claiming that he's not a natural risk taker, Sam has never set foot inside a casino or put money on a horse. "To me, that seems stupid, like you’re throwing money away." He has never considered investing in stocks and shares. Being self-employed, he's never paid into a pension or thought about setting up a self-invested personal pension (Sipp). "No one’s ever given me that kind of information," he says. So why is he prepared to risk his spare cash betting on crypto? Sam found out his younger brother had turned a £3,000 investment into £30,000 within four years — money he now intends to use as a property deposit. "I was very surprised and it made me feel a bit stupid . . . why aren’t I doing this?"*
     * cf low bets in general: tiny but possible asymmetric returns. A regressive tax or distributed lottery.
 * Quants and Hedge funds
+  * Alameda Research / Jump Crypto / DRW Cumberland / Wintermute Trading
   * Jane Street / DE Shaw
-  * Alameda Research / Jump Crypto / DRW Cumberland
   * Goldman Sachs / Credit Suisse
   * Mann Group: [Silverman, Gary. ‘Crypto Has “No Inherent Worth” but Is Good to Trade, Says Man Group Chief’. Financial Times, 2021](https://www.ft.com/content/9275baf4-0422-43a1-b8c9-9317882ca874): 
       > "If you look at cryptocurrencies as a whole, it is a pure trading instrument. There is no inherent worth in it whatsoever. It is a tulip bulb," Ellis said, referring to the flower that became the focus of a 17th-century Dutch financial mania.*
