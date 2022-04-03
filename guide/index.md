@@ -106,6 +106,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Multilevel marketing scheme](../concepts/mlm.md)
 * [Pyramid scheme](../concepts/pyramid-scheme.md)
 * [Ponzi scheme](../concepts/ponzi-scheme.md)
+* [Ponzinomics](../concepts/ponzinomics.md)
 * [Meme stocks](../concepts/meme-stock.md)
 * [Reserve currency](../concepts/reserve-currency.md)
 * [Bretton Woods system](../concepts/bretton-woods.md)
