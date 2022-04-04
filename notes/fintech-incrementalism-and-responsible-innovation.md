@@ -7,7 +7,6 @@ In episode #5 of our ongoing deep dive into web3 and crypto, Rufus Pollock and S
 
 
 * Youtube:  https://www.youtube.com/watch?v=7rLQoTtwRSU
-* Podcast: https://anchor.fm/life-itself/episodes/Crypto--Traders-and-Unfettered-Financial-Markets-with-Stephen-Diehl-e1fgm2d
 
 
 ***
