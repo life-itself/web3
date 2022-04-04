@@ -40,8 +40,8 @@ Understand the terminology used to describe crypto and web3.
 * [Predatory inclusion](../concepts/predatory-inclusion.md)
 * [United States Dollar](/concepts/dollar.md)
 * [Central bank digital currency](../concepts/cbdc.md)
-* [Proof of work](../concepts/proof-of-work.md)
-* [Proof of stake](../concepts/proof-of-stake.md)
+* [Proof of Work](../concepts/proof-of-work.md)
+* [Proof of Stake](../concepts/proof-of-stake.md)
 
 ***
 
@@ -191,3 +191,4 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Risk](../concepts/risk.md)
 * [Regulation](../concepts/regulation.md)
 * [Market manipulation](../concepts/market-manipulation.md)
+* [Externalities](../concepts/externalities.md)

@@ -22,7 +22,7 @@
 - [x] [is-opportunity-cost](../claims/is-opportunity-cost.md)
 - [x] [is-private-money](../claims/is-private-money.md)
 - [ ] [is-public-goods](../claims/is-public-goods.md)
-- [ ] [is-raise-company](../claims/is-raise-company.md)
+- [x] [is-raise-company](../claims/is-raise-company.md)
 - [ ] [is-raise-nonprofit](../claims/is-raise-nonprofit.md)
 - [x] [new-internet](../claims/new-internet.md)
 - [x] [transnational-payment](../claims/transnational-payment.md)

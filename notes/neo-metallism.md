@@ -5,7 +5,6 @@ In episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and S
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_o7pRFLzJHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 * Youtube: https://www.youtube.com/embed/_o7pRFLzJHY
 * Podcast: https://anchor.fm/life-itself/episodes/Stephen-Diehl-on-Web3--Bitcoin--Neometalism-e1f5rca
 * Wiki topic:  [digital-gold](../claims/digital-gold.md)

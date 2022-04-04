@@ -109,6 +109,7 @@ Rufus and Stephen 'steel man' the “fintech incrementalism” position, identif
       * We still have to convert to and from the local currency on both legs of the payment. This has a non-zero cost.
       * Currency A -> Currency B -> Currency C is a very indirect way of doing cross-border payments as compared to a two-hop transaction. 
       * Some entity has to eat the price risk while the transfer in-flight. There’s no free lunch here. **Introducing a third hypervoliate intermediary step just adds more risk and makes this more expensive**.
+	  * [Does Bitcoin/Blockchain make sense for international money transfers?](https://www.saveonsend.com/bitcoin-blockchain-money-transfer/)
       * Race to the bottom with services like TransferWise.
   * Crypto as a payment system is uniformly worse than almost any other service that exists. 
     * [Price risk](../concepts/price-risk.md) given the volatility of the asset is a non-starter for commerce.
