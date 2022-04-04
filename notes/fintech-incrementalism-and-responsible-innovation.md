@@ -7,6 +7,7 @@ In episode #5 of our ongoing deep dive into web3 and crypto, Rufus Pollock and S
 
 
 * Youtube:  https://www.youtube.com/watch?v=7rLQoTtwRSU
+* Podcast: https://anchor.fm/life-itself/episodes/Fintech-Incrementalism-and-Responsible-Innovation-e1gn02u 
 
 
 ***
