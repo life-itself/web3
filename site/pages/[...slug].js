@@ -6,6 +6,7 @@ import TOC from 'components/Toc';
 
 
 export default function Page({ body, ...rest }) {
+  // console.log(allOtherPages)
   const Component = useMDXComponent(body.code);
   const children = {
     Component,
@@ -38,16 +39,20 @@ export default function Page({ body, ...rest }) {
 export const getStaticProps = async ({ params }) => {
   // All pages ending with .md in the /data folder are made available in allOtherPages
   // Based on the specified slug, the correct page is selected
+  console.log(params);
   const urlPath = params.slug.join('/')
   const page = allOtherPages.find(p => p._raw.flattenedPath === urlPath)
+  console.log(page)
   return { props: page }
 }
 
 export const getStaticPaths = async () => {
   const paths = allOtherPages.map((page) => {
+    // console.log(page);
     // demo => [demo]
     // abc/demo => [abc,demo]
-    const parts = page._raw.flattenedPath.split('/')
+    const parts = page._raw.flattenedPath.split('/');
+    // console.log(parts);
     return { params: { slug: parts } }
   })
 
