@@ -27,7 +27,7 @@ Rufus and Stephen 'steel man' the “fintech incrementalism” position, identif
 ## Fintech Incrementalism
 
 * What is 'fintech'? 
-  * fintech = financial technology. New technology that seeks to improve and automate the delivery and use of financial services
+  * fintech = financial technology. New technology that seeks to improve and automate the delivery and use of financial services.
 * The central thesis of the fintech incrementalist position is that crypto assets, blockchain, or fintech more broadly, is a force for effecting change in financial services and building a more stable, efficient and transparent economy.
   * “The blockchain meme” as a catalyst for building better market infrastructure and “how the enterprise software sausage actually gets made”.
   * A lot of legitimate [real time gross settlement systems](../concepts/rtgs.md), to first approximation, look something like an append-only ledger that batches transactions via a consensus algorithm. The difference is they’re not trying to reinvent [money](../concepts/money.md) from first principles.
