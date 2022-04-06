@@ -7,7 +7,7 @@ An example of a [financial asset](financial-asset.md) with no use value is a [st
 
 The [dollar](dollar.md) has no use value and no [fundamental value](fundamental-value.md), however it is a [monetary](money.md) instrument because of its efficacy as a [currency](currency.md).
 
-[Cypto assets](cryptoasset.md) are a [speculative](speculation.md) investment that has both no use value, no [fundamental value](fundamental-value.md) and are also non-monetary. Instead their demand curve is generated from [narrative](../claims/narrative-economics.md) and the [greater fool theory](greater-fool-theory.md).
+[Cypto assets](cryptoasset.md) are a [speculative](speculation.md) investment that has both no use value, no [fundamental value](fundamental-value.md) and are also non-monetary. Instead their demand curve is generated from [narrative](../claims/is-narrative-economics.md) and the [greater fool theory](greater-fool-theory.md).
 
 A historical pathological example of a [ficticious commodity](ficticious-commodity.md), with both no use value and no [fundamental-value](fundamental-value.md), would be [indulgences](https://en.wikipedia.org/wiki/Indulgence) sold by the medieval church based on [artificial demand](artificial-demand.md) induced by [narrative](narrative-economics.md).
 

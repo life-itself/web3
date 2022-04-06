@@ -5,12 +5,14 @@ Crypto exchanes are not regulated as [market makers](market-maker.md) or [broker
 
 Many crypto exchanges offer their own [stablecoin](stablecoin.md) whose reserves may be comingled with customer funds.
 
-Crypto exchanges are commonly set up in jurisdictions with loose or corrupt financial regulatory authorities. These include, but are not limited to:
+Crypto exchanges are commonly set up in jurisdictions with loose or corrupt financial regulatory regimes. These include, but are not limited to:
 
+* Antigua 
+* Barbuda
 * Seychelles
 * Malta
 * Jersey
-* Isle of Mann
+* Isle of Man
 * The Bahamas
 * Cayman Islands
 * Singapore

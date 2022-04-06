@@ -6,3 +6,5 @@ City parks are a public good.
 [Money](money.md) is a public good.
 
 See also [free-rider-problem](free-rider-problem.md).
+
+## References

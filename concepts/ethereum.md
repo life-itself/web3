@@ -33,7 +33,6 @@ Ethereum has a negative [expected return](expected-return.md).
 Ethereum is a [security](security.md).
 
 ## References
-
 1. Ante, Lennart. 2020. ‘Smart Contracts on the Blockchain – A Bibliometric Analysis and Review’. SSRN Electronic Journal, no. 10: 1–48. https://doi.org/10.2139/ssrn.3576393.
 1. ———. 2021a. ‘Non-Fungible Token (NFT) Markets on the Ethereum Blockchain: Temporal Development, Cointegration and Interrelations’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3904683.
 1. ———. 2021b. ‘Smart Contracts on the Blockchain – A Bibliometric Analysis and Review’. Telematics and Informatics 57: 101519. https://doi.org/10.1016/j.tele.2020.101519.
