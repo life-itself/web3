@@ -42,7 +42,7 @@ const components = {
   h6: (props) => <CustomHeading as="h6" {...props} />,
 };
 
-export default function MdxPage({ children }) {
+export default function MdxPage({ children, generalToc }) {
   const { asPath } = useRouter();
   const { Component, frontmatter } = children;
     const post = getPostBySlug(asPath.split("#")[0]);
@@ -62,7 +62,7 @@ export default function MdxPage({ children }) {
             )}
           </div>
         </header>
-        <ContentLayout post={post}>
+        <ContentLayout post={post} generalToc={generalToc} >
           <main className="lg:w-full p-4">
             <Component components={components} />
           </main>

@@ -2,7 +2,7 @@ import { defineDocumentType, makeSource } from 'contentlayer/source-files'
 // import readingTime from 'reading-time'
 import remarkGfm from 'remark-gfm';
 
-const OtherPage = defineDocumentType(() => ({
+export const OtherPage = defineDocumentType(() => ({
   name: 'OtherPage',
   filePathPattern: '**/*.md*',
   contentType: 'mdx',
