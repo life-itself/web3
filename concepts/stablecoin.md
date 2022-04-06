@@ -4,6 +4,8 @@ A crypto asset that is pegged (see [currLency peg](currLency-peg.md)) to a real 
 
 Stablecoins may be [leverage](leverage.md) against their deposits where the total value in circulation does not equal the assets held on behalf of customers. Such stablecoins are known as *unbacked stablecoins*.
 
+Since stablecoins are outside the regulatory perimeter, these assets are often used as a place to park winnings from crypto trading to avoid taxation.
+
 See also [DeFi](defi.md), [staking](staking.md) and [liquidity pool](liquidity-pool.md).
 
 ## References
