@@ -16,7 +16,7 @@ export default function GetInvolved() {
               Here's how you can get involved:
               </h2>
               <ul className="mt-4 text-lg text-gray-500 list-disc list-inside">
-                <li> Contribute to the <a href="/library" className="underline">library</a>, </li>
+                <li> Contribute to the <a href="/library" className="text-white underline">library</a>, </li>
                 <li> Write up key concepts, </li>
                 <li> Proof edit articles and transcribe dialogs, </li>
                 <li> Share the work with others. </li>
