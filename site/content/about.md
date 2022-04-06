@@ -38,7 +38,7 @@ Finally, this should happen in as constructive, intersectional and (de-polarizin
 
 We think good sensemaking begins by clarifying and agreeing the questions we want to ask -- and, a process for answering them. Here are our starting questions:
 
-* What are the [narratives](../../claims/narrative-economics.md) and claims made for web3, both positive and negative?
+* What are the [narratives](../../claims/is-narrative-economics.md) and claims made for web3, both positive and negative?
 * Based on the theory and evidence at our disposal, how should we evaluate these claims?
 * Given our evaluations, what should we do? Should we support and/or improve web3 technology, or, alternatively, restrict it? How does this differ across different uses (e.g. [DAOs](../../concepts/dao.md) vs [NFTs](../../concepts/nft.md))? How should we do this?
 * More generally, what options are there both in web3 and beyond to fulfil on the aspirations voiced for it? And thus, how should we direct our attention, time and [money](../../concepts/money.md) most effectively to realize these aspirations whether via web3 or other means?
@@ -67,7 +67,7 @@ Third, we provide a high quality “conceptual underlay” with definitions and 
 
 ![](https://raw.githubusercontent.com/life-itself/web3/main/excalidraw/sensemaking-3-layers-2022-03-04.excalidraw.svg)
 
-First, it provides a basic introduction for those coming to the topic with simple, neutral summaries of the key ideas and terms. Second, it provides a base “layer” that underpins the evaluative work and the overall sensemaking effort. For example, suppose you want to evaluate the claim that DAOs can help address the climate crisis. To do that you are going to need contextual material about public goods, [free rider problems](../../concepts/free-rider-problem.md)  – as well as information on what a DAO is! In addition, this is an area where meanings of key terms are crucial and often [ill-defined](../../claims/well-defined.md) for example what exactly do we mean by “collaboration” or “freedom” (and is our meaning shared)? By providing reference material and common definitions we can ground and inform the debate and avoid “talking past each other”.
+First, it provides a basic introduction for those coming to the topic with simple, neutral summaries of the key ideas and terms. Second, it provides a base “layer” that underpins the evaluative work and the overall sensemaking effort. For example, suppose you want to evaluate the claim that DAOs can help address the climate crisis. To do that you are going to need contextual material about public goods, [free rider problems](../../concepts/free-rider-problem.md)  – as well as information on what a DAO is! In addition, this is an area where meanings of key terms are crucial and often [ill-defined](../../claims/is-well-defined.md) for example what exactly do we mean by “collaboration” or “freedom” (and is our meaning shared)? By providing reference material and common definitions we can ground and inform the debate and avoid “talking past each other”.
 
 ![](https://res.cloudinary.com/ds7qslkd0/image/upload/v1647432615/Web3/crypto_for_good_iedlhs.png)
 

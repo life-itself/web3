@@ -3,7 +3,7 @@ A type of work function used in [blockchain](blockchain.md) [consensus algorithm
 
 Proof of stake has been criticized for being intentionally plutocratic and a scheme that overtly enriches those with existing wealth and early investors in the scheme, thus resulting in [consolidation](distribution-problem.md) of the [crypto asset](cryptoasset.md) into the hands of the few. Proof of stake has also been critized for having a less [censorship resistent](censorship-resistence.md) security model as it may encourage collusion and [cartels](cartel.md).
 
-See also [mining](mining.md), [proof of work](proof-of-work.md),  [environmental footprint of crypto](../claims/environmental-footprint.md).
+See also [mining](mining.md), [proof of work](proof-of-work.md),  [environmental footprint of crypto](../claims/is-environmental-footprint.md).
 
 ## References
 1. Rosenthal, David. n.d. ‘Stanford Lecture on Cryptocurrency’. Accessed 2 March 2022. https://blog.dshr.org/2022/02/ee380-talk.html.

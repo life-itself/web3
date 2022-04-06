@@ -16,6 +16,7 @@ Web3 has also been described as a means of doing [regulatory arbitrage](regulato
 1. Tante. 2021. ‘The Third Web’. Nodes in a Social Network (blog). 17 December 2021. https://tante.cc/2021/12/17/the-third-web/.
 1. Marlinspike, Moxie. 2022. ‘My First Impressions of Web3’. Moxie Marlinspike. 7 January 2022. https://moxie.org/2022/01/07/web3-first-impressions.html.
 1. Levine, Matt. 2022. ‘Web3 Takes Trust Too’. 10 January 2022. https://www.bloomberg.com/opinion/articles/2022-01-10/web3-takes-trust-too.
+1. Marx, Paris. n.d. ‘Why Web3, the Blockchain and Crypto Internet, Is Doomed to Fail’. Accessed 29 March 2022. https://www.businessinsider.com/web3-blockchain-crypto-internet-doomed-fail-doesnt-live-up-hype-2022-3?r=US&IR=T.
 1. Soatok. 2021. ‘Against Web3 and Faux-Decentralization’. Dhole Moments. 19 October 2021. https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/.
 1. Tonelli, Emily. 2022. ‘Internet Guru Tim O’Reilly: Crypto and NFTs Are “Pretty Serious Speculative Bubble”’. Decrypt. 10 February 2022. https://decrypt.co/92676/internet-guru-tim-oreilly-crypto-nfts-serious-speculative-bubble.
 1. Yaffe-Bellany, David. 2022. ‘Millions for Crypto Start-Ups, No Real Names Necessary’. The New York Times, 2 March 2022, sec. Technology. https://www.nytimes.com/2022/03/02/technology/cryptocurrency-anonymity-alarm.html.

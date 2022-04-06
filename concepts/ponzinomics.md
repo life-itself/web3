@@ -1,5 +1,5 @@
 # Ponzinomics
-A portmanteau of [Ponzi scheme](ponzi-scheme.md) and economics. A term commonly used to describe [crypto asset](cryptoasset.md) investment schemes which are [negative-sum](../claims/negative-sum.md) investments which exist to enrich a pool of insiders, much like a Ponzi scheme, and yet rely on [techno-obscurantism](techno-obscurantism.md) or crackpot economics to obfuscate or distract from the internal payout structure of the scheme.
+A portmanteau of [Ponzi scheme](ponzi-scheme.md) and economics. A term commonly used to describe [crypto asset](cryptoasset.md) investment schemes which are [is-negative-sum](../claims/is-negative-sum.md) investments which exist to enrich a pool of insiders, much like a Ponzi scheme, and yet rely on [techno-obscurantism](techno-obscurantism.md) or crackpot economics to obfuscate or distract from the internal payout structure of the scheme.
 
 See also [DeFi](defi.md), [pyramid scheme](pyramid-scheme.md), [Ponzi scheme](ponzi-scheme.md), [predatory inclusion](predatory-inclusion.md),  and [multilevel marketing scheme](mlm.md).
 

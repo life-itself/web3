@@ -16,6 +16,6 @@ Concepts
 Claims
 
 - [ ] [is-bitcoin-currency](../claims/is-bitcoin-currency.md)
-- [ ] [blockchain-tech](../claims/blockchain-tech.md)
-- [ ] [weird-culture](../claims/weird-culture.md)
-- [ ] [well-defined](../claims/well-defined.md)
+- [ ] [is-blockchain-tech](../claims/is-blockchain-tech.md)
+- [ ] [is-weird-culture](../claims/is-weird-culture.md)
+- [ ] [is-well-defined](../claims/is-well-defined.md)

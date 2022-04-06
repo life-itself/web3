@@ -151,7 +151,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 * [market-manipulation](../concepts/market-manipulation.md)
 * [market-value](../concepts/market-value.md)
 * [moral-hazard](../concepts/moral-hazard.md)
-* [narrative-economics](../claims/narrative-economics.md)
+* [is-narrative-economics](../claims/is-narrative-economics.md)
 * [order-book](../concepts/order-book.md)
 * [present-value](../concepts/present-value.md)
 * [pump-and-dump](../concepts/pump-and-dump.md)
@@ -159,7 +159,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 * [speculation](../concepts/speculation.md)
 * [stock](../concepts/stock.md)
 * [stablecoin](../concepts/stablecoin.md)
-* [valuation-model](../claims/valuation-model.md)
+* [is-valuation-model](../claims/is-valuation-model.md)
 * [wash-trading](../concepts/wash-trading.md)
 * [zero-sum-game](../concepts/zero-sum-game.md)
 

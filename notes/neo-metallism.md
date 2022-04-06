@@ -7,7 +7,7 @@ In episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and S
 
 * Youtube: https://www.youtube.com/embed/_o7pRFLzJHY
 * Podcast: https://anchor.fm/life-itself/episodes/Stephen-Diehl-on-Web3--Bitcoin--Neometalism-e1f5rca
-* Wiki topic:  [digital-gold](../claims/digital-gold.md)
+* Wiki topic:  [is-digital-gold](../claims/is-digital-gold.md)
 
 ***
 
@@ -31,7 +31,7 @@ Rufus and Stephen then evaluate the neo-metallism position, before ending with a
 
 The term neo-metallism stems from metallism, a school of thinking which relates to the connection between money and some form of commodity. 
 
-Neo-metallism argues that cryptocurrencies, and in particular Bitcoin, can and should be the [new gold](../claims/digital-gold.md) - it should be used to fix the monetary supply to the value of this new asset. Just as under the gold standard the value of a given unit of currency (e.g. a pound or dollar) was based on a fixed quantity of gold, neo-metallists argue the value of a unit of currency should be based on a fixed amount of Bitcoin. 
+Neo-metallism argues that cryptocurrencies, and in particular Bitcoin, can and should be the [new gold](../claims/is-digital-gold.md) - it should be used to fix the monetary supply to the value of this new asset. Just as under the gold standard the value of a given unit of currency (e.g. a pound or dollar) was based on a fixed quantity of gold, neo-metallists argue the value of a unit of currency should be based on a fixed amount of Bitcoin. 
 
 
 
@@ -146,7 +146,7 @@ Bitcoin is Better
 * [private-money](../concepts/private-money.md)
 * [sound-money](../concepts/sound-money.md)
 * [speculation](../concepts/speculation.md)
-* [valuation-model](../claims/valuation-model.md)
+* [is-valuation-model](../claims/is-valuation-model.md)
 * [value](../concepts/value.md)
 * [zero-sum-game](../concepts/zero-sum-game.md)
 

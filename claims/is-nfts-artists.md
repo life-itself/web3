@@ -5,7 +5,7 @@ Since the NFT market depends highly on [sign-value](../concepts/sign-value.md), 
 
 Because digital tokens have no inherent value and are not backed by any other asset, hype is crypto's product and those with the most to lose are in the worst positions. NFTs are a form of [predatory inclusion](../concepts/predatory-inclusion.md) that on average does not liberate artists. Instead most artiists will engage in the token sales at a loss, making almost nothing in return. The return and payout structure is similar to that of MLMs which depend on [asymmetric information](../concepts/asymmetric-information.md) to incentiveize a small pool of individuals at the expensive a vast number of others who are victims of the scheme.
 
-On the whole, NFTs create more harm to than good like most [negative-sum](negative-sum.md) investment schemes.
+On the whole, NFTs create more harm to than good like most [is-negative-sum](is-negative-sum.md) investment schemes.
 
 ## References
 1. Olson, Dan. 2022a. Line Goes Up – The Problem With NFTs. https://www.youtube.com/watch?v=YQ_xWvX1n9g.

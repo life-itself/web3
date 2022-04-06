@@ -26,7 +26,7 @@ First pass
 - [x] [derivative](../concepts/derivative.md)
 - [x] [dex](../concepts/dex.md)
 - [x] [distribution-problem](../concepts/distribution-problem.md)
-- [ ] [enclosure](../concepts/enclosure.md)
+- [x] [enclosure](../concepts/enclosure.md)
 - [x] [exit-scam](../concepts/exit-scam.md)
 - [x] [expected-return](../concepts/expected-return.md)
 

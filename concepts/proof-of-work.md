@@ -3,7 +3,7 @@ A type of work function used in [blockchain](blockchain.md) [consensus algorithm
 
 Proof of work mining has been criticized for being intentionally wasteful and consuming vast amounts of silicon resources and compute time.
 
-See also [mining](mining.md), [proof of stake](proof-of-stake.md),  [environmental footprint of crypto](../claims/environmental-footprint.md).
+See also [mining](mining.md), [proof of stake](proof-of-stake.md),  [environmental footprint of crypto](../claims/is-environmental-footprint.md).
 
 ## References
 1. Dindar, B., and Ö. Gül. ‘The Detection of Illicit Cryptocurrency Mining Farms with Innovative Approaches for the Prevention of Electricity Theft’. Energy & Environment, no. April (2021): 0958305X211045066. https://doi.org/10.1177/0958305x211045066.

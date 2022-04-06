@@ -2,7 +2,7 @@
 The problems with crypto assets fall into several categories.
 
 ## Environmental
-1. [Crypto investments that use proof of work have an absurd environmental footprint.](../claims/environmental-footprint.md)
+1. [Crypto investments that use proof of work have an absurd environmental footprint.](../claims/is-environmental-footprint.md)
 2. Crypto investments waste energy that is better spent on more productive enterprises. 
 
 ## Legal

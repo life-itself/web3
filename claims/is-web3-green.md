@@ -1,7 +1,7 @@
 # Is Web3 green?
-Web3 is allegedly based on crypto assets which have a known [environmental footprint](environmental-footprint.md) problem. Therefore web3 is not green.
+Web3 is allegedly based on crypto assets which have a known [environmental footprint](is-environmental-footprint.md) problem. Therefore web3 is not green.
 
-See also [ESG investing and crypto](bitcoin-esg.md), [environmental-footprint](environmental-footprint.md) and [mining](../concepts/mining.md).
+See also [ESG investing and crypto](is-bitcoin-esg.md), [is-environmental-footprint](is-environmental-footprint.md) and [mining](../concepts/mining.md).
 
 ## References
 1. Wanat, Emanuel. 2021. ‘Are Crypto-Assets Green Enough? – An Analysis of Draft EU Regulation on Markets in Crypto Assets from the Perspective of the European Green Deal’. Osteuropa Recht 67 (2): 237–50. https://doi.org/10.5771/0030-6444-2021-2-237.

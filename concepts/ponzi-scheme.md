@@ -9,7 +9,7 @@ A type of investment fraud in which old investors are paid out from an influx of
 
 The mechanism by which new investors are brought in, and by which the operators remove investors from the scheme may vary between schemes. Ponzi schemes may present as direct investment vehicles such as funds like Bernie Madoff's fund Madoff Investment Securities LLC. Ponzi schemes may also present as a fraudulent [market maker](market-maker.md) where investors are sold [zero income](income-cashflows.md) [greater fool](greater-fool-theory.md) investments and the operators abscond with money through [market manipulation](market-manipulation.md).
 
-Some participants can make money investing in Ponzi schemes, but the basic fact is that most participants will lose money. Thus Investing in Ponzi schemes has a negative [expected return](expected-return.md) and are [negative sum](../claims/negative-sum.md).
+Some participants can make money investing in Ponzi schemes, but the basic fact is that most participants will lose money. Thus Investing in Ponzi schemes has a negative [expected return](expected-return.md) and are [negative sum](../claims/is-negative-sum.md).
 
 [Crypto assets](cryptoasset.md) are often referred to as market-obscured or self-organizing Ponzi schemes because of their nearly identical payout structure.
 
