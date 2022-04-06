@@ -24,7 +24,6 @@ export default function Page({ body, ...rest }) {
     .replace(/-/g, " ")
     // capitalize first char of each word
     .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
-  
   return (
     <>
       <NextSeo title={children.frontmatter.title ?? titleFromUrl} />
