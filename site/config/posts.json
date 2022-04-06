@@ -16,105 +16,56 @@
         "seen": 0
       },
       {
-        "content": "Claims",
-        "slug": "claims",
-        "lvl": 3,
-        "i": 2,
-        "seen": 0
-      },
-      {
-        "content": "Better Economy",
-        "slug": "better-economy",
-        "lvl": 4,
-        "i": 3,
-        "seen": 0
-      },
-      {
-        "content": "Better Society / Financial Inclusion",
-        "slug": "better-society--financial-inclusion",
-        "lvl": 4,
-        "i": 4,
-        "seen": 0
-      },
-      {
-        "content": "Financial Liberty",
-        "slug": "financial-liberty",
-        "lvl": 4,
-        "i": 5,
-        "seen": 0
-      },
-      {
-        "content": "Solving Public Goods Problems",
-        "slug": "solving-public-goods-problems",
-        "lvl": 4,
-        "i": 6,
-        "seen": 0
-      },
-      {
-        "content": "Financial Innovation",
-        "slug": "financial-innovation",
-        "lvl": 4,
-        "i": 7,
-        "seen": 0
-      },
-      {
-        "content": "Creative Destruction",
-        "slug": "creative-destruction",
-        "lvl": 4,
-        "i": 8,
-        "seen": 0
-      },
-      {
         "content": "Contextual",
         "slug": "contextual",
         "lvl": 2,
-        "i": 9,
+        "i": 2,
         "seen": 0
       },
       {
         "content": "Ideologies",
         "slug": "ideologies",
         "lvl": 2,
-        "i": 10,
+        "i": 3,
         "seen": 0
       },
       {
         "content": "Supporting Concepts",
         "slug": "supporting-concepts",
         "lvl": 2,
-        "i": 11,
+        "i": 4,
         "seen": 0
       },
       {
         "content": "Economics",
         "slug": "economics",
         "lvl": 4,
-        "i": 12,
+        "i": 5,
         "seen": 0
       },
       {
         "content": "Technology",
         "slug": "technology",
         "lvl": 4,
-        "i": 13,
+        "i": 6,
         "seen": 0
       },
       {
         "content": "Regulation",
         "slug": "regulation",
         "lvl": 4,
-        "i": 14,
+        "i": 7,
         "seen": 0
       },
       {
         "content": "Sociology",
         "slug": "sociology",
         "lvl": 4,
-        "i": 15,
+        "i": 8,
         "seen": 0
       }
     ],
-    "readingTime": 5,
+    "readingTime": 3,
     "excerpt": "Introduction\n\nThis page serves as a root from which all other topics branch and can be explored. \n\nKey Concepts\n\nUnderstand the terminology used to describe crypto and web3.\n\nWeb3\nCrypto asset\nBitcoin",
     "sectionSlug": "/guide",
     "sectionWeight": 0,
@@ -203,6 +154,73 @@
   {
     "toc": [
       {
+        "content": "The Aspirations and Claims of Crypto & Web3",
+        "slug": "the-aspirations-and-claims-of-crypto--web3",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Better Economy",
+        "slug": "better-economy",
+        "lvl": 4,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Better Society / Financial Inclusion",
+        "slug": "better-society--financial-inclusion",
+        "lvl": 4,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Financial Liberty",
+        "slug": "financial-liberty",
+        "lvl": 4,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Solving Public Goods Problems",
+        "slug": "solving-public-goods-problems",
+        "lvl": 4,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Financial Innovation",
+        "slug": "financial-innovation",
+        "lvl": 4,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Creative Destruction",
+        "slug": "creative-destruction",
+        "lvl": 4,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Taxonomy of Aspirations and Claims",
+        "slug": "taxonomy-of-aspirations-and-claims",
+        "lvl": 2,
+        "i": 7,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "The Aspirations and Claims of Crypto & Web3\n\nExplore crypto and \"web3\" in terms of the claims made about it. These subclaims fall into six categories about different aspects of either technical, finan",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": true,
+    "slug": "/claims"
+  },
+  {
+    "toc": [
+      {
         "content": "Bitcoin is not a means to counter authoritarian regimes",
         "slug": "bitcoin-is-not-a-means-to-counter-authoritarian-regimes",
         "lvl": 1,
@@ -223,253 +241,7 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/authoritarianism"
-  },
-  {
-    "toc": [
-      {
-        "content": "Is bitcoin compatible with ESG investing?",
-        "slug": "is-bitcoin-compatible-with-esg-investing",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Is bitcoin compatible with ESG investing?\n\nESG stands for Environmental, Social, and Governance. It is part of a larger global trend where investors are increasingly using non-financial factors as par",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/bitcoin-esg"
-  },
-  {
-    "toc": [
-      {
-        "content": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?",
-        "slug": "is-the-underlying-technology-of-blockchain-useful-for-non-monetary-purposes",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?\n\nBlockchain technology, detached from the sale of tokens or crypto assets a has shown no track record of providing benefi",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/blockchain-tech"
-  },
-  {
-    "toc": [
-      {
-        "content": "What consumer protections exist for crypto assets?",
-        "slug": "what-consumer-protections-exist-for-crypto-assets",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "Risk Factors",
-        "slug": "risk-factors",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      }
-    ],
-    "readingTime": 4,
-    "excerpt": "What consumer protections exist for crypto assets?\n\nThere are little to no consumer protections for investing in crypto assets. This depends on jurisdiction but even in countries with advanced economi",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/consumer-protections"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto is not a solution for the unbanked",
-        "slug": "crypto-is-not-a-solution-for-the-unbanked",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Crypto is not a solution for the unbanked\n\nCrypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency therefore it is unusable as a scaleable means ",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/crypto-unbanked"
-  },
-  {
-    "toc": [
-      {
-        "content": "Bitcoin is not the basis for a new gold standard",
-        "slug": "bitcoin-is-not-the-basis-for-a-new-gold-standard",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Bitcoin is not the basis for a new gold standard\n\nThe neo-metallist claim is that bitcoin can operate as a new asset class which exhibits similar financial properties to gold.  The strong version of t",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/digital-gold"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto Mining is Harmful to the Environment",
-        "slug": "crypto-mining-is-harmful-to-the-environment",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 10,
-    "excerpt": "Crypto Mining is Harmful to the Environment\n\nBitcoin mining is enormously harmful to the environment, the design of the Proof of Work (PoW) consensus algorithm is energy wasteful as part of its design",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/environmental-footprint"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto assets are not a hedge against the \"debasement\" of the dollar",
-        "slug": "crypto-assets-are-not-a-hedge-against-the-debasement-of-the-dollar",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Crypto assets are not a hedge against the \"debasement\" of the dollar\n\nCrypto assets are not a hedge against the \"debasement\" of the dollar. This thesis is predicated on an Austrian economics reading o",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/hedge-debasement"
-  },
-  {
-    "toc": [
-      {
-        "content": "Are crypto assets a hedge against inflation?",
-        "slug": "are-crypto-assets-a-hedge-against-inflation",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Are crypto assets a hedge against inflation?\n\n Since crypto asset have no exposure to domestic commodities there is no evidence of anti-correlation with a basket of goods that would be inversely to th",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/hedge-inflation"
-  },
-  {
-    "toc": [
-      {
-        "content": "The Aspirations and Claims of Crypto & Web3",
-        "slug": "the-aspirations-and-claims-of-crypto--web3",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "Taxonomy of Aspirations and Claims",
-        "slug": "taxonomy-of-aspirations-and-claims",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "TODO",
-        "slug": "todo",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      },
-      {
-        "content": "Subclaims",
-        "slug": "subclaims",
-        "lvl": 2,
-        "i": 3,
-        "seen": 0
-      }
-    ],
-    "readingTime": 1,
-    "excerpt": "The Aspirations and Claims of Crypto & Web3\n\nWhat are the key high level problems, aspirations and hopes that crypto & web3 movement speaks to?\nWhat are the specific claims made for crypto & web3?\nWha",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": true,
-    "slug": "/claims"
+    "slug": "/claims/is-authoritarianism"
   },
   {
     "toc": [
@@ -524,6 +296,56 @@
   {
     "toc": [
       {
+        "content": "Is bitcoin compatible with ESG investing?",
+        "slug": "is-bitcoin-compatible-with-esg-investing",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Is bitcoin compatible with ESG investing?\n\nESG stands for Environmental, Social, and Governance. It is part of a larger global trend where investors are increasingly using non-financial factors as par",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-bitcoin-esg"
+  },
+  {
+    "toc": [
+      {
+        "content": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?",
+        "slug": "is-the-underlying-technology-of-blockchain-useful-for-non-monetary-purposes",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?\n\nBlockchain technology, detached from the sale of tokens or crypto assets a has shown no track record of providing benefi",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-blockchain-tech"
+  },
+  {
+    "toc": [
+      {
         "content": "Crypto assets are a bubble",
         "slug": "crypto-assets-are-a-bubble",
         "lvl": 1,
@@ -574,6 +396,88 @@
   {
     "toc": [
       {
+        "content": "What consumer protections exist for crypto assets?",
+        "slug": "what-consumer-protections-exist-for-crypto-assets",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Risk Factors",
+        "slug": "risk-factors",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 4,
+    "excerpt": "What consumer protections exist for crypto assets?\n\nThere are little to no consumer protections for investing in crypto assets. This depends on jurisdiction but even in countries with advanced economi",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-consumer-protections"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto is not a solution for the unbanked",
+        "slug": "crypto-is-not-a-solution-for-the-unbanked",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Crypto is not a solution for the unbanked\n\nCrypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency therefore it is unusable as a scaleable means ",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-crypto-unbanked"
+  },
+  {
+    "toc": [
+      {
+        "content": "Bitcoin is not the basis for a new gold standard",
+        "slug": "bitcoin-is-not-the-basis-for-a-new-gold-standard",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Bitcoin is not the basis for a new gold standard\n\nThe neo-metallist claim is that bitcoin can operate as a new asset class which exhibits similar financial properties to gold.  The strong version of t",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-digital-gold"
+  },
+  {
+    "toc": [
+      {
         "content": "Is web3 a means to dismantle the American tech hegemony?",
         "slug": "is-web3-a-means-to-dismantle-the-american-tech-hegemony",
         "lvl": 1,
@@ -595,6 +499,31 @@
     "sectionTitle": "Claims",
     "isIndex": false,
     "slug": "/claims/is-disrupt-hegemony"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto Mining is Harmful to the Environment",
+        "slug": "crypto-mining-is-harmful-to-the-environment",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 10,
+    "excerpt": "Crypto Mining is Harmful to the Environment\n\nBitcoin mining is enormously harmful to the environment, the design of the Proof of Work (PoW) consensus algorithm is energy wasteful as part of its design",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-environmental-footprint"
   },
   {
     "toc": [
@@ -624,6 +553,56 @@
   {
     "toc": [
       {
+        "content": "Crypto assets are not a hedge against the \"debasement\" of the dollar",
+        "slug": "crypto-assets-are-not-a-hedge-against-the-debasement-of-the-dollar",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Crypto assets are not a hedge against the \"debasement\" of the dollar\n\nCrypto assets are not a hedge against the \"debasement\" of the dollar. This thesis is predicated on an Austrian economics reading o",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-hedge-debasement"
+  },
+  {
+    "toc": [
+      {
+        "content": "Are crypto assets a hedge against inflation?",
+        "slug": "are-crypto-assets-a-hedge-against-inflation",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Are crypto assets a hedge against inflation?\n\n Since crypto asset have no exposure to domestic commodities there is no evidence of anti-correlation with a basket of goods that would be inversely to th",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-hedge-inflation"
+  },
+  {
+    "toc": [
+      {
         "content": "Is crypto bringing about the \"financialization of everything\"?",
         "slug": "is-crypto-bringing-about-the-financialization-of-everything",
         "lvl": 1,
@@ -638,8 +617,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 5,
-    "excerpt": "Is crypto bringing about the \"financialization of everything\"?\n\nThe purpose of NFTs and crypto projects generally is to further expand the scope artificial scarcity, enclosure and financialize greater",
+    "readingTime": 4,
+    "excerpt": "Is crypto bringing about the \"financialization of everything\"?\n\nThe purpose of NFTs and crypto projects generally is to further expand the scope artificial scarcity, enclose and financialize greater p",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -674,6 +653,63 @@
   {
     "toc": [
       {
+        "content": "What is the narrative economics of crypto assets?",
+        "slug": "what-is-the-narrative-economics-of-crypto-assets",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Narrative Claims",
+        "slug": "narrative-claims",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 6,
+    "excerpt": "What is the narrative economics of crypto assets?\n\nThe economist Robert J. Shiller defines narrative economics as:\n\nEpidemiology of narratives relevant to economic fluctuations. The human brain has al",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-narrative-economics"
+  },
+  {
+    "toc": [
+      {
+        "content": "Investing in crypto assets is a negative-sum game",
+        "slug": "investing-in-crypto-assets-is-a-negative-sum-game",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Investing in crypto assets is a negative-sum game\n\nInvesting in crypto assets is a negative sum game as defined in game theory and economics. Negative sum games result in a net loss across participant",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-negative-sum"
+  },
+  {
+    "toc": [
+      {
         "content": "Web3 is not a means to rebuild the global financial system.",
         "slug": "web3-is-not-a-means-to-rebuild-the-global-financial-system",
         "lvl": 1,
@@ -695,6 +731,63 @@
     "sectionTitle": "Claims",
     "isIndex": false,
     "slug": "/claims/is-new-financial-system"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto is not building a new internet",
+        "slug": "crypto-is-not-building-a-new-internet",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Crypto is not building a new internet\n\nThe meme of a \"new internet\" is a consistent and persistent marketing term that has always existed in technology, to the point where the term itself is widely co",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-new-internet"
+  },
+  {
+    "toc": [
+      {
+        "content": "NFTs are not a net good for artists",
+        "slug": "nfts-are-not-a-net-good-for-artists",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "External References",
+        "slug": "external-references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 4,
+    "excerpt": "NFTs are not a net good for artists\n\nThe economic structure of NFTs is almost identical to that of multilevel marketing schemes.  Both MLMs and NFTs share the same set of psychological tricks to creat",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-nfts-artists"
   },
   {
     "toc": [
@@ -779,10 +872,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Crypto is not a sustainable way to fund public goods",
+    "excerpt": "Crypto is not a sustainable way to fund public goods\n\nReferences",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -806,8 +906,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
-    "excerpt": "Can I do a crowdfunded equity raise for my company?\n\nReferences",
+    "readingTime": 2,
+    "excerpt": "Can I do a crowdfunded equity raise for my company?\n\nRaising money for a common venture is a regulated as a security sale in the United States. Raising money under a SAFT or selling tokens as a proxy ",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -822,15 +922,47 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Can I raise money for my non-profit using crypto tokens?",
+    "excerpt": "Can I raise money for my non-profit using crypto tokens?\n\nReferences",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
     "slug": "/claims/is-raise-nonprofit"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto assets pose a risk to the state",
+        "slug": "crypto-assets-pose-a-risk-to-the-state",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Crypto assets pose a risk to the state\n\nCrypto assets exist for a single purpose: regulatory arbitrage. Effectively to undermine the rule of law and circumvent controls that nation states have put in ",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-risk-to-state"
   },
   {
     "toc": [
@@ -860,145 +992,6 @@
   {
     "toc": [
       {
-        "content": "What is the narrative economics of crypto assets?",
-        "slug": "what-is-the-narrative-economics-of-crypto-assets",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "Narrative Claims",
-        "slug": "narrative-claims",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      }
-    ],
-    "readingTime": 6,
-    "excerpt": "What is the narrative economics of crypto assets?\n\nThe economist Robert J. Shiller defines narrative economics as:\n\nEpidemiology of narratives relevant to economic fluctuations. The human brain has al",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/narrative-economics"
-  },
-  {
-    "toc": [
-      {
-        "content": "Investing in crypto assets is a negative-sum game",
-        "slug": "investing-in-crypto-assets-is-a-negative-sum-game",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Investing in crypto assets is a negative-sum game\n\nInvesting in crypto assets is a negative sum game as defined in game theory and economics. Negative sum games result in a net loss across participant",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/negative-sum"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto is not building a new internet",
-        "slug": "crypto-is-not-building-a-new-internet",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Crypto is not building a new internet\n\nThe meme of a \"new internet\" is a consistent and persistent marketing term that has always existed in technology, to the point where the term itself is widely co",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/new-internet"
-  },
-  {
-    "toc": [
-      {
-        "content": "NFTs are not a net good for artists",
-        "slug": "nfts-are-not-a-net-good-for-artists",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "External References",
-        "slug": "external-references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      }
-    ],
-    "readingTime": 4,
-    "excerpt": "NFTs are not a net good for artists\n\nThe economic structure of NFTs is almost identical to that of multilevel marketing schemes.  Both MLMs and NFTs share the same set of psychological tricks to creat",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/nfts-artists"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto assets pose a risk to the state",
-        "slug": "crypto-assets-pose-a-risk-to-the-state",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Crypto assets pose a risk to the state\n\nCrypto assets exist for a single purpose: regulatory arbitrage. Effectively to undermine the rule of law and circumvent controls that nation states have put in ",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/risk-to-state"
-  },
-  {
-    "toc": [
-      {
         "content": "Bitcoin does not threaten the US dollar as reserve currency",
         "slug": "bitcoin-does-not-threaten-the-us-dollar-as-reserve-currency",
         "lvl": 1,
@@ -1019,7 +1012,7 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/threaten-dollar"
+    "slug": "/claims/is-threat-dollar"
   },
   {
     "toc": [
@@ -1039,137 +1032,12 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "An unregulated transnational payment is not desirable\n\nThe stated aspirations of some crypto projects is to build a global transnational payment system which is censorship resistant against nation sta",
+    "excerpt": "An unregulated transnational payment is not desirable\n\nThe stated aspirations of some crypto projects is to build a global supranational payment system which is censorship resistant against nation sta",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/transnational-payment"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto assets do not have a verifiable valuation model",
-        "slug": "crypto-assets-do-not-have-a-verifiable-valuation-model",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Crypto assets do not have a verifiable valuation model\n\nCrypto tokens have no reliable valuation method. It is not possible to develop a theoretical value for a crypto token because there is no demand",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/valuation-model"
-  },
-  {
-    "toc": [
-      {
-        "content": "Web3 is not decentralized",
-        "slug": "web3-is-not-decentralized",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Web3 is not decentralized\n\nIn all scenarios web3 still requires central parties for its technical operation and simply involves recentralization of services that already exist. Since web3 is centraliz",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/web3-decentralized"
-  },
-  {
-    "toc": [
-      {
-        "content": "Is Web3 green?",
-        "slug": "is-web3-green",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 1,
-    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nSee also ESG investing and crypto, environmental-footprint an",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/web3-green"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto has a weird subculture",
-        "slug": "crypto-has-a-weird-subculture",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 6,
-    "excerpt": "Crypto has a weird subculture\n\nThe crypto subculture is an example of a self-organizing high control group whose existence organically creates a market mania, bubble and narrative economics that entic",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/weird-culture"
-  },
-  {
-    "toc": [
-      {
-        "content": "Web3 is not well-defined",
-        "slug": "web3-is-not-well-defined",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Web3 is not well-defined\n\nWeb3 does not have any universally agreed upon definition.\n\nWeb3 has been accused of becoming an intellectual nexus for many internet \"thought leaders\" to pontificate about g",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/well-defined"
+    "slug": "/claims/is-transnational-payment"
   },
   {
     "toc": [
@@ -1201,7 +1069,132 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/what-type-of-asset"
+    "slug": "/claims/is-type-of-asset"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto assets do not have a verifiable valuation model",
+        "slug": "crypto-assets-do-not-have-a-verifiable-valuation-model",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Crypto assets do not have a verifiable valuation model\n\nCrypto tokens have no reliable valuation method. It is not possible to develop a theoretical value for a crypto token because there is no demand",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-valuation-model"
+  },
+  {
+    "toc": [
+      {
+        "content": "Web3 is not decentralized",
+        "slug": "web3-is-not-decentralized",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Web3 is not decentralized\n\nIn all scenarios web3 still requires central parties for its technical operation and simply involves recentralization of services that already exist. Since web3 is centraliz",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-web3-decentralized"
+  },
+  {
+    "toc": [
+      {
+        "content": "Is Web3 green?",
+        "slug": "is-web3-green",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nSee also ESG investing and crypto, is-environmental-footprint",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-web3-green"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto has a weird subculture",
+        "slug": "crypto-has-a-weird-subculture",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 6,
+    "excerpt": "Crypto has a weird subculture\n\nThe crypto subculture is an example of a self-organizing high control group whose existence organically creates a market mania, bubble and narrative economics that entic",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-weird-culture"
+  },
+  {
+    "toc": [
+      {
+        "content": "Web3 is not well-defined",
+        "slug": "web3-is-not-well-defined",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Web3 is not well-defined\n\nWeb3 does not have any universally agreed upon definition.\n\nWeb3 has been criticised as being an intentionally ambiguous buzzword.\n\nWeb3 has also been accused of becoming an ",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-well-defined"
   },
   {
     "toc": [
@@ -1226,7 +1219,7 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/why-invest"
+    "slug": "/claims/is-why-invest"
   },
   {
     "toc": [
@@ -1309,6 +1302,73 @@
   {
     "toc": [
       {
+        "content": "The Aspirations and Claims of Crypto & Web3",
+        "slug": "the-aspirations-and-claims-of-crypto--web3",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Better Economy",
+        "slug": "better-economy",
+        "lvl": 4,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Better Society / Financial Inclusion",
+        "slug": "better-society--financial-inclusion",
+        "lvl": 4,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Financial Liberty",
+        "slug": "financial-liberty",
+        "lvl": 4,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Solving Public Goods Problems",
+        "slug": "solving-public-goods-problems",
+        "lvl": 4,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Financial Innovation",
+        "slug": "financial-innovation",
+        "lvl": 4,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Creative Destruction",
+        "slug": "creative-destruction",
+        "lvl": 4,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Taxonomy of Aspirations and Claims",
+        "slug": "taxonomy-of-aspirations-and-claims",
+        "lvl": 2,
+        "i": 7,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "The Aspirations and Claims of Crypto & Web3\n\nExplore crypto and \"web3\" in terms of the claims made about it. These subclaims fall into six categories about different aspects of either technical, finan",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": true,
+    "slug": "/claims"
+  },
+  {
+    "toc": [
+      {
         "content": "Bitcoin is not a means to counter authoritarian regimes",
         "slug": "bitcoin-is-not-a-means-to-counter-authoritarian-regimes",
         "lvl": 1,
@@ -1329,253 +1389,7 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/authoritarianism"
-  },
-  {
-    "toc": [
-      {
-        "content": "Is bitcoin compatible with ESG investing?",
-        "slug": "is-bitcoin-compatible-with-esg-investing",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Is bitcoin compatible with ESG investing?\n\nESG stands for Environmental, Social, and Governance. It is part of a larger global trend where investors are increasingly using non-financial factors as par",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/bitcoin-esg"
-  },
-  {
-    "toc": [
-      {
-        "content": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?",
-        "slug": "is-the-underlying-technology-of-blockchain-useful-for-non-monetary-purposes",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?\n\nBlockchain technology, detached from the sale of tokens or crypto assets a has shown no track record of providing benefi",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/blockchain-tech"
-  },
-  {
-    "toc": [
-      {
-        "content": "What consumer protections exist for crypto assets?",
-        "slug": "what-consumer-protections-exist-for-crypto-assets",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "Risk Factors",
-        "slug": "risk-factors",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      }
-    ],
-    "readingTime": 4,
-    "excerpt": "What consumer protections exist for crypto assets?\n\nThere are little to no consumer protections for investing in crypto assets. This depends on jurisdiction but even in countries with advanced economi",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/consumer-protections"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto is not a solution for the unbanked",
-        "slug": "crypto-is-not-a-solution-for-the-unbanked",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Crypto is not a solution for the unbanked\n\nCrypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency therefore it is unusable as a scaleable means ",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/crypto-unbanked"
-  },
-  {
-    "toc": [
-      {
-        "content": "Bitcoin is not the basis for a new gold standard",
-        "slug": "bitcoin-is-not-the-basis-for-a-new-gold-standard",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Bitcoin is not the basis for a new gold standard\n\nThe neo-metallist claim is that bitcoin can operate as a new asset class which exhibits similar financial properties to gold.  The strong version of t",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/digital-gold"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto Mining is Harmful to the Environment",
-        "slug": "crypto-mining-is-harmful-to-the-environment",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 10,
-    "excerpt": "Crypto Mining is Harmful to the Environment\n\nBitcoin mining is enormously harmful to the environment, the design of the Proof of Work (PoW) consensus algorithm is energy wasteful as part of its design",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/environmental-footprint"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto assets are not a hedge against the \"debasement\" of the dollar",
-        "slug": "crypto-assets-are-not-a-hedge-against-the-debasement-of-the-dollar",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Crypto assets are not a hedge against the \"debasement\" of the dollar\n\nCrypto assets are not a hedge against the \"debasement\" of the dollar. This thesis is predicated on an Austrian economics reading o",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/hedge-debasement"
-  },
-  {
-    "toc": [
-      {
-        "content": "Are crypto assets a hedge against inflation?",
-        "slug": "are-crypto-assets-a-hedge-against-inflation",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Are crypto assets a hedge against inflation?\n\n Since crypto asset have no exposure to domestic commodities there is no evidence of anti-correlation with a basket of goods that would be inversely to th",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/hedge-inflation"
-  },
-  {
-    "toc": [
-      {
-        "content": "The Aspirations and Claims of Crypto & Web3",
-        "slug": "the-aspirations-and-claims-of-crypto--web3",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "Taxonomy of Aspirations and Claims",
-        "slug": "taxonomy-of-aspirations-and-claims",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "TODO",
-        "slug": "todo",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      },
-      {
-        "content": "Subclaims",
-        "slug": "subclaims",
-        "lvl": 2,
-        "i": 3,
-        "seen": 0
-      }
-    ],
-    "readingTime": 1,
-    "excerpt": "The Aspirations and Claims of Crypto & Web3\n\nWhat are the key high level problems, aspirations and hopes that crypto & web3 movement speaks to?\nWhat are the specific claims made for crypto & web3?\nWha",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": true,
-    "slug": "/claims"
+    "slug": "/claims/is-authoritarianism"
   },
   {
     "toc": [
@@ -1630,6 +1444,56 @@
   {
     "toc": [
       {
+        "content": "Is bitcoin compatible with ESG investing?",
+        "slug": "is-bitcoin-compatible-with-esg-investing",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Is bitcoin compatible with ESG investing?\n\nESG stands for Environmental, Social, and Governance. It is part of a larger global trend where investors are increasingly using non-financial factors as par",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-bitcoin-esg"
+  },
+  {
+    "toc": [
+      {
+        "content": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?",
+        "slug": "is-the-underlying-technology-of-blockchain-useful-for-non-monetary-purposes",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?\n\nBlockchain technology, detached from the sale of tokens or crypto assets a has shown no track record of providing benefi",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-blockchain-tech"
+  },
+  {
+    "toc": [
+      {
         "content": "Crypto assets are a bubble",
         "slug": "crypto-assets-are-a-bubble",
         "lvl": 1,
@@ -1680,6 +1544,88 @@
   {
     "toc": [
       {
+        "content": "What consumer protections exist for crypto assets?",
+        "slug": "what-consumer-protections-exist-for-crypto-assets",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Risk Factors",
+        "slug": "risk-factors",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 4,
+    "excerpt": "What consumer protections exist for crypto assets?\n\nThere are little to no consumer protections for investing in crypto assets. This depends on jurisdiction but even in countries with advanced economi",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-consumer-protections"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto is not a solution for the unbanked",
+        "slug": "crypto-is-not-a-solution-for-the-unbanked",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Crypto is not a solution for the unbanked\n\nCrypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency therefore it is unusable as a scaleable means ",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-crypto-unbanked"
+  },
+  {
+    "toc": [
+      {
+        "content": "Bitcoin is not the basis for a new gold standard",
+        "slug": "bitcoin-is-not-the-basis-for-a-new-gold-standard",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Bitcoin is not the basis for a new gold standard\n\nThe neo-metallist claim is that bitcoin can operate as a new asset class which exhibits similar financial properties to gold.  The strong version of t",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-digital-gold"
+  },
+  {
+    "toc": [
+      {
         "content": "Is web3 a means to dismantle the American tech hegemony?",
         "slug": "is-web3-a-means-to-dismantle-the-american-tech-hegemony",
         "lvl": 1,
@@ -1701,6 +1647,31 @@
     "sectionTitle": "Claims",
     "isIndex": false,
     "slug": "/claims/is-disrupt-hegemony"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto Mining is Harmful to the Environment",
+        "slug": "crypto-mining-is-harmful-to-the-environment",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 10,
+    "excerpt": "Crypto Mining is Harmful to the Environment\n\nBitcoin mining is enormously harmful to the environment, the design of the Proof of Work (PoW) consensus algorithm is energy wasteful as part of its design",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-environmental-footprint"
   },
   {
     "toc": [
@@ -1730,6 +1701,56 @@
   {
     "toc": [
       {
+        "content": "Crypto assets are not a hedge against the \"debasement\" of the dollar",
+        "slug": "crypto-assets-are-not-a-hedge-against-the-debasement-of-the-dollar",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Crypto assets are not a hedge against the \"debasement\" of the dollar\n\nCrypto assets are not a hedge against the \"debasement\" of the dollar. This thesis is predicated on an Austrian economics reading o",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-hedge-debasement"
+  },
+  {
+    "toc": [
+      {
+        "content": "Are crypto assets a hedge against inflation?",
+        "slug": "are-crypto-assets-a-hedge-against-inflation",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Are crypto assets a hedge against inflation?\n\n Since crypto asset have no exposure to domestic commodities there is no evidence of anti-correlation with a basket of goods that would be inversely to th",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-hedge-inflation"
+  },
+  {
+    "toc": [
+      {
         "content": "Is crypto bringing about the \"financialization of everything\"?",
         "slug": "is-crypto-bringing-about-the-financialization-of-everything",
         "lvl": 1,
@@ -1744,8 +1765,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 5,
-    "excerpt": "Is crypto bringing about the \"financialization of everything\"?\n\nThe purpose of NFTs and crypto projects generally is to further expand the scope artificial scarcity, enclosure and financialize greater",
+    "readingTime": 4,
+    "excerpt": "Is crypto bringing about the \"financialization of everything\"?\n\nThe purpose of NFTs and crypto projects generally is to further expand the scope artificial scarcity, enclose and financialize greater p",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -1780,6 +1801,63 @@
   {
     "toc": [
       {
+        "content": "What is the narrative economics of crypto assets?",
+        "slug": "what-is-the-narrative-economics-of-crypto-assets",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Narrative Claims",
+        "slug": "narrative-claims",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 6,
+    "excerpt": "What is the narrative economics of crypto assets?\n\nThe economist Robert J. Shiller defines narrative economics as:\n\nEpidemiology of narratives relevant to economic fluctuations. The human brain has al",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-narrative-economics"
+  },
+  {
+    "toc": [
+      {
+        "content": "Investing in crypto assets is a negative-sum game",
+        "slug": "investing-in-crypto-assets-is-a-negative-sum-game",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Investing in crypto assets is a negative-sum game\n\nInvesting in crypto assets is a negative sum game as defined in game theory and economics. Negative sum games result in a net loss across participant",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-negative-sum"
+  },
+  {
+    "toc": [
+      {
         "content": "Web3 is not a means to rebuild the global financial system.",
         "slug": "web3-is-not-a-means-to-rebuild-the-global-financial-system",
         "lvl": 1,
@@ -1801,6 +1879,63 @@
     "sectionTitle": "Claims",
     "isIndex": false,
     "slug": "/claims/is-new-financial-system"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto is not building a new internet",
+        "slug": "crypto-is-not-building-a-new-internet",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Crypto is not building a new internet\n\nThe meme of a \"new internet\" is a consistent and persistent marketing term that has always existed in technology, to the point where the term itself is widely co",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-new-internet"
+  },
+  {
+    "toc": [
+      {
+        "content": "NFTs are not a net good for artists",
+        "slug": "nfts-are-not-a-net-good-for-artists",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "External References",
+        "slug": "external-references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 4,
+    "excerpt": "NFTs are not a net good for artists\n\nThe economic structure of NFTs is almost identical to that of multilevel marketing schemes.  Both MLMs and NFTs share the same set of psychological tricks to creat",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-nfts-artists"
   },
   {
     "toc": [
@@ -1885,10 +2020,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Crypto is not a sustainable way to fund public goods",
+    "excerpt": "Crypto is not a sustainable way to fund public goods\n\nReferences",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -1912,8 +2054,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
-    "excerpt": "Can I do a crowdfunded equity raise for my company?\n\nReferences",
+    "readingTime": 2,
+    "excerpt": "Can I do a crowdfunded equity raise for my company?\n\nRaising money for a common venture is a regulated as a security sale in the United States. Raising money under a SAFT or selling tokens as a proxy ",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -1928,15 +2070,47 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Can I raise money for my non-profit using crypto tokens?",
+    "excerpt": "Can I raise money for my non-profit using crypto tokens?\n\nReferences",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
     "slug": "/claims/is-raise-nonprofit"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto assets pose a risk to the state",
+        "slug": "crypto-assets-pose-a-risk-to-the-state",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Crypto assets pose a risk to the state\n\nCrypto assets exist for a single purpose: regulatory arbitrage. Effectively to undermine the rule of law and circumvent controls that nation states have put in ",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-risk-to-state"
   },
   {
     "toc": [
@@ -1966,145 +2140,6 @@
   {
     "toc": [
       {
-        "content": "What is the narrative economics of crypto assets?",
-        "slug": "what-is-the-narrative-economics-of-crypto-assets",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "Narrative Claims",
-        "slug": "narrative-claims",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      }
-    ],
-    "readingTime": 6,
-    "excerpt": "What is the narrative economics of crypto assets?\n\nThe economist Robert J. Shiller defines narrative economics as:\n\nEpidemiology of narratives relevant to economic fluctuations. The human brain has al",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/narrative-economics"
-  },
-  {
-    "toc": [
-      {
-        "content": "Investing in crypto assets is a negative-sum game",
-        "slug": "investing-in-crypto-assets-is-a-negative-sum-game",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Investing in crypto assets is a negative-sum game\n\nInvesting in crypto assets is a negative sum game as defined in game theory and economics. Negative sum games result in a net loss across participant",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/negative-sum"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto is not building a new internet",
-        "slug": "crypto-is-not-building-a-new-internet",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Crypto is not building a new internet\n\nThe meme of a \"new internet\" is a consistent and persistent marketing term that has always existed in technology, to the point where the term itself is widely co",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/new-internet"
-  },
-  {
-    "toc": [
-      {
-        "content": "NFTs are not a net good for artists",
-        "slug": "nfts-are-not-a-net-good-for-artists",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "External References",
-        "slug": "external-references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      }
-    ],
-    "readingTime": 4,
-    "excerpt": "NFTs are not a net good for artists\n\nThe economic structure of NFTs is almost identical to that of multilevel marketing schemes.  Both MLMs and NFTs share the same set of psychological tricks to creat",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/nfts-artists"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto assets pose a risk to the state",
-        "slug": "crypto-assets-pose-a-risk-to-the-state",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Crypto assets pose a risk to the state\n\nCrypto assets exist for a single purpose: regulatory arbitrage. Effectively to undermine the rule of law and circumvent controls that nation states have put in ",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/risk-to-state"
-  },
-  {
-    "toc": [
-      {
         "content": "Bitcoin does not threaten the US dollar as reserve currency",
         "slug": "bitcoin-does-not-threaten-the-us-dollar-as-reserve-currency",
         "lvl": 1,
@@ -2125,7 +2160,7 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/threaten-dollar"
+    "slug": "/claims/is-threat-dollar"
   },
   {
     "toc": [
@@ -2145,137 +2180,12 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "An unregulated transnational payment is not desirable\n\nThe stated aspirations of some crypto projects is to build a global transnational payment system which is censorship resistant against nation sta",
+    "excerpt": "An unregulated transnational payment is not desirable\n\nThe stated aspirations of some crypto projects is to build a global supranational payment system which is censorship resistant against nation sta",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/transnational-payment"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto assets do not have a verifiable valuation model",
-        "slug": "crypto-assets-do-not-have-a-verifiable-valuation-model",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Crypto assets do not have a verifiable valuation model\n\nCrypto tokens have no reliable valuation method. It is not possible to develop a theoretical value for a crypto token because there is no demand",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/valuation-model"
-  },
-  {
-    "toc": [
-      {
-        "content": "Web3 is not decentralized",
-        "slug": "web3-is-not-decentralized",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Web3 is not decentralized\n\nIn all scenarios web3 still requires central parties for its technical operation and simply involves recentralization of services that already exist. Since web3 is centraliz",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/web3-decentralized"
-  },
-  {
-    "toc": [
-      {
-        "content": "Is Web3 green?",
-        "slug": "is-web3-green",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 1,
-    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nSee also ESG investing and crypto, environmental-footprint an",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/web3-green"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto has a weird subculture",
-        "slug": "crypto-has-a-weird-subculture",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 6,
-    "excerpt": "Crypto has a weird subculture\n\nThe crypto subculture is an example of a self-organizing high control group whose existence organically creates a market mania, bubble and narrative economics that entic",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/weird-culture"
-  },
-  {
-    "toc": [
-      {
-        "content": "Web3 is not well-defined",
-        "slug": "web3-is-not-well-defined",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Web3 is not well-defined\n\nWeb3 does not have any universally agreed upon definition.\n\nWeb3 has been accused of becoming an intellectual nexus for many internet \"thought leaders\" to pontificate about g",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/well-defined"
+    "slug": "/claims/is-transnational-payment"
   },
   {
     "toc": [
@@ -2307,7 +2217,132 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/what-type-of-asset"
+    "slug": "/claims/is-type-of-asset"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto assets do not have a verifiable valuation model",
+        "slug": "crypto-assets-do-not-have-a-verifiable-valuation-model",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Crypto assets do not have a verifiable valuation model\n\nCrypto tokens have no reliable valuation method. It is not possible to develop a theoretical value for a crypto token because there is no demand",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-valuation-model"
+  },
+  {
+    "toc": [
+      {
+        "content": "Web3 is not decentralized",
+        "slug": "web3-is-not-decentralized",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Web3 is not decentralized\n\nIn all scenarios web3 still requires central parties for its technical operation and simply involves recentralization of services that already exist. Since web3 is centraliz",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-web3-decentralized"
+  },
+  {
+    "toc": [
+      {
+        "content": "Is Web3 green?",
+        "slug": "is-web3-green",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nSee also ESG investing and crypto, is-environmental-footprint",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-web3-green"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto has a weird subculture",
+        "slug": "crypto-has-a-weird-subculture",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 6,
+    "excerpt": "Crypto has a weird subculture\n\nThe crypto subculture is an example of a self-organizing high control group whose existence organically creates a market mania, bubble and narrative economics that entic",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-weird-culture"
+  },
+  {
+    "toc": [
+      {
+        "content": "Web3 is not well-defined",
+        "slug": "web3-is-not-well-defined",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Web3 is not well-defined\n\nWeb3 does not have any universally agreed upon definition.\n\nWeb3 has been criticised as being an intentionally ambiguous buzzword.\n\nWeb3 has also been accused of becoming an ",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-well-defined"
   },
   {
     "toc": [
@@ -2332,7 +2367,7 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/why-invest"
+    "slug": "/claims/is-why-invest"
   },
   {
     "title": "Concepts",
@@ -2399,28 +2434,21 @@
         "seen": 0
       },
       {
-        "content": "Examples",
-        "slug": "examples",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "Uniswap",
         "slug": "uniswap",
         "lvl": 3,
-        "i": 2,
+        "i": 1,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 3,
+        "i": 2,
         "seen": 0
       }
     ],
-    "readingTime": 4,
+    "readingTime": 5,
     "excerpt": "Automated Market Maker\n\nAutomated Market Maker or (AMM) is an algorithmic platform for trading.\n\nFrom https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm:\n\nYou could think of",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -2485,6 +2513,13 @@
         "slug": "artificial-demand",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -2596,6 +2631,13 @@
         "slug": "bandwagon-bias",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -3082,7 +3124,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Collateralization\n\nReferences",
+    "excerpt": "Collateralization\n\nIn finance, collateral is a borrower's commitment of property to a lender as a means to secure against counterparty risk and ensure repayment of a loan.\n\nOvercollateralization is us",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -3302,17 +3344,10 @@
         "seen": 0
       },
       {
-        "content": "Examples",
-        "slug": "examples",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -3474,7 +3509,7 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "Decentralized Finance (DeFi)\n\nDefi is a broad category of smart contracts which loosely correspond to digital investment schemes running on a blockchain which allow users to create over-collateralized",
+    "excerpt": "Decentralized Finance (DeFi)\n\nDefi is a broad category of smart contracts which loosely correspond to digital investment schemes running on a blockchain which allow users to create overcollateralized ",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -3591,15 +3626,15 @@
         "seen": 0
       },
       {
-        "content": "Limitations",
-        "slug": "limitations",
+        "content": "References",
+        "slug": "references",
         "lvl": 2,
         "i": 1,
         "seen": 0
       }
     ],
-    "readingTime": 1,
-    "excerpt": "Decentralized Exchange\n\nOrder-book based but peer-to-peer transactions (i.e. without market makers). This contrasts with AMM (automated market makers) who don't have an order book.\n\nLimitations\n\nFrom ",
+    "readingTime": 2,
+    "excerpt": "Decentralized Exchange\n\nA form of market making done via a smart-contracts. In this setup the order-book is based on peer-to-peer transactions instead of through a central party like a crypto exchange",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -3703,10 +3738,17 @@
         "lvl": 2,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Enclosure\n\nSee also market manipulation, public goods problem and free rider problem.",
+    "excerpt": "Enclosure\n\nHistorically enclosure referred to the feudal appropriation of common land or public goods by a cartel or nobility. In modern terms it refers to the process by which businesses corner a mar",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -3823,6 +3865,77 @@
   {
     "toc": [
       {
+        "content": "Externalities",
+        "slug": "externalities",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Environmental",
+        "slug": "environmental",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Legal",
+        "slug": "legal",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Financial Risk",
+        "slug": "financial-risk",
+        "lvl": 2,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Social Problems",
+        "slug": "social-problems",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Externalities\n\nThe problems with crypto assets fall into several categories.\n\nEnvironmental\n\nCrypto investments that use proof of work have an absurd environmental footprint.\nCrypto investments waste ",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/externalities"
+  },
+  {
+    "toc": [
+      {
+        "content": "Fiat Money",
+        "slug": "fiat-money",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Fiat Money\n\nThe contemporary monetary system where money is issued by the state via a central bank without any backing by physical commodities such as precious metals. The prefix \"Fiat\" money is an es",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/fiat-money"
+  },
+  {
+    "toc": [
+      {
         "content": "Fictitious commodities",
         "slug": "fictitious-commodities",
         "lvl": 1,
@@ -3910,10 +4023,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Free Rider Problem\n\nThe use of public goods by parties who do not contribute to their creation or upkeep while still extracting value from the service or good.\n\nSee also public goods problem.",
+    "excerpt": "Free Rider Problem\n\nThe use of public goods by parties who do not contribute to their creation or upkeep while still extracting value from the service or good.\n\nSee also public goods problem.\n\nReferen",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -4005,22 +4125,15 @@
         "seen": 0
       },
       {
-        "content": "Criticisms",
-        "slug": "criticisms",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "Essays",
         "slug": "essays",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
     "readingTime": 2,
-    "excerpt": "Gold Standard\n\nA monetary standard for a currency based on precious metal commodities, espoused as sound money in Austrian economics.\n\nCriticisms\n\nVery few mainstream economists believe the gold stand",
+    "excerpt": "Gold Standard\n\nA monetary standard for a currency based on precious metal commodities, espoused as sound money in Austrian economics.\n\nVery few mainstream economists believe the gold standard to be a ",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -4077,7 +4190,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Governance Token\n\nA bearer instrument token which grants holders of the token the capacity to \"vote\" in a smart-contracts implementation of a DAO or other DeFi protocol.\n\nGovernance tokens are imitati",
+    "excerpt": "Governance Token\n\nA bearer instrument token which grants holders of the token the capacity to \"vote\" in a smart contracts implementation of a DAO or other DeFi protocol.\n\nGovernance tokens are imitati",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -4626,7 +4739,7 @@
       }
     ],
     "readingTime": 2,
-    "excerpt": "Market Manipulation\n\nManipulation of price-formation and the natural operation of a market. Can be performed by both market makers and cartels.\n\nFront Running\n\nUsing inside information about future or",
+    "excerpt": "Market Manipulation\n\nManipulation of price formation and the natural operation of a market. Can be performed by both market makers and cartels.\n\nFront Running\n\nUsing inside information about future or",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -4776,7 +4889,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Mining\n\nThe technical process of confirming transactions in a blockchain using the proof of work consensus-algorithm. Mining is typically centralized by companies known as mining pools which pool phys",
+    "excerpt": "Mining\n\nThe technical process of confirming transactions in a blockchain using the proof of work consensus algorithm. Mining is typically centralized by companies known as mining pools which pool phys",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -4893,17 +5006,10 @@
         "seen": 0
       },
       {
-        "content": "Qualities",
-        "slug": "qualities",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -4983,7 +5089,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Narrative Economics\n\nReferences\n\nShiller, Robert J. 2017. ‘Narrative Economics’. American Economic Review 107 (4): 967–1004.",
+    "excerpt": "Narrative Economics\n\nThe study of the spread and dynamics of popular narratives, the stories, particularly those of human interest and emotion, and how these change through time, to understand economi",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -5270,6 +5376,31 @@
   {
     "toc": [
       {
+        "content": "Ponzinomics",
+        "slug": "ponzinomics",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Ponzinomics\n\nA portmanteau of Ponzi scheme and economics. A term commonly used to describe crypto asset investment schemes which are is-negative-sum investments which exist to enrich a pool of insider",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/ponzinomics"
+  },
+  {
+    "toc": [
+      {
         "content": "Post-state Technocracy",
         "slug": "post-state-technocracy",
         "lvl": 1,
@@ -5530,6 +5661,56 @@
   {
     "toc": [
       {
+        "content": "Proof of Stake",
+        "slug": "proof-of-stake",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Proof of Stake\n\nA type of work function used in blockchain consensus algorithms that involves network participants staking an amount of a cryptoasset which grants them a probabilistic chance to confir",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/proof-of-stake"
+  },
+  {
+    "toc": [
+      {
+        "content": "Proof of Work",
+        "slug": "proof-of-work",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Proof of Work\n\nA type of work function used in blockchain consensus algorithms that involves a race to solve to invert a function to find a specific number which is added to a block of transactions to",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/proof-of-work"
+  },
+  {
+    "toc": [
+      {
         "content": "Pseudonymous",
         "slug": "pseudonymous",
         "lvl": 1,
@@ -5559,6 +5740,13 @@
         "slug": "public-goods-problem",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -5659,6 +5847,13 @@
         "slug": "properties",
         "lvl": 2,
         "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
         "seen": 0
       }
     ],
@@ -6740,105 +6935,56 @@
         "seen": 0
       },
       {
-        "content": "Claims",
-        "slug": "claims",
-        "lvl": 3,
-        "i": 2,
-        "seen": 0
-      },
-      {
-        "content": "Better Economy",
-        "slug": "better-economy",
-        "lvl": 4,
-        "i": 3,
-        "seen": 0
-      },
-      {
-        "content": "Better Society / Financial Inclusion",
-        "slug": "better-society--financial-inclusion",
-        "lvl": 4,
-        "i": 4,
-        "seen": 0
-      },
-      {
-        "content": "Financial Liberty",
-        "slug": "financial-liberty",
-        "lvl": 4,
-        "i": 5,
-        "seen": 0
-      },
-      {
-        "content": "Solving Public Goods Problems",
-        "slug": "solving-public-goods-problems",
-        "lvl": 4,
-        "i": 6,
-        "seen": 0
-      },
-      {
-        "content": "Financial Innovation",
-        "slug": "financial-innovation",
-        "lvl": 4,
-        "i": 7,
-        "seen": 0
-      },
-      {
-        "content": "Creative Destruction",
-        "slug": "creative-destruction",
-        "lvl": 4,
-        "i": 8,
-        "seen": 0
-      },
-      {
         "content": "Contextual",
         "slug": "contextual",
         "lvl": 2,
-        "i": 9,
+        "i": 2,
         "seen": 0
       },
       {
         "content": "Ideologies",
         "slug": "ideologies",
         "lvl": 2,
-        "i": 10,
+        "i": 3,
         "seen": 0
       },
       {
         "content": "Supporting Concepts",
         "slug": "supporting-concepts",
         "lvl": 2,
-        "i": 11,
+        "i": 4,
         "seen": 0
       },
       {
         "content": "Economics",
         "slug": "economics",
         "lvl": 4,
-        "i": 12,
+        "i": 5,
         "seen": 0
       },
       {
         "content": "Technology",
         "slug": "technology",
         "lvl": 4,
-        "i": 13,
+        "i": 6,
         "seen": 0
       },
       {
         "content": "Regulation",
         "slug": "regulation",
         "lvl": 4,
-        "i": 14,
+        "i": 7,
         "seen": 0
       },
       {
         "content": "Sociology",
         "slug": "sociology",
         "lvl": 4,
-        "i": 15,
+        "i": 8,
         "seen": 0
       }
     ],
-    "readingTime": 5,
+    "readingTime": 3,
     "excerpt": "Introduction\n\nThis page serves as a root from which all other topics branch and can be explored. \n\nKey Concepts\n\nUnderstand the terminology used to describe crypto and web3.\n\nWeb3\nCrypto asset\nBitcoin",
     "sectionSlug": "/guide",
     "sectionWeight": 0,
@@ -7044,6 +7190,80 @@
   {
     "toc": [
       {
+        "content": "Fintech Incrementalism and Responsible Innovation",
+        "slug": "fintech-incrementalism-and-responsible-innovation",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Episode Notes",
+        "slug": "episode-notes",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Summary",
+        "slug": "summary",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Fintech Incrementalism",
+        "slug": "fintech-incrementalism",
+        "lvl": 2,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Steel manning the fintech incrementalist position",
+        "slug": "steel-manning-the-fintech-incrementalist-position",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Evaluating the position",
+        "slug": "evaluating-the-position",
+        "lvl": 2,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Conclusion",
+        "slug": "conclusion",
+        "lvl": 2,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Concepts Covered",
+        "slug": "concepts-covered",
+        "lvl": 2,
+        "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 8,
+        "seen": 0
+      }
+    ],
+    "readingTime": 16,
+    "excerpt": "Fintech Incrementalism and Responsible Innovation\n\nIn episode #5 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl explore the claim that blockchain can be a vehicle for i",
+    "sectionSlug": "/notes",
+    "sectionWeight": 0,
+    "sectionTitle": "Notes",
+    "isIndex": false,
+    "slug": "/notes/fintech-incrementalism-and-responsible-innovation"
+  },
+  {
+    "toc": [
+      {
         "content": "Market Fundamentalism",
         "slug": "market-fundamentalism",
         "lvl": 1,
@@ -7114,7 +7334,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 10,
+    "readingTime": 11,
     "excerpt": "Market Fundamentalism\n\nIn episode #2 of the series, Rufus Pollock and Stephen Diehl explore a common incentive for investing in crypto: the belief - held by day traders and quantitative hedge funds al",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
@@ -7202,8 +7422,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 13,
-    "excerpt": "Neo-Metallism\n\nIn episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on bitcoin and the concept of \"digital\" gold.\n\nYoutube",
+    "readingTime": 15,
+    "excerpt": "Neo-Metallism\n\nIn episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on Bitcoin and the concept of \"digital\" gold.\n\nYoutube",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",
@@ -7413,7 +7633,7 @@
   {
     "toc": [
       {
-        "content": "Post-state Technocracy",
+        "content": "Post-State Technocracy",
         "slug": "post-state-technocracy",
         "lvl": 1,
         "i": 0,
@@ -7427,8 +7647,8 @@
         "seen": 0
       },
       {
-        "content": "Preface",
-        "slug": "preface",
+        "content": "Summary",
+        "slug": "summary",
         "lvl": 2,
         "i": 2,
         "seen": 0
@@ -7441,36 +7661,50 @@
         "seen": 0
       },
       {
-        "content": "Pro",
-        "slug": "pro",
+        "content": "A Network State",
+        "slug": "a-network-state",
         "lvl": 2,
         "i": 4,
         "seen": 0
       },
       {
-        "content": "Critique",
-        "slug": "critique",
+        "content": "Steel-manning the position",
+        "slug": "steel-manning-the-position",
         "lvl": 2,
         "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Evaluating the position",
+        "slug": "evaluating-the-position",
+        "lvl": 2,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Conclusion",
+        "slug": "conclusion",
+        "lvl": 2,
+        "i": 7,
         "seen": 0
       },
       {
         "content": "Concepts Covered",
         "slug": "concepts-covered",
         "lvl": 2,
-        "i": 6,
+        "i": 8,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 7,
+        "i": 9,
         "seen": 0
       }
     ],
-    "readingTime": 13,
-    "excerpt": "Post-state Technocracy\n\nIn episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore t",
+    "readingTime": 14,
+    "excerpt": "Post-State Technocracy\n\nIn episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore t",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",
@@ -7574,6 +7808,37 @@
   {
     "toc": [
       {
+        "content": "Webinars",
+        "slug": "webinars",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Upcoming",
+        "slug": "upcoming",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Responsible Innovation: Cryptocurrency and the Regulatory Permimiter",
+        "slug": "responsible-innovation-cryptocurrency-and-the-regulatory-permimiter",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Webinars\n\nOur webinar series addresses the most significant, policy-relevant issues around web3 and blockchain. They provide an objective overview of the information needed for decision making in key ",
+    "sectionSlug": "/library",
+    "sectionWeight": 0,
+    "isIndex": false,
+    "slug": "/webinars"
+  },
+  {
+    "toc": [
+      {
         "content": "Making Sense of Web3",
         "slug": "making-sense-of-web3",
         "lvl": 1,
@@ -7652,6 +7917,73 @@
   {
     "toc": [
       {
+        "content": "The Aspirations and Claims of Crypto & Web3",
+        "slug": "the-aspirations-and-claims-of-crypto--web3",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Better Economy",
+        "slug": "better-economy",
+        "lvl": 4,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Better Society / Financial Inclusion",
+        "slug": "better-society--financial-inclusion",
+        "lvl": 4,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Financial Liberty",
+        "slug": "financial-liberty",
+        "lvl": 4,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Solving Public Goods Problems",
+        "slug": "solving-public-goods-problems",
+        "lvl": 4,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Financial Innovation",
+        "slug": "financial-innovation",
+        "lvl": 4,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Creative Destruction",
+        "slug": "creative-destruction",
+        "lvl": 4,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Taxonomy of Aspirations and Claims",
+        "slug": "taxonomy-of-aspirations-and-claims",
+        "lvl": 2,
+        "i": 7,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "The Aspirations and Claims of Crypto & Web3\n\nExplore crypto and \"web3\" in terms of the claims made about it. These subclaims fall into six categories about different aspects of either technical, finan",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": true,
+    "slug": "/claims"
+  },
+  {
+    "toc": [
+      {
         "content": "Bitcoin is not a means to counter authoritarian regimes",
         "slug": "bitcoin-is-not-a-means-to-counter-authoritarian-regimes",
         "lvl": 1,
@@ -7672,253 +8004,7 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/authoritarianism"
-  },
-  {
-    "toc": [
-      {
-        "content": "Is bitcoin compatible with ESG investing?",
-        "slug": "is-bitcoin-compatible-with-esg-investing",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Is bitcoin compatible with ESG investing?\n\nESG stands for Environmental, Social, and Governance. It is part of a larger global trend where investors are increasingly using non-financial factors as par",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/bitcoin-esg"
-  },
-  {
-    "toc": [
-      {
-        "content": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?",
-        "slug": "is-the-underlying-technology-of-blockchain-useful-for-non-monetary-purposes",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?\n\nBlockchain technology, detached from the sale of tokens or crypto assets a has shown no track record of providing benefi",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/blockchain-tech"
-  },
-  {
-    "toc": [
-      {
-        "content": "What consumer protections exist for crypto assets?",
-        "slug": "what-consumer-protections-exist-for-crypto-assets",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "Risk Factors",
-        "slug": "risk-factors",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      }
-    ],
-    "readingTime": 4,
-    "excerpt": "What consumer protections exist for crypto assets?\n\nThere are little to no consumer protections for investing in crypto assets. This depends on jurisdiction but even in countries with advanced economi",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/consumer-protections"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto is not a solution for the unbanked",
-        "slug": "crypto-is-not-a-solution-for-the-unbanked",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Crypto is not a solution for the unbanked\n\nCrypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency therefore it is unusable as a scaleable means ",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/crypto-unbanked"
-  },
-  {
-    "toc": [
-      {
-        "content": "Bitcoin is not the basis for a new gold standard",
-        "slug": "bitcoin-is-not-the-basis-for-a-new-gold-standard",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Bitcoin is not the basis for a new gold standard\n\nThe neo-metallist claim is that bitcoin can operate as a new asset class which exhibits similar financial properties to gold.  The strong version of t",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/digital-gold"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto Mining is Harmful to the Environment",
-        "slug": "crypto-mining-is-harmful-to-the-environment",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 10,
-    "excerpt": "Crypto Mining is Harmful to the Environment\n\nBitcoin mining is enormously harmful to the environment, the design of the Proof of Work (PoW) consensus algorithm is energy wasteful as part of its design",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/environmental-footprint"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto assets are not a hedge against the \"debasement\" of the dollar",
-        "slug": "crypto-assets-are-not-a-hedge-against-the-debasement-of-the-dollar",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Crypto assets are not a hedge against the \"debasement\" of the dollar\n\nCrypto assets are not a hedge against the \"debasement\" of the dollar. This thesis is predicated on an Austrian economics reading o",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/hedge-debasement"
-  },
-  {
-    "toc": [
-      {
-        "content": "Are crypto assets a hedge against inflation?",
-        "slug": "are-crypto-assets-a-hedge-against-inflation",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Are crypto assets a hedge against inflation?\n\n Since crypto asset have no exposure to domestic commodities there is no evidence of anti-correlation with a basket of goods that would be inversely to th",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/hedge-inflation"
-  },
-  {
-    "toc": [
-      {
-        "content": "The Aspirations and Claims of Crypto & Web3",
-        "slug": "the-aspirations-and-claims-of-crypto--web3",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "Taxonomy of Aspirations and Claims",
-        "slug": "taxonomy-of-aspirations-and-claims",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "TODO",
-        "slug": "todo",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      },
-      {
-        "content": "Subclaims",
-        "slug": "subclaims",
-        "lvl": 2,
-        "i": 3,
-        "seen": 0
-      }
-    ],
-    "readingTime": 1,
-    "excerpt": "The Aspirations and Claims of Crypto & Web3\n\nWhat are the key high level problems, aspirations and hopes that crypto & web3 movement speaks to?\nWhat are the specific claims made for crypto & web3?\nWha",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": true,
-    "slug": "/claims"
+    "slug": "/claims/is-authoritarianism"
   },
   {
     "toc": [
@@ -7973,6 +8059,56 @@
   {
     "toc": [
       {
+        "content": "Is bitcoin compatible with ESG investing?",
+        "slug": "is-bitcoin-compatible-with-esg-investing",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Is bitcoin compatible with ESG investing?\n\nESG stands for Environmental, Social, and Governance. It is part of a larger global trend where investors are increasingly using non-financial factors as par",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-bitcoin-esg"
+  },
+  {
+    "toc": [
+      {
+        "content": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?",
+        "slug": "is-the-underlying-technology-of-blockchain-useful-for-non-monetary-purposes",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Is the underlying technology of \"blockchain\" useful for non-monetary purposes?\n\nBlockchain technology, detached from the sale of tokens or crypto assets a has shown no track record of providing benefi",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-blockchain-tech"
+  },
+  {
+    "toc": [
+      {
         "content": "Crypto assets are a bubble",
         "slug": "crypto-assets-are-a-bubble",
         "lvl": 1,
@@ -8023,6 +8159,88 @@
   {
     "toc": [
       {
+        "content": "What consumer protections exist for crypto assets?",
+        "slug": "what-consumer-protections-exist-for-crypto-assets",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Risk Factors",
+        "slug": "risk-factors",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 4,
+    "excerpt": "What consumer protections exist for crypto assets?\n\nThere are little to no consumer protections for investing in crypto assets. This depends on jurisdiction but even in countries with advanced economi",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-consumer-protections"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto is not a solution for the unbanked",
+        "slug": "crypto-is-not-a-solution-for-the-unbanked",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Crypto is not a solution for the unbanked\n\nCrypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency therefore it is unusable as a scaleable means ",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-crypto-unbanked"
+  },
+  {
+    "toc": [
+      {
+        "content": "Bitcoin is not the basis for a new gold standard",
+        "slug": "bitcoin-is-not-the-basis-for-a-new-gold-standard",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Bitcoin is not the basis for a new gold standard\n\nThe neo-metallist claim is that bitcoin can operate as a new asset class which exhibits similar financial properties to gold.  The strong version of t",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-digital-gold"
+  },
+  {
+    "toc": [
+      {
         "content": "Is web3 a means to dismantle the American tech hegemony?",
         "slug": "is-web3-a-means-to-dismantle-the-american-tech-hegemony",
         "lvl": 1,
@@ -8044,6 +8262,31 @@
     "sectionTitle": "Claims",
     "isIndex": false,
     "slug": "/claims/is-disrupt-hegemony"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto Mining is Harmful to the Environment",
+        "slug": "crypto-mining-is-harmful-to-the-environment",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 10,
+    "excerpt": "Crypto Mining is Harmful to the Environment\n\nBitcoin mining is enormously harmful to the environment, the design of the Proof of Work (PoW) consensus algorithm is energy wasteful as part of its design",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-environmental-footprint"
   },
   {
     "toc": [
@@ -8073,6 +8316,56 @@
   {
     "toc": [
       {
+        "content": "Crypto assets are not a hedge against the \"debasement\" of the dollar",
+        "slug": "crypto-assets-are-not-a-hedge-against-the-debasement-of-the-dollar",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Crypto assets are not a hedge against the \"debasement\" of the dollar\n\nCrypto assets are not a hedge against the \"debasement\" of the dollar. This thesis is predicated on an Austrian economics reading o",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-hedge-debasement"
+  },
+  {
+    "toc": [
+      {
+        "content": "Are crypto assets a hedge against inflation?",
+        "slug": "are-crypto-assets-a-hedge-against-inflation",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Are crypto assets a hedge against inflation?\n\n Since crypto asset have no exposure to domestic commodities there is no evidence of anti-correlation with a basket of goods that would be inversely to th",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-hedge-inflation"
+  },
+  {
+    "toc": [
+      {
         "content": "Is crypto bringing about the \"financialization of everything\"?",
         "slug": "is-crypto-bringing-about-the-financialization-of-everything",
         "lvl": 1,
@@ -8087,8 +8380,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 5,
-    "excerpt": "Is crypto bringing about the \"financialization of everything\"?\n\nThe purpose of NFTs and crypto projects generally is to further expand the scope artificial scarcity, enclosure and financialize greater",
+    "readingTime": 4,
+    "excerpt": "Is crypto bringing about the \"financialization of everything\"?\n\nThe purpose of NFTs and crypto projects generally is to further expand the scope artificial scarcity, enclose and financialize greater p",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -8123,6 +8416,63 @@
   {
     "toc": [
       {
+        "content": "What is the narrative economics of crypto assets?",
+        "slug": "what-is-the-narrative-economics-of-crypto-assets",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Narrative Claims",
+        "slug": "narrative-claims",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 6,
+    "excerpt": "What is the narrative economics of crypto assets?\n\nThe economist Robert J. Shiller defines narrative economics as:\n\nEpidemiology of narratives relevant to economic fluctuations. The human brain has al",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-narrative-economics"
+  },
+  {
+    "toc": [
+      {
+        "content": "Investing in crypto assets is a negative-sum game",
+        "slug": "investing-in-crypto-assets-is-a-negative-sum-game",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Investing in crypto assets is a negative-sum game\n\nInvesting in crypto assets is a negative sum game as defined in game theory and economics. Negative sum games result in a net loss across participant",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-negative-sum"
+  },
+  {
+    "toc": [
+      {
         "content": "Web3 is not a means to rebuild the global financial system.",
         "slug": "web3-is-not-a-means-to-rebuild-the-global-financial-system",
         "lvl": 1,
@@ -8144,6 +8494,63 @@
     "sectionTitle": "Claims",
     "isIndex": false,
     "slug": "/claims/is-new-financial-system"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto is not building a new internet",
+        "slug": "crypto-is-not-building-a-new-internet",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Crypto is not building a new internet\n\nThe meme of a \"new internet\" is a consistent and persistent marketing term that has always existed in technology, to the point where the term itself is widely co",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-new-internet"
+  },
+  {
+    "toc": [
+      {
+        "content": "NFTs are not a net good for artists",
+        "slug": "nfts-are-not-a-net-good-for-artists",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "External References",
+        "slug": "external-references",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 4,
+    "excerpt": "NFTs are not a net good for artists\n\nThe economic structure of NFTs is almost identical to that of multilevel marketing schemes.  Both MLMs and NFTs share the same set of psychological tricks to creat",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-nfts-artists"
   },
   {
     "toc": [
@@ -8228,10 +8635,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Crypto is not a sustainable way to fund public goods",
+    "excerpt": "Crypto is not a sustainable way to fund public goods\n\nReferences",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -8255,8 +8669,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 1,
-    "excerpt": "Can I do a crowdfunded equity raise for my company?\n\nReferences",
+    "readingTime": 2,
+    "excerpt": "Can I do a crowdfunded equity raise for my company?\n\nRaising money for a common venture is a regulated as a security sale in the United States. Raising money under a SAFT or selling tokens as a proxy ",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -8271,15 +8685,47 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Can I raise money for my non-profit using crypto tokens?",
+    "excerpt": "Can I raise money for my non-profit using crypto tokens?\n\nReferences",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
     "slug": "/claims/is-raise-nonprofit"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto assets pose a risk to the state",
+        "slug": "crypto-assets-pose-a-risk-to-the-state",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Crypto assets pose a risk to the state\n\nCrypto assets exist for a single purpose: regulatory arbitrage. Effectively to undermine the rule of law and circumvent controls that nation states have put in ",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-risk-to-state"
   },
   {
     "toc": [
@@ -8309,145 +8755,6 @@
   {
     "toc": [
       {
-        "content": "What is the narrative economics of crypto assets?",
-        "slug": "what-is-the-narrative-economics-of-crypto-assets",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "Narrative Claims",
-        "slug": "narrative-claims",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      }
-    ],
-    "readingTime": 6,
-    "excerpt": "What is the narrative economics of crypto assets?\n\nThe economist Robert J. Shiller defines narrative economics as:\n\nEpidemiology of narratives relevant to economic fluctuations. The human brain has al",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/narrative-economics"
-  },
-  {
-    "toc": [
-      {
-        "content": "Investing in crypto assets is a negative-sum game",
-        "slug": "investing-in-crypto-assets-is-a-negative-sum-game",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Investing in crypto assets is a negative-sum game\n\nInvesting in crypto assets is a negative sum game as defined in game theory and economics. Negative sum games result in a net loss across participant",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/negative-sum"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto is not building a new internet",
-        "slug": "crypto-is-not-building-a-new-internet",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Crypto is not building a new internet\n\nThe meme of a \"new internet\" is a consistent and persistent marketing term that has always existed in technology, to the point where the term itself is widely co",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/new-internet"
-  },
-  {
-    "toc": [
-      {
-        "content": "NFTs are not a net good for artists",
-        "slug": "nfts-are-not-a-net-good-for-artists",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
-        "content": "External References",
-        "slug": "external-references",
-        "lvl": 2,
-        "i": 2,
-        "seen": 0
-      }
-    ],
-    "readingTime": 4,
-    "excerpt": "NFTs are not a net good for artists\n\nThe economic structure of NFTs is almost identical to that of multilevel marketing schemes.  Both MLMs and NFTs share the same set of psychological tricks to creat",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/nfts-artists"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto assets pose a risk to the state",
-        "slug": "crypto-assets-pose-a-risk-to-the-state",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Crypto assets pose a risk to the state\n\nCrypto assets exist for a single purpose: regulatory arbitrage. Effectively to undermine the rule of law and circumvent controls that nation states have put in ",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/risk-to-state"
-  },
-  {
-    "toc": [
-      {
         "content": "Bitcoin does not threaten the US dollar as reserve currency",
         "slug": "bitcoin-does-not-threaten-the-us-dollar-as-reserve-currency",
         "lvl": 1,
@@ -8468,7 +8775,7 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/threaten-dollar"
+    "slug": "/claims/is-threat-dollar"
   },
   {
     "toc": [
@@ -8488,137 +8795,12 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "An unregulated transnational payment is not desirable\n\nThe stated aspirations of some crypto projects is to build a global transnational payment system which is censorship resistant against nation sta",
+    "excerpt": "An unregulated transnational payment is not desirable\n\nThe stated aspirations of some crypto projects is to build a global supranational payment system which is censorship resistant against nation sta",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/transnational-payment"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto assets do not have a verifiable valuation model",
-        "slug": "crypto-assets-do-not-have-a-verifiable-valuation-model",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Crypto assets do not have a verifiable valuation model\n\nCrypto tokens have no reliable valuation method. It is not possible to develop a theoretical value for a crypto token because there is no demand",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/valuation-model"
-  },
-  {
-    "toc": [
-      {
-        "content": "Web3 is not decentralized",
-        "slug": "web3-is-not-decentralized",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 3,
-    "excerpt": "Web3 is not decentralized\n\nIn all scenarios web3 still requires central parties for its technical operation and simply involves recentralization of services that already exist. Since web3 is centraliz",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/web3-decentralized"
-  },
-  {
-    "toc": [
-      {
-        "content": "Is Web3 green?",
-        "slug": "is-web3-green",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 1,
-    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nSee also ESG investing and crypto, environmental-footprint an",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/web3-green"
-  },
-  {
-    "toc": [
-      {
-        "content": "Crypto has a weird subculture",
-        "slug": "crypto-has-a-weird-subculture",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 6,
-    "excerpt": "Crypto has a weird subculture\n\nThe crypto subculture is an example of a self-organizing high control group whose existence organically creates a market mania, bubble and narrative economics that entic",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/weird-culture"
-  },
-  {
-    "toc": [
-      {
-        "content": "Web3 is not well-defined",
-        "slug": "web3-is-not-well-defined",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
-      {
-        "content": "References",
-        "slug": "references",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      }
-    ],
-    "readingTime": 2,
-    "excerpt": "Web3 is not well-defined\n\nWeb3 does not have any universally agreed upon definition.\n\nWeb3 has been accused of becoming an intellectual nexus for many internet \"thought leaders\" to pontificate about g",
-    "sectionSlug": "/claims",
-    "sectionWeight": 0,
-    "sectionTitle": "Claims",
-    "isIndex": false,
-    "slug": "/claims/well-defined"
+    "slug": "/claims/is-transnational-payment"
   },
   {
     "toc": [
@@ -8650,7 +8832,132 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/what-type-of-asset"
+    "slug": "/claims/is-type-of-asset"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto assets do not have a verifiable valuation model",
+        "slug": "crypto-assets-do-not-have-a-verifiable-valuation-model",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Crypto assets do not have a verifiable valuation model\n\nCrypto tokens have no reliable valuation method. It is not possible to develop a theoretical value for a crypto token because there is no demand",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-valuation-model"
+  },
+  {
+    "toc": [
+      {
+        "content": "Web3 is not decentralized",
+        "slug": "web3-is-not-decentralized",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 3,
+    "excerpt": "Web3 is not decentralized\n\nIn all scenarios web3 still requires central parties for its technical operation and simply involves recentralization of services that already exist. Since web3 is centraliz",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-web3-decentralized"
+  },
+  {
+    "toc": [
+      {
+        "content": "Is Web3 green?",
+        "slug": "is-web3-green",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Is Web3 green?\n\nWeb3 is allegedly based on crypto assets which have a known environmental footprint problem. Therefore web3 is not green.\n\nSee also ESG investing and crypto, is-environmental-footprint",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-web3-green"
+  },
+  {
+    "toc": [
+      {
+        "content": "Crypto has a weird subculture",
+        "slug": "crypto-has-a-weird-subculture",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 6,
+    "excerpt": "Crypto has a weird subculture\n\nThe crypto subculture is an example of a self-organizing high control group whose existence organically creates a market mania, bubble and narrative economics that entic",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-weird-culture"
+  },
+  {
+    "toc": [
+      {
+        "content": "Web3 is not well-defined",
+        "slug": "web3-is-not-well-defined",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Web3 is not well-defined\n\nWeb3 does not have any universally agreed upon definition.\n\nWeb3 has been criticised as being an intentionally ambiguous buzzword.\n\nWeb3 has also been accused of becoming an ",
+    "sectionSlug": "/claims",
+    "sectionWeight": 0,
+    "sectionTitle": "Claims",
+    "isIndex": false,
+    "slug": "/claims/is-well-defined"
   },
   {
     "toc": [
@@ -8675,7 +8982,7 @@
     "sectionWeight": 0,
     "sectionTitle": "Claims",
     "isIndex": false,
-    "slug": "/claims/why-invest"
+    "slug": "/claims/is-why-invest"
   },
   {
     "title": "Concepts",
@@ -8742,28 +9049,21 @@
         "seen": 0
       },
       {
-        "content": "Examples",
-        "slug": "examples",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "Uniswap",
         "slug": "uniswap",
         "lvl": 3,
-        "i": 2,
+        "i": 1,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 3,
+        "i": 2,
         "seen": 0
       }
     ],
-    "readingTime": 4,
+    "readingTime": 5,
     "excerpt": "Automated Market Maker\n\nAutomated Market Maker or (AMM) is an algorithmic platform for trading.\n\nFrom https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm:\n\nYou could think of",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
@@ -8828,6 +9128,13 @@
         "slug": "artificial-demand",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -8939,6 +9246,13 @@
         "slug": "bandwagon-bias",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -9425,7 +9739,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Collateralization\n\nReferences",
+    "excerpt": "Collateralization\n\nIn finance, collateral is a borrower's commitment of property to a lender as a means to secure against counterparty risk and ensure repayment of a loan.\n\nOvercollateralization is us",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -9645,17 +9959,10 @@
         "seen": 0
       },
       {
-        "content": "Examples",
-        "slug": "examples",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -9817,7 +10124,7 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "Decentralized Finance (DeFi)\n\nDefi is a broad category of smart contracts which loosely correspond to digital investment schemes running on a blockchain which allow users to create over-collateralized",
+    "excerpt": "Decentralized Finance (DeFi)\n\nDefi is a broad category of smart contracts which loosely correspond to digital investment schemes running on a blockchain which allow users to create overcollateralized ",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -9934,15 +10241,15 @@
         "seen": 0
       },
       {
-        "content": "Limitations",
-        "slug": "limitations",
+        "content": "References",
+        "slug": "references",
         "lvl": 2,
         "i": 1,
         "seen": 0
       }
     ],
-    "readingTime": 1,
-    "excerpt": "Decentralized Exchange\n\nOrder-book based but peer-to-peer transactions (i.e. without market makers). This contrasts with AMM (automated market makers) who don't have an order book.\n\nLimitations\n\nFrom ",
+    "readingTime": 2,
+    "excerpt": "Decentralized Exchange\n\nA form of market making done via a smart-contracts. In this setup the order-book is based on peer-to-peer transactions instead of through a central party like a crypto exchange",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -10046,10 +10353,17 @@
         "lvl": 2,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Enclosure\n\nSee also market manipulation, public goods problem and free rider problem.",
+    "excerpt": "Enclosure\n\nHistorically enclosure referred to the feudal appropriation of common land or public goods by a cartel or nobility. In modern terms it refers to the process by which businesses corner a mar",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -10166,6 +10480,77 @@
   {
     "toc": [
       {
+        "content": "Externalities",
+        "slug": "externalities",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Environmental",
+        "slug": "environmental",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Legal",
+        "slug": "legal",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Financial Risk",
+        "slug": "financial-risk",
+        "lvl": 2,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Social Problems",
+        "slug": "social-problems",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Externalities\n\nThe problems with crypto assets fall into several categories.\n\nEnvironmental\n\nCrypto investments that use proof of work have an absurd environmental footprint.\nCrypto investments waste ",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/externalities"
+  },
+  {
+    "toc": [
+      {
+        "content": "Fiat Money",
+        "slug": "fiat-money",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Fiat Money\n\nThe contemporary monetary system where money is issued by the state via a central bank without any backing by physical commodities such as precious metals. The prefix \"Fiat\" money is an es",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/fiat-money"
+  },
+  {
+    "toc": [
+      {
         "content": "Fictitious commodities",
         "slug": "fictitious-commodities",
         "lvl": 1,
@@ -10253,10 +10638,17 @@
         "lvl": 1,
         "i": 0,
         "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Free Rider Problem\n\nThe use of public goods by parties who do not contribute to their creation or upkeep while still extracting value from the service or good.\n\nSee also public goods problem.",
+    "excerpt": "Free Rider Problem\n\nThe use of public goods by parties who do not contribute to their creation or upkeep while still extracting value from the service or good.\n\nSee also public goods problem.\n\nReferen",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -10348,22 +10740,15 @@
         "seen": 0
       },
       {
-        "content": "Criticisms",
-        "slug": "criticisms",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "Essays",
         "slug": "essays",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
     "readingTime": 2,
-    "excerpt": "Gold Standard\n\nA monetary standard for a currency based on precious metal commodities, espoused as sound money in Austrian economics.\n\nCriticisms\n\nVery few mainstream economists believe the gold stand",
+    "excerpt": "Gold Standard\n\nA monetary standard for a currency based on precious metal commodities, espoused as sound money in Austrian economics.\n\nVery few mainstream economists believe the gold standard to be a ",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -10420,7 +10805,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Governance Token\n\nA bearer instrument token which grants holders of the token the capacity to \"vote\" in a smart-contracts implementation of a DAO or other DeFi protocol.\n\nGovernance tokens are imitati",
+    "excerpt": "Governance Token\n\nA bearer instrument token which grants holders of the token the capacity to \"vote\" in a smart contracts implementation of a DAO or other DeFi protocol.\n\nGovernance tokens are imitati",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -10969,7 +11354,7 @@
       }
     ],
     "readingTime": 2,
-    "excerpt": "Market Manipulation\n\nManipulation of price-formation and the natural operation of a market. Can be performed by both market makers and cartels.\n\nFront Running\n\nUsing inside information about future or",
+    "excerpt": "Market Manipulation\n\nManipulation of price formation and the natural operation of a market. Can be performed by both market makers and cartels.\n\nFront Running\n\nUsing inside information about future or",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -11119,7 +11504,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Mining\n\nThe technical process of confirming transactions in a blockchain using the proof of work consensus-algorithm. Mining is typically centralized by companies known as mining pools which pool phys",
+    "excerpt": "Mining\n\nThe technical process of confirming transactions in a blockchain using the proof of work consensus algorithm. Mining is typically centralized by companies known as mining pools which pool phys",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -11236,17 +11621,10 @@
         "seen": 0
       },
       {
-        "content": "Qualities",
-        "slug": "qualities",
-        "lvl": 2,
-        "i": 1,
-        "seen": 0
-      },
-      {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -11326,7 +11704,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Narrative Economics\n\nReferences\n\nShiller, Robert J. 2017. ‘Narrative Economics’. American Economic Review 107 (4): 967–1004.",
+    "excerpt": "Narrative Economics\n\nThe study of the spread and dynamics of popular narratives, the stories, particularly those of human interest and emotion, and how these change through time, to understand economi",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -11613,6 +11991,31 @@
   {
     "toc": [
       {
+        "content": "Ponzinomics",
+        "slug": "ponzinomics",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Ponzinomics\n\nA portmanteau of Ponzi scheme and economics. A term commonly used to describe crypto asset investment schemes which are is-negative-sum investments which exist to enrich a pool of insider",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/ponzinomics"
+  },
+  {
+    "toc": [
+      {
         "content": "Post-state Technocracy",
         "slug": "post-state-technocracy",
         "lvl": 1,
@@ -11873,6 +12276,56 @@
   {
     "toc": [
       {
+        "content": "Proof of Stake",
+        "slug": "proof-of-stake",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Proof of Stake\n\nA type of work function used in blockchain consensus algorithms that involves network participants staking an amount of a cryptoasset which grants them a probabilistic chance to confir",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/proof-of-stake"
+  },
+  {
+    "toc": [
+      {
+        "content": "Proof of Work",
+        "slug": "proof-of-work",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Proof of Work\n\nA type of work function used in blockchain consensus algorithms that involves a race to solve to invert a function to find a specific number which is added to a block of transactions to",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/proof-of-work"
+  },
+  {
+    "toc": [
+      {
         "content": "Pseudonymous",
         "slug": "pseudonymous",
         "lvl": 1,
@@ -11902,6 +12355,13 @@
         "slug": "public-goods-problem",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 1,
         "seen": 0
       }
     ],
@@ -12002,6 +12462,13 @@
         "slug": "properties",
         "lvl": 2,
         "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 2,
         "seen": 0
       }
     ],
@@ -13083,105 +13550,56 @@
         "seen": 0
       },
       {
-        "content": "Claims",
-        "slug": "claims",
-        "lvl": 3,
-        "i": 2,
-        "seen": 0
-      },
-      {
-        "content": "Better Economy",
-        "slug": "better-economy",
-        "lvl": 4,
-        "i": 3,
-        "seen": 0
-      },
-      {
-        "content": "Better Society / Financial Inclusion",
-        "slug": "better-society--financial-inclusion",
-        "lvl": 4,
-        "i": 4,
-        "seen": 0
-      },
-      {
-        "content": "Financial Liberty",
-        "slug": "financial-liberty",
-        "lvl": 4,
-        "i": 5,
-        "seen": 0
-      },
-      {
-        "content": "Solving Public Goods Problems",
-        "slug": "solving-public-goods-problems",
-        "lvl": 4,
-        "i": 6,
-        "seen": 0
-      },
-      {
-        "content": "Financial Innovation",
-        "slug": "financial-innovation",
-        "lvl": 4,
-        "i": 7,
-        "seen": 0
-      },
-      {
-        "content": "Creative Destruction",
-        "slug": "creative-destruction",
-        "lvl": 4,
-        "i": 8,
-        "seen": 0
-      },
-      {
         "content": "Contextual",
         "slug": "contextual",
         "lvl": 2,
-        "i": 9,
+        "i": 2,
         "seen": 0
       },
       {
         "content": "Ideologies",
         "slug": "ideologies",
         "lvl": 2,
-        "i": 10,
+        "i": 3,
         "seen": 0
       },
       {
         "content": "Supporting Concepts",
         "slug": "supporting-concepts",
         "lvl": 2,
-        "i": 11,
+        "i": 4,
         "seen": 0
       },
       {
         "content": "Economics",
         "slug": "economics",
         "lvl": 4,
-        "i": 12,
+        "i": 5,
         "seen": 0
       },
       {
         "content": "Technology",
         "slug": "technology",
         "lvl": 4,
-        "i": 13,
+        "i": 6,
         "seen": 0
       },
       {
         "content": "Regulation",
         "slug": "regulation",
         "lvl": 4,
-        "i": 14,
+        "i": 7,
         "seen": 0
       },
       {
         "content": "Sociology",
         "slug": "sociology",
         "lvl": 4,
-        "i": 15,
+        "i": 8,
         "seen": 0
       }
     ],
-    "readingTime": 5,
+    "readingTime": 3,
     "excerpt": "Introduction\n\nThis page serves as a root from which all other topics branch and can be explored. \n\nKey Concepts\n\nUnderstand the terminology used to describe crypto and web3.\n\nWeb3\nCrypto asset\nBitcoin",
     "sectionSlug": "/guide",
     "sectionWeight": 0,
@@ -13387,6 +13805,80 @@
   {
     "toc": [
       {
+        "content": "Fintech Incrementalism and Responsible Innovation",
+        "slug": "fintech-incrementalism-and-responsible-innovation",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Episode Notes",
+        "slug": "episode-notes",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Summary",
+        "slug": "summary",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Fintech Incrementalism",
+        "slug": "fintech-incrementalism",
+        "lvl": 2,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Steel manning the fintech incrementalist position",
+        "slug": "steel-manning-the-fintech-incrementalist-position",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Evaluating the position",
+        "slug": "evaluating-the-position",
+        "lvl": 2,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Conclusion",
+        "slug": "conclusion",
+        "lvl": 2,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Concepts Covered",
+        "slug": "concepts-covered",
+        "lvl": 2,
+        "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 8,
+        "seen": 0
+      }
+    ],
+    "readingTime": 16,
+    "excerpt": "Fintech Incrementalism and Responsible Innovation\n\nIn episode #5 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl explore the claim that blockchain can be a vehicle for i",
+    "sectionSlug": "/notes",
+    "sectionWeight": 0,
+    "sectionTitle": "Notes",
+    "isIndex": false,
+    "slug": "/notes/fintech-incrementalism-and-responsible-innovation"
+  },
+  {
+    "toc": [
+      {
         "content": "Market Fundamentalism",
         "slug": "market-fundamentalism",
         "lvl": 1,
@@ -13457,7 +13949,7 @@
         "seen": 0
       }
     ],
-    "readingTime": 10,
+    "readingTime": 11,
     "excerpt": "Market Fundamentalism\n\nIn episode #2 of the series, Rufus Pollock and Stephen Diehl explore a common incentive for investing in crypto: the belief - held by day traders and quantitative hedge funds al",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
@@ -13545,8 +14037,8 @@
         "seen": 0
       }
     ],
-    "readingTime": 13,
-    "excerpt": "Neo-Metallism\n\nIn episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on bitcoin and the concept of \"digital\" gold.\n\nYoutube",
+    "readingTime": 15,
+    "excerpt": "Neo-Metallism\n\nIn episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on Bitcoin and the concept of \"digital\" gold.\n\nYoutube",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",
@@ -13756,7 +14248,7 @@
   {
     "toc": [
       {
-        "content": "Post-state Technocracy",
+        "content": "Post-State Technocracy",
         "slug": "post-state-technocracy",
         "lvl": 1,
         "i": 0,
@@ -13770,8 +14262,8 @@
         "seen": 0
       },
       {
-        "content": "Preface",
-        "slug": "preface",
+        "content": "Summary",
+        "slug": "summary",
         "lvl": 2,
         "i": 2,
         "seen": 0
@@ -13784,36 +14276,50 @@
         "seen": 0
       },
       {
-        "content": "Pro",
-        "slug": "pro",
+        "content": "A Network State",
+        "slug": "a-network-state",
         "lvl": 2,
         "i": 4,
         "seen": 0
       },
       {
-        "content": "Critique",
-        "slug": "critique",
+        "content": "Steel-manning the position",
+        "slug": "steel-manning-the-position",
         "lvl": 2,
         "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Evaluating the position",
+        "slug": "evaluating-the-position",
+        "lvl": 2,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Conclusion",
+        "slug": "conclusion",
+        "lvl": 2,
+        "i": 7,
         "seen": 0
       },
       {
         "content": "Concepts Covered",
         "slug": "concepts-covered",
         "lvl": 2,
-        "i": 6,
+        "i": 8,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 7,
+        "i": 9,
         "seen": 0
       }
     ],
-    "readingTime": 13,
-    "excerpt": "Post-state Technocracy\n\nIn episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore t",
+    "readingTime": 14,
+    "excerpt": "Post-State Technocracy\n\nIn episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore t",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",
@@ -13913,5 +14419,36 @@
     "sectionWeight": 0,
     "isIndex": false,
     "slug": "/test"
+  },
+  {
+    "toc": [
+      {
+        "content": "Webinars",
+        "slug": "webinars",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Upcoming",
+        "slug": "upcoming",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Responsible Innovation: Cryptocurrency and the Regulatory Permimiter",
+        "slug": "responsible-innovation-cryptocurrency-and-the-regulatory-permimiter",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Webinars\n\nOur webinar series addresses the most significant, policy-relevant issues around web3 and blockchain. They provide an objective overview of the information needed for decision making in key ",
+    "sectionSlug": "/library",
+    "sectionWeight": 0,
+    "isIndex": false,
+    "slug": "/webinars"
   }
 ]

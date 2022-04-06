@@ -19,7 +19,7 @@ function LeftToc({ data, isMobile }) {
             <div>
               {value.children.map((child) => {
                 return (
-                  <div className="ml-2 mt-4 font-normal text-sm text-slate-300">
+                  <div key={child.link} className="ml-2 mt-4 font-normal text-sm text-slate-300">
                     <Link href={child.link}>
                       <a
                         className={` ${
