@@ -1,15 +1,15 @@
-import { useRouter } from 'next/router';
+import { useRouter } from "next/router";
 import { useState, useEffect } from "react";
 import Head from "next/head";
 import ContentLayout from "./ContentLayout";
 import { Paragraph } from "./Link";
-import { getPostBySlug } from '../lib/api';
+import { getPostBySlug } from "../lib/api";
 
 const CustomHeading = ({ as, ...rest }) => {
   const [value, setValue] = useState("");
-  const { query } = useRouter();
-  const post = getPostBySlug(`/${query.slug[0]}`);
-  const toc = post.toc
+  const { asPath } = useRouter();
+  const post = getPostBySlug(asPath.split("#")[0]);
+  const toc = post.toc;
   useEffect(() => {
     toc.map((t) => {
       if (t.content === rest.children) {
@@ -43,9 +43,9 @@ const components = {
 };
 
 export default function MdxPage({ children }) {
-  const { query } = useRouter();
+  const { asPath } = useRouter();
   const { Component, frontmatter } = children;
-    const post = getPostBySlug(`/${query.slug[0]}`)
+  const post = getPostBySlug(asPath.split("#")[0]);
   return (
     <div className="flex justify-center">
       <article className="prose dark:prose-invert p-6 min-w-full ">
