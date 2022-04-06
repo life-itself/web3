@@ -19,7 +19,7 @@ export default function TOC({
     //slugWithATag contains transformed heading name that is later used for scroll spy identification
     slugWithATag: item.content.replace(/<|>|"|\\|\/|=/gi, '').replace(/\s/gi, '-').toLowerCase()
 }))
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(true);
   return (
     <div
       className={`${className} ${
