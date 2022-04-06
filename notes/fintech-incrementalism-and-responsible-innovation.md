@@ -77,6 +77,8 @@ Rufus and Stephen 'steel man' the “fintech incrementalism” position, identif
     * Mortgages are very good financial products that enable vast access to [real estate](../concepts/real-estate.md) markets and for families to prosper. 
     * The volatility of chicken nuggets is solved by creating synthetic futures on corn and soymeal commodities that would hedge the chicken producer’s exposure to underlying price fluctuations.
     * Petrol futures and airlines
+    * There are many types of weird exotic derivative products that have very niche buyers, such as people in the energy production business.
+	    * https://en.wikipedia.org/wiki/Weather_derivative
   * If we can create completely synthetic hedges for a wide range of real-world phenomenal factors then it doesn’t really matter how we do it. 
 * **Claim 6:** There are a few **[asset classes](asset) that are almost exclusively narrative-driven** rather than mathematics or cashflow-driven.
   * “If gold appears to be a hedge for anything, it’s the fear of inflation, or the fear of financial instability as proxied by changes in government deficits.”
