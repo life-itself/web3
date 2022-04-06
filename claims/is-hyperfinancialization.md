@@ -1,6 +1,6 @@
 # Is crypto bringing about the "financialization of everything"?
 
-The purpose of NFTs and crypto projects generally is to further expand the scope [artificial scarcity](../concepts/artificial-scarcity.md), [enclosure](../concepts/enclosure.md) and financialize greater portions of the human experience. The stated aim of the crypto political project is world in which all aspects of human life (art, justice, philosophy, politics, relationships) are simply [ficticious commodity](../concepts/ficticious-commodity.md) to be traded in a market place and that human beings should subordinate all free will and their individuality and rationality to the market. 
+The purpose of NFTs and crypto projects generally is to further expand the scope [artificial scarcity](../concepts/artificial-scarcity.md), [enclose](../concepts/enclosure.md) and financialize greater portions of the human experience. The stated aim of the web3 and crypto project is world in which all aspects of human life (art, justice, philosophy, politics, relationships) are simply [ficticious commodities](../concepts/ficticious-commodity.md) to be traded in a market place and that human beings should subordinate all free will, individuality and rationality to the market. 
 
 The embodiment of the web3 and crypto ideology is an example of what the political theorist Macpherson denoted *possessive individualism*:
 
@@ -9,6 +9,7 @@ The embodiment of the web3 and crypto ideology is an example of what the politic
 Projects like NFTs and the their increasing enclosure of culture have indicated that the intent of crypto is nothing but the complete domination of the human experience by Capital in the bleak dystopian future imagined by their acolytes.
 
 ## References
+1. Olson, Dan. 2022a. Line Goes Up – The Problem With NFTs. https://www.youtube.com/watch?v=YQ_xWvX1n9g.
 1. McKay, Ian (2014). "A Half-Century of Possessive Individualism: C.B. Macpherson and the Twenty-First-Century Prospects of Liberalism". Journal of the Canadian Historical Association. 25 (1): 307–340. doi:10.7202/1032806ar. ISSN 1712-6274.
 1. Bellinger, Matthew. 2018. ‘The Rhetoric of Bitcoin: Money, Politics, and the Construction of Blockchain Communities’. ResearchWorks Archive. PhD Thesis. https://digital.lib.washington.edu/researchworks/handle/1773/43342.
 1. Breidbach, Christoph F., and Silviana Tana. 2021. ‘Betting on Bitcoin: How Social Collectives Shape Cryptocurrency Markets’. Journal of Business Research 122: 311–20. https://doi.org/10.1016/j.jbusres.2020.09.017.
@@ -37,5 +38,3 @@ Projects like NFTs and the their increasing enclosure of culture have indicated 
 1. Low, Kelvin F K. 2021. ‘The Emperor’s New Art: Cryptomania, Art & Property’. Art & Property. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978241.
 1. Mackenzie, Simon, and Diāna Bērziņa. 2021. ‘NFTs: Digital Things and Their Criminal Lives’. Crime, Media, Culture, 17416590211039796. https://doi.org/10.1177/17416590211039797.
 1. Nadini, Matthieu, Laura Alessandretti, Flavio Di Giacinto, Mauro Martino, Luca Maria Aiello, and Andrea Baronchelli. 2021. ‘Mapping the NFT Revolution: Market Trends, Trade Networks, and Visual Features’. Scientific Reports 11 (1). https://doi.org/10.1038/s41598-021-00053-8.
-1. *‘NFTs, Cryptocurrencies and Web3 Are Multilevel Marketing Schemes for a New Generation - WSJ’. n.d. Accessed 14 March 2022. https://www.wsj.com/articles/nfts-cryptocurrencies-and-web3-are-multilevel-marketing-schemes-for-a-new-generation-11645246824.
-1. Olson, Dan. 2022a. Line Goes Up – The Problem With NFTs. https://www.youtube.com/watch?v=YQ_xWvX1n9g.

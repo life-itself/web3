@@ -5,13 +5,13 @@ Bitcoin is not compatible with ESG investing.
 
 **Environmental Problems**
 
-* [Environmental footprint of mining](environmental-footprint.md)
+* [Environmental footprint of mining](is-environmental-footprint.md)
 
 **Social Problems**
 
 * [Crypto is a market bubble](is-bubble.md)
 * [Predatory inclusion](is-predatory.md)
-* [Consumer protections](consumer-protections.md)
+* [Consumer protections](is-consumer-protections.md)
 * [Bitcoin is not a currency](is-bitcoin-currency.md)
 * [Private money is not sustainable](is-private-money.md)
 * [Crypto is not build a new financial system](is-new-financial-system.md)

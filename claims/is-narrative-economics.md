@@ -5,9 +5,9 @@ The economist Robert J. Shiller defines [narrative economics](../concepts/narrat
 
 The phenomenon of [cryptoasset](../concepts/cryptoasset.md) and their [bubble](../concepts/bubble.md)  nature is largely driven by narratives, which may differ drastically between projects. These narratives speak to different human needs and beliefs that touch upon ideas as vast as culture, [value](../concepts/value.md), money, art, law, identity and politics.
 
-Bitcoin has a [narrative economics](../claims/narrative-economics.md) based on [libertarianism](../concepts/libertarianism.md), [regulatory arbitrage](regulatory-arbitrage.md) and aspirations of [private money](private-money.md).
+Bitcoin has a [narrative economics](is-narrative-economics.md) based on [libertarianism](../concepts/libertarianism.md), [regulatory arbitrage](regulatory-arbitrage.md) and aspirations of [private money](private-money.md).
 
-Ethereum has a [narrative economics](../claims/narrative-economics.md) based on [technosolutionism](../concepts/technosolutionism.md), [libertarianism](../concepts/libertarianism.md), [regulatory arbitrage](regulatory-arbitrage.md) and aspirations of [private money](private-money.md).
+Ethereum has a [narrative economics](is-narrative-economics.md) based on [technosolutionism](../concepts/technosolutionism.md), [libertarianism](../concepts/libertarianism.md), [regulatory arbitrage](regulatory-arbitrage.md) and aspirations of [private money](private-money.md).
 
 Dogecoin is an example of a crypto asset with no political imaginaries, no [currency](currency.md) narrative, no pretense of [use value](use-value.md), no [fundamental value](fundamental-value.md), and no narrative economics whatsoever. it is a pure manifestation of the [greater fool theory](greater-fool-theory.md) with an investment thesis rooted purely in [financial nihilism](../concepts/financial-nihilism.md).
 

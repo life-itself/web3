@@ -1,7 +1,7 @@
 # Predatory Inclusion
 Predatory inclusion refers to a process whereby members of a marginalized group are provided with access to a good, service, or opportunity from which they have historically been excluded but under suboptimal or risky conditions that jeopardize the benefits of access.
 
-With regards to financial assets this concept is typically discussed in conjunction with the [unbanked.](unbanked..md)
+With regards to financial assets this concept is typically discussed in conjunction with the [unbanked](unbanked.md).
 
 See [crypto exchange](crypto-exchange.md).
 
