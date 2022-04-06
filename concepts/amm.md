@@ -9,7 +9,7 @@ From https://academy.binance.com/en/articles/what-is-an-automated-market-maker-a
 > 
 > AMMs have really carved out their niche in the DeFi space due to how simple and easy they are to use. Decentralizing market making this way is intrinsic to the vision of crypto.
 
-## Examples
+Examples of AMM crypto projects:
 
 * Uniswap
 * SushiSwap
@@ -46,9 +46,11 @@ Uniswap is iterating to favor "professional players":
 > However, with this additional layer of complexity, “lazy” LPs are going to earn much less in trading fees than professional players who can constantly keep optimizing their strategy.
 
 ## References
-
-* https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm
-* https://twitter.com/HideNotSlide/status/1386358389240958977 - someone getting excited about not having transparent market makers as if this is something innovative but what about e.g. https://en.wikipedia.org/wiki/IEX
-* https://www.bis.org/publ/qtrpdf/r_qt2112v.htm - good brief overview from BIS. Note interesting footnote (no 2):
+1. Allen, Hilary J. 2022. ‘DeFi: Shadow Banking 2.0?’ William & Mary Law Review, Forthcoming.
+1. Walch, Angela. 2019. ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’. C. Brummer (Ed.), Crypto Assets: Legal and Monetary Perspectives, 1–36. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244.
+1. Anker-Sørensen, Linn, and Dirk A Zetzsche. 2021. ‘From Centralized to Decentralized Finance: The Issue Of’. Available at SSRN 3978815. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978815.
+1. https://www.bis.org/publ/qtrpdf/r_qt2112v.htm - good brief overview from BIS. Note interesting footnote (no 2):
   §
   > The AMM trading mechanism shares similarities with the framework of Shapley and Shubik (1977), which ensures market-clearing. See L Shapley and M Shubik, "Trade using one commodity as a means of payment", Journal of Political Economy, vol 85, no 5, pp. 937–68, and H S Shin, "Comparing the robustness of trading systems to higher-order uncertainty", Review of Economic Studies, vol 63, no 1, pp. 39–59.
+1. https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm
+1. https://twitter.com/HideNotSlide/status/1386358389240958977 - someone getting excited about not having transparent market makers as if this is something innovative but what about e.g. https://en.wikipedia.org/wiki/IEX

@@ -24,6 +24,6 @@ Offer us your feedback and suggestions through [our forum][forum]. For example:
 * Do you have feedback on how we structure or present the thinking?
 
 [library]: /library
-[contact]: /contact
+[contact]: https://lifeitself.us/contact
 [concepts]: /guide
 [forum]: https://github.com/life-itself/web3/discussions

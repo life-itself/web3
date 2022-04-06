@@ -17,6 +17,7 @@ Since bitcoin is [deflationary](../concepts/deflationary.md) it encourages hordi
 1. Diehl, Stephen. 2021a. ‘The Non-Innovation of Cryptocurrency’. 7 July 2021. https://www.stephendiehl.com/blog/non-innovation.html.
 1. ———. 2021b. ‘The Intellectual Incoherence of Cryptoassets’. 7 November 2021. https://www.stephendiehl.com/blog/crypto-absurd.html.
 1. ———. n.d. ‘The Case Against Crypto’. Accessed 17 February 2022. https://www.stephendiehl.com/blog/against-crypto.html.
+1. Eich, Stefan. 2018. ‘The Currency of Politics’. The Political Theory of Money from Aristotle to Keynes.
 1. Gerard, David. 2017. Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts. David Gerard.
 1. Kolchinski, Alex. 2022. ‘Crypto Is an Unproductive Bubble’. Alex Kolchinski (blog). 18 March 2022. https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/.
 1. Krugman, Paul. 2018. ‘Bitcoin Is Basically a Ponzi Scheme’. The Seattle Times 30.

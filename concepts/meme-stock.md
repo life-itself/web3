@@ -9,7 +9,7 @@ Examples of memestocks include:
 * Blackburry
 * Bed Bath & Beyond
 
-See also [financial nihilism](financial-nihilism.md).
+See also [financial nihilism](financial-nihilism.md) and [memecoin](memecoin.md).
 
 ## References
 1. Glongloff, Mark. n.d. ‘Bitcoin, GameStop Are More Cults Than Investments’. Bloomberg. Accessed 2 March 2022. https://www.bloomberg.com/opinion/articles/2021-03-02/bitcoin-btc-gamestop-gme-are-more-cults-than-investments.

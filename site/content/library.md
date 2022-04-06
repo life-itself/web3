@@ -21,7 +21,7 @@ Set up Zotero:
 Join the group:
 
 * Visit the group library and click the join button. https://www.zotero.org/groups/4600269/web3
-* Be approved by an admin ( we'll get notified of your request or you can contact us via hello@lifeitself.us )
+* Be approved by an admin (we'll get notified of your request or you can contact us via hello@lifeitself.us)
 
 Start adding materials.
 
