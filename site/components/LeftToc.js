@@ -5,7 +5,9 @@ function LeftToc({ data, isMobile }) {
   const router = useRouter();
   return (
     <div
-      className={`${isMobile && "hidden"} flex flex-col sticky top-0 overflow-y-auto max-h-screen`}
+      className={`${
+        isMobile && "hidden"
+      } flex flex-col sticky top-0 overflow-y-auto max-h-screen`}
       style={{
         width: "20%",
       }}
@@ -13,7 +15,7 @@ function LeftToc({ data, isMobile }) {
       {Object.entries(data).map(([key, value]) => {
         return (
           <div className="font-bold text-base text-white" key={key}>
-            <p>{key}</p>
+            <p>{key.charAt(0).toUpperCase() + key.slice(1)}</p>
             <div>
               {value.children.map((child) => {
                 return (

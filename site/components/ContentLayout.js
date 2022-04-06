@@ -4,11 +4,11 @@ import Container from './Container';
 import LeftToc from './LeftToc';
 import TOC from './Toc';
 
-export default function ContentLayout({ post, children, generalToc }) {
+export default function ContentLayout({ post, children, globalToc }) {
   const isMobile = useMediaQuery({ query: "(max-width: 992px)" });
   return (
     <Container isMobile={isMobile}>
-      <LeftToc data={generalToc} isMobile={isMobile} />
+      <LeftToc data={globalToc} isMobile={isMobile} />
       <div
         style={{
           width: isMobile ? "100%" : "60%",
