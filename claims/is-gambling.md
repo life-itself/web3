@@ -23,10 +23,3 @@ Crypto assets are not gambling if one participates in a [cartel](../concepts/car
 1. ———. 2021. ‘The Brutal Truth About Bitcoin’. The New York Times 21.
 1. Taleb, Nassim Nicholas. 2021. ‘Bitcoin, Currencies, and Fragility’. ArXiv:2106.14204 [Physics, q-Fin], July. http://arxiv.org/abs/2106.14204.
 1. Weaver, Nicholas. 2018. Blockchains and Cryptocurrencies: Burn It With Fire. Berkeley School of Information. https://www.youtube.com/watch?v=xCHab0dNnj4.
-
-## References
-* [@knauer_what_2019]
-* [@barrett_why_2021]
-* [@powell_crypto-shills_2019]
-* [@panos_financial_2019]
-* [@koning_bitcoin_2020]

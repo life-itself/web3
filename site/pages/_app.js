@@ -7,13 +7,12 @@ import { ThemeProvider } from 'next-themes'
 import '../styles/global.css'
 import siteConfig from '../config/siteConfig.js'
 import Layout from '../components/Layout'
-import MdxPage from '../components/MDX'
 import * as gtag from '../lib/gtag'
 
 function MyApp({ Component, pageProps }) {
+  const router = useRouter()
   // Google Analytics
   if (siteConfig.analytics) {
-    const router = useRouter()
     useEffect(() => {
       const handleRouteChange = (url) => {
         gtag.pageview(url)
@@ -29,19 +28,19 @@ function MyApp({ Component, pageProps }) {
   return (
     <ThemeProvider attribute="class" defaultTheme="dark">
       <DefaultSeo
-        titleTemplate={'%s | ' + siteConfig.title}
+        titleTemplate={"%s | " + siteConfig.title}
         defaultTitle={siteConfig.title}
         description={siteConfig.description}
         {...siteConfig.nextSeo}
       />
       {/* Global Site Tag (gtag.js) - Google Analytics */}
-      {siteConfig.analytics &&
+      {siteConfig.analytics && (
         <Script
           strategy="afterInteractive"
           src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.analytics}`}
         />
-      }
-      {siteConfig.analytics &&
+      )}
+      {siteConfig.analytics && (
         <Script
           id="gtag-init"
           strategy="afterInteractive"
@@ -56,20 +55,12 @@ function MyApp({ Component, pageProps }) {
             `,
           }}
         />
-      }
-      <Layout title={pageProps.title ?? siteConfig.title}>
-        { 
-          Component.layout == 'js'
-            ? <Component {...pageProps} />
-            : <MdxPage children={{ Component, pageProps }} />
-        }
+      )}
+      <Layout>
+        <Component {...pageProps} />
       </Layout>
     </ThemeProvider>
-  )
+  );
 }
-
-      // if this is a markdown page use this layout by default ...
-      // const MyLayout = pageProps.
-  
 
 export default MyApp

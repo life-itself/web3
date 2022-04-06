@@ -1,33 +1,30 @@
 import Head from 'next/head'
-import Link from 'next/link'
-import { MDXProvider } from '@mdx-js/react'
-
+import { Paragraph } from './Link'
 
 const components = {
   Head,
+  p: Paragraph
 }
 
 export default function MdxPage({ children }) {
-  const { Component, pageProps } = children
+  const { Component, frontmatter } = children
 
   return (
     <article className="prose dark:prose-invert mx-auto p-6">
       <header>
         <div className="mb-6">
-          <h1>{pageProps.title}</h1>
-          {pageProps.author && (
-            <div className="-mt-6"><p className="opacity-60 pl-1">{pageProps.author}</p></div>
+          <h1>{frontmatter.title}</h1>
+          {frontmatter.authors && (
+            <div className="-mt-6"><p className="opacity-60 pl-1">{frontmatter.authors}</p></div>
           )}
-          {pageProps.description && (
-            <p className="description">{pageProps.description}</p>
+          {frontmatter.description && (
+            <p className="description">{frontmatter.description}</p>
           )}
         </div>
       </header>
-      <section>
-        <MDXProvider components={components}>
-          <Component {...pageProps} />
-        </MDXProvider>
-      </section>
+      <main>
+        <Component components={components} />
+      </main>
     </article>
   )
 }

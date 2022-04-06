@@ -1,3 +1,0 @@
-# Inevitablism
-
-## References

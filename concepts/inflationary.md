@@ -4,3 +4,6 @@ A inflationary asset is one in which the supply of the asset is increasing. It i
 The [dollar](dollar.md) is an example of an [asset](assets.md) which is inflationary due to the monetary policy of the [central-banks](central-banks.md).
 
 See also [deflationary asset](deflationary.md).
+
+## References
+1. Frisch, Helmut. 1983. Theories of Inflation. Cambridge University Press.
