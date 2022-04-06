@@ -24,7 +24,10 @@ export default function TOC({
     <div
       className={`${className} ${
         tocItems.length ? "" : "hidden"
-      } ${cssBreakingPoint}:block z-20 w-full`}
+        } ${cssBreakingPoint}:block z-20 w-full`}
+      style={{
+        width: "20%"
+      }}
     >
       <div
         className={`flex cursor-pointer ${

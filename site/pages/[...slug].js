@@ -4,8 +4,6 @@ import { useMDXComponent } from "next-contentlayer/hooks";
 import { NewsArticleJsonLd, NextSeo } from "next-seo";
 
 export default function Page({ data, toc }) {
-  console.log(data);
-  console.log(toc);
   const rest = data._raw;
   const Component = useMDXComponent(data.body.code);
   const children = {

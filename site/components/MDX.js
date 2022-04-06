@@ -48,8 +48,8 @@ export default function MdxPage({ children, generalToc }) {
     const post = getPostBySlug(asPath.split("#")[0]);
   return (
     <div className="flex justify-center">
-      <article className="prose dark:prose-invert p-6 min-w-full ">
-        <header>
+      <article className="prose dark:prose-invert min-w-full ">
+        {/* <header>
           <div className="mb-6">
             <h1>{frontmatter.title}</h1>
             {frontmatter.authors && (
@@ -61,9 +61,9 @@ export default function MdxPage({ children, generalToc }) {
               <p className="description">{frontmatter.description}</p>
             )}
           </div>
-        </header>
-        <ContentLayout post={post} generalToc={generalToc} >
-          <main className="lg:w-full p-4">
+        </header> */}
+        <ContentLayout post={post} generalToc={generalToc}>
+          <main className="p-4 w-full">
             <Component components={components} />
           </main>
         </ContentLayout>
