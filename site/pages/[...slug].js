@@ -2,7 +2,6 @@ import MdxPage from '../components/MDX';
 import { allOtherPages } from 'contentlayer/generated';
 import { useMDXComponent } from 'next-contentlayer/hooks';
 import { NewsArticleJsonLd, NextSeo } from 'next-seo';
-import TOC from 'components/Toc';
 
 
 export default function Page({ body, ...rest }) {
@@ -29,8 +28,6 @@ export default function Page({ body, ...rest }) {
     <>
       <NextSeo title={children.frontmatter.title ?? titleFromUrl} />
       <MdxPage children={children} />
-
-      <TOC />
     </>
   );
 }
