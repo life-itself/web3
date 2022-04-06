@@ -8,6 +8,7 @@ export default function TOC({
   toc,
   contentSelector,
   depth = 2,
+  isMobile
 }) {
   if (!toc || !toc.length) return null;
   const minLevel = toc.reduce((mLevel, item) => (!mLevel || item.lvl < mLevel) ? item.lvl : mLevel, 0)
@@ -26,7 +27,7 @@ export default function TOC({
         tocItems.length ? "" : "hidden"
         } ${cssBreakingPoint}:block z-20 w-full`}
       style={{
-        width: "20%"
+        width: isMobile ? "100%": "20%"
       }}
     >
       <div

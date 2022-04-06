@@ -1,13 +1,15 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
 
-function LeftToc({ data }) {
+function LeftToc({ data, isMobile }) {
   const router = useRouter();
-  console.log(router.asPath)
   return (
-    <div className="flex flex-col sticky top-0 overflow-y-auto max-h-screen" style={{
-      width: "20%"
-    }}>
+    <div
+      className={`${isMobile && "hidden"} flex flex-col sticky top-0 overflow-y-auto max-h-screen`}
+      style={{
+        width: "20%",
+      }}
+    >
       {Object.entries(data).map(([key, value]) => {
         return (
           <div className="font-bold text-base text-white" key={key}>
