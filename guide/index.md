@@ -173,7 +173,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Sign value](../concepts/sign-value.md)
 * [Whataboutism](../concepts/whataboutism.md)
 * [Bubbles](../concepts/bubble.md)
-* ["Madness of crowds"](../concepts/madness-crowds.md)
+* [Madness of crowds](../concepts/madness-crowds.md)
 * [Decentralization](../concepts/decentralization.md)
 * [Recentralization](../concepts/recentralization.md)
 * [High control groups](../concepts/high-control-group.md)
