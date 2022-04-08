@@ -61,4 +61,4 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 
 https://coggle.it/diagram/YhTzF8ZnKihmLdpm/t/web3-taxonomy-of-aspirations-and-claims
 
-![](https://res.cloudinary.com/ds7qslkd0/image/upload/v1647356492/Web3/Web3_Taxonomy_of_Aspirations_and_Claims_m4bmpq.png)
+![](/img/Web3_Taxonomy_of_Aspirations_and_Claims_m4bmpq.png)
