@@ -5,6 +5,7 @@ There are many different types of value definitions that occur in different disc
 
 * [Market value](market-value.md)
 * [Fundamental value](fundamental-value.md)
+* [Exchange value](exchange-value.md)
 * [Present value](present-value.md)
 * [Sign value](sign-value.md)
 * [Use value](use-value.md)
