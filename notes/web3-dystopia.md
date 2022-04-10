@@ -378,4 +378,4 @@ From the video description on YouTube.
 **Sources**
 * Nolan, Hamilton. n.d. ‘The Ticking Bomb of Crypto Fascism - In These Times’. Accessed 21 March 2022. https://inthesetimes.com/article/the-ticking-bomb-of-crypto-fascism.
 * Tante. 2021. ‘The Third Web’. Nodes in a Social Network (blog). 17 December 2021. https://tante.cc/2021/12/17/the-third-web/.
-* Varoufakis, Yanis. 2022. ‘Yanis Varoufakis on Crypto, the Left, and Techno-Feudalism’. DiEM25 (blog). 27 January 2022. [https://diem25.org/yanis-varoufakis-crypto-the-left-and-techno-feudalism/](https://diem25.org/yanis-varoufakis-crypto-the-left-and-techno-feudalism/) .[↩](https://www.stephendiehl.com/blog/complete.html#fnref11)
+* Varoufakis, Yanis. 2022. ‘Yanis Varoufakis on Crypto, the Left, and Techno-Feudalism’. DiEM25 (blog). 27 January 2022. [https://diem25.org/yanis-varoufakis-crypto-the-left-and-techno-feudalism/](https://diem25.org/yanis-varoufakis-crypto-the-left-and-techno-feudalism/) .

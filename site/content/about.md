@@ -77,7 +77,7 @@ Ultimately, our approach is guided by the _aspirations_ of the web3 movement. We
 
 ## Get Involved
 
-This is a collective effort and we're keen to involve collaborators and contributors. We already have a range of expert partners and contributors and we'd love to have more! Here are some ways of how you can get involved:
+This is a collective effort and we're keen to involve collaborators and contributors. We already have a range of expert partners and contributors and we'd love to have more! Here are some ways of how you can get involved: 
 
 * Contribute to the library, for example by adding articles and research on web3 and background topics.
 * Write up key concepts and ideas.
