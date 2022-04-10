@@ -26,6 +26,9 @@ From the video description on YouTube.
 16. [1:18:27](https://www.youtube.com/watch?v=u-sNSjS8cq0&t=4707s) Ethereum: Peter Thiel wants your data to build a Libertarian utopia
 17. [1:33:29](https://www.youtube.com/watch?v=u-sNSjS8cq0&t=5609s) Is this a bubble?
 
+
+***
+
 # Excerpts
 
 ### NFTs
