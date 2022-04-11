@@ -236,7 +236,7 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "Bitcoin is not a means to counter authoritarian regimes\n\nCrypto assets are not a safe haven for one’s investments or a a shield against government tyranny. In his whitepaper Bitcoin, Currencies, and F",
+    "excerpt": "Bitcoin is not a means to counter authoritarian regimes\n\nCrypto assets are not a safe haven for one’s investments or a shield against government tyranny. In his whitepaper Bitcoin, Currencies, and Fra",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -932,7 +932,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Can I raise money for my non-profit using crypto tokens?\n\nReferences",
+    "excerpt": "Can I raise money for my non-profit using crypto tokens?\n\nRaising money for a non-profit or common enterprise may be regulated as a crowdsale in the United States. \n\nOrigin and provenance of funds is ",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -1384,7 +1384,7 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "Bitcoin is not a means to counter authoritarian regimes\n\nCrypto assets are not a safe haven for one’s investments or a a shield against government tyranny. In his whitepaper Bitcoin, Currencies, and F",
+    "excerpt": "Bitcoin is not a means to counter authoritarian regimes\n\nCrypto assets are not a safe haven for one’s investments or a shield against government tyranny. In his whitepaper Bitcoin, Currencies, and Fra",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -2080,7 +2080,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Can I raise money for my non-profit using crypto tokens?\n\nReferences",
+    "excerpt": "Can I raise money for my non-profit using crypto tokens?\n\nRaising money for a non-profit or common enterprise may be regulated as a crowdsale in the United States. \n\nOrigin and provenance of funds is ",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -3402,7 +3402,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Currency Peg\n\nA currency peg is a policy in which an asset is set to a specific fixed exchange rate for its currency with a foreign currency or basket of currencies.\n\nReferences\n\nRoche, Cullen O. 2011",
+    "excerpt": "Currency Peg\n\nA currency peg is a policy in which an asset is set to a specific fixed exchange rate for its currency with a foreign currency or basket of currencies.\n\nReferences\n\nDaniels, Joseph P., P",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -3811,6 +3811,24 @@
     "sectionTitle": "Concepts",
     "isIndex": false,
     "slug": "/concepts/ethereum"
+  },
+  {
+    "toc": [
+      {
+        "content": "Exchange Value",
+        "slug": "exchange-value",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Exchange Value",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/exchange-value"
   },
   {
     "toc": [
@@ -5751,7 +5769,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Public Goods Problem\n\nA problem in economics where a collective good or service must be sustained by mutualization of funds across different parties with different incentives while maintaining univers",
+    "excerpt": "Public Goods Problem\n\nA problem in economics where a collective good or service must be sustained by mutualization of funds across different parties with different incentives while maintaining access.",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -7774,6 +7792,143 @@
   {
     "toc": [
       {
+        "content": "Web3 is a Libertarian Dystopia",
+        "slug": "web3-is-a-libertarian-dystopia",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Excerpts",
+        "slug": "excerpts",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "NFTs",
+        "slug": "nfts",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Gary Vee's NFTs",
+        "slug": "gary-vees-nfts",
+        "lvl": 3,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Celebrity NFTs",
+        "slug": "celebrity-nfts",
+        "lvl": 3,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Play-to-earn NFTs",
+        "slug": "play-to-earn-nfts",
+        "lvl": 3,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "NFT marketing works exactly like MLMs",
+        "slug": "nft-marketing-works-exactly-like-mlms",
+        "lvl": 3,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Influencers and Poocoins, Securities Fraud",
+        "slug": "influencers-and-poocoins-securities-fraud",
+        "lvl": 3,
+        "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "Cryptoland",
+        "slug": "cryptoland",
+        "lvl": 3,
+        "i": 8,
+        "seen": 0
+      },
+      {
+        "content": "Web3 vs Web3",
+        "slug": "web3-vs-web3",
+        "lvl": 3,
+        "i": 9,
+        "seen": 0
+      },
+      {
+        "content": "Banking the Unbanked",
+        "slug": "banking-the-unbanked",
+        "lvl": 3,
+        "i": 10,
+        "seen": 0
+      },
+      {
+        "content": "Is it secure?",
+        "slug": "is-it-secure",
+        "lvl": 3,
+        "i": 11,
+        "seen": 0
+      },
+      {
+        "content": "Sending money internationally?",
+        "slug": "sending-money-internationally",
+        "lvl": 3,
+        "i": 12,
+        "seen": 0
+      },
+      {
+        "content": "bUt tHe FeD pRiNtS mOnEy",
+        "slug": "but-the-fed-prints-money",
+        "lvl": 3,
+        "i": 13,
+        "seen": 0
+      },
+      {
+        "content": "The Superbowl Crypto ads & the \"Early days\" argument",
+        "slug": "the-superbowl-crypto-ads--the-early-days-argument",
+        "lvl": 3,
+        "i": 14,
+        "seen": 0
+      },
+      {
+        "content": "BItcoin: The Gold Standard & Right-Wing Extremism",
+        "slug": "bitcoin-the-gold-standard--right-wing-extremism",
+        "lvl": 3,
+        "i": 15,
+        "seen": 0
+      },
+      {
+        "content": "Ethereum: Peter Thiel wants your data to build a Libertarian utopia",
+        "slug": "ethereum-peter-thiel-wants-your-data-to-build-a-libertarian-utopia",
+        "lvl": 3,
+        "i": 16,
+        "seen": 0
+      },
+      {
+        "content": "Is this a bubble?",
+        "slug": "is-this-a-bubble",
+        "lvl": 3,
+        "i": 17,
+        "seen": 0
+      }
+    ],
+    "readingTime": 12,
+    "excerpt": "Web3 is a Libertarian Dystopia\n\nA comedic critical video essay on the web3 ideology and culture done by anti-MLM and cultural critic münecat.\n\nhttps://www.youtube.com/watch?v=u-sNSjS8cq0\n\nFrom the vid",
+    "sectionSlug": "/notes",
+    "sectionWeight": 0,
+    "sectionTitle": "Notes",
+    "isIndex": false,
+    "slug": "/notes/web3-dystopia"
+  },
+  {
+    "toc": [
+      {
         "content": "Thanks for subscribing for updates",
         "slug": "thanks-for-subscribing-for-updates",
         "lvl": 1,
@@ -7791,15 +7946,29 @@
   {
     "toc": [
       {
-        "content": "Test page for video embed links in markdown",
-        "slug": "test-page-for-video-embed-links-in-markdown",
+        "content": "Test (Obsidian) wiki link syntax",
+        "slug": "test-obsidian-wiki-link-syntax",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Test video embed links in markdown",
+        "slug": "test-video-embed-links-in-markdown",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Our Approach",
+        "slug": "our-approach",
+        "lvl": 2,
+        "i": 2,
         "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Test page for video embed links in markdown\n\nThis youtube link (https://www.youtube.com/embed/K5JtPTyc0y0) surrounded by newlines in markdown would display as follows:\n\nhttps://www.youtube.com/embed/K",
+    "excerpt": "Test (Obsidian) wiki link syntax\n\nInternal link\n [[recent-events]]\n [[recent-events]]\n\n\nInternal link with custom divider\n [[are-crypto-tokens-securities|Crypto]]\n [[are-crypto-tokens-securities|Crypt",
     "sectionSlug": "/library",
     "sectionWeight": 0,
     "isIndex": false,
@@ -7999,7 +8168,7 @@
       }
     ],
     "readingTime": 3,
-    "excerpt": "Bitcoin is not a means to counter authoritarian regimes\n\nCrypto assets are not a safe haven for one’s investments or a a shield against government tyranny. In his whitepaper Bitcoin, Currencies, and F",
+    "excerpt": "Bitcoin is not a means to counter authoritarian regimes\n\nCrypto assets are not a safe haven for one’s investments or a shield against government tyranny. In his whitepaper Bitcoin, Currencies, and Fra",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -8695,7 +8864,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Can I raise money for my non-profit using crypto tokens?\n\nReferences",
+    "excerpt": "Can I raise money for my non-profit using crypto tokens?\n\nRaising money for a non-profit or common enterprise may be regulated as a crowdsale in the United States. \n\nOrigin and provenance of funds is ",
     "sectionSlug": "/claims",
     "sectionWeight": 0,
     "sectionTitle": "Claims",
@@ -10017,7 +10186,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Currency Peg\n\nA currency peg is a policy in which an asset is set to a specific fixed exchange rate for its currency with a foreign currency or basket of currencies.\n\nReferences\n\nRoche, Cullen O. 2011",
+    "excerpt": "Currency Peg\n\nA currency peg is a policy in which an asset is set to a specific fixed exchange rate for its currency with a foreign currency or basket of currencies.\n\nReferences\n\nDaniels, Joseph P., P",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -10426,6 +10595,24 @@
     "sectionTitle": "Concepts",
     "isIndex": false,
     "slug": "/concepts/ethereum"
+  },
+  {
+    "toc": [
+      {
+        "content": "Exchange Value",
+        "slug": "exchange-value",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Exchange Value",
+    "sectionSlug": "/concepts",
+    "sectionWeight": 0,
+    "sectionTitle": "Concepts",
+    "isIndex": false,
+    "slug": "/concepts/exchange-value"
   },
   {
     "toc": [
@@ -12366,7 +12553,7 @@
       }
     ],
     "readingTime": 1,
-    "excerpt": "Public Goods Problem\n\nA problem in economics where a collective good or service must be sustained by mutualization of funds across different parties with different incentives while maintaining univers",
+    "excerpt": "Public Goods Problem\n\nA problem in economics where a collective good or service must be sustained by mutualization of funds across different parties with different incentives while maintaining access.",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -14389,6 +14576,143 @@
   {
     "toc": [
       {
+        "content": "Web3 is a Libertarian Dystopia",
+        "slug": "web3-is-a-libertarian-dystopia",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Excerpts",
+        "slug": "excerpts",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "NFTs",
+        "slug": "nfts",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Gary Vee's NFTs",
+        "slug": "gary-vees-nfts",
+        "lvl": 3,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Celebrity NFTs",
+        "slug": "celebrity-nfts",
+        "lvl": 3,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Play-to-earn NFTs",
+        "slug": "play-to-earn-nfts",
+        "lvl": 3,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "NFT marketing works exactly like MLMs",
+        "slug": "nft-marketing-works-exactly-like-mlms",
+        "lvl": 3,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Influencers and Poocoins, Securities Fraud",
+        "slug": "influencers-and-poocoins-securities-fraud",
+        "lvl": 3,
+        "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "Cryptoland",
+        "slug": "cryptoland",
+        "lvl": 3,
+        "i": 8,
+        "seen": 0
+      },
+      {
+        "content": "Web3 vs Web3",
+        "slug": "web3-vs-web3",
+        "lvl": 3,
+        "i": 9,
+        "seen": 0
+      },
+      {
+        "content": "Banking the Unbanked",
+        "slug": "banking-the-unbanked",
+        "lvl": 3,
+        "i": 10,
+        "seen": 0
+      },
+      {
+        "content": "Is it secure?",
+        "slug": "is-it-secure",
+        "lvl": 3,
+        "i": 11,
+        "seen": 0
+      },
+      {
+        "content": "Sending money internationally?",
+        "slug": "sending-money-internationally",
+        "lvl": 3,
+        "i": 12,
+        "seen": 0
+      },
+      {
+        "content": "bUt tHe FeD pRiNtS mOnEy",
+        "slug": "but-the-fed-prints-money",
+        "lvl": 3,
+        "i": 13,
+        "seen": 0
+      },
+      {
+        "content": "The Superbowl Crypto ads & the \"Early days\" argument",
+        "slug": "the-superbowl-crypto-ads--the-early-days-argument",
+        "lvl": 3,
+        "i": 14,
+        "seen": 0
+      },
+      {
+        "content": "BItcoin: The Gold Standard & Right-Wing Extremism",
+        "slug": "bitcoin-the-gold-standard--right-wing-extremism",
+        "lvl": 3,
+        "i": 15,
+        "seen": 0
+      },
+      {
+        "content": "Ethereum: Peter Thiel wants your data to build a Libertarian utopia",
+        "slug": "ethereum-peter-thiel-wants-your-data-to-build-a-libertarian-utopia",
+        "lvl": 3,
+        "i": 16,
+        "seen": 0
+      },
+      {
+        "content": "Is this a bubble?",
+        "slug": "is-this-a-bubble",
+        "lvl": 3,
+        "i": 17,
+        "seen": 0
+      }
+    ],
+    "readingTime": 12,
+    "excerpt": "Web3 is a Libertarian Dystopia\n\nA comedic critical video essay on the web3 ideology and culture done by anti-MLM and cultural critic münecat.\n\nhttps://www.youtube.com/watch?v=u-sNSjS8cq0\n\nFrom the vid",
+    "sectionSlug": "/notes",
+    "sectionWeight": 0,
+    "sectionTitle": "Notes",
+    "isIndex": false,
+    "slug": "/notes/web3-dystopia"
+  },
+  {
+    "toc": [
+      {
         "content": "Thanks for subscribing for updates",
         "slug": "thanks-for-subscribing-for-updates",
         "lvl": 1,
@@ -14406,15 +14730,29 @@
   {
     "toc": [
       {
-        "content": "Test page for video embed links in markdown",
-        "slug": "test-page-for-video-embed-links-in-markdown",
+        "content": "Test (Obsidian) wiki link syntax",
+        "slug": "test-obsidian-wiki-link-syntax",
         "lvl": 1,
         "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Test video embed links in markdown",
+        "slug": "test-video-embed-links-in-markdown",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Our Approach",
+        "slug": "our-approach",
+        "lvl": 2,
+        "i": 2,
         "seen": 0
       }
     ],
     "readingTime": 1,
-    "excerpt": "Test page for video embed links in markdown\n\nThis youtube link (https://www.youtube.com/embed/K5JtPTyc0y0) surrounded by newlines in markdown would display as follows:\n\nhttps://www.youtube.com/embed/K",
+    "excerpt": "Test (Obsidian) wiki link syntax\n\nInternal link\n [[recent-events]]\n [[recent-events]]\n\n\nInternal link with custom divider\n [[are-crypto-tokens-securities|Crypto]]\n [[are-crypto-tokens-securities|Crypt",
     "sectionSlug": "/library",
     "sectionWeight": 0,
     "isIndex": false,
