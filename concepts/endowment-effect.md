@@ -3,3 +3,4 @@ The endowment effect is a result in behavioral economical that people are more l
 
 ## References
 1. Plott, Charles R., and Kathryn Zeiler. "Exchange asymmetries incorrectly interpreted as evidence of endowment effect theory and prospect theory?." American Economic Review 97, no. 4 (2007): 1449-1466.
+1. Leibenstein, Harvey. "Bandwagon, snob, and Veblen effects in the theory of consumers' demand." The quarterly journal of economics 64, no. 2 (1950): 183-207.

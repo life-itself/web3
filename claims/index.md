@@ -21,7 +21,7 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Are crypto assets a form of predatory inclusion?](/claims/is-predatory.md)
 * [Is crypto a solution for the unbanked?](/claims/is-crypto-unbanked.md)
 * [Is crypto providing faster payment rails or better remittance services?](/claims/is-better-payments.md)
-* [Are NFTs are good for artists?](/claims/is-nfts-artists.md)
+* [Are NFTs good for artists?](/claims/is-nfts-artists.md)
 * [What is the narrative economics of crypto assets?](/claims/is-narrative-economics.md)
 * [Are crypto assets legal?](/claims/is-legal.md)
 * [Are crypto tokens a negative-sum investment?](/claims/is-negative-sum.md)
@@ -61,4 +61,4 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 
 https://coggle.it/diagram/YhTzF8ZnKihmLdpm/t/web3-taxonomy-of-aspirations-and-claims
 
-![](https://res.cloudinary.com/ds7qslkd0/image/upload/v1647356492/Web3/Web3_Taxonomy_of_Aspirations_and_Claims_m4bmpq.png)
+![](/img/Web3_Taxonomy_of_Aspirations_and_Claims_m4bmpq.png)

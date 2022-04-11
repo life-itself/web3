@@ -29,9 +29,12 @@
     "react-responsive": "^9.0.0-beta.6",
     "react-scrollspy": "^3.4.3",
     "reading-time": "^1.5.0",
+    "rehype-autolink-headings": "^6.1.1",
+    "rehype-slug": "^5.0.1",
     "remark-gfm": "^3.0.0",
     "remark-slug": "^7.0.0",
-    "remark-toc": "^8.0.0"
+    "remark-toc": "^8.0.0",
+    "remark-wiki-link-plus": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",

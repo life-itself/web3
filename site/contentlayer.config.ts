@@ -1,6 +1,9 @@
 import { defineDocumentType, makeSource } from 'contentlayer/source-files'
 // import readingTime from 'reading-time'
 import remarkGfm from 'remark-gfm';
+import rehypeSlug from 'rehype-slug'
+import rehypeAutolinkHeadings from 'rehype-autolink-headings'
+import wikiLinkPlugin from "remark-wiki-link-plus"
 
 export const OtherPage = defineDocumentType(() => ({
   name: 'OtherPage',
@@ -18,6 +21,10 @@ export default makeSource({
   contentDirPath: 'content',
   documentTypes: [OtherPage],
   mdx: {
-    remarkPlugins: [remarkGfm],
+    remarkPlugins: [
+      remarkGfm,
+      [wikiLinkPlugin, { markdownFolder: 'content' }]
+    ],
+    rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings]
   }
 })
