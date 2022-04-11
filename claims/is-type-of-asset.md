@@ -32,6 +32,7 @@ While crypto assets are securities contracts, they are a pathological form of a 
 1. Shri T Rabi Sankar. n.d. ‘Cryptocurrencies – An Assessment’. Reserve Bank of India. Accessed 2 March 2022. https://rbi.org.in/Scripts/BS_SpeechesView.aspx?Id=1196.
 1. Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’. https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf.
 1. Bindseil, Ulrich, Patrick Papsdorf, and Jürgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’. 7 January 2022. https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf.
+1. Walch, Angela. 2017. ‘Blockchain’s Treacherous Vocabulary: One More Challenge for Regulators’. Journal of Internet Law 21 (2).
 1. Corradi, Fiammetta, and Philipp Höfner. 2018. ‘The Disenchantment of Bitcoin: Unveiling the Myth of a Digital Currency’. International Review of Sociology 28 (1): 193–207. https://doi.org/10.1080/03906701.2018.1430067.
 1. Computerphile. 2018. Why Bitcoin Is Not Cash - Computerphile. https://www.youtube.com/watch?v=p9HH_dFcoLc.
 1. Diehl, Stephen. 2021. ‘The Intellectual Incoherence of Cryptoassets’. 7 November 2021. https://www.stephendiehl.com/blog/crypto-absurd.html.

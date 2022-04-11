@@ -13,6 +13,7 @@ Web3 has also been described as a means of doing [regulatory arbitrage](regulato
 1. O’Reilly, Tim. 2021. ‘Why It’s Too Early to Get Excited About Web3’. O’Reilly Media. 13 December 2021. https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/.
 1. Patterson, Dan. 2022. ‘Internet Guru Tim O’Reilly on Web3: “Get Ready for the Crash”’. CBS News. 10 February 2022. https://www.cbsnews.com/news/web3-cryptocurrency-nft-tim-oreilly/.
 1. Weaver, Nicholas. 2021. ‘The Web3 Fraud’. USENIX. 16 December 2021. https://www.usenix.org/publications/loginonline/web3-fraud.
+1. Walch, Angela. 2017. ‘Blockchain’s Treacherous Vocabulary: One More Challenge for Regulators’. Journal of Internet Law 21 (2).
 1. Tante. 2021. ‘The Third Web’. Nodes in a Social Network (blog). 17 December 2021. https://tante.cc/2021/12/17/the-third-web/.
 1. Marlinspike, Moxie. 2022. ‘My First Impressions of Web3’. Moxie Marlinspike. 7 January 2022. https://moxie.org/2022/01/07/web3-first-impressions.html.
 1. Levine, Matt. 2022. ‘Web3 Takes Trust Too’. 10 January 2022. https://www.bloomberg.com/opinion/articles/2022-01-10/web3-takes-trust-too.

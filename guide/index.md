@@ -55,9 +55,10 @@ Understand crypto and "web3" in terms of recent news events and interviews and e
 	3. [Episode #3: Securities Regulation](/notes/are-crypto-tokens-securities.md)
 	4. [Episode #4: Post-state Technocracy](../notes/post-state-technocracy.md)
 	5. [Episode #5: Fintech Incrementalism](../notes/fintech-incrementalism-and-responsible-innovation.md)
-	6. Episode #6: Mining and Climate Change
+	6. Episode #6: Public Goods and Climate Change
 * [Recent News Stories](/notes/recent-events.md)
 * [Commentary on 'Line Goes Up'](../notes/olson-2022-line-go-up.md)
+* [Commentary on 'Web3 is a Libertarian Dystopia'](../notes/web3-dystopia)
 
 ***
 
@@ -173,7 +174,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Sign value](../concepts/sign-value.md)
 * [Whataboutism](../concepts/whataboutism.md)
 * [Bubbles](../concepts/bubble.md)
-* ["Madness of crowds"](../concepts/madness-crowds.md)
+* [Madness of crowds](../concepts/madness-crowds.md)
 * [Decentralization](../concepts/decentralization.md)
 * [Recentralization](../concepts/recentralization.md)
 * [High control groups](../concepts/high-control-group.md)

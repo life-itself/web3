@@ -6,7 +6,7 @@ First pass
 - [ ] [artificial-demand](../concepts/artificial-demand.md)
 - [x] [artificial-scarcity](../concepts/artificial-scarcity.md)
 - [x] [austrian-economics](../concepts/austrian-economics.md)
-- [ ] [bandwagon-bias](../concepts/bandwagon-bias.md)
+- [x] [bandwagon-bias](../concepts/bandwagon-bias.md)
 - [x] [bank](../concepts/bank.md)
 - [x] [bank-run](../concepts/bank.md)
 - [x] [bearer-instrument](../concepts/bearer-instrument.md)
@@ -32,7 +32,7 @@ First pass
 
 Second pass
 
-- [ ] [free-rider-problem](../concepts/free-rider-problem.md)
+- [x] [free-rider-problem](../concepts/free-rider-problem.md)
 - [x] [gambling](../concepts/gambling.md)
 - [x] [ico](../concepts/ico.md)
 - [x] [illicit-financing](../concepts/illicit-financing.md)
@@ -42,7 +42,7 @@ Second pass
 - [x] [market-maker](../concepts/market-maker.md)
 - [x] [meme-stock](../concepts/meme-stock.md)
 - [ ] [mutualization](../concepts/mutualization.md)
-- [ ] [narrative-economics](../concepts/narrative-economics.md)
+- [x] [narrative-economics](../concepts/narrative-economics.md)
 - [x] [network-effect](../concepts/network-effect.md)
 - [x] [order-book](../concepts/order-book.md)
 - [x] [paper-wealth](../concepts/paper-wealth.md)

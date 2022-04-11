@@ -39,7 +39,7 @@ export default function Why() {
             <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                src="https://res.cloudinary.com/ds7qslkd0/image/upload/v1646746321/Web3/undraw_nakamoto_-2-iv6_arq2lb.svg"
+                src="/img/undraw_nakamoto_-2-iv6_arq2lb.svg"
                 alt="Read More"
               />
             </div>
@@ -79,7 +79,7 @@ export default function Why() {
             <div className="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
-                src="https://res.cloudinary.com/ds7qslkd0/image/upload/v1646744477/Web3/undraw_connected_world_wuay_amttde.svg"
+                src="/img/undraw_connected_world_wuay_amttde.svg"
                 alt="Read More"
               />
             </div>
@@ -116,47 +116,19 @@ export default function Why() {
             <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                src="https://res.cloudinary.com/ds7qslkd0/image/upload/v1646744695/Web3/undraw_team_collaboration_re_ow29_s8gvrf.svg"
+                src="/img/undraw_team_collaboration_re_ow29_s8gvrf.svg"
                 alt="Read More"
               />
             </div>
           </div>
         </div>
-      </div>
-      <div className="mt-24">
-        <div className="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-2 lg:grid-flow-col-dense lg:gap-24">
-          <div className="px-4 max-w-xl mx-auto sm:px-6 lg:py-32 lg:max-w-none lg:mx-0 lg:px-0 lg:col-start-2">
-            <div>
-              <div className="mt-6">
-                <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-slate-100">
-                  Our Approach
-                </h2>
-                <p className="mt-4 text-lg text-gray-500">
-                  We intend to take a distinctive approach with three layered
-                  components: (a) distinguishing the key claims and the associated
-                  underlying aspirations; (b) structuring those claims into a
-                  hypothesis trees and evaluating them; and (c) curating a “conceptual
-                  underlay” with introductions to key terms and ideas.
-                </p>
-                <div className="mt-6">
-                  <a
-                    href="/about/"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
-                  >
-                    Read More
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="mt-12 sm:mt-16 lg:mt-0 lg:col-start-1">
-            <div className="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
-              <img
-                className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-md"
-                src="https://res.cloudinary.com/ds7qslkd0/image/upload/v1646744900/Web3/undraw_task_list_6x9d_nmsafi.svg"
-                alt="Read More"
-              />
-            </div>
+        <div className="mt-12 sm:mt-16 lg:mt-0">
+          <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
+            <img
+              className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-md"
+              src="/img/undraw_team_collaboration_re_ow29_s8gvrf.svg"
+              alt="Read More"
+            />
           </div>
         </div>
       </div>
