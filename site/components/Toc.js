@@ -6,7 +6,6 @@ export default function TOC({
   className,
   cssBreakingPoint = "xl",
   toc,
-  contentSelector,
   depth = 2,
   isMobile,
 }) {
@@ -22,13 +21,6 @@ export default function TOC({
       content: item.content
         .replace(/[\s]?\{\#[\w\d\-_]+\}$/, "")
         .replace(/(<([^>]+)>)/gi, ""),
-      //For TOC rendering in specification files in the spec repo we have "a" tags added manually to the spec markdown document
-      //MDX takes these "a" tags and uses them to render the "id" for headers like a-namedefinitionsapplicationaapplication
-      //slugWithATag contains transformed heading name that is later used for scroll spy identification
-      slugWithATag: item.content
-        .replace(/<|>|"|\\|\/|=/gi, "")
-        .replace(/\s/gi, "-")
-        .toLowerCase(),
     }));
   const [open, setOpen] = useState(true);
   return (
@@ -76,19 +68,7 @@ export default function TOC({
             >
               {item.content}
             </Link>
-            // <a
-            //   key={index}
-            //   className={`pl-${
-            //     (item.lvl - minLevel) * 2
-            //   } block mb-1 transition duration-100 ease-in-out no-underline font-normal text-sm font-sans antialiased hover:underline`}
-            //   href={`#${item.slug}`}
-            // >
-            //   {item.content}
-            // </a>
           ))}
-          {/* <Link section="1">Section 1</Link>
-          <Link section="2">Section 2</Link>
-          <Link section="3">Section 3</Link> */}
         </ScrollSpy>
       </div>
     </div>
