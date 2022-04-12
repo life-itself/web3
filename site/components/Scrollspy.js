@@ -1,24 +1,6 @@
-import React, { Component, createElement } from "react";
+import { Component, createElement } from "react";
 import PropTypes from "prop-types";
-import { findDOMNode } from "react-dom";
 
-// usage:
-// import { ScrollSpy, Link } = './wherever-this-file-is'
-//
-// <ScrollSpy>
-//   <Link ref={c => this._firstLink = c} section="1">Section 1</Link>
-//   <Link section="2">Section 2</Link>
-//   <Link section="3">Section 3</Link>
-// </ScrollSpy>
-// <section id="1">
-//   ...
-// </section>
-// <section id="2">
-//   ...
-// </section>
-// <section id="3">
-//   ...
-// </section>
 
 export class ScrollSpy extends Component {
   static childContextTypes = {
@@ -68,7 +50,6 @@ export class ScrollSpy extends Component {
         currentSection = section.id;
       }
     }
-
       this.setState({ currentSection });
   };
     
@@ -88,7 +69,6 @@ export class Link extends Component {
 
   componentDidMount() {
       this.context.scrollSpy.registerLink(this.props.section);
-      console.log(this.context);
   }
 
   render() {
