@@ -1,5 +1,4 @@
-import { useState } from "react";
-import Scrollspy from "react-scrollspy";
+import { useState, useRef } from "react";
 import ArrowRight from "./icons/ArrowRight";
 
 export default function TOC({
@@ -21,13 +20,20 @@ export default function TOC({
     slugWithATag: item.content.replace(/<|>|"|\\|\/|=/gi, '').replace(/\s/gi, '-').toLowerCase()
 }))
   const [open, setOpen] = useState(true);
+    const sectionRefs = [
+      useRef(null),
+      useRef(null),
+      useRef(null),
+      useRef(null),
+      useRef(null),
+    ];
   return (
     <div
       className={`${className} ${
         tocItems.length ? "" : "hidden"
-        } ${cssBreakingPoint}:block z-20 w-full`}
+      } ${cssBreakingPoint}:block z-20 w-full`}
       style={{
-        width: isMobile ? "100%": "20%"
+        width: isMobile ? "100%" : "20%",
       }}
     >
       <div
@@ -54,12 +60,7 @@ export default function TOC({
         </div>
       </div>
       <div className={`${!open && "hidden"} ${cssBreakingPoint}:block`}>
-        <Scrollspy
-          items={tocItems.map((item) => item.slugWithATag)}
-          currentClassName="text-base font-extrabold text-yellow-500"
-          componentTag="div"
-          rootEl={contentSelector}
-        >
+        <div>
           {tocItems.map((item, index) => (
             <a
               key={index}
@@ -71,7 +72,7 @@ export default function TOC({
               {item.content}
             </a>
           ))}
-        </Scrollspy>
+        </div>
       </div>
     </div>
   );
