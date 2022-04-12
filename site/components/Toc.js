@@ -1,4 +1,5 @@
-import { useState, useRef } from "react";
+import { useState } from "react";
+import { ScrollSpy, Link } from "./Scrollspy";
 import ArrowRight from "./icons/ArrowRight";
 
 export default function TOC({
@@ -7,26 +8,29 @@ export default function TOC({
   toc,
   contentSelector,
   depth = 2,
-  isMobile
+  isMobile,
 }) {
   if (!toc || !toc.length) return null;
-  const minLevel = toc.reduce((mLevel, item) => (!mLevel || item.lvl < mLevel) ? item.lvl : mLevel, 0)
-  const tocItems = toc.filter(item => item.lvl <= minLevel + depth).map(item => ({
-    ...item,
-    content: item.content.replace(/[\s]?\{\#[\w\d\-_]+\}$/, '').replace(/(<([^>]+)>)/gi, ''),
-    //For TOC rendering in specification files in the spec repo we have "a" tags added manually to the spec markdown document
-    //MDX takes these "a" tags and uses them to render the "id" for headers like a-namedefinitionsapplicationaapplication
-    //slugWithATag contains transformed heading name that is later used for scroll spy identification
-    slugWithATag: item.content.replace(/<|>|"|\\|\/|=/gi, '').replace(/\s/gi, '-').toLowerCase()
-}))
+  const minLevel = toc.reduce(
+    (mLevel, item) => (!mLevel || item.lvl < mLevel ? item.lvl : mLevel),
+    0
+  );
+  const tocItems = toc
+    .filter((item) => item.lvl <= minLevel + depth)
+    .map((item) => ({
+      ...item,
+      content: item.content
+        .replace(/[\s]?\{\#[\w\d\-_]+\}$/, "")
+        .replace(/(<([^>]+)>)/gi, ""),
+      //For TOC rendering in specification files in the spec repo we have "a" tags added manually to the spec markdown document
+      //MDX takes these "a" tags and uses them to render the "id" for headers like a-namedefinitionsapplicationaapplication
+      //slugWithATag contains transformed heading name that is later used for scroll spy identification
+      slugWithATag: item.content
+        .replace(/<|>|"|\\|\/|=/gi, "")
+        .replace(/\s/gi, "-")
+        .toLowerCase(),
+    }));
   const [open, setOpen] = useState(true);
-    const sectionRefs = [
-      useRef(null),
-      useRef(null),
-      useRef(null),
-      useRef(null),
-      useRef(null),
-    ];
   return (
     <div
       className={`${className} ${
@@ -60,19 +64,32 @@ export default function TOC({
         </div>
       </div>
       <div className={`${!open && "hidden"} ${cssBreakingPoint}:block`}>
-        <div>
+        <ScrollSpy>
           {tocItems.map((item, index) => (
-            <a
+            <Link
               key={index}
+              currentClassName="text-base font-extrabold text-yellow-500"
+              section={item.slug}
               className={`pl-${
                 (item.lvl - minLevel) * 2
               } block mb-1 transition duration-100 ease-in-out no-underline font-normal text-sm font-sans antialiased hover:underline`}
-              href={`#${item.slug}`}
             >
               {item.content}
-            </a>
+            </Link>
+            // <a
+            //   key={index}
+            //   className={`pl-${
+            //     (item.lvl - minLevel) * 2
+            //   } block mb-1 transition duration-100 ease-in-out no-underline font-normal text-sm font-sans antialiased hover:underline`}
+            //   href={`#${item.slug}`}
+            // >
+            //   {item.content}
+            // </a>
           ))}
-        </div>
+          {/* <Link section="1">Section 1</Link>
+          <Link section="2">Section 2</Link>
+          <Link section="3">Section 3</Link> */}
+        </ScrollSpy>
       </div>
     </div>
   );
