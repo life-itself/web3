@@ -17,8 +17,11 @@ export default function MdxPage({ children }) {
           {frontmatter.authors && (
             <div className="-mt-6"><p className="opacity-60 pl-1">{frontmatter.authors}</p></div>
           )}
+          {frontmatter.date && (
+            <p className="">{frontmatter.date}</p>
+          )}
           {frontmatter.description && (
-            <p className="description">{frontmatter.description}</p>
+            <p classname="">frontmatter.description}</p>
           )}
         </div>
       </header>
