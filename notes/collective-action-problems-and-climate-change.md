@@ -2,8 +2,9 @@
 
 In episode #6 of the series, Rufus Pollock and Stephen Diehl explore the interaction of climate change and public goods problems, focusing on an example of an attempted solution to solve a public goods problem within the climate space using a Decentralized Autonomous Organization: KlimaDAO.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLXtnCL6IxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Youtube: 
+* Youtube: [https://www.youtube.com/watch?v=SLXtnCL6IxE](https://www.youtube.com/watch?v=SLXtnCL6IxE)
 * Podcast:
 * Wiki topic: [public-goods-problem](../concepts/public-goods-problem.md)
 
@@ -137,7 +138,7 @@ Lastly, Rufus and Stephen consider the topic of public goods problems and climat
     * [Private money](../concepts/private-money.md) is not the answer because private money has no capacity to be a widespread medium of exchange. Therefore its incentives are at-best local and not global. We need global solutions to address civilization level problems. 
   * Left wing perspective on the climate collective action problem is the only coherent story. [Visionary realism: A green future beyond capitalism - Yanis Varoufakis, Ann Pettifor & Noam Chomsky
 ](https://www.youtube.com/watch?v=VGFdvw8cOR4)
-    *  collective action problems can only be solved by kind of toning back on the excesses of capitalism, funding more things through the state and using the state as a means to affect change on a supranational level.
+    *  Climate collective action problems can only be solved by kind of dialling back on the excesses of capitalism, funding more things through the state and using the state as a means to affect change on a supranational level.
 * **Tackling climate change requires humanity to become wiser and more economically literate about the free rider problem. It requires new ways of thinking about economic growth and a different ontological perspective about our shared humanity in relation to our children’s future**. 
   * These answers cannot be rooted in more extreme forms of neoliberalism. Neoliberalism is why we have climate change and why our political system is paralyzed to address the scale of the tragedy of the commons' problems.
     * KlimaDAO manifesto: “Freedom is freedom to consume as the individual sees fit” is **a neoliberal reading of freedom that becomes meaningless in the face of existential threats to human flourishing.**
@@ -158,6 +159,7 @@ The underlying aspirations of KlimaDAO are laudable and the thought process behi
 1. ———. 2019b. ‘In Code (Rs) We Trust: Software Developers as Fiduciaries in Public Blockchains’.
 1. ———. 2019c. ‘Software Developers as Fiduciaries in Public Blockchains’. Regulating Blockchain. Techno-Social and Legal Challenges, Ed. by Philipp Hacker, Ioannis Lianos, Georgios Dimitropoulos & Stefan Eich, Oxford University Press, 2019. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3203198.
 1. Allen, Hilary J. 2022. ‘DeFi: Shadow Banking 2.0?’ William & Mary Law Review, Forthcoming.
+1. Pettifor, Ann. 2021. ‘Reclaiming Central Banks | by Ann Pettifor’. Project Syndicate. 21 September 2021. https://www.project-syndicate.org/onpoint/central-banks-favoring-private-capital-over-democratic-climate-goals-by-ann-pettifor-1-2021-09.
 1. Aramonte, Sirio, Wenqian Huang, and Andreas Schrimpf. 2021. ‘DeFi Risks and the Decentralisation Illusion’, 16.
 1. Barbereau, Tom, Reilly Smethurst, Orestis Papageorgiou, Alexander Rieger, and Gilbert Fridgen. 2022. ‘DeFi, Not So Decentralized: The Measured Distribution of Voting Rights’. In Proceedings of the 55th Hawaii International Conference on System Sciences. https://scholarspace.manoa.hawaii.edu/handle/10125/80074.
 1. Barbereau, Tom, Reilly Smethurst, Orestis Papageorgiou, Johannes Sedlmeir, and Gilbert Fridgen. 2022. ‘Decentralised Finance’s Unregulated Governance: Minority Rule in the Digital Wild West’. Available at SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4001891.
