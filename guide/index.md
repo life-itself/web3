@@ -55,7 +55,8 @@ Understand crypto and "web3" in terms of recent news events and interviews and e
 	3. [Episode #3: Securities Regulation](/notes/are-crypto-tokens-securities.md)
 	4. [Episode #4: Post-state Technocracy](../notes/post-state-technocracy.md)
 	5. [Episode #5: Fintech Incrementalism](../notes/fintech-incrementalism-and-responsible-innovation.md)
-	6. Episode #6: Public Goods and Climate Change
+	6. [Episode #6: Public Goods and Climate Change](../notes/collective-action-problems-&-climate-change.md)
+	7. Episode #7: Authoritarianism
 * [Recent News Stories](/notes/recent-events.md)
 * [Commentary on 'Line Goes Up'](../notes/olson-2022-line-go-up.md)
 * [Commentary on 'Web3 is a Libertarian Dystopia'](../notes/web3-dystopia)
