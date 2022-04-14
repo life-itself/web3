@@ -59,3 +59,23 @@ Any clearer?
 
 ## https://docs.klimadao.finance/klima-dao-ecosystem
 
+# Notes
+
+![drawing-2022-04-07-20.37.42.excalidraw](../excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)
+
+Understanding how it works ...
+
+https://docs.klimadao.finance/klima-dao-ecosystem
+
+* BCT = "Base Carbon Tonne"
+  > The BCT (Base Carbon Tonne) — KlimaDAO's reserve asset — is a carbon offset index token representing a basket of different tokenised carbon tonnes starting with `TCO2`. [https://docs.klimadao.finance/klima-dao-ecosystem]
+
+### What is the price of the BCT
+
+Since the BCT is what they hold in the treasury and provides the core "intrinsic value" it is important to understand what it's price is.
+
+
+* Klima DAO’s current capture cost is ~8 usd/tn (the price of BCT tokens) [https://hristovbz.medium.com/klima-dao-for-apes-degens-ogs-195af0b4cd0b - Nov 30 2021]
+* This seems low see e.g. this post from KlimaDAO itself https://klimadao.medium.com/carbon-markets-retail-offset-pricing-4eab0f6196c0 which includes this graphic
+  
+   ![](../assets/Pasted%20image%2020220407210614.png)
