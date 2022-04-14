@@ -5,7 +5,7 @@ import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import wikiLinkPlugin from "remark-wiki-link-plus"
 
-const OtherPage = defineDocumentType(() => ({
+export const OtherPage = defineDocumentType(() => ({
   name: 'OtherPage',
   filePathPattern: '**/*.md*',
   contentType: 'mdx',
