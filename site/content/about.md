@@ -45,7 +45,7 @@ We think good sensemaking begins by clarifying and agreeing the questions we wan
 
 And here is our full structured tree of questions:
 
-![](https://res.cloudinary.com/ds7qslkd0/image/upload/v1647346642/Web3/Web3_What_is_the_evaluation_of_the_various_claims_ve_or_-ve_for_web3crypto_and_the_supporting_reasoningsensemaking_so_that__we_collectively_as_individuals_societies_etc_make_good_choices_te_the_technology_wh_awh0yl.png)
+![](/img/Web3_What_is_the_evaluation_of_the_various_claims_ve_or_-ve_for_web3crypto_and_the_supporting_reasoningsensemaking_so_that__we_collectively_as_individuals_societies_etc_make_good_choices_te_the_technology_wh_awh0yl.png)
 
 ## Our Approach
 
@@ -57,7 +57,7 @@ We intend to take a distinctive approach. It has three key, layered components:
 
 First, we distinguish the key claims being made and the underlying aspiration behind them. For example, “blockchain allows for easier collaborative decision making” connects to an aspiration of more democratic governance. This brings clarity to the discussion: claims are atomic, well-defined and separate but connected to aspirations.
 
-![](https://res.cloudinary.com/ds7qslkd0/image/upload/v1647356492/Web3/Web3_Taxonomy_of_Aspirations_and_Claims_m4bmpq.png)
+![](/img/Web3_Taxonomy_of_Aspirations_and_Claims_m4bmpq.png)
 
 Second, we transparently structure and steel-man the claims. In particular, using hypothesis trees we can break down a larger claim into sub-claims. For example, “blockchain allows for easier collaborative decision making” could break down into the claims: “a major problem for collaborative decision making is creating and tracking votes, especially at scale” and “blockchain makes it easier to create and track votes”. We combine this structured approach with the principle of generosity or steel-manning: creating the best version of any claim or thesis.
 
@@ -69,7 +69,7 @@ Third, we provide a high quality “conceptual underlay” with definitions and 
 
 First, it provides a basic introduction for those coming to the topic with simple, neutral summaries of the key ideas and terms. Second, it provides a base “layer” that underpins the evaluative work and the overall sensemaking effort. For example, suppose you want to evaluate the claim that DAOs can help address the climate crisis. To do that you are going to need contextual material about public goods, [free rider problems](../../concepts/free-rider-problem.md)  – as well as information on what a DAO is! In addition, this is an area where meanings of key terms are crucial and often [ill-defined](../../claims/is-well-defined.md) for example what exactly do we mean by “collaboration” or “freedom” (and is our meaning shared)? By providing reference material and common definitions we can ground and inform the debate and avoid “talking past each other”.
 
-![](https://res.cloudinary.com/ds7qslkd0/image/upload/v1647432615/Web3/crypto_for_good_iedlhs.png)
+![](/img/crypto_for_good_iedlhs.png)
 
 Finally, this reference layer is useful beyond claim evaluation. One of the exciting things about crypto and web3 is it engages with old, profound social and political questions such as the nature of money or the best form of government. However, in the excitement of novelty there can be a lack of awareness of existing literatures and historical precedents – which risks reinventing the wheel or, worse, repeating old mistakes. A solid conceptual background can help reduces these risks and improve the overall quality of discussion.
 
