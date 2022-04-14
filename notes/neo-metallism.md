@@ -1,13 +1,16 @@
-# Neo-Metallism
+---
+title: Web3, Bitcoin and Neo-metallism
+created: 2022-04-13
+date: 2022-02-17
+image: /img/Neo-metallism_Thumb_vo3dhs.png
+description: "In this episode we examine Bitcoin and the Neo-Metallist thesis, i.e. that a gold-standard was a good idea and a Bitcoin-standard would be even better."
+youtube: https://www.youtube.com/embed/_o7pRFLzJHY
+---
 
-In episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on Bitcoin and the concept of "digital" gold.
+https://www.youtube.com/watch?v=_o7pRFLzJHY&t=568s
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_o7pRFLzJHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-* Youtube: https://www.youtube.com/embed/_o7pRFLzJHY
 * Podcast: https://anchor.fm/life-itself/episodes/Stephen-Diehl-on-Web3--Bitcoin--Neometalism-e1f5rca
-* Wiki topic:  [is-digital-gold](../claims/is-digital-gold.md)
+* Wiki topic: [is-digital-gold](../claims/is-digital-gold.md)
 
 ***
 

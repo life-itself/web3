@@ -47,27 +47,24 @@ export default function MdxPage({ children }) {
   const { Component, frontmatter } = children;
     const post = getPostBySlug(`/${query.slug[0]}`)
   return (
-    <div className="flex justify-center">
-      <article className="prose dark:prose-invert p-6 min-w-full ">
-        <header>
-          <div className="mb-6">
-            <h1>{frontmatter.title}</h1>
-            {frontmatter.authors && (
-              <div className="-mt-6">
-                <p className="opacity-60 pl-1">{frontmatter.authors}</p>
-              </div>
-            )}
-            {frontmatter.description && (
-              <p className="description">{frontmatter.description}</p>
-            )}
-          </div>
-        </header>
-        <ContentLayout post={post}>
-          <main className="lg:w-full p-4">
-            <Component components={components} />
-          </main>
-        </ContentLayout>
-      </article>
-    </div>
-  );
+    <article className="prose dark:prose-invert mx-auto p-6">
+      <header>
+        <div className="mb-6">
+          <h1>{frontmatter.title}</h1>
+          {frontmatter.authors && (
+            <div className="-mt-6"><p className="opacity-60 pl-1">{frontmatter.authors}</p></div>
+          )}
+          {frontmatter.date && (
+            <p className="">{frontmatter.date}</p>
+          )}
+          {frontmatter.description && (
+            <p classname="">frontmatter.description}</p>
+          )}
+        </div>
+      </header>
+      <main>
+        <Component components={components} />
+      </main>
+    </article>
+  )
 }
