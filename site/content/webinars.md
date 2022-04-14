@@ -10,14 +10,10 @@ The full list of webinars can be found below:
 
 ### Responsible Innovation: Cryptocurrency and the Regulatory Permimiter
 
-**Date and Time** 
-
-May 5th 2022, 14:00 UK, 9:00 EST, 13:00 UTC, 08:00 CST  _(subject to finalisation)_
-
-Running time: 2 hours
-
 **Description** 
 
 This invite-only webinar for leaders in technology, policy and finance to explore how financial regulation might be applied to cryptocurrencies to safeguard users without stifling innovation. It will also outline different paths to achieving the aspirations for a more stable and inclusive financial system which are spoken to by portions of the cryptocurrency movement. 
 
 The webinar will explain a number of decision relevant concepts and outline illustrative case studies, before turning to a discussion of how we might understand responsible innovation in the case of cryptocurrency, and how the broader financial aspirations of the cryptocurrency movement might be achieved. There will be significant time allocated to Q&A and participant led discussion to ensure pressing questions are addressed. This will be conducted under Chatham House Rules. 
+
+Date and Time TBC
