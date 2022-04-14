@@ -2474,7 +2474,7 @@
       }
     ],
     "readingTime": 2,
-    "excerpt": "Anarcho-capitalism\n\nAnarcho-capitalism is a political ideology that synthesises beliefs from capitalism and anarchy. It's adherents believe in the the elimination of centralized nation states in favou",
+    "excerpt": "Anarcho-capitalism\n\nAnarcho-capitalism is a political ideology that synthesises beliefs from capitalism and anarchy. Its adherents believe in the the elimination of centralized nation states in favour",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -7127,6 +7127,469 @@
     "slug": "/library"
   },
   {
+    "title": "Meta",
+    "isSection": true,
+    "slug": "/meta"
+  },
+  {
+    "toc": [
+      {
+        "content": "Citations Needed",
+        "slug": "citations-needed",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Citations Needed\n\nFirst pass\n\naml\namm\nartificial-demand\nartificial-scarcity\naustrian-economics\nbandwagon-bias\nbank\nbank-run\nbearer-instrument\nbond\nbretton-woods\nbroker\nbucket-shop\ncartel\ncd\ncds\ncollat",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/citations-todo"
+  },
+  {
+    "toc": [
+      {
+        "content": "Claims & Aspirations DB",
+        "slug": "claims--aspirations-db",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Claims/Aspirations Database 2022-03-11",
+        "slug": "claimsaspirations-database-2022-03-11",
+        "lvl": 3,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Claims & Aspirations DB\n\nClaims/Aspirations Database 2022-03-11\n\nAnalysis of needs for DBIdentify needs for this \"database\" e.g. a) does it need to be structured b draft as well as finished material c",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/claims-db"
+  },
+  {
+    "toc": [
+      {
+        "content": "Claims TODO",
+        "slug": "claims-todo",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Claims TODO\n\nis-authoritarianism\nis-web3-decentralized\nis-environmental-footprint\nis-bubble\nnarrative-economics\nis-digital-gold\nis-new-internet\nis-risk-to-state\nsystemic-risk\nis-threat-dollar\nvaluatio",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/claims-todo"
+  },
+  {
+    "toc": [
+      {
+        "content": "Conceps TODO",
+        "slug": "conceps-todo",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Conceps TODO\n\nFirst pass\n\nkeynsian-economics\nlibertarianism\nmarket-fundamentalism\nmarxism\npost-state-technocracy\ntechno-collectivism\ntechnolibertarianism\ntechnosolutionism\naml\ncensorship-resistence\nde",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/concepts-todo"
+  },
+  {
+    "toc": [
+      {
+        "content": "Design of the Site and Project",
+        "slug": "design-of-the-site-and-project",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Wireframes and Mockups",
+        "slug": "wireframes-and-mockups",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Home page",
+        "slug": "home-page",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Content Plan (and Info Architecture)",
+        "slug": "content-plan-and-info-architecture",
+        "lvl": 1,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Journey as a user ...",
+        "slug": "journey-as-a-user-",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Issue Tree",
+        "slug": "issue-tree",
+        "lvl": 1,
+        "i": 5,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Design of the Site and Project\n\ne.g. information architecture, job stories etc.\n\nLaunchable and announceable website.\n\nWireframes and Mockups\n\nHome page\n\nMockup of home page (design): https://excalidr",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/design"
+  },
+  {
+    "toc": [
+      {
+        "content": "Editing Guide",
+        "slug": "editing-guide",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Editing Guide\n\nThis is a guide to help people contribute content or manage contribution of content. Focus is on the \"wiki\" content stored in markdown -- which is all pages except the front page and a ",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/editing"
+  },
+  {
+    "created": "2022-03-11T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "How rough and ready are we?",
+        "slug": "how-rough-and-ready-are-we",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "How rough and ready are we?\n\nBeing polished:Why? Look more professional, inviting to e.g. journalists, policy-makers, being an authoritative voice\nCons: slows thing down (a lot), makes it harder for c",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/how-rough-and-ready"
+  },
+  {
+    "toc": [
+      {
+        "content": "Intercitations TODO",
+        "slug": "intercitations-todo",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Intercitations TODO\n\nConcepts\n\nweb3\ncryptoasset\nnft\nmoney\nprivate-money\ngold-standard\npost-state-technocracy\nsecurity\ncrypto-exchange\n\nClaims\n\nis-bitcoin-currency\nis-blockchain-tech\nis-weird-culture\ni",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/intercitations-todo"
+  },
+  {
+    "toc": [],
+    "readingTime": 1,
+    "excerpt": "What are the various claims for web3/crypto (+ve or -ve) and their constructive evaluation so that as individuals and societies we make good choices whether to support, improve or curb it as well as t",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/issue-tree"
+  },
+  {
+    "toc": [
+      {
+        "content": "Plan",
+        "slug": "plan",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Goals",
+        "slug": "goals",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Milestones (WIP)",
+        "slug": "milestones-wip",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Timeline",
+        "slug": "timeline",
+        "lvl": 1,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Fri 11 March",
+        "slug": "fri-11-march",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Workstreams",
+        "slug": "workstreams",
+        "lvl": 1,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Content",
+        "slug": "content",
+        "lvl": 1,
+        "i": 6,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Plan\n\nHigh level plan is given by issue tree: https://docs.google.com/spreadsheets/d/12Yh1kuxH4uoposLUJsJifM2W_zixkAhlc7QgcKavfls/edit#gid=2049708942\n\nGoals\n\nFeatures\n\nMMVP website up so that we can s",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/plan"
+  },
+  {
+    "title": "Projects",
+    "isSection": true,
+    "slug": "/meta/projects"
+  },
+  {
+    "created": "2022-03-10T00:00:00.000Z",
+    "due": "2022-03-17T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "Announcing the Initial Launch (march 2022)",
+        "slug": "announcing-the-initial-launch-march-2022",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Announcing the Initial Launch (march 2022)\n\nSee https://github.com/life-itself/web3/issues/65",
+    "sectionSlug": "/meta/projects",
+    "sectionWeight": 0,
+    "sectionTitle": "Projects",
+    "isIndex": false,
+    "slug": "/meta/projects/announce-v0.1"
+  },
+  {
+    "created": "2022-03-10T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "Get a Roadmap v0.1",
+        "slug": "get-a-roadmap-v01",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Acceptance",
+        "slug": "acceptance",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Meta (how we organize)",
+        "slug": "meta-how-we-organize",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Tasks",
+        "slug": "tasks",
+        "lvl": 2,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Prep",
+        "slug": "prep",
+        "lvl": 3,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Background",
+        "slug": "background",
+        "lvl": 3,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Brainstorm and Organize 👈",
+        "slug": "brainstorm-and-organize-👈",
+        "lvl": 3,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Simplification of tools and process for content",
+        "slug": "simplification-of-tools-and-process-for-content",
+        "lvl": 3,
+        "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "Consolidate our claims database stuff in one place",
+        "slug": "consolidate-our-claims-database-stuff-in-one-place",
+        "lvl": 3,
+        "i": 8,
+        "seen": 0
+      },
+      {
+        "content": "Misc",
+        "slug": "misc",
+        "lvl": 3,
+        "i": 9,
+        "seen": 0
+      }
+    ],
+    "readingTime": 6,
+    "excerpt": "Get a Roadmap v0.1\n\nWhat & Why: We want a clear near-term roadmap with associated tasks so that\n\nwe know what to prioritize\nhave goals (to inspire us)\ncan efficiently self-organize in a distributed, p",
+    "sectionSlug": "/meta/projects",
+    "sectionWeight": 0,
+    "sectionTitle": "Projects",
+    "isIndex": false,
+    "slug": "/meta/projects/roadmap-v0.1"
+  },
+  {
+    "created": "2022-03-10T00:00:00.000Z",
+    "due": "2022-03-11T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "Website v0.1",
+        "slug": "website-v01",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Analysis",
+        "slug": "analysis",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Online location and website",
+        "slug": "online-location-and-website",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Design",
+        "slug": "design",
+        "lvl": 3,
+        "i": 3,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Website v0.1\n\n🚩 👉 MOVED to issue https://github.com/life-itself/web3/issues/66 👈\n\n\nAnalysis\n\nOnline location and website\n\nDo we want a \"dedicated\" website for this? ✅Yes because running of a github",
+    "sectionSlug": "/meta/projects",
+    "sectionWeight": 0,
+    "sectionTitle": "Projects",
+    "isIndex": false,
+    "slug": "/meta/projects/website-v0.1"
+  },
+  {
+    "aliases": [
+      "Sensemaking"
+    ],
+    "toc": [
+      {
+        "content": "Sensemaking",
+        "slug": "sensemaking",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Sensemaking\n\nsensemaking-3-layers-2022-03-04.excalidraw",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/sensemaking"
+  },
+  {
+    "toc": [
+      {
+        "content": "What and Why of this Project",
+        "slug": "what-and-why-of-this-project",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Notes",
+        "slug": "notes",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "4 Feb 2022",
+        "slug": "4-feb-2022",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "What and Why of this Project\n\nNotes\n\n4 Feb 2022\n\n#todo/process\n\nIntention: deep collective \"sensemaking\" on crypto, web3 etc.\n\nSensemaking = making sense of it. Intellectually, emotionally etc.\n\nColle",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/what-and-why"
+  },
+  {
     "title": "Notes",
     "isSection": true,
     "slug": "/notes"
@@ -7204,6 +7667,87 @@
     "sectionTitle": "Notes",
     "isIndex": false,
     "slug": "/notes/are-crypto-tokens-securities"
+  },
+  {
+    "toc": [
+      {
+        "content": "Collective Action Problems & Climate Change",
+        "slug": "collective-action-problems--climate-change",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Episode Notes",
+        "slug": "episode-notes",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Summary",
+        "slug": "summary",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "What is KlimaDAO?",
+        "slug": "what-is-klimadao",
+        "lvl": 2,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Steel Manning KlimaDAO",
+        "slug": "steel-manning-klimadao",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "*The Ministry of the Future* - Kim Stanley Robinson",
+        "slug": "the-ministry-of-the-future---kim-stanley-robinson",
+        "lvl": 2,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Evaluation",
+        "slug": "evaluation",
+        "lvl": 2,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Climate and public goods problems",
+        "slug": "climate-and-public-goods-problems",
+        "lvl": 2,
+        "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "Conclusion",
+        "slug": "conclusion",
+        "lvl": 2,
+        "i": 8,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 9,
+        "seen": 0
+      }
+    ],
+    "readingTime": 29,
+    "excerpt": "Collective Action Problems & Climate Change\n\nIn episode #6 in our series of deep dives into crypto and web3, Rufus Pollock and Stephen Diehl explore the interaction of climate change and public goods ",
+    "sectionSlug": "/notes",
+    "sectionWeight": 0,
+    "sectionTitle": "Notes",
+    "isIndex": false,
+    "slug": "/notes/collective-action-problems-and-climate-change"
   },
   {
     "toc": [
@@ -7361,87 +7905,86 @@
     "slug": "/notes/market-fundamentalism"
   },
   {
+    "title": "Web3, Bitcoin and Neo-metallism",
+    "created": "2022-04-13T00:00:00.000Z",
+    "date": "2022-02-17T00:00:00.000Z",
+    "image": "/img/Neo-metallism_Thumb_vo3dhs.png",
+    "description": "In this episode we examine Bitcoin and the Neo-Metallist thesis, i.e. that a gold-standard was a good idea and a Bitcoin-standard would be even better.",
+    "youtube": "https://www.youtube.com/embed/_o7pRFLzJHY",
     "toc": [
-      {
-        "content": "Neo-Metallism",
-        "slug": "neo-metallism",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
       {
         "content": "Episode Notes",
         "slug": "episode-notes",
         "lvl": 1,
-        "i": 1,
+        "i": 0,
         "seen": 0
       },
       {
         "content": "Summary",
         "slug": "summary",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       },
       {
         "content": "What is Neo-Metallism?",
         "slug": "what-is-neo-metallism",
         "lvl": 2,
-        "i": 3,
+        "i": 2,
         "seen": 0
       },
       {
         "content": "Gold as Currency",
         "slug": "gold-as-currency",
         "lvl": 2,
-        "i": 4,
+        "i": 3,
         "seen": 0
       },
       {
         "content": "Why the Gold Standard: Fiat Money, Sound Money and the Gold Standard",
         "slug": "why-the-gold-standard-fiat-money-sound-money-and-the-gold-standard",
         "lvl": 3,
-        "i": 5,
+        "i": 4,
         "seen": 0
       },
       {
         "content": "Steel-Manning the Neo-Metallist Position",
         "slug": "steel-manning-the-neo-metallist-position",
         "lvl": 2,
-        "i": 6,
+        "i": 5,
         "seen": 0
       },
       {
         "content": "Evaluating the Neo-Metallist Position",
         "slug": "evaluating-the-neo-metallist-position",
         "lvl": 2,
-        "i": 7,
+        "i": 6,
         "seen": 0
       },
       {
         "content": "A Final Note on Trust",
         "slug": "a-final-note-on-trust",
         "lvl": 2,
-        "i": 8,
+        "i": 7,
         "seen": 0
       },
       {
         "content": "Concepts Covered",
         "slug": "concepts-covered",
         "lvl": 2,
-        "i": 9,
+        "i": 8,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 10,
+        "i": 9,
         "seen": 0
       }
     ],
     "readingTime": 15,
-    "excerpt": "Neo-Metallism\n\nIn episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on Bitcoin and the concept of \"digital\" gold.\n\nYoutube",
+    "excerpt": "https://www.youtube.com/watch?v=_o7pRFLzJHY&t=568s\n\nPodcast: https://anchor.fm/life-itself/episodes/Stephen-Diehl-on-Web3--Bitcoin--Neometalism-e1f5rca\nWiki topic: is-digital-gold\n\n\nEpisode Notes\n\nSum",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",
@@ -7649,6 +8192,26 @@
     "slug": "/notes/olson-2022-line-go-up"
   },
   {
+    "created": "2022-04-13T00:00:00.000Z",
+    "date": "2022-04-08T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "Dialogue with Pia Mancini on Open Collective",
+        "slug": "dialogue-with-pia-mancini-on-open-collective",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Dialogue with Pia Mancini on Open Collective\n\npia-mancini-open-collective-dialog-2022-04-08.excalidraw",
+    "sectionSlug": "/notes",
+    "sectionWeight": 0,
+    "sectionTitle": "Notes",
+    "isIndex": false,
+    "slug": "/notes/pia-mancini-open-collective-dialogue"
+  },
+  {
     "toc": [
       {
         "content": "Post-State Technocracy",
@@ -7799,8 +8362,8 @@
         "seen": 0
       },
       {
-        "content": "Excerpts",
-        "slug": "excerpts",
+        "content": "Sections",
+        "slug": "sections",
         "lvl": 1,
         "i": 1,
         "seen": 0
@@ -9258,7 +9821,7 @@
       }
     ],
     "readingTime": 2,
-    "excerpt": "Anarcho-capitalism\n\nAnarcho-capitalism is a political ideology that synthesises beliefs from capitalism and anarchy. It's adherents believe in the the elimination of centralized nation states in favou",
+    "excerpt": "Anarcho-capitalism\n\nAnarcho-capitalism is a political ideology that synthesises beliefs from capitalism and anarchy. Its adherents believe in the the elimination of centralized nation states in favour",
     "sectionSlug": "/concepts",
     "sectionWeight": 0,
     "sectionTitle": "Concepts",
@@ -13911,6 +14474,469 @@
     "slug": "/library"
   },
   {
+    "title": "Meta",
+    "isSection": true,
+    "slug": "/meta"
+  },
+  {
+    "toc": [
+      {
+        "content": "Citations Needed",
+        "slug": "citations-needed",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Citations Needed\n\nFirst pass\n\naml\namm\nartificial-demand\nartificial-scarcity\naustrian-economics\nbandwagon-bias\nbank\nbank-run\nbearer-instrument\nbond\nbretton-woods\nbroker\nbucket-shop\ncartel\ncd\ncds\ncollat",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/citations-todo"
+  },
+  {
+    "toc": [
+      {
+        "content": "Claims & Aspirations DB",
+        "slug": "claims--aspirations-db",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Claims/Aspirations Database 2022-03-11",
+        "slug": "claimsaspirations-database-2022-03-11",
+        "lvl": 3,
+        "i": 1,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Claims & Aspirations DB\n\nClaims/Aspirations Database 2022-03-11\n\nAnalysis of needs for DBIdentify needs for this \"database\" e.g. a) does it need to be structured b draft as well as finished material c",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/claims-db"
+  },
+  {
+    "toc": [
+      {
+        "content": "Claims TODO",
+        "slug": "claims-todo",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Claims TODO\n\nis-authoritarianism\nis-web3-decentralized\nis-environmental-footprint\nis-bubble\nnarrative-economics\nis-digital-gold\nis-new-internet\nis-risk-to-state\nsystemic-risk\nis-threat-dollar\nvaluatio",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/claims-todo"
+  },
+  {
+    "toc": [
+      {
+        "content": "Conceps TODO",
+        "slug": "conceps-todo",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Conceps TODO\n\nFirst pass\n\nkeynsian-economics\nlibertarianism\nmarket-fundamentalism\nmarxism\npost-state-technocracy\ntechno-collectivism\ntechnolibertarianism\ntechnosolutionism\naml\ncensorship-resistence\nde",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/concepts-todo"
+  },
+  {
+    "toc": [
+      {
+        "content": "Design of the Site and Project",
+        "slug": "design-of-the-site-and-project",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Wireframes and Mockups",
+        "slug": "wireframes-and-mockups",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Home page",
+        "slug": "home-page",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Content Plan (and Info Architecture)",
+        "slug": "content-plan-and-info-architecture",
+        "lvl": 1,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Journey as a user ...",
+        "slug": "journey-as-a-user-",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Issue Tree",
+        "slug": "issue-tree",
+        "lvl": 1,
+        "i": 5,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Design of the Site and Project\n\ne.g. information architecture, job stories etc.\n\nLaunchable and announceable website.\n\nWireframes and Mockups\n\nHome page\n\nMockup of home page (design): https://excalidr",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/design"
+  },
+  {
+    "toc": [
+      {
+        "content": "Editing Guide",
+        "slug": "editing-guide",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Editing Guide\n\nThis is a guide to help people contribute content or manage contribution of content. Focus is on the \"wiki\" content stored in markdown -- which is all pages except the front page and a ",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/editing"
+  },
+  {
+    "created": "2022-03-11T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "How rough and ready are we?",
+        "slug": "how-rough-and-ready-are-we",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "How rough and ready are we?\n\nBeing polished:Why? Look more professional, inviting to e.g. journalists, policy-makers, being an authoritative voice\nCons: slows thing down (a lot), makes it harder for c",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/how-rough-and-ready"
+  },
+  {
+    "toc": [
+      {
+        "content": "Intercitations TODO",
+        "slug": "intercitations-todo",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Intercitations TODO\n\nConcepts\n\nweb3\ncryptoasset\nnft\nmoney\nprivate-money\ngold-standard\npost-state-technocracy\nsecurity\ncrypto-exchange\n\nClaims\n\nis-bitcoin-currency\nis-blockchain-tech\nis-weird-culture\ni",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/intercitations-todo"
+  },
+  {
+    "toc": [],
+    "readingTime": 1,
+    "excerpt": "What are the various claims for web3/crypto (+ve or -ve) and their constructive evaluation so that as individuals and societies we make good choices whether to support, improve or curb it as well as t",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/issue-tree"
+  },
+  {
+    "toc": [
+      {
+        "content": "Plan",
+        "slug": "plan",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Goals",
+        "slug": "goals",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Milestones (WIP)",
+        "slug": "milestones-wip",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Timeline",
+        "slug": "timeline",
+        "lvl": 1,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Fri 11 March",
+        "slug": "fri-11-march",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Workstreams",
+        "slug": "workstreams",
+        "lvl": 1,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Content",
+        "slug": "content",
+        "lvl": 1,
+        "i": 6,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Plan\n\nHigh level plan is given by issue tree: https://docs.google.com/spreadsheets/d/12Yh1kuxH4uoposLUJsJifM2W_zixkAhlc7QgcKavfls/edit#gid=2049708942\n\nGoals\n\nFeatures\n\nMMVP website up so that we can s",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/plan"
+  },
+  {
+    "title": "Projects",
+    "isSection": true,
+    "slug": "/meta/projects"
+  },
+  {
+    "created": "2022-03-10T00:00:00.000Z",
+    "due": "2022-03-17T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "Announcing the Initial Launch (march 2022)",
+        "slug": "announcing-the-initial-launch-march-2022",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Announcing the Initial Launch (march 2022)\n\nSee https://github.com/life-itself/web3/issues/65",
+    "sectionSlug": "/meta/projects",
+    "sectionWeight": 0,
+    "sectionTitle": "Projects",
+    "isIndex": false,
+    "slug": "/meta/projects/announce-v0.1"
+  },
+  {
+    "created": "2022-03-10T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "Get a Roadmap v0.1",
+        "slug": "get-a-roadmap-v01",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Acceptance",
+        "slug": "acceptance",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Meta (how we organize)",
+        "slug": "meta-how-we-organize",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Tasks",
+        "slug": "tasks",
+        "lvl": 2,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Prep",
+        "slug": "prep",
+        "lvl": 3,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "Background",
+        "slug": "background",
+        "lvl": 3,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Brainstorm and Organize 👈",
+        "slug": "brainstorm-and-organize-👈",
+        "lvl": 3,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Simplification of tools and process for content",
+        "slug": "simplification-of-tools-and-process-for-content",
+        "lvl": 3,
+        "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "Consolidate our claims database stuff in one place",
+        "slug": "consolidate-our-claims-database-stuff-in-one-place",
+        "lvl": 3,
+        "i": 8,
+        "seen": 0
+      },
+      {
+        "content": "Misc",
+        "slug": "misc",
+        "lvl": 3,
+        "i": 9,
+        "seen": 0
+      }
+    ],
+    "readingTime": 6,
+    "excerpt": "Get a Roadmap v0.1\n\nWhat & Why: We want a clear near-term roadmap with associated tasks so that\n\nwe know what to prioritize\nhave goals (to inspire us)\ncan efficiently self-organize in a distributed, p",
+    "sectionSlug": "/meta/projects",
+    "sectionWeight": 0,
+    "sectionTitle": "Projects",
+    "isIndex": false,
+    "slug": "/meta/projects/roadmap-v0.1"
+  },
+  {
+    "created": "2022-03-10T00:00:00.000Z",
+    "due": "2022-03-11T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "Website v0.1",
+        "slug": "website-v01",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Analysis",
+        "slug": "analysis",
+        "lvl": 2,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Online location and website",
+        "slug": "online-location-and-website",
+        "lvl": 3,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "Design",
+        "slug": "design",
+        "lvl": 3,
+        "i": 3,
+        "seen": 0
+      }
+    ],
+    "readingTime": 2,
+    "excerpt": "Website v0.1\n\n🚩 👉 MOVED to issue https://github.com/life-itself/web3/issues/66 👈\n\n\nAnalysis\n\nOnline location and website\n\nDo we want a \"dedicated\" website for this? ✅Yes because running of a github",
+    "sectionSlug": "/meta/projects",
+    "sectionWeight": 0,
+    "sectionTitle": "Projects",
+    "isIndex": false,
+    "slug": "/meta/projects/website-v0.1"
+  },
+  {
+    "aliases": [
+      "Sensemaking"
+    ],
+    "toc": [
+      {
+        "content": "Sensemaking",
+        "slug": "sensemaking",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Sensemaking\n\nsensemaking-3-layers-2022-03-04.excalidraw",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/sensemaking"
+  },
+  {
+    "toc": [
+      {
+        "content": "What and Why of this Project",
+        "slug": "what-and-why-of-this-project",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Notes",
+        "slug": "notes",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "4 Feb 2022",
+        "slug": "4-feb-2022",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "What and Why of this Project\n\nNotes\n\n4 Feb 2022\n\n#todo/process\n\nIntention: deep collective \"sensemaking\" on crypto, web3 etc.\n\nSensemaking = making sense of it. Intellectually, emotionally etc.\n\nColle",
+    "sectionSlug": "/meta",
+    "sectionWeight": 0,
+    "sectionTitle": "Meta",
+    "isIndex": false,
+    "slug": "/meta/what-and-why"
+  },
+  {
     "title": "Notes",
     "isSection": true,
     "slug": "/notes"
@@ -13988,6 +15014,87 @@
     "sectionTitle": "Notes",
     "isIndex": false,
     "slug": "/notes/are-crypto-tokens-securities"
+  },
+  {
+    "toc": [
+      {
+        "content": "Collective Action Problems & Climate Change",
+        "slug": "collective-action-problems--climate-change",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      },
+      {
+        "content": "Episode Notes",
+        "slug": "episode-notes",
+        "lvl": 1,
+        "i": 1,
+        "seen": 0
+      },
+      {
+        "content": "Summary",
+        "slug": "summary",
+        "lvl": 2,
+        "i": 2,
+        "seen": 0
+      },
+      {
+        "content": "What is KlimaDAO?",
+        "slug": "what-is-klimadao",
+        "lvl": 2,
+        "i": 3,
+        "seen": 0
+      },
+      {
+        "content": "Steel Manning KlimaDAO",
+        "slug": "steel-manning-klimadao",
+        "lvl": 2,
+        "i": 4,
+        "seen": 0
+      },
+      {
+        "content": "*The Ministry of the Future* - Kim Stanley Robinson",
+        "slug": "the-ministry-of-the-future---kim-stanley-robinson",
+        "lvl": 2,
+        "i": 5,
+        "seen": 0
+      },
+      {
+        "content": "Evaluation",
+        "slug": "evaluation",
+        "lvl": 2,
+        "i": 6,
+        "seen": 0
+      },
+      {
+        "content": "Climate and public goods problems",
+        "slug": "climate-and-public-goods-problems",
+        "lvl": 2,
+        "i": 7,
+        "seen": 0
+      },
+      {
+        "content": "Conclusion",
+        "slug": "conclusion",
+        "lvl": 2,
+        "i": 8,
+        "seen": 0
+      },
+      {
+        "content": "References",
+        "slug": "references",
+        "lvl": 2,
+        "i": 9,
+        "seen": 0
+      }
+    ],
+    "readingTime": 29,
+    "excerpt": "Collective Action Problems & Climate Change\n\nIn episode #6 in our series of deep dives into crypto and web3, Rufus Pollock and Stephen Diehl explore the interaction of climate change and public goods ",
+    "sectionSlug": "/notes",
+    "sectionWeight": 0,
+    "sectionTitle": "Notes",
+    "isIndex": false,
+    "slug": "/notes/collective-action-problems-and-climate-change"
   },
   {
     "toc": [
@@ -14145,87 +15252,86 @@
     "slug": "/notes/market-fundamentalism"
   },
   {
+    "title": "Web3, Bitcoin and Neo-metallism",
+    "created": "2022-04-13T00:00:00.000Z",
+    "date": "2022-02-17T00:00:00.000Z",
+    "image": "/img/Neo-metallism_Thumb_vo3dhs.png",
+    "description": "In this episode we examine Bitcoin and the Neo-Metallist thesis, i.e. that a gold-standard was a good idea and a Bitcoin-standard would be even better.",
+    "youtube": "https://www.youtube.com/embed/_o7pRFLzJHY",
     "toc": [
-      {
-        "content": "Neo-Metallism",
-        "slug": "neo-metallism",
-        "lvl": 1,
-        "i": 0,
-        "seen": 0
-      },
       {
         "content": "Episode Notes",
         "slug": "episode-notes",
         "lvl": 1,
-        "i": 1,
+        "i": 0,
         "seen": 0
       },
       {
         "content": "Summary",
         "slug": "summary",
         "lvl": 2,
-        "i": 2,
+        "i": 1,
         "seen": 0
       },
       {
         "content": "What is Neo-Metallism?",
         "slug": "what-is-neo-metallism",
         "lvl": 2,
-        "i": 3,
+        "i": 2,
         "seen": 0
       },
       {
         "content": "Gold as Currency",
         "slug": "gold-as-currency",
         "lvl": 2,
-        "i": 4,
+        "i": 3,
         "seen": 0
       },
       {
         "content": "Why the Gold Standard: Fiat Money, Sound Money and the Gold Standard",
         "slug": "why-the-gold-standard-fiat-money-sound-money-and-the-gold-standard",
         "lvl": 3,
-        "i": 5,
+        "i": 4,
         "seen": 0
       },
       {
         "content": "Steel-Manning the Neo-Metallist Position",
         "slug": "steel-manning-the-neo-metallist-position",
         "lvl": 2,
-        "i": 6,
+        "i": 5,
         "seen": 0
       },
       {
         "content": "Evaluating the Neo-Metallist Position",
         "slug": "evaluating-the-neo-metallist-position",
         "lvl": 2,
-        "i": 7,
+        "i": 6,
         "seen": 0
       },
       {
         "content": "A Final Note on Trust",
         "slug": "a-final-note-on-trust",
         "lvl": 2,
-        "i": 8,
+        "i": 7,
         "seen": 0
       },
       {
         "content": "Concepts Covered",
         "slug": "concepts-covered",
         "lvl": 2,
-        "i": 9,
+        "i": 8,
         "seen": 0
       },
       {
         "content": "References",
         "slug": "references",
         "lvl": 2,
-        "i": 10,
+        "i": 9,
         "seen": 0
       }
     ],
     "readingTime": 15,
-    "excerpt": "Neo-Metallism\n\nIn episode #1 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl discuss the neo-metallist perspective on Bitcoin and the concept of \"digital\" gold.\n\nYoutube",
+    "excerpt": "https://www.youtube.com/watch?v=_o7pRFLzJHY&t=568s\n\nPodcast: https://anchor.fm/life-itself/episodes/Stephen-Diehl-on-Web3--Bitcoin--Neometalism-e1f5rca\nWiki topic: is-digital-gold\n\n\nEpisode Notes\n\nSum",
     "sectionSlug": "/notes",
     "sectionWeight": 0,
     "sectionTitle": "Notes",
@@ -14433,6 +15539,26 @@
     "slug": "/notes/olson-2022-line-go-up"
   },
   {
+    "created": "2022-04-13T00:00:00.000Z",
+    "date": "2022-04-08T00:00:00.000Z",
+    "toc": [
+      {
+        "content": "Dialogue with Pia Mancini on Open Collective",
+        "slug": "dialogue-with-pia-mancini-on-open-collective",
+        "lvl": 1,
+        "i": 0,
+        "seen": 0
+      }
+    ],
+    "readingTime": 1,
+    "excerpt": "Dialogue with Pia Mancini on Open Collective\n\npia-mancini-open-collective-dialog-2022-04-08.excalidraw",
+    "sectionSlug": "/notes",
+    "sectionWeight": 0,
+    "sectionTitle": "Notes",
+    "isIndex": false,
+    "slug": "/notes/pia-mancini-open-collective-dialogue"
+  },
+  {
     "toc": [
       {
         "content": "Post-State Technocracy",
@@ -14583,8 +15709,8 @@
         "seen": 0
       },
       {
-        "content": "Excerpts",
-        "slug": "excerpts",
+        "content": "Sections",
+        "slug": "sections",
         "lvl": 1,
         "i": 1,
         "seen": 0
