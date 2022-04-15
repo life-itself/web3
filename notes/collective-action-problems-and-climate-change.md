@@ -2,6 +2,8 @@
 
 In episode #6 in our series of deep dives into crypto and web3, Rufus Pollock and Stephen Diehl explore the interaction of climate change and public goods problems. They focus on KlimaDAO as an example of an attempted solution to solve a public goods problem within the climate space using a Decentralized Autonomous Organization.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLXtnCL6IxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Youtube: [https://www.youtube.com/watch?v=SLXtnCL6IxE](https://www.youtube.com/watch?v=SLXtnCL6IxE)
 * Podcast: https://anchor.fm/life-itself/episodes/Collective-Action-Problems--Climate-Change-e1h4o6e/a-a7gpq18 
 * Wiki topic: [public-goods-problem](../concepts/public-goods-problem.md)
