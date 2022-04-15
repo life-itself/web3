@@ -2,9 +2,10 @@ import Logo from "../public/img/life-itself-logo.svg"
 
 const siteConfig = {
   title: "Making Sense of Crypto and Web3",
+  url: "https://web3.lifeitself.us",
   tagline: "",
   description:
-    "Introductions to key concepts and ideas in crypto and web3. Plus in-depth evaluation of its potential impact.",
+  "Introductions to key concepts and ideas in crypto and web3. Plus in-depth evaluation of its potential impact.",
   author: "Life Itself and collaborators",
   // logo image
   authorLogo: "/img//life-itself-logo.svg",
