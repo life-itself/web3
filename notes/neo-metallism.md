@@ -5,11 +5,14 @@ date: 2022-02-17
 image: /img/Neo-metallism_Thumb_vo3dhs.png
 description: "In this episode we examine Bitcoin and the Neo-Metallist thesis, i.e. that a gold-standard was a good idea and a Bitcoin-standard would be even better."
 youtube: https://www.youtube.com/embed/_o7pRFLzJHY
+podcast: https://anchor.fm/life-itself/episodes/Stephen-Diehl-on-Web3--Bitcoin--Neometalism-e1f5rca
+featured: false
+aliases: notes/neo-metallism.md
 ---
 
-https://www.youtube.com/watch?v=_o7pRFLzJHY&t=568s
+{/* https://www.youtube.com/watch?v=_o7pRFLzJHY&t=568s */}
 
-* Podcast: https://anchor.fm/life-itself/episodes/Stephen-Diehl-on-Web3--Bitcoin--Neometalism-e1f5rca
+{/* Podcast: https://anchor.fm/life-itself/episodes/Stephen-Diehl-on-Web3--Bitcoin--Neometalism-e1f5rca */}
 * Wiki topic: [is-digital-gold](../claims/is-digital-gold.md)
 
 ***
