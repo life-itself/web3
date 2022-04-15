@@ -1,7 +1,8 @@
 import MdxPage from '../components/MDX';
 import { allOtherPages } from 'contentlayer/generated';
 import { useMDXComponent } from 'next-contentlayer/hooks';
-import { NewsArticleJsonLd, NextSeo } from 'next-seo';
+import { NextSeo } from 'next-seo';
+import siteConfig from "../config/siteConfig"
 
 
 export default function Page({ body, ...rest }) {
@@ -9,14 +10,17 @@ export default function Page({ body, ...rest }) {
   const children = {
     Component,
     frontmatter: {
-      authors: rest.authors,
       title: rest.title,
       date: rest.date,
       description: rest.description,
-      modified: rest.modified,
-      tags: rest.tags,
-    }
-  }
+      image: rest.image,
+      youtube: rest.youtube,
+      podcast: rest.podcast,
+      featured: rest.featured,
+      created: rest.created,
+      aliases: rest.aliases
+    },
+  };
 
   const titleFromUrl = rest._raw.flattenedPath
     .split("/")
@@ -27,7 +31,23 @@ export default function Page({ body, ...rest }) {
   
   return (
     <>
-      <NextSeo title={children.frontmatter.title ?? titleFromUrl} />
+      <NextSeo
+        title={children.frontmatter.title ?? titleFromUrl}
+        description={children.frontmatter.description}
+        canonical={siteConfig.url + "/" + rest._raw.flattenedPath}
+        openGraph={{
+          title: children.frontmatter.title ?? titleFromUrl,
+          description: children.frontmatter.description,
+          images: [
+            {
+              url: siteConfig.url + children.frontmatter.image,
+              width: 1200,
+              height: 627,
+              alt: children.frontmatter.title,
+            },
+          ],
+        }}
+      />
       <MdxPage children={children} />
     </>
   );
