@@ -56,7 +56,7 @@ Yellen addresses the notion of expanding supranational payment infrastructure li
 
 > Will the technology live up to that promise? I think it’s too early to tell. Issues like processing time, cost, and technological barriers to access will need to be overcome. The US is actively involved in the work of the G20 to address challenges and frictions with cross-border funds transfers. And, in 2023 the Federal Reserve plans to launch FedNow, an instant payment service that will enable payment in real time, around the clock, every day of the year within the US’ payments system. 
 
-The United States has been working on a real time payments network like Europe's SEPA for a long time and this potentially will roll out soon. This would increase settlement time for United States persons doing domestic transfers.
+The United States has been working on a real time payments network like Europe's SEPA for a long time and this potentially will roll out soon. This would decrease settlement time for United States persons doing domestic transfers.
 
 > Some have also suggested that the introduction of a Central Bank Digital Currency, or “CBDC”, could contribute to a more efficient payment system. As a liability of the central bank, a CBDC could become a form of trusted money comparable to physical cash, but potentially offering some of the projected benefits of digital assets.
 
@@ -75,6 +75,8 @@ Financial innovation is not always good. We need to weight public interest and t
 > We learned this painful lesson during the Global Financial Crisis. Financial institutions called “shadow banks” and an explosion of new financial products allowed dangerous levels of risks to accumulate. Beginning in 2007, investors grew wary of these risks, and some large institutions began to falter. Soon, people who’d never heard of a “shadow bank” or a subprime mortgage-backed security ended up losing their jobs and life savings. The S&P 500 fell by more than half and household net worth dropped precipitously.  The resulting economic distress was most acute and long-lasting for Black Americans and other Americans of color. We need to ensure that the growth of digital assets does not allow similarly dangerous risks to emerge or lead to disproportionate impacts to vulnerable communities.
 
 Financial engineering led to the last financial crisis. [Shadow banking](../concepts/shadow-bank.md) and tax havens are strangling American democracy. Predatory lending hurt marginalized groups
+
+Crypto assets could cause another financial crisis if we don't get ahead of it.
 
 > Already, the Treasury has worked with the President’s Working Group on Financial Markets, the FDIC, and OCC to study stablecoins, a type of cryptocurrency pegged to a stable source of value, often the US dollar. Stablecoins raise policy concerns, including those related to illicit finance, user protection, and systemic risk. And, they are currently subject to inconsistent and fragmented oversight.
 
@@ -136,7 +138,7 @@ The United States experimented with [private money](../concepts/private-money.md
 
 > While these important innovations helped standardize the backing of the dollar, the Bank of the United States did not have lasting political support. By the mid-1800s, the country relied on a fragmented system of paper notes issued by private banks. New Jersey banks issued notes that were different from the ones issued in New Hampshire or New York. And, because different banks were not seen to carry the same risks, people valued the notes differently. This system of private money did function to a degree, but it made transactions expensive and inefficient, and it contributed to bank runs for many decades.
 
-he Wildcat Banking era was terrible and thus the United States nationalized the dollar and never looked back.
+The Wildcat Banking era was terrible and thus the United States nationalized the dollar and never looked back.
 
 > A crisis catalyzed reform. Embroiled in the Civil War, President Lincoln and Treasury Secretary Salmon Chase needed to introduce more stability to our financial system. Congress passed the National Bank Act, which allowed banks to issue national bank notes, but the banks had to be adequately supervised and the notes were required to be backed with U.S. Treasuries. This requirement ensured that a dollar in New Jersey was always as good as a dollar in New Hampshire. Later, the Federal Reserve Act further institutionalized the national objective of a uniform currency.
 
