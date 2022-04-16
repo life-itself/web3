@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 export default function Why() {
   return (
     <div className="relative bg-white dark:bg-transparent pt-16 pb-32 overflow-hidden">
@@ -25,12 +27,13 @@ export default function Why() {
                   not an easy topic to make sense of.
                 </p>
                 <div className="mt-6">
-                  <a
-                    href="/about/"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
-                  >
-                    Read More
-                  </a>
+                  <Link href="/about/">
+                    <a
+                      className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
+                    >
+                      Read More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -65,12 +68,13 @@ export default function Why() {
                   change).
                 </p>
                 <div className="mt-6">
-                  <a
-                    href="/about/"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
-                  >
-                    Read More
-                  </a>
+                  <Link href="/about/">
+                    <a
+                      className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
+                    >
+                      Read More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -102,12 +106,13 @@ export default function Why() {
                   questions to ask and the process of answering them.
                 </p>
                 <div className="mt-6">
-                  <a
-                    href="/about"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
-                  >
-                    Read More
-                  </a>
+                  <Link href="/about">
+                    <a
+                      className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
+                    >
+                      Read More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
