@@ -28,6 +28,8 @@ Yellen presents the theoretical proposition of [blockchain](../concepts/blockcha
 
 The administration regards [crypto assets](../concepts/cryptoasset.md) as non-currencies because of their inherent volatility and transaction costs being too prohibitive to allow commerce. They don't fulfil the [properties of money](../claims/is-bitcoin-currency.md).
 
+They carve out an exception for [stablecoin](../concepts/stablecoin.md) and [central bank digital currencies](../concepts/central-banks.md) which are non-speculative.
+
 > Proponents believe distributed ledger technology will transform other aspects of financial services like trading, borrowing, and lending. They point to capabilities, like smart contracts, which use computer code to automatically execute an agreement if certain prespecified conditions are met. To the extent that setup is more convenient, and costs are competitive with those required for traditional financial services, digital assets offer the potential to expand access. 
 
 The administration possibly sees [distributed ledger technologies](../concepts/permissioned-blockchain.md) or "permissioned blockchains" as potentially having utility in the existing financial infrastructure. Although the benefits of this technology are unclear at this time. The costs and benefits of these setups may not be a net win.

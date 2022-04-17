@@ -7,5 +7,6 @@ The term *madness of crowds* is a concept concerning the extreme and abberant co
  
 ## References
 1. Mackay, Charles. 2012. Extraordinary Popular Delusions and the Madness of Crowds. Simon and Schuster.
+1. Shiller, Robert J. 2015. ‘Irrational Exuberance’. In Irrational Exuberance. Princeton university press.
 1. Bernstein, William J. 2021. The Delusions of Crowds: Why People Go Mad in Groups. Grove Press.
 1. Blanchard, Olivier J, and Mark W Watson. 1982. ‘Bubbles, Rational Expectations and Financial Markets’. NBER Working Paper, no. w0945.
