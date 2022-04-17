@@ -1,5 +1,5 @@
 # Crypto Asset
-A digital [asset](assets.md) that is traded on a [blockchain](blockchain.md) network. Sometimes also referred to by "cryptocurrency" although this namesake has semantic issues due to confusion around differing [currency](currency.md) definitions.
+A digital [asset](assets.md) that is traded on a [blockchain](blockchain.md) network. Sometimes also referred to as "cryptocurrency" although this name has semantic issues due to confusion around differing [currency](currency.md) definitions.
 
 Examples of crypto assets include, but are not limited to:
 * [Bitcoin](bitcoin.md)
