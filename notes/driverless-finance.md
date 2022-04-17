@@ -143,3 +143,85 @@ Precaution is warranted and now is the time to act because of the political envi
 > We should therefore approach the latest generation of financial innovations, which are likely to exacerbate the already significant levels of complexity, speed, and correlation associated with our financial system, with precaution. In this venture, time is of the essence: the growing public skepticism about the benefits of big tech provides an excellent political opportunity to implement a precautionary approach to new financial technologies, and it should not be wasted.
 
 ## Chapter 2 - Fintech and Risk Management
+
+### What is risk management?
+
+[Risk](../concepts/risk.md) comes in many forms.
+
+> Some of the most important categories of risk that can impact investments include market risk, credit risk, liquidity risk, operational risk, and systemic risk
+
+## Chapter 3 - Fintech and Capital Intermediation
+
+### Capital intermediation basics
+
+Some fintech is designed to increase financial complexity, this presents a challenge to regulators.
+
+> Increased speed and complexity are a feature of many fintech innovations, not a bug. These innovations were designed to increase the efficiency of capital intermediation, allowing those that need capital to obtain it more quickly, more cheaply, and in more customized ways than ever before—these innovations are also allowing investors to profit in new ways.
+
+Widespread use of [cryptoassets](../concepts/cryptoasset.md) come with extreme risk.
+
+> We will pay particular attention to cryptoassets in this chapter, because these have the potential to exponentially increase the amount of risk in the financial system—if cryptoassets were to be widely integrated into our financial institutions and markets, they would pose perhaps the greatest threat of all the innovations considered in this book.
+
+### Banks and bank runs
+
+> This banking business model is also useful to society, because it allows deposit funds to be deployed for long-term economic growth, rather than just sitting under a mattress. However, this business model means that banks only ever have a fraction of the cash deposited with them available to return to depositors at any given time.
+
+> Banking panics occurred repeatedly in the United States in the late nineteenth and early twentieth centuries, but they were largely eliminated by the introduction of government-backed deposit insurance in 1933
+
+### Shadow banking
+
+> We can, however, look at past examples of non-bank runs, such as the 2008 run on money market mutual funds, for some clues as to how future panics might play out.
+
+Money market funds have had to be consistently bailed out because [bank-run](../concepts/bank-run.md) like events that occur on non-bank financial institutions.
+
+> Investors in money market mutual funds purchase shares in those funds with the expectation that the shares will always be valued at one dollar. The true value of each share fluctuates, depending on the assets that thefund has invested in, but a special accounting regime allows each share to be consistently valued at one dollar so long as its true value never deviates too far from the dollar price. If the value of a share in the fund drops too far, though, then the fund will have to revalue its shares below one dollar (which is known as “breaking the buck”)
+
+Shadow banking defined.
+
+> Non-bank financial institutions that perform similar functions to banks are often referred to as “shadow banks,” but trying to determine precisely what does and doesn’t count as shadow banking is very controversial—and can be a distraction.
+
+### Markets and financial stability
+
+The purpose of [markets](../concepts/market.md).
+
+> If an asset market becomes so compromised that no trading can be done, then that market can’t perform its socially useful function of connecting those who want to invest with those who need funding
+
+The Gamestop phenomenon and its relation to crypto.
+
+> One of the most unnerving things about the GameStop episode was that it suggested that trading is becoming more of a game and that financial assets are becoming increasingly detached from reality—a theme we’ll come back to in the context of cryptoassets. Even in a distorted reality, though, asset bubbles can’t last forever. At some point, bubbles inevitably burst as existing investors lose faith
+
+Fire sales and [market manias](../concepts/market-mania.md).
+
+> These fire sales can put downward pressure on the price of assets in other markets, spreading the panic, and potentially requiring still more institutions to sell more assets in different markets.
+
+
+### Marketplace lending
+### High frequency trading
+### Cryptoassets
+### Runs, fire sales, and cryptoassets
+### Problems with self-execution
+### Facebook’s Diem
+### Cryptoassets and monetary policy
+
+## Chapter 4 - Fintech and Payments
+### Fintech and Payments
+### How payments are processed
+### Payments failures
+### Payments regulation
+### Operational risks in complex systems
+### Mobile payments
+### Distributed ledgers and payments
+### Public payments alternatives
+### Other financial infrastructure
+
+## Chapter 5 - Fintech and Financial Stability Regulation Status Quo
+
+### What is regulation?
+### Why regulating innovation is hard
+### Why regulating financial innovation is particularly hard
+### Innovation support from regulators
+### Regulatory sandboxesCritique of innovator-focused regulation
+### Overview of financial stability regulation
+### How fintech might undermine financial stability regulation
+### Industry reliance on regtech
+### The challenges of suptech
