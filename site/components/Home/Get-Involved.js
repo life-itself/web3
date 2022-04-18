@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 export default function GetInvolved() {
   return (
   <div className="relative bg-white dark:bg-transparent pt-16 pb-32 overflow-hidden">
@@ -22,12 +24,13 @@ export default function GetInvolved() {
                 <li> Share the work with others. </li>
                 </ul>
               <div className="mt-6">
-                <a
-                  href="/contribute/"
-                  className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
-                >
-                  Get Involved
-                </a>
+                <Link href="/contribute/">
+                  <a
+                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
+                  >
+                    Get Involved
+                  </a>
+                </Link>
               </div>
             </div>
           </div>
