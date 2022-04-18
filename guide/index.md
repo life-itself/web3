@@ -61,6 +61,8 @@ Understand crypto and "web3" in terms of recent news events and interviews and e
 * [Commentary on 'Line Goes Up'](../notes/olson-2022-line-go-up.md)
 * [Commentary on 'Web3 is a Libertarian Dystopia'](../notes/web3-dystopia)
 * [Commentary on Secretary Yellen's Speech](../notes/yellen-treasury-remarks.md)
+* [Commentary on Chariman Gensler's Speech](../notes/sec-remarks.md)
+* Commentary on 'Driverless Finance'
 
 ***
 

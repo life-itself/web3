@@ -78,7 +78,7 @@ The [predatory inclusion](../concepts/predatory-inclusion.md) of payday loans ar
 
 > When banks are not available to serve consumer needs, fringe providers fill the void. The financial services provided by these fringe providers (including check cashing services and payday loans), “cost more, take longer, risk more, and do less to build their financial futures” than equivalent services provided by mainstream financial institutions
 
-Some fintechs are bad actors.
+Some fintechs are bad actors and rely on [techno-obscurantism](../concepts/techno-obscurantism.md) to sell [financial assets](../concepts/financial-asset.md) to unwitting buyers.
 
 > If fintech business models try to exploit groups of consumers with little financial sophistication or experience, then fintech’s promise to expand access to financial services could be seen as a little sinister.
 
@@ -94,7 +94,7 @@ Some innovation is driven by [artificial demand](../concepts/artificial-demand.m
 
 > We also have little to fear from limiting innovation that primarily exists to evade or “arbitrage” regulation (in the sense that a product or service achieves the same economic function as a regulated product or service, but does so in a way that manages to avoid the regulation).
 
-This is not productive for regulators.
+It is not productive for regulators to incrementally regulate things that then become unregulated by changes to the underlying technology.
 
 > Innovations designed to arbitrage existing regulations often spur the creation of more regulations, and then new innovations are created to innovate around the new regulations in an unending cycle of increasing complexity. A precautionary approach can help stop this cat and mouse game by shifting the burden to the innovator to demonstrate that the innovation meets a need beyond exploiting regulatory loopholes.
 
@@ -130,7 +130,7 @@ The problem of [moral hazard](../concepts/moral-hazard.md).
 
 ### Time is of the Essence
 
-The time to act on crypto regulation is now.
+The time to act on [crypto](../concepts/cryptoasset.md) regulation is now.
 
 > The financial applications of smart contract and distributed ledger technologies (as well as machine learning and cloud computing technologies) are still in their early stages. [...] That window of time will close soon, though, and we don’t yet have a precautionary regulatory framework in place for financial innovation
 
@@ -172,17 +172,17 @@ Widespread use of [cryptoassets](../concepts/cryptoasset.md) come with extreme r
 
 > We can, however, look at past examples of non-bank runs, such as the 2008 run on money market mutual funds, for some clues as to how future panics might play out.
 
-Money market funds have had to be consistently bailed out because [bank-run](../concepts/bank-run.md) like events that occur on non-bank financial institutions.
+Money market funds have had to be consistently bailed out because [bank run](../concepts/bank-run.md) like events that occur on non-bank financial institutions.
 
 > Investors in money market mutual funds purchase shares in those funds with the expectation that the shares will always be valued at one dollar. The true value of each share fluctuates, depending on the assets that thefund has invested in, but a special accounting regime allows each share to be consistently valued at one dollar so long as its true value never deviates too far from the dollar price. If the value of a share in the fund drops too far, though, then the fund will have to revalue its shares below one dollar (which is known as “breaking the buck”)
 
-Shadow banking defined.
+[Shadow banking](../concepts/shadow-bank.md) defined.
 
 > Non-bank financial institutions that perform similar functions to banks are often referred to as “shadow banks,” but trying to determine precisely what does and doesn’t count as shadow banking is very controversial—and can be a distraction.
 
 ### Markets and financial stability
 
-The purpose of [markets](../concepts/market.md).
+The purpose of [markets](../concepts/market.md) and [capital formation](../concepts/capital-formation.md).
 
 > If an asset market becomes so compromised that no trading can be done, then that market can’t perform its socially useful function of connecting those who want to invest with those who need funding
 
@@ -194,6 +194,9 @@ Fire sales and [market manias](../concepts/market-mania.md).
 
 > These fire sales can put downward pressure on the price of assets in other markets, spreading the panic, and potentially requiring still more institutions to sell more assets in different markets.
 
+Transparent, regulated, and fair markets increase public trust in markets and encourage more [capital formation](../concepts/capital-formation.md). Markets with [asymmetric information](../concepts/asymmetric-information.md) hurt public trust.
+
+> rules have been adopted that require participants in financial markets— ranging from the institutions that create financial assets in the first place to the intermediaries like brokers and exchanges that have evolved to facilitate the trading process—to release information to other market participants, as well as to regulators. These disclosure rules help capital intermediation because they allow investors to assess and evaluate potential investments.
 
 ### Marketplace lending
 ### High frequency trading
