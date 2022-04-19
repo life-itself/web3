@@ -5,7 +5,8 @@ import { NextSeo } from 'next-seo';
 import siteConfig from "../config/siteConfig"
 
 
-export default function Page({ body, ...rest }) {
+export default function Page({ data, toc }) {
+    const rest = data._raw;
   const Component = useMDXComponent(body.code);
   const children = {
     Component,
@@ -18,23 +19,23 @@ export default function Page({ body, ...rest }) {
       podcast: rest.podcast,
       featured: rest.featured,
       created: rest.created,
-      aliases: rest.aliases
+      aliases: rest.aliases,
     },
   };
 
-  const titleFromUrl = rest._raw.flattenedPath
+  const titleFromUrl = rest.flattenedPath
     .split("/")
     .pop()
     .replace(/-/g, " ")
     // capitalize first char of each word
     .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
-  
+
   return (
     <>
       <NextSeo
         title={children.frontmatter.title ?? titleFromUrl}
         description={children.frontmatter.description}
-        canonical={siteConfig.url + "/" + rest._raw.flattenedPath}
+        canonical={siteConfig.url + "/" + rest.flattenedPath}
         openGraph={{
           title: children.frontmatter.title ?? titleFromUrl,
           description: children.frontmatter.description,
@@ -48,7 +49,7 @@ export default function Page({ body, ...rest }) {
           ],
         }}
       />
-      <MdxPage children={children} />
+      <MdxPage children={children} leftToc={toc} />
     </>
   );
 }
