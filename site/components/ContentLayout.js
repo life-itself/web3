@@ -4,7 +4,6 @@ import Container from "./Container";
 import LeftToc from "./LeftToc";
 
 export default function ContentLayout({ children, leftToc }) {
-    console.log(leftToc);
   const isMobile = useMediaQuery({ query: "(max-width: 992px)" });
   return (
     <Container isMobile={isMobile}>
