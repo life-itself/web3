@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "node scripts/build-post-list.js && next dev",
+    "build": "node scripts/build-post-list.js && next build",
     "export": "next export",
     "start": "next start"
   },
@@ -16,6 +16,9 @@
     "@tailwindcss/typography": "^0.5.2",
     "contentlayer": "^0.1.2",
     "gray-matter": "^4.0.3",
+    "lodash": "^4.17.21",
+    "markdown-to-txt": "^2.0.0",
+    "markdown-toc": "^1.2.0",
     "next": "^12.1.0",
     "next-contentlayer": "^0.1.2",
     "next-seo": "^4.28.1",
