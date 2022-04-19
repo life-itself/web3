@@ -1,6 +1,9 @@
 import Head from 'next/head'
+import { useRouter } from "next/router";
 import ReactPlayer from 'react-player/lazy'
 import { Paragraph } from './Link'
+import { getPostBySlug } from "../lib/api";
+import ContentLayout from './ContentLayout';
 
 const components = {
   Head,
@@ -8,6 +11,8 @@ const components = {
 }
 
 export default function MdxPage({ children }) {
+    const { asPath } = useRouter();
+      const post = getPostBySlug(asPath.split("#")[0]);
   const { Component, frontmatter } = children
   
   let podcastEmbed
@@ -22,7 +27,7 @@ export default function MdxPage({ children }) {
   }
 
   return (
-    <article className="prose dark:prose-invert mx-auto p-6">
+    <article className="prose dark:prose-invert min-w-full">
       <header>
         <div className="mb-6">
           {frontmatter.title && <h1 className="mb-0">{frontmatter.title}</h1>}
@@ -50,7 +55,7 @@ export default function MdxPage({ children }) {
             </div>
           )}
           {frontmatter.podcast && (
-            <div className='pt-4'>
+            <div className="pt-4">
               <ul className="list-disc">
                 <li>
                   Podcast: &nbsp;
@@ -58,7 +63,7 @@ export default function MdxPage({ children }) {
                 </li>
               </ul>
               {podcastEmbed && (
-                <div className='md:mx-4'>
+                <div className="md:mx-4">
                   <iframe
                     src={podcastEmbed}
                     height="100px"
@@ -73,9 +78,11 @@ export default function MdxPage({ children }) {
           )}
         </div>
       </header>
-      <main>
-        <Component components={components} />
-      </main>
+      <ContentLayout post={post}>
+        <main className="p-4 w-full">
+          <Component components={components} />
+        </main>
+      </ContentLayout>
     </article>
   );
 }

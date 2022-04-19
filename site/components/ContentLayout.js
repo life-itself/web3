@@ -3,11 +3,12 @@ import { useMediaQuery } from "react-responsive";
 import Container from "./Container";
 import RightToc from "./RightToc";
 
-export default function ContentLayout({ post, children}) {
+export default function ContentLayout({ post, children }) {
   const isMobile = useMediaQuery({ query: "(max-width: 992px)" });
   return (
     <Container isMobile={isMobile}>
-      <LeftToc data={globalToc} isMobile={isMobile} />
+      // Line below is for LHS table of content
+      <div style={{ width: "20%" }}></div>
       <div
         style={{
           width: isMobile ? "100%" : "60%",
