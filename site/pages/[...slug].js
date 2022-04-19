@@ -7,7 +7,7 @@ import siteConfig from "../config/siteConfig"
 
 export default function Page({ data, toc }) {
     const rest = data._raw;
-  const Component = useMDXComponent(body.code);
+  const Component = useMDXComponent(data.body.code);
   const children = {
     Component,
     frontmatter: {

@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import ReactPlayer from 'react-player/lazy'
+import ContentLayout from './ContentLayout'
 import { Paragraph } from './Link'
 
 const components = {
@@ -7,7 +8,7 @@ const components = {
   p: Paragraph
 }
 
-export default function MdxPage({ children }) {
+export default function MdxPage({ children, leftToc }) {
   const { Component, frontmatter } = children
   
   let podcastEmbed
@@ -50,7 +51,7 @@ export default function MdxPage({ children }) {
             </div>
           )}
           {frontmatter.podcast && (
-            <div className='pt-4'>
+            <div className="pt-4">
               <ul className="list-disc">
                 <li>
                   Podcast: &nbsp;
@@ -58,7 +59,7 @@ export default function MdxPage({ children }) {
                 </li>
               </ul>
               {podcastEmbed && (
-                <div className='md:mx-4'>
+                <div className="md:mx-4">
                   <iframe
                     src={podcastEmbed}
                     height="100px"
@@ -73,9 +74,11 @@ export default function MdxPage({ children }) {
           )}
         </div>
       </header>
-      <main>
-        <Component components={components} />
-      </main>
+      <ContentLayout leftToc={leftToc}>
+        <main>
+          <Component components={components} />
+        </main>
+      </ContentLayout>
     </article>
   );
 }
