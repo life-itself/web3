@@ -199,12 +199,75 @@ Transparent, regulated, and fair markets increase public trust in markets and en
 > rules have been adopted that require participants in financial markets— ranging from the institutions that create financial assets in the first place to the intermediaries like brokers and exchanges that have evolved to facilitate the trading process—to release information to other market participants, as well as to regulators. These disclosure rules help capital intermediation because they allow investors to assess and evaluate potential investments.
 
 ### Marketplace lending
+
 ### High frequency trading
+> Problems with pricing in one market can therefore jump quickly to the derivatives markets. In short, a future flash crash could trigger fire sales that ultimately contaminate other asset markets and disrupt capital intermediation, even if the financial institutions that participate in those asset markets are able to survive.
+
 ### Cryptoassets
+
+Now most crypto assets present as investment opportunities instead of money.
+
+> However, Bitcoin has enjoyed spectacular popularity despite these deficiencies—the prices that people are willing to pay for bitcoins as financial assets has skyrocketed. Inspired by Bitcoin’s success as a financial asset, new generations of cryptoassets (usually referred to as “tokens”) have been created that were never intended as money or payment mechanisms.
+
+Crypto assets present with serious [systemic risk](../concepts/systemic-risk.md) if left unregulated.
+
+> At scale, cryptoassets could be the most destructive of all the fintech innovations, and if the essence of a precautionary approach to financial stability is “better safe than sorry,” we should focus immediately on the threats they might pose and how to address them.
+
+Crypto assets have no upper bound on their supply. An infinite number of them can exixt.
+
+> In the absence of any limitations on supply, cryptoassets provide enormous opportunities for profit that may prove too seductive for the financial industry to ignore.
+
+Robert Shiller on [valuation modelsl](../claims/is-valuation-model.md) for bitcoin. They are ultimately about human psychology rather than economics.
+
+> It is not just that very few people really comprehend the technology behind Bitcoin. It is that no one can attach objective probabilities to the various possible outcomes of the current Bitcoin enthusiasm. How can we even start estimating the fundamental value of Bitcoin ...? Any attempt will soon sound silly.
+
+> Even if some investors continue to view the cryptoassets themselves as too speculative to invest in directly, demand for those assets can still be sustained if investors (including financial institutions) are happy to incur indirect exposure to those assets—and there are already popular mutual funds that invest in, and swap contracts that derive their value from, cryptoassets.
+
+
+> At the most basic level, an unconstrained supply of cryptoassets and cryptoasset-related assets means that there will be exponentially more assets in the financial system than there are now—what economist James Tobin described as “nth degree speculation” could become a reality. 
+
+
+> Exponential growth of cryptoassets would mean more opportunities for asset bubbles to grow, and more assets to be dumped during fire sales. More cryptoassets also mean more trading transactions which mean more contractual relationships between counterparties that can transmit shocks through the financial system
+
+
 ### Runs, fire sales, and cryptoassets
+
+> A panic could also arise as a correction to a bubble in cryptoassets: if enthusiasm starts to wane and demand and prices fall, investors who had truly believed that their new type of investment was impervious to traditional market forces could become disillusioned and start selling en masse
+
+
+> Or cryptoassets could spark an actual bank run. A terrifying worst-case scenario, from a financial stability perspective, would involve the largest financial institutions using cryptoassets as collateral when they borrow from other financial institutions.
+
+
 ### Problems with self-execution
+
+> However, transactions involving cryptoassets have two attributes that are likely to make runs and fire sales particularly bad: smart contracts’ speed of execution, and their lack of flexibility. Legal systems dealing with paper financial contracts have developed the ability to relax and suspend contractual obligations in the face of a significant unanticipated event, whether through the use of bankruptcy courts, encouraging a contractual party not to enforce their rights, or even by enacting legislation that declares certain contractual terms illegal.
+
+
+> With paper contracts, though, the parties have opportunities to amend their contracts or agree not to enforce them. Courts can also intervene to fill in the blanks in paper contracts: law professor Katharina Pistor has observed that “the elasticity of law has proved time and again critical for avoiding a complete financial meltdown.”
+
+
+> It’s important to remember, though, that without consensus mechanisms and gas charges to act as roadblocks, cryptoasset transactions could be processed even faster than they are now. Cryptoassets issued by large banks and techfins could also threaten financial stability
+
 ### Facebook’s Diem
+
+> Part of the controversy over Diem stems from increasing popular distrust of Facebook: many people wonder if Facebook is pursuing Diem just to generate more data about users and their purchasing habits, which Facebook can then monetize.
+
+
+> Given Diem’s proposed scale, a run on multi-currency Diem could potentially play havoc with exchange rates globally. If there were a run on any of the different Diem (multi-currency or currency-specific), the rebranded Libra Networks entity would be forced to engage in fire sales that would drive down the prices of short-term government securities, impacting other investors in those securities. The specter of these types of systemic consequences might generate pressure on national authorities to bail out Diem, forcing national taxpayers to ultimately foot Facebook’s bill. 
+
 ### Cryptoassets and monetary policy
+
+> Former Federal Reserve Chairman William McChesney Martin famously said that the central bank’s job is “to take away the punch bowl just as the party gets going”:  by adjusting the money supply to raise interest rates, a central bank can try to promote financial stability by tamping down on incipient asset bubbles
+
+
+> proliferation of cryptoassets to deprive central banks of their ability to make such a decision if and when needed. In other words, even if a central bank decides not to take the punch bowl away, it wouldn’t be wise to let the private sector spike the punch with cryptoassets
+
+
+> Even the less controversial central bank function of managing inflation could be undermined if central banks lose control of the money supply. When there is a lot of money available in the economy, it is cheaper to borrow, and cheaper money increases purchasing power which drives upinflation. The opposite is also true: when there is less money available, inflation is reduced. If money increasingly takes the form of cryptoassets issued by private entities, then that could displace the use of sovereign currencies and limit the ability of central banks to match the money supply to the economic situation.
+
+
+> Although bubbles, runs. and fire sales arise from very human tendencies toward overconfidence and panic (and in that sense are nothing new), they can be exacerbated by the increased speed and technological complexity associated with fintech innovations
+
 
 ## Chapter 4 - Fintech and Payments
 ### Fintech and Payments
@@ -223,7 +286,8 @@ Transparent, regulated, and fair markets increase public trust in markets and en
 ### Why regulating innovation is hard
 ### Why regulating financial innovation is particularly hard
 ### Innovation support from regulators
-### Regulatory sandboxesCritique of innovator-focused regulation
+### Regulatory sandboxes
+### Critique of innovator-focused regulation
 ### Overview of financial stability regulation
 ### How fintech might undermine financial stability regulation
 ### Industry reliance on regtech
