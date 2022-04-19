@@ -23,7 +23,7 @@ export default function MdxPage({ children, leftToc }) {
   }
 
   return (
-    <article className="prose dark:prose-invert mx-auto p-6">
+    <article className="prose dark:prose-invert min-w-full">
       <header>
         <div className="mb-6">
           {frontmatter.title && <h1 className="mb-0">{frontmatter.title}</h1>}
@@ -75,7 +75,7 @@ export default function MdxPage({ children, leftToc }) {
         </div>
       </header>
       <ContentLayout leftToc={leftToc}>
-        <main>
+        <main className="p-4 w-full">
           <Component components={components} />
         </main>
       </ContentLayout>
