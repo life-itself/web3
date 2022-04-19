@@ -58,7 +58,43 @@ export const getStaticProps = async ({ params }) => {
   // Based on the specified slug, the correct page is selected
   const urlPath = params.slug.join('/')
   const page = allOtherPages.find(p => p._raw.flattenedPath === urlPath)
-  return { props: page }
+  const data = ["claims", "concepts", "guide", "notes"];
+  const results = {};
+  function createLeftTocData(arr, name) {
+    results[name] = {
+      children: [],
+    };
+    arr.some((el) => {
+      if (el._raw.sourceFileDir == name) {
+        if (Object.keys(results).length) {
+          if (el._raw.flattenedPath.includes("/")) {
+            const linkName = el._raw.flattenedPath
+              .split("/")[1]
+              .split("-")
+              .join(" ");
+            const splitLinkName = linkName.split(" ");
+            for (var i = 0; i < splitLinkName.length; i++) {
+              splitLinkName[i] =
+                splitLinkName[i].charAt(0).toUpperCase() +
+                splitLinkName[i].slice(1);
+            }
+            const newLinkName = splitLinkName.join(" ");
+            results[name].children.push({
+              name: newLinkName,
+              link: el._raw.flattenedPath,
+            });
+          }
+        }
+      }
+    });
+  }
+  data.map((el) => createLeftTocData(allOtherPages, el));
+  return {
+    props: {
+      data: page,
+      toc: results,
+    },
+  };
 }
 
 export const getStaticPaths = async () => {
