@@ -7,7 +7,7 @@ export default function ContentLayout({ post, children }) {
   const isMobile = useMediaQuery({ query: "(max-width: 992px)" });
   return (
     <Container isMobile={isMobile}>
-      // Line below is for LHS table of content
+      {/* Line below is for LHS table of content */}
       <div style={{ width: "20%" }}></div>
       <div
         style={{
