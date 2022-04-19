@@ -156,6 +156,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Automated Market Maker (AMM)](../concepts/amm.md)
 * [Decentralized Exchange (DEX)](../concepts/dex.md)
 * [Yield Farming](../concepts/yield-farming.md)
+* [Hard fork](../concepts/hard-fork.md)
 
 #### Regulation
 

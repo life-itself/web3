@@ -1,5 +1,5 @@
 # Price Risk
-Price risk is the risk of a decline in the value of an [asset](asset), due to external factors or market conditions, during a period in which a financial contract is active. The risk of the asset declining must be factored into the contract's payment terms to hedge the risk of the asset.
+*Price risk* or *market risk* is the risk of a decline in the value of an [asset](asset), due to external factors or market conditions, during a period in which a financial contract is active. The risk of the asset declining must be factored into the contract's payment terms to hedge the risk of the asset.
 
 [Crypto assets](cryptoasset.md) are subject to extreme volatility and thus have extreme price risk, which makes them unsuitable as a [medium of exchange](money.md) or for denominating contracts in.
 
