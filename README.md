@@ -78,6 +78,7 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
 * [Charlie Stross: Why I want Bitcoin to Die in Fire](https://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html) - 2013-12
 * [The Maltese Falcon](https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf) - critique of bitcoin and financial properties of crypto assets from the CIO of JP Morgan bank. 2021-02-10
 * [Vivaldi CEO: Why Vivaldi will never create ThinkCoin](https://vivaldi.com/blog/why-vivaldi-will-never-create-thinkcoin/) - 2022-01-13 - Jon von Tetzchner: “if you look beyond the hype, you’ll find nothing more than a pyramid scheme posing as currency.”
+* [Centralizing Control: Why Bitcoin is Dangerous](https://salbayat.org/centralizing-control-why-bitcoin-is-dangerous/) - 2022-04-02 - Sal Bayat: “Democratic governance is fundamentally incompatible with existing cryptocurrency systems as they can only represent the interests of those in control of the system.”
 
 ### Economists
 
