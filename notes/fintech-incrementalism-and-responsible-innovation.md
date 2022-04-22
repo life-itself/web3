@@ -6,8 +6,12 @@ youtube: https://www.youtube.com/embed/7rLQoTtwRSU
 podcast: https://anchor.fm/life-itself/episodes/Fintech-Incrementalism-and-Responsible-Innovation-e1gn02u
 featured: false
 created: 2022-04-04
-aliases: claims/...
+aliases: notes/collective-action-problems-and-climate-change.md
 ---
+
+{/* https://www.youtube.com/watch/7rLQoTtwRSU */}
+
+{/* Podcast: https://anchor.fm/life-itself/episodes/Fintech-Incrementalism-and-Responsible-Innovation-e1gn02u */}
 
 ***
 
