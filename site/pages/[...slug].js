@@ -10,15 +10,9 @@ export default function Page({ body, ...rest }) {
   const children = {
     Component,
     frontmatter: {
-      title: rest.title,
-      date: rest.date,
-      description: rest.description,
-      image: rest.image,
-      youtube: rest.youtube,
-      podcast: rest.podcast,
-      featured: rest.featured,
-      created: rest.created,
-      aliases: rest.aliases
+      ...rest,
+      date: rest.date === "Invalid Date" ? null : rest.date,
+      created: rest.created === "Invalid Date" ? null : rest.created
     },
   };
 
@@ -28,19 +22,22 @@ export default function Page({ body, ...rest }) {
     .replace(/-/g, " ")
     // capitalize first char of each word
     .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
+
+  const title = children.frontmatter.title ?? titleFromUrl
+  const imageUrl = siteConfig.url + children.frontmatter.image
   
   return (
     <>
       <NextSeo
-        title={children.frontmatter.title ?? titleFromUrl}
+        title={title}
         description={children.frontmatter.description}
-        canonical={siteConfig.url + "/" + rest._raw.flattenedPath}
+        canonical={`${siteConfig.url}/${rest._raw.flattenedPath}`}
         openGraph={{
-          title: children.frontmatter.title ?? titleFromUrl,
+          title: title,
           description: children.frontmatter.description,
           images: [
             {
-              url: siteConfig.url + children.frontmatter.image,
+              url: imageUrl,
               width: 1200,
               height: 627,
               alt: children.frontmatter.title,
