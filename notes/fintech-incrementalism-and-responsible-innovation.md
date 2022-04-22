@@ -6,7 +6,7 @@ description: "In episode #5 of our ongoing deep dive into web3 and crypto, Rufus
 youtube: https://www.youtube.com/watch?v=7rLQoTtwRSU&t=4s
 podcast: https://anchor.fm/life-itself/episodes/Fintech-Incrementalism-and-Responsible-Innovation-e1gn02u
 featured: false
-aliases: fintech-incrementalism-and-responsible-innovation.md
+aliases: notes/fintech-incrementalism-and-responsible-innovation.md
 ---
 
 {/* https://www.youtube.com/watch?v=7rLQoTtwRSU&t=4s */}
