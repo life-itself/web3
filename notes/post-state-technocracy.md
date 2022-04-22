@@ -2,7 +2,7 @@
 title: Post-State Technocracy
 created: 2022-03-21
 date: 2022-03-21
-description: "In episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore the notion that crypto assets are a means to create a new form of "network state" outside of the existing international order."
+description: "In episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore the notion that crypto assets are a means to create a new form of 'network state' outside of the existing international order."
 youtube: https://www.youtube.com/watch?v=gZ0iCJkM3PU
 podcast: https://anchor.fm/life-itself/episodes/On-Web3-and-Post-State-Technocracy-with-Stephen-Diehl--Rufus-Pollock-e1g4cpe
 featured: false
