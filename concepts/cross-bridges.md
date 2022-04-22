@@ -3,7 +3,7 @@ In crypto technology a *cross bridge* is a combination of [smart-contracts](smar
 
 Cross bridges are commonly used for [money laundering](money-laundering.md) transactions in which multiple [cryptoassets](cryptoasset.md) are swapped in a method called *chain-hopping* which is used to obscure the provenance of funds associated with [illicit financing](illicit-financing.md).
 
-See also [defi](defi.md) and [money-laundering](money-laundering.md).
+See also [DeFi](defi.md) and [money-laundering](money-laundering.md).
 
 ## References
 1. Orcutt, Mike. 2020. ‘This Is How North Korea Uses Cutting-Edge Crypto Money Laundering to Steal Millions’. MIT Technology Review. MIT Technology Review. http://www.technologyreview.com/2020/03/05/916688/north-korean-hackers-cryptocurrency-money-laundering/.

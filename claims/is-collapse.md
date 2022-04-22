@@ -6,6 +6,7 @@ The crypto ideology is an extension of neoliberal project that aims to expand th
 
 ## References
 1. Reijers, Wessel, and Mark Coeckelbergh. 2018. ‘The Blockchain as a Narrative Technology: Investigating the Social Ontology and Normative Configurations of Cryptocurrencies’. Philosophy and Technology 31 (1): 103–30. https://doi.org/10.1007/s13347-016-0239-x.
+1. Cohney, Shaanan, David Hoffman, Jeremy Sklaroff, and David Wishnick. 2019. ‘Coin-Operated Capitalism’. Columbia Law Review 119 (3): 591–676.
 1. Golumbia, David. 2013a. ‘Cyberlibertarianism: The Extremist Foundations of “Digital Freedom.”’ Clemson University Department of English.
 1. ———. 2015. ‘Bitcoin as Politics: Distributed Right-Wing Extremism’. MoneyLab Reader: An Intervention in Digital Economy, Amsterdam: Institute of Network Cultures.
 1. Stinchcombe, Kai. 2018. ‘Blockchain Is Not Only Crappy Technology but a Bad Vision for the Future’. Medium (blog). 9 April 2018. https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec.

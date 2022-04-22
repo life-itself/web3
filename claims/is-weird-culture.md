@@ -8,6 +8,7 @@ Crypto culture depends heavily on a distortion of language to signify belonging 
 * "have fun staying poor" / "hfsp"
 * "If you don't believe it or don't get it, I don't have the time to try to convince you"
 * "we're all going to make" / "wagmi"
+* "we're so early"
 * "hold on for dear life" / "hodl"
 * "the dollar is a ponzi scheme" / everything is a ponzi"
 * "now do the dollar"

@@ -11,7 +11,6 @@ aliases: notes/neo-metallism.md
 
 * Wiki topic:  [Securities Framework](../concepts/security.md)
 
-
 ***
 
 # Episode Notes

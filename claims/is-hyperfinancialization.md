@@ -12,6 +12,7 @@ Projects like NFTs and the their increasing enclosure of culture have indicated 
 1. Olson, Dan. 2022a. Line Goes Up – The Problem With NFTs. https://www.youtube.com/watch?v=YQ_xWvX1n9g.
 1. McKay, Ian (2014). "A Half-Century of Possessive Individualism: C.B. Macpherson and the Twenty-First-Century Prospects of Liberalism". Journal of the Canadian Historical Association. 25 (1): 307–340. doi:10.7202/1032806ar. ISSN 1712-6274.
 1. Bellinger, Matthew. 2018. ‘The Rhetoric of Bitcoin: Money, Politics, and the Construction of Blockchain Communities’. ResearchWorks Archive. PhD Thesis. https://digital.lib.washington.edu/researchworks/handle/1773/43342.
+1. Cohney, Shaanan, David Hoffman, Jeremy Sklaroff, and David Wishnick. 2019. ‘Coin-Operated Capitalism’. Columbia Law Review 119 (3): 591–676.
 1. Breidbach, Christoph F., and Silviana Tana. 2021. ‘Betting on Bitcoin: How Social Collectives Shape Cryptocurrency Markets’. Journal of Business Research 122: 311–20. https://doi.org/10.1016/j.jbusres.2020.09.017.
 1. Bruun, Maja Hojer, Astrid Oberborbeck Andersen, and Adrienne Mannov. 2020. ‘Infrastructures of Trust and Distrust: The Politics and Ethics of Emerging Cryptographic Technologies’. Anthropology Today 36 (2): 13–17. https://doi.org/10.1111/1467-8322.12562.
 1. Diehl, Stephen. 2021a. ‘Gamestop, Bitcoin and the Commoditization of Populist Rage’. 3 February 2021. https://www.stephendiehl.com/blog/gamestop.html.

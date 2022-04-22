@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 export default function Features() {
   return (
     <div className="relative bg-white dark:bg-transparent pt-16 pb-32 overflow-hidden">
@@ -13,12 +15,13 @@ export default function Features() {
                   Blockchain, tokens, NFTs, DAOs - what does it all mean? Our guide provides an accessible overview of the key concepts in Crypto and Web3. 
                 </p>
                 <div className="mt-6">
-                  <a
-                    href="/guide/"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
-                  >
-                    Discover
-                  </a>
+                  <Link href="/guide/">
+                    <a
+                      className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
+                    >
+                      Discover
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -46,12 +49,14 @@ export default function Features() {
                   Want to learn more? We are maintaining a comprehensive library of articles, papers, books and other materials related to the space and the surrounding discourse. It provides deeper background on specific topics along with everything you need to fully engage with, and evaluate, Web3 and the claims being made about it. 
                 </p>
                 <div className="mt-6">
-                  <a
-                    href="/library/"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
-                  >
-                    Explore
-                  </a>
+                  <Link href="/library/">
+                    <a
+                      
+                      className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
+                    >
+                      Explore
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -79,12 +84,13 @@ export default function Features() {
                 Crypto and Web3 are associated with many bold claims. From classic technology boosterism of better and faster, to the radical transformation of our societies. But huge controversy surrounds these claims, and there’s a lack of agreement on even basic points and definitions.
                 </p>
                 <div className="mt-6">
-                  <a
-                    href="/claims"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
-                  >
-                    Learn More
-                  </a>
+                  <Link href="/claims">
+                    <a
+                      className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
+                    >
+                      Learn More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>

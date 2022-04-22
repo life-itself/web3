@@ -7,3 +7,4 @@ See also [deflationary asset](deflationary.md).
 
 ## References
 1. Frisch, Helmut. 1983. Theories of Inflation. Cambridge University Press.
+1. Ashton, Michael. What's Wrong with Money?: The Biggest Bubble of All. John Wiley & Sons, 2016.

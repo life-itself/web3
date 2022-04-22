@@ -60,6 +60,9 @@ Understand crypto and "web3" in terms of recent news events and interviews and e
 * [Recent News Stories](/notes/recent-events.md)
 * [Commentary on 'Line Goes Up'](../notes/olson-2022-line-go-up.md)
 * [Commentary on 'Web3 is a Libertarian Dystopia'](../notes/web3-dystopia)
+* [Commentary on Secretary Yellen's Speech](../notes/yellen-treasury-remarks.md)
+* [Commentary on Chairman Gensler's Speech](../notes/sec-remarks.md)
+* Commentary on 'Driverless Finance'
 
 ***
 
@@ -153,6 +156,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Automated Market Maker (AMM)](../concepts/amm.md)
 * [Decentralized Exchange (DEX)](../concepts/dex.md)
 * [Yield Farming](../concepts/yield-farming.md)
+* [Hard fork](../concepts/hard-fork.md)
 
 #### Regulation
 

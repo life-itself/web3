@@ -1,17 +1,19 @@
-# Market Fundamentalism
+---
+title: Market Fundamentalism
+date: 2022-03-04
+description: "In episode #2 of the series, Rufus Pollock and Stephen Diehl explore a common incentive for investing in crypto: the belief - held by day traders and quantitative hedge funds alike - that crypto can make those who trade it a lot of money. Particular focus in this episode is placed on the 'market fundamentalist' position."
+youtube: https://www.youtube.com/watch?v=K5JtPTyc0y0
+podcast: https://anchor.fm/life-itself/episodes/Crypto--Traders-and-Unfettered-Financial-Markets-with-Stephen-Diehl-e1fgm2d
+featured: false
+aliases: notes/market-fundamentalism.md
+---
 
-In episode #2 of the series, Rufus Pollock and Stephen Diehl explore a common incentive for investing in crypto: the belief - held by day traders and quantitative hedge funds alike - that crypto can make those who trade it a lot of money. Particular focus in this episode is placed on the 'market fundamentalist' position.
+{/* https://www.youtube.com/watch?v=K5JtPTyc0y0 */}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K5JtPTyc0y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-* Youtube:  https://www.youtube.com/watch?v=K5JtPTyc0y0
-* Podcast: https://anchor.fm/life-itself/episodes/Crypto--Traders-and-Unfettered-Financial-Markets-with-Stephen-Diehl-e1fgm2d
+{/* Podcast: https://anchor.fm/life-itself/episodes/Crypto--Traders-and-Unfettered-Financial-Markets-with-Stephen-Diehl-e1fgm2d */}
 * Wiki topic:  [Market Fundamentalism](../concepts/market-fundamentalism.md)
 
-
-*** 
+***
 
 # Episode Notes
 

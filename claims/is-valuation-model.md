@@ -8,6 +8,8 @@ Models such as "Stock To Flow" have shown no predictive power to explain the [pr
 Other products in [bubble](../concepts/bubble.md) such as tulips or beanie babies have exhibited similar market structure to crypto tokens but on smaller scales.
 
 ## References
+
+1. Shiller, Robert J. 2017. ‘What Is Bitcoin Really Worth? Don’t Even Ask.’ The New York Times, 15 December 2017, sec. Business. https://www.nytimes.com/2017/12/15/business/bitcoin-investing.html.
 1. Taleb, Nassim Nicholas. 2021. ‘Bitcoin, Currencies, and Fragility’. ArXiv:2106.14204 [Physics, q-Fin], July. http://arxiv.org/abs/2106.14204.
 1. Cembalest, Michael. 2022. ‘The Maltese Falcoin: On Cryptocurrencies and Blockchains’. https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/pb/en/insights/eye-on-the-market/the-maltese-falcoin.pdf.
 1. Silverman, Gary. 2021. ‘Crypto Has “No Inherent Worth” But Is Good to Trade, Says Man Group Chief’. Financial Times, 26 July 2021. https://www.ft.com/content/9275baf4-0422-43a1-b8c9-9317882ca874.
