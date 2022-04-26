@@ -19,7 +19,7 @@ const siteConfig = {
     openGraph: {
       images: [
         {
-          url: "/img/home-page-screenshot-social-preview.png",
+          url: "https://web3.lifeitself.us/img/home-page-screenshot-social-preview.png",
           alt: "Making Sense of Crypto & Web3 by Life Itself",
           width: 1200,
           height: 627,
