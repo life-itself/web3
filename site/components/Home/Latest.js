@@ -1,27 +1,27 @@
 
 const posts = [
   {
-    title: 'Crypto, Traders and Unfettered Financial Markets',
-    href: 'https://www.youtube.com/watch?v=K5JtPTyc0y0',
+    title: 'Open Collective, Steward Ownership & Exit to Community with Pia Mancini',
+    href: 'https://www.youtube.com/watch?v=C2KYJiQVtIM',
     category: { name: 'Video', href: '#' },
-    description: 'In this episode we discuss the view that crypto are just risky assets and unfettered and unregulated financial markets are desirable.',
-    imageUrl: '/img/Market_Fundamentalism_Thumbnail_nn19qa.png'
+    description: 'In this episode with Pia Mancini about her work to make community finance transparent and sustainable with Open Collective, her commitment ot steward ownership and the value of an exit to community.',
+    imageUrl: '/img/Pia Mancini Thumbnail.jpg'
   },
   {
-    title: 'On the Potential of DAOs & Web3 with Jordan Hall',
-    href: 'https://www.youtube.com/watch?v=aQvpgYW0o7M',
+    title: 'Collective Action Problems & Climate Change',
+    href: 'https://www.youtube.com/watch?v=SLXtnCL6IxE',
     category: { name: 'Video', href: '#' },
-    description: 'In this episode with Jordan Hall we discuss the potential of DAOs and Web3 for social change.',
+    description: 'In this episode we use the example of KlimaDAO to explore the interaction between climate change and the public goods problem.',
     datetime: '2022-03-01',
-    imageUrl: '/img/Potential_of_DAOs_Thumb_ko4vpa.png'
+    imageUrl: '/img/Collective Action Climate.png'
   },
   {
-    title: 'Web3, Bitcoin & Neo-Metallism',
-    href: 'https://www.youtube.com/watch?v=_o7pRFLzJHY',
+    title: 'Web3 and Post-State Technocracy',
+    href: 'https://www.youtube.com/watch?v=gZ0iCJkM3PU',
     category: { name: 'Video', href: '#' },
-    description: 'In this episode we examine Bitcoin and the Neo-Metallist thesis i.e. that a gold-standard was a good idea and a Bitcoin-standard would be even better.',
+    description: 'In this episode we explore the aspirational transition from the existing US-led international order to a world in which blockchain technology and technocracy are the new foundations for global human governance.',
     datetime: '2022-02-17',
-    imageUrl: '/img/Neo-metallism_Thumb_vo3dhs.png',
+    imageUrl: '/img/technocracy.jpg',
   },
 ]
 
