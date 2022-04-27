@@ -1,4 +1,14 @@
-# Test (Obsidian) wiki link syntax
+---
+title: Test frontmatter in markdown
+created: 2022-04-26
+date: 2022-04-26
+description: 'In this test episode with somebody about their work to make community finance transparent and sustainable with Open Collective, their commitment ot steward ownership and the value of an exit to community.'
+youtube: https://youtube.com/
+featured: false
+---
+
+
+## Test (Obsidian) wiki link syntax
 
 1. Internal link  
     *`[[recent-events]]`*  
@@ -23,7 +33,7 @@
 
 ***
 
-# Test video embed links in markdown
+## Test video embed links in markdown
 
 This youtube link (https://www.youtube.com/embed/K5JtPTyc0y0) surrounded by newlines in markdown would display as follows:
 
