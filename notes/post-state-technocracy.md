@@ -1,17 +1,15 @@
 ---
-title: Post-State Technocracy
+title: Web3 and Post-State Technocracy
 created: 2022-03-21
-date: 2022-03-21
-description: "In episode #4 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl do a deep dive into the Silicon Valley utopian ideas of crypto assets and explore the notion that crypto assets are a means to create a new form of 'network state' outside of the existing international order."
+date: 2022-02-17
+description: "In this episode we explore the aspirational transition from the existing US-led international order to a world in which blockchain technology and technocracy are the new foundations for global human governance."
+image: /img/technocracy.jpg
 youtube: https://www.youtube.com/watch?v=gZ0iCJkM3PU
 podcast: https://anchor.fm/life-itself/episodes/On-Web3-and-Post-State-Technocracy-with-Stephen-Diehl--Rufus-Pollock-e1g4cpe
-featured: false
+featured: true
 aliases: notes/post-state-technocracy.md
 ---
 
-{/* https://www.youtube.com/watch?v=gZ0iCJkM3PU */}
-
-{/* Podcast: https://anchor.fm/life-itself/episodes/On-Web3-and-Post-State-Technocracy-with-Stephen-Diehl--Rufus-Pollock-e1g4cpe */}
 * Wiki Topic: [Post-state technocracy](../concepts/post-state-technocracy.md)
 
 ***

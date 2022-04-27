@@ -1,17 +1,15 @@
 ---
 title: Collective Action Problems & Climate Change
 created: 2022-04-13
-date: 2022-04-13
-description: "In episode #6 in our series of deep dives into crypto and web3, Rufus Pollock and Stephen Diehl explore the interaction of climate change and public goods problems. They focus on KlimaDAO as an example of an attempted solution to solve a public goods problem within the climate space using a Decentralized Autonomous Organization."
+date: 2022-03-01
+description: 'In this episode we use the example of KlimaDAO to explore the interaction between climate change and the public goods problem.'
+image: /img/Collective Action Climate.png
 youtube: https://www.youtube.com/watch?v=SLXtnCL6IxE
 podcast: https://anchor.fm/life-itself/episodes/Collective-Action-Problems--Climate-Change-e1h4o6e/a-a7gpq18
-featured: false
+featured: true
 aliases: notes/collective-action-problems-and-climate-change.md
 ---
 
-{/* https://www.youtube.com/watch?v=SLXtnCL6IxE */}
-
-{/* Podcast: https://anchor.fm/life-itself/episodes/Collective-Action-Problems--Climate-Change-e1h4o6e/a-a7gpq18 */}
 * Wiki topic: [public-goods-problem](../concepts/public-goods-problem.md)
 
 ***
