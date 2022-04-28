@@ -6,7 +6,7 @@ description: "As part of our Making Sense of Web3 series, Rufus Pollock speaks w
 youtube: https://youtu.be/C2KYJiQVtIM
 podcast: https://anchor.fm/life-itself/episodes/Open-Collective--Steward-Ownership--Exit-to-Community-with-Pia-Mancini-e1hkltv/a-a7gpq18
 featured: false
-aliases: notes/open-collective-steward-ownership-and-exit-to-community.md
+aliases: notes/open-collective.md
 ---
 
 ***
