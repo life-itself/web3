@@ -6,7 +6,7 @@ description: "Just what is Web3, why are people so excited about it, and how lik
 youtube: https://youtu.be/bBP5cKAbAug
 podcast: https://anchor.fm/life-itself/episodes/Richard-D--Bartlett--Stephen-Reid-on-Critical-Exploration-of-Web3-e1f5q1f/a-a7gpq18
 featured: false
-aliases: notes/richard-bartlett-and-stephen-reid-on-critical-exploration-of-web3.md
+aliases: notes/richard-bartlett-and-stephen-reid.md
 ---
 
 ***
