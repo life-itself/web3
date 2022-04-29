@@ -5,7 +5,7 @@ Pre-mines are most often distributed to venture capital firms.
 
 Pre-mines have been criticised as an obscured form of [pump and dump](pump-and-dump.md) scheme.
 
-A pre-mine is an posited solution to the [distribution problem](distribution-problem.md).
+A pre-mine is a posited solution to the [distribution problem](distribution-problem.md).
 
 ## References
 1. Livni, Ephrat, and Andrew Ross Sorkin. 2021. ‘The Dramatic Crash of a Buzzy Cryptocurrency Raises Eyebrows’. The New York Times, 28 June 2021, sec. Business. https://www.nytimes.com/2021/06/28/business/dealbook/icp-cryptocurrency-crash.html.
