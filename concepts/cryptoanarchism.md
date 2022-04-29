@@ -1,13 +1,13 @@
 # Cryptoanarchism
-Cryptoanarchism or cyberanarchism is a political ideology whose aim is to achieve the protection of privacy, political freedom and economic freedom through the use the use of cryptography and [crypto assets](../cryptoasset.md). Cryptoanarchism sees itself as reaction to the overreach of governments and the state into the private and financial lives of citizens and asserts the need for so-called *total freedom*. 
+Cryptoanarchism or cyberanarchism is a political ideology the aim of which is to achieve the protection of privacy, political freedom and economic freedom through the use of cryptography and [crypto assets](../cryptoasset.md). Cryptoanarchism sees itself as a reaction to the overreach of governments and the state into the private and financial lives of citizens and asserts the need for so-called *total freedom*. 
 
-* Total anonymity of individuals in the digital spaces.
+* Total anonymity of individuals in the digital spaces
 * Total freedom of speech without censorship or moderation
 * Total freedom to trade without regulation or protections
 
 The idea revolves around the politics that individuals are self-sovereign and that the internet or cyberspace as a whole is an independent territory outside the remit and regulation of governments. This is outlined in the seminal writing by cryptoanarchist leader John Barlow in his writing *A Declaration of the Independence of Cyberspace*.
 
-The ideas behind [bitcoin](../bitcoin.md) can be traced to another seminal work *The Crypto Anarchist Manifesto*.
+The ideas behind [bitcoin](../bitcoin.md) can be traced to another seminal work, *The Crypto Anarchist Manifesto*.
 
 See also [anarchocapitalism](../anarchocapitalism.md), [libertarianism](libertarianism.md) and [post-state technocracy](../../notes/post-state-technocracy.md).
 
