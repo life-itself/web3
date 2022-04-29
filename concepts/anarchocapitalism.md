@@ -1,5 +1,5 @@
 # Anarcho-capitalism
-Anarcho-capitalism is a political ideology that synthesises beliefs from [capitalism](capitalism.md) and anarchy. Its adherents believe in the the elimination of centralized nation states in favour of  of a system of pure private property enforced by private agencies, free markets and self-ownership without the need for laws or the state.
+Anarcho-capitalism is a political ideology that synthesises beliefs from [capitalism](capitalism.md) and anarchy. Its adherents believe in the elimination of centralized nation states in favour of a system of pure private property enforced by private agencies, free markets and self-ownership without the need for laws or the state.
 
 In the absence of the nation state, anarcho-capitalists suppose that society will inevitably contractually self-regulate and participation in the free market will sustain or replace the need for [public goods](public-goods-problem.md).
 
