@@ -1,10 +1,10 @@
 # Market Fundamentalism
-The belief that [market](../market.md) are inevitable and desirable feature of [capitalism](../capitalism.md) and that efficient and transparent [market making](../market-maker.md) enables capital formation and general public prosperity.
+The belief that [markets](../market.md) are an inevitable and desirable feature of [capitalism](../capitalism.md) and that efficient and transparent [market making](../market-maker.md) enables capital formation and general public prosperity.
 
-Often coincides with the belief that [market manipulation](../market-manipulation.md), [asymmetric information](../asymmetric-information.md), and [cartels](../cartel.md) in markets is undesirable because these phenomenon destroy trust in markets and inhibit [price formation](../price-formation.md).
+Often coincides with the belief that [market manipulation](../market-manipulation.md), [asymmetric information](../asymmetric-information.md), and [cartels](../cartel.md) in markets are undesirable because these phenomenon destroy trust in markets and inhibit [price formation](../price-formation.md).
 
 The strong form of this ideology coincides with the so-called Friedman Doctrine that 
-the social responsibility of business is to increase its profits, possibly by any means.
+the social responsibility of business is to increase its profits by any means possible.
 
 ## References
 1. Janeway, William H. Doing capitalism in the innovation economy: Markets, speculation and the state. Cambridge University Press, 2012.
