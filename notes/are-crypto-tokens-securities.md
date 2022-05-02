@@ -6,7 +6,7 @@ description: "In episode #3 of our ongoing deep dive into web3 and crypto, we ex
 youtube: https://www.youtube.com/embed/z2uAg-AIs-Y
 podcast: https://anchor.fm/life-itself/episodes/Are-Cryptocurrencies-Securities--The-Nature-of-Securities--Their-Relation-to-Crypto-Tokens-with-Stephen-Diehl-e1fph69
 featured: false
-aliases: notes/neo-metallism.md
+aliases: notes/are-crypto-tokens-securities.md
 ---
 
 * Wiki topic:  [Securities Framework](../concepts/security.md)
