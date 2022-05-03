@@ -6,7 +6,7 @@ e.g. information architecture, job stories etc.
 Launchable and *announceable* website.
 
 
-## Wireframes and Mockups
+# Wireframes and Mockups
 
 ### Home page
 
@@ -30,6 +30,28 @@ Excalidraw version: https://excalidraw.com/#room=77b4b0841586502dc440,OS7tGXbkYE
 * Library `/library`: 
 
 Currently have `ideologies` folder too. I wonder if we merge into notes.
+
+## Claims
+
+### Claims/Aspirations Database 2022-03-11
+
+* [ ] Analysis of needs for DB
+  * [ ] Identify needs for this "database" e.g. a) does it need to be structured b draft as well as finished material c) planning or publication (or both) 
+  * [ ] Choose canonical location
+  * [ ] Move stuff there and de-duplicate
+* [ ] Key features for aspirations & claims database #todo/process to somewhere in the wiki (design section?) 
+  * Aspiration title
+  * Aspiration Description
+  * Title for Claim
+  * Short Description
+  * Example	Who holds this position
+* [ ] What exists already? Ans: coggle plus some material in the [issue tree spreadsheet](https://docs.google.com/spreadsheets/d/12Yh1kuxH4uoposLUJsJifM2W_zixkAhlc7QgcKavfls/edit#gid=1407864122)
+
+### Design
+
+![info-architecture-aspirations-claims-subclaims-2022-03-21.excalidraw](../excalidraw/info-architecture-aspirations-claims-subclaims-2022-03-21.excalidraw.svg)
+
+![info-architecture-2-2022-03-17.excalidraw](../excalidraw/info-architecture-2-2022-03-17.excalidraw.svg)
 
 ## Journey as a user ...
 
