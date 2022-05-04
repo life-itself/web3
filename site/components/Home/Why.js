@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default function Why() {
   return (
-    <div className="relative bg-white dark:bg-transparent pt-16 pb-32 overflow-hidden">
+    <div className="relative bg-white dark:bg-transparent py-16 overflow-hidden">
       <div className="text-center">
         <h2 className="text-3xl tracking-tight font-extrabold text-white sm:text-4xl">
           Why this Project
@@ -38,10 +38,10 @@ export default function Why() {
               </div>
             </div>
           </div>
-          <div className="mt-12 sm:mt-16 lg:mt-0">
-            <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
+          <div className="mt-12 sm:mt-16 lg:mt-0 lg:relative">
+            <div className="mx-auto max-w-md px-4 sm:max-w-xl sm:px-6 lg:m-0 lg:max-w-none lg:px-0">
               <img
-                className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
+                className="p-6 w-full lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none rounded-xl shadow-xl ring-1 ring-black ring-opacity-5"
                 src="/img/undraw_nakamoto_-2-iv6_arq2lb.svg"
                 alt="Read More"
               />
@@ -80,9 +80,9 @@ export default function Why() {
             </div>
           </div>
           <div className="mt-12 sm:mt-16 lg:mt-0 lg:col-start-1">
-            <div className="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
+            <div className="mx-auto max-w-xl px-4 sm:px-6 sm:max-w-2xl lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
-                className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
+                className="p-6 w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
                 src="/img/undraw_connected_world_wuay_amttde.svg"
                 alt="Read More"
               />
@@ -117,10 +117,10 @@ export default function Why() {
               </div>
             </div>
           </div>
-          <div className="mt-12 sm:mt-16 lg:mt-0">
-            <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
+          <div className="mt-12 sm:mt-16 lg:mt-0 lg:relative">
+            <div className="mx-auto max-w-md px-4 sm:max-w-xl sm:px-6 lg:m-0 lg:max-w-none lg:px-0">
               <img
-                className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
+                className="p-6 w-full lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none rounded-xl shadow-xl ring-1 ring-black ring-opacity-5"
                 src="/img/undraw_team_collaboration_re_ow29_s8gvrf.svg"
                 alt="Read More"
               />
