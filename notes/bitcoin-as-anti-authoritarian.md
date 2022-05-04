@@ -6,7 +6,7 @@ description: "Episode #7 of our ongoing deep dive into web3 and crypto with Rufu
 youtube: 
 podcast: 
 featured: false
-aliases: notes/bitcoin-as-anti-authoritarianism.md
+aliases: notes/bitcoin-as-anti-authoritarian.md
 ---
 
 ***
