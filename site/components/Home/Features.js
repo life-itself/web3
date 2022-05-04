@@ -66,7 +66,7 @@ export default function Features() {
               <img
                 className="w-full lg:absolute lg:inset-y-0 lg:right-0 lg:h-full lg:w-auto lg:max-w-3xl"
                 src="/img/undraw_bibliophile_re_xarc_ssxnqe.svg"
-                alt="Discover"
+                alt="Library"
               />
             </div>
           </div>
@@ -100,7 +100,7 @@ export default function Features() {
               <img
                 className="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-3xl"
                 src="/img/undraw_instant_analysis_re_mid5_i8r1hp.svg"
-                alt="Discover"
+                alt="Learn More"
               />
             </div>
           </div>
