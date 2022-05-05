@@ -105,3 +105,30 @@ We will conclude that **Bitcoin and crypto generally is not an liberatory force 
   * *“Despite claims of “decentralization”, the cryptocurrency industry is controlled by a powerful cartel of wealthy figures who, with time, have evolved to incorporate many of the same institutions tied to the existing centralized financial system they supposedly set out to replace.”*
   * *“The cryptocurrency industry leverages a network of shady business connections, bought influencers and pay-for-play media outlets to perpetuate a cult-like “get rich quick” funnel designed to extract new money from the financially desperate and naive.”*
 * **Bitcoin and crypto generally is not an liberatory force in the world, nor a means to counter authoritarianism in any substantial manner. In fact, it is likely to largely amplify the worst parts of society’s existing corrupt power structures.**
+
+
+## References
+
+1. Allen, Hilary J. 2022. ‘DeFi: Shadow Banking 2.0?’ SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4038788.
+1. Alvarez, Fernando, David Argente, and Diana Van Patten. 2022. ‘Are Cryptocurrencies Currencies? Bitcoin as Legal Tender in El Salvador’.
+1. Analytica, Oxford. 2021. ‘El Salvador Bitcoin Experiment Comes with Risks’. Expert Briefings.
+1. Binder, Carola. 2021. ‘Technopopulism and Central Banks’. SSRN Electronic Journal. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3823456.
+1. Braun, Benjamin, and Daniela Gabor. 2019. ‘Central Banking, Shadow Banking, and Infrastructural Power’. https://doi.org/10.31235/osf.io/nf9ms.
+1. Buttigieg, Christopher P., Christos Efthymiopoulos, Abigail Attard, and Samantha Cuyle. 2019. ‘Anti-Money Laundering Regulation of Crypto Assets in Europe’s Smallest Member State’. Law and Financial Markets Review 13 (4): 211–27. https://doi.org/10.1080/17521440.2019.1663996.
+1. Crandall, Jillian. 2019. ‘Cryptoeconomic Geographies and Contestation in Puerto Rico’. Thesis. PhD Thesis. http://jilliancrandall.net/cryptoeconomic-geographies-and-contestation-in-pr/.
+1. Doody, Sean. 2020. ‘Reactionary Technopolitics: A Critical Sociohistorical Review’. Fast Capitalism 17 (1): 143–64. https://doi.org/10.32855/fcapital.202001.009.
+1. Ferreira, Agata. 2021. ‘The Curious Case of Stablecoins—Balancing Risks and Rewards?’ Journal of International Economic Law 24 (4): 755–78. https://doi.org/10.1093/jiel/jgab036.
+1. Fletcher, Emily, Charles Larkin, and Shaen Corbet. 2021. ‘Countering Money Laundering and Terrorist Financing: A Case for Bitcoin Regulation’. Research in International Business and Finance 56 (January): 101387. https://doi.org/10.1016/j.ribaf.2021.101387.
+1. Greenberg, Andy. 2012. This Machine Kills Secrets: Julian Assange, the Cypherpunks, and Their Fight to Empower Whistleblowers. Penguin Randon House. https://www.penguinrandomhouse.com/books/309904/this-machine-kills-secrets-by-andy-greenberg/.
+1. Gürses, Seda, Arun Kundnani, and Joris Van Hoboken. 2016. ‘Crypto and Empire: The Contradictions of Counter-Surveillance Advocacy’. Media, Culture and Society 38 (4): 576–90. https://doi.org/10.1177/0163443716643006.
+1. Hanke, Steve, Nicholas Hanlon, Mihir Chakravarthi, and others. 2021. ‘Bukele’s Bitcoin Blunder’. The Johns Hopkins Institute for Applied Economics, Global Health, and the ….
+1. Howson, Peter. 2020. ‘Climate Crises and Crypto-Colonialism: Conjuring Value on the Blockchain Frontiers of the Global South’. Frontiers in Blockchain 3 (May). https://doi.org/10.3389/fbloc.2020.00022.
+1. Howson, Peter, and Alex de Vries. 2022. ‘Preying on the Poor? Opportunities and Challenges for Tackling the Social and Environmental Threats of Cryptocurrencies for Vulnerable and Low-Income Communities’. Energy Research and Social Science 84 (xxxx): 102394. https://doi.org/10.1016/j.erss.2021.102394.
+1. Jutel, Olivier. 2022. ‘Blockchain Humanitarianism and Crypto-Colonialism’. Cell Press Open Access, Patterns, 3 (1): 8. https://doi.org/10.1016/j.patter.2021.100422.
+1. Murray, Christine. n.d. ‘IMF Urges El Salvador to Ditch Bitcoin as Legal Tender | Financial Times’. Accessed 3 March 2022. https://www.ft.com/content/fbf9aef0-453f-4e61-bd83-ff2b2bc92221.
+1. Orcutt, Mike. 2020. ‘This Is How North Korea Uses Cutting-Edge Crypto Money Laundering to Steal Millions’. MIT Technology Review. MIT Technology Review. http://www.technologyreview.com/2020/03/05/916688/north-korean-hackers-cryptocurrency-money-laundering/.
+1. Ottenhof, Luke. 2021. ‘Crypto-Colonialists Use the Most Vulnerable People in the World as Guinea Pigs’. VICE Media.
+1. Pilkington, Marc. 2017. ‘Can Global Elites Pave the Way for a New Transnational Unit of Account? A Reflection on the Numerical Nature of Money’. World Review of Political Economy 8 (4). https://doi.org/10.2139/ssrn.2339678.
+1. Popper, Nathaniel. 2019. ‘Terrorists Turn to Bitcoin for Funding, and They’re Learning Fast’. The New York Times, 92–94.
+1. Renieris, Elizabeth M. n.d. ‘Why a Little-Known Blockchain-Based Identity Project in Ethiopia Should Concern Us All’. Centre for International Governance Innovation. Accessed 22 February 2022. https://www.cigionline.org/articles/why-a-little-known-blockchain-based-identity-project-in-ethiopia-should-concern-us-all/.
+1. Steele, Graham. 2021. ‘The Miner of Last Resort: Digital Currency, Shadow Money and the Role of the Central Bank’. Technology and Government, Emerald Studies in Media and Communications, Forthcoming.
