@@ -1,5 +1,5 @@
 # Accelerationism
-Accelerationism is reactionary belief system that proposes that processes like capitalist growth and technological change should be drastically intensified or "accelerated" as a mechanism to effect radical social change.
+Accelerationism is a reactionary belief system that proposes that processes like capitalist growth and technological change should be drastically intensified or "accelerated" as a mechanism to effect radical social change.
 
 The notion coincides with crypto advocacy as some believe that an acceleration to a variant of [capitalism](capitalism.md) with no regulation, caveat emptor investments, and extreme financialization of all aspects of human life as a means to accelerate the collapse of capitalism itself or to build a new financial system like a phoenix from the ashes of the old one.
 
