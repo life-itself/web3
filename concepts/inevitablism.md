@@ -1,5 +1,5 @@
 # Crypto-inevitablism
-The prefiguragative political ideology which is centred around a core faith that [crypto assets](cryptoasset.md) and their associated technologies and culture have some pre-ordained to destiny on the scale of human history detached from their efficacy for one use case or problem to solve. It is the presupposition that crypto assets are "here to stay", are even more so *inevitable*, and must be brought into existence to fulfil a, perhaps unspecified, destiny.
+The prefiguragative political ideology which is centred around a core faith that [crypto assets](cryptoasset.md) and their associated technologies and culture have some pre-ordained destiny on the scale of human history detached from their efficacy for one use case or problem to solve. It is the presupposition that crypto assets are "here to stay", are even more so *inevitable*, and must be brought into existence to fulfil a, perhaps unspecified, destiny.
 
 ## References
 1. Hussain, Syed Omer. 2020. ‘Prefigurative Post-Politics as Strategy: The Case of Government-Led Blockchain Projects’. The Journal of The British Blockchain Association 3 (1): 1–11. https://doi.org/10.31585/jbba-3-1-(2)2020.
