@@ -11,7 +11,7 @@ BItcoin mining has the equivalent power consumption of the state of Argentina, a
 
 Bitcoin mining collectively consumes more power than all data centres run by Google, Amazon, Microsoft, Apple, Netflix, Facebook and YouTube put together.
 
-Bitcoin is simply one of thousands of crypto assets which use PoW algorithm, including the second largest asset Ethereum which together with all other assets sum some to an even larger environmental footprint and difficult to calculate environmental footprint.
+Bitcoin is simply one of thousands of crypto assets which use PoW algorithm, including the second largest asset Ethereum which together with all other assets sum to an even larger and difficult to calculate environmental footprint.
 
 ## References
 1. Ahl, Amanda, Masaru Yarime, Kenji Tanaka, and Daishi Sagawa. ‘Review of Blockchain-Based Distributed Energy: Implications for Institutional Development’. Renewable and Sustainable Energy Reviews 107 (2019): 200–211. https://doi.org/10.1016/j.rser.2019.03.002.
