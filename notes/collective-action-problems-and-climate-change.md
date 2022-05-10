@@ -27,13 +27,22 @@ Lastly, Rufus and Stephen consider the topic of public goods problems and climat
 
 ## What is KlimaDAO?
 
-* KlimaDAO is an investment vehicle which aims to give investors exposure to climate change offsetting ventures. KlimaDAO runs on the [Ethereum](../concepts/ethereum.md) blockchain, which runs on [proof of work](../concepts/proof-of-work.md).
-* According to the founders of KlimaDAO: Value and price are visibly disconnected in our economy today
-  * “In our market economy, the invisible hand works to create prosperity and individual self-interest prevails. The freedom to produce and consume as we see fit generates value for the economy; value that allows the whole of society to prosper. We generally consider that the market itself is rational, and assume that it values things in a perfect way. We ignore the paradoxes in front of us everyday. Water, a necessity for life is essentially free across (much of) the world; diamonds have no real utility for us, yet in the free market they are priced exorbitantly, excluding all but the world’s richest. According to the market, Amazon is the world’s most valuable company. But the Amazon Rainforest has no market value until its vegetation is cleared for farming, and its trees are stripped of their greenery and extracted as logs.” - [KlimaDAO](https://docs.klimadao.finance/)
-* Their goal, according to their own words, is to become a Climate Carbon-Based Reserve Currency... effectively a semi-algorithmic [central bank](../concepts/central-banks.md) with [DAO](../concepts/dao.md) governance structures.
-  * “The DAO serves the role of "de-central" bank, governing the monetary policy of this new carbon-backed currency, just as a central bank governs the monetary policy of a fiat currency. Over time, we will build an economy around KLIMA by driving adoption and unlocking growth of the crypto-carbon economy.” - [KlimaDAO](https://docs.klimadao.finance/)
-* We have drawn up our best understanding of the underlying model of KlimaDAO as an investment vehicle: [view it here](https://excalidraw.com/#room=1891d6b61b0fee7269f9,T_TZqXxVGi5TGABRzS0T7w)
-* The model, boiled down to the essentials:
+KlimaDAO is an investment vehicle which aims to give investors exposure to climate change offsetting ventures.
+
+According to the founders of KlimaDAO: Value and price are visibly disconnected in our economy today:
+
+> In our market economy, the invisible hand works to create prosperity and individual self-interest prevails. The freedom to produce and consume as we see fit generates value for the economy; value that allows the whole of society to prosper. We generally consider that the market itself is rational, and assume that it values things in a perfect way. We ignore the paradoxes in front of us everyday. Water, a necessity for life is essentially free across (much of) the world; diamonds have no real utility for us, yet in the free market they are priced exorbitantly, excluding all but the world’s richest. According to the market, Amazon is the world’s most valuable company. But the Amazon Rainforest has no market value until its vegetation is cleared for farming, and its trees are stripped of their greenery and extracted as logs.” - [KlimaDAO](https://docs.klimadao.finance/)
+
+Their goal, according to their own words, is to become a Climate Carbon-Based Reserve Currency... effectively a semi-algorithmic [central bank](../concepts/central-banks.md) with [DAO](../concepts/dao.md) governance structures.
+
+> “The DAO serves the role of "de-central" bank, governing the monetary policy of this new carbon-backed currency, just as a central bank governs the monetary policy of a fiat currency. Over time, we will build an economy around KLIMA by driving adoption and unlocking growth of the crypto-carbon economy.” - [KlimaDAO](https://docs.klimadao.finance/)
+
+We have drawn up our best understanding of the underlying model of KlimaDAO as an investment vehicle: 
+
+[view it here](https://excalidraw.com/#room=1891d6b61b0fee7269f9,T_TZqXxVGi5TGABRzS0T7w)
+
+Boiled down to the essentials, the model is as follows:
+
   * Someone comes along with some currency, eg a [dollar](../concepts/dollar.md) or a euro, and then converts that into USDC, the [stablecoin](../concepts/stablecoin.md) equivalent of a US dollar.
   * In exchange for depositing whatever amount of USDC, you get 1 divided by the price of Klima Klima tokens from the Klima treasury.
   * Then the Klima organization takes the USDC that it has received, converts them back into dollars (or euros or pounds etc) and buys carbon offset certificates. Carbon offset certificates represent carbon sequestration (tree planting), methane capture, and renewable energy initiatives. The idea is then that certificates of carbon offsets come back into the treasury. As we understand it from the white paper, there's a guarantee that every Klima token that's issued is backed by at least one tonne of carbon offsets. 
@@ -43,16 +52,18 @@ Lastly, Rufus and Stephen consider the topic of public goods problems and climat
   * Investors post collateral in the form of USDC stablecoins.
   * https://docs.klimadao.finance/tokenomics-and-mechanisms/primer-on-klima
 * “The DAO contributors and core team are all here for the long haul: Klima has always been a long-term project with a decadal scope. We have no intention of liquidating the treasury prematurely, nor of letting the protocol stagnate.” - [KlimaDAO](https://docs.klimadao.finance/tokenomics-and-mechanisms/strategies-for-defending-backing-value)
-* Summary:
-    * The core idea of KlimaDAO: a [reserve currency](../concepts/reserve-currency.md) that can act as a complementary currency to the world's national currencies that can be used to do targeted quantitative easing to encourage either degrowth or decarbonisation.
-    * fungible: per the ERC20 token standard
-    * backed: by at least 1 tonne of tokenized verified carbon offsets locked in the KlimaDAO treasury
-    * useful: holders of KLIMA will have the ability to vote on Klima DAO policy
+* KlimaDAO runs on [Polygon](../notes/polygon.md) on top of the [Ethereum](../concepts/ethereum.md) blockchain.
+
+In Summary:
+
+* The core idea of KlimaDAO: a [reserve currency](../concepts/reserve-currency.md) that can act as a complementary currency to the world's national currencies that can be used to do targeted quantitative easing to encourage either degrowth or decarbonisation.
+* fungible: per the ERC20 token standard
+* backed: by at least 1 tonne of tokenized verified carbon offsets locked in the KlimaDAO treasury
+* useful: holders of KLIMA will have the ability to vote on Klima DAO policy
 
 ## Steel Manning KlimaDAO
 
-* Underlying aspiration:
-  * To sequestrate carbon, to plant more trees, and to drive up the price of carbon offsets -  as we buy more of them, there'll be less supply, that will make it more expensive to pollute...
+* Underlying aspiration: To sequestrate carbon, to plant more trees, and to drive up the price of carbon offsets -  as we buy more of them, there'll be less supply, that will make it more expensive to pollute...
 * Klima tokens are a reserve currency that can act as a complementary currency to the world's national currencies that can be used to do targeted quantitative easing to encourage either degrowth or decarbonisation.
 * The potential to raise a lot of money due to price volatility of Klima tokens
 * KlimaDAO are engaging with important questions that need addressed
