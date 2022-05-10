@@ -3,8 +3,8 @@ title: Bitcoin as an Anti-Authoritarian Force
 date: 2022-05-02
 created: 2022-05-02
 description: "Episode #7 of our ongoing deep dive into web3 and crypto with Rufus Pollock and Stephen Diehl. This week we’re exploring the thesis that Bitcoin (and crypto more generally) is an anti-authoritarian force and can help undermine tyranny."
-youtube: 
-podcast: 
+youtube: https://youtu.be/U_-Bdx1mqS8
+podcast: https://anchor.fm/life-itself/episodes/Bitcoin-as-an-Anti-Authoritarian-Force-e1i25vg
 featured: false
 aliases: notes/bitcoin-as-anti-authoritarian.md
 ---

@@ -1,12 +1,13 @@
 ---
-title: Allen, Hilary J. ‘DeFi. Shadow Banking 2.0?’
+title: Allen, Hilary J. ‘DeFi; Shadow Banking 2.0?’
 date: 2022-05-10
 created: 2022-05-10
-description: "A summary of Hilary Allen's 2022 paper 'DeFi: Shadow Banking 2.0?'. In this paper Allen explores the concept of decentralized finance, or DeFi, as 'Shadow Banking' - services which provide functional equivalents for banking products but operate outside the regulated banking sphere. Allen likens DeFi to services which contributed to the 2008 banking crisis and thus advises precautionary regulation of DeFi in order to limit its growth and to cordon it off from the established financial system and real-world economy."
+description: "A summary of Hilary Allen's 2022 paper 'DeFi; Shadow Banking 2.0?'. In this paper Allen explores the concept of decentralized finance, or DeFi, as 'Shadow Banking' - services which provide functional equivalents for banking products but operate outside the regulated banking sphere. Allen likens DeFi to services which contributed to the 2008 banking crisis and thus advises precautionary regulation of DeFi in order to limit its growth and to cordon it off from the established financial system and real-world economy."
 featured: false
 aliases: notes/defi-shadow-banking-2-0.md
 ---
 
+* Citation: Citation: Allen, Hilary J. ‘DeFi: Shadow Banking 2.0?’ SSRN Electronic Journal, 2022. https://doi.org/10.2139/ssrn.4038788.
 * Wiki topic:  [DeFi](../concepts/defi.md)
 
 ***
@@ -71,13 +72,13 @@ Allen then explains how we may be facing 'Shadow Banking 2.0' in the form of dec
 * DeFi, together with the broader vision of a decentralized [“Web3”](https://web3.lifeitself.us/concepts/web3.md), is marketed in **aspirational terms**; its value is consistently described as lying in its potential.
 * **DeFi doesn’t aspire to provide any new financial product or service: instead, the idea is to provide existing financial products and services in a decentralized way.** 
 * Decentralization, however, is “an entirely unrealistic aspiration” due to the “inescapable need for centralized governance” and the fact that the DeFi ecosystem is already full of intermediaries. 
-  * The Bank for International Settlements has observed that there is “a “decentralisation illusion” in DeFi due to the inescapable need for centralised governance and the tendency of blockchain consensus mechanisms to concentrate power.”
-  * Tim O’Reilly: “history teaches us that there will always be new avenues for power to become centralized”; “Blockchain turned out to be the most rapid recentralization of a decentralized technology that I've seen in my lifetime.”
-  * Where there are opportunities to profit from streamlining unwieldy decentralized services for users (especially when venture capitalists are standing ready to fund such projects), the evolution of centralized intermediaries seems inevitable. David Rosenthal: “economics forces successful permissionless blockchains to centralize.”
+  * The Bank for International Settlements has observed that there is “a “decentralisation illusion” in DeFi due to the inescapable need for centralised governance and the tendency of blockchain consensus mechanisms to concentrate power.”<sup>5</sup>
+  * Tim O’Reilly: “history teaches us that there will always be new avenues for power to become centralized”; “Blockchain turned out to be the most rapid recentralization of a decentralized technology that I've seen in my lifetime.”<sup>6</sup>
+  * Where there are opportunities to profit from streamlining unwieldy decentralized services for users (especially when venture capitalists are standing ready to fund such projects), the evolution of centralized intermediaries seems inevitable. David Rosenthal: “economics forces successful permissionless blockchains to centralize.”<sup>7</sup>
   * Every level of infrastructure involved in providing DeFi products and services depends on decisions made by human beings - these human beings have the same incentives to concentrate wealth and power that people have always had.
   * Many of the investors driving the growth of DeFi are institutional players, often engaging in transactions worth $10 million or more of cryptocurrency, and the holder of a single governance token in a DAO administering a DeFi Dapp is unlikely to have any real voice in how the [DAO](https://web3.lifeitself.us/concepts/dao.md) or the Dapp operates.
 * The Dapps operate on top of another layer of infrastructure: a distributed ledger, like the Ethereum blockchain, which is also dependent on many humans for its functioning.  Most decisions relating to the operation of a distributed ledger are made by the people with the power to validate transactions on that ledger, and by the core developers of the computer code governing that ledger.
-  * So-called “core developers” “function as the leaders and decision makers in relation to the code.”
+  * So-called “core developers” “function as the leaders and decision makers in relation to the code.”<sup>8</sup>
   * Validators are also important actors, because they determine the definitive version of the ledger (which is the definitive record of who owns the crypto assets associated with that ledger).
 * Ultimately, trust is required in the DeFi ecosystem. **A decentralized foundation just makes financial services more convoluted and replaces trust in established institutions (particularly government institutions and regulated banks) with trust in different – and sometimes unidentified – actors.**
 
@@ -93,9 +94,9 @@ Allen then explains how we may be facing 'Shadow Banking 2.0' in the form of dec
 * **Given the financial stability risks that DeFi would create if it were allowed to grow into Shadow Banking 2.0, and given that proponents of the technology involved struggle to demonstrate any concrete superiority over simpler centralized alternatives, policymakers should pursue policies that prevent DeFi from growing.** 
 * Because negative spillover effects from DeFi will wreak the most havoc on the real economy if regulated banks become integrated into the DeFi ecosystem, **steps should be taken to insulate regulated banks from DeFi.**
   * As a priority, regulated banks should be prohibited from: issuing stablecoins or providing any Dapps; holding stablecoin reserves in a deposit account; or investing in any Dapp or stablecoin (banking regulators already have the authority they need to take these steps).
-    * The President’s Working Group Report recommended that “legislation should require stablecoin issuers to be insured depository institutions.” This recommendation seeks to address stablecoin-related run risk, but if followed, would create [moral hazard](https://web3.lifeitself.us/concepts/moral-hazard.md) by extending the public safety net of deposit insurance to the DeFi ecosystem in which stablecoins are deployed. **Taking this step would legitimize stablecoins in a way that would likely fuel, rather than limit, the growth of DeFi.**
+    * The President’s Working Group Report recommended that “legislation should require stablecoin issuers to be insured depository institutions.”<sup>9</sup> This recommendation seeks to address stablecoin-related run risk, but if followed, would create [moral hazard](https://web3.lifeitself.us/concepts/moral-hazard.md) by extending the public safety net of deposit insurance to the DeFi ecosystem in which stablecoins are deployed. **Taking this step would legitimize stablecoins in a way that would likely fuel, rather than limit, the growth of DeFi.**
 * Other possible regulatory strategies designed to prevent DeFi from growing into Shadow Banking 2.0: 
-  * Gorton and Zhang have noted that Congress has the authority to “tax competitors of [the US dollar] out of existence.”
+  * Gorton and Zhang have noted that Congress has the authority to “tax competitors of [the US dollar] out of existence.”<sup>10</sup>
   * Congress could adopt a licensing regime for Dapps and stablecoins where the applicant would need to demonstrate:
   (i) that the Dapp/stablecoin has a purpose that is connected to real-world economic growth (purely aspirational goals would not satisfy this test);
   (ii) that the applicant has the institutional capacity to manage both the financial and technological risks associated with the Dapp/stablecoin; and 
@@ -117,3 +118,9 @@ Allen then explains how we may be facing 'Shadow Banking 2.0' in the form of dec
 2. Id. at 30.
 3. Tobias Adrian et al., Crypto Prices Move More in Sync With Stocks, Posing New Risks, IMF BLOG (Jan. 11, 2022).
 4. Jamie Crawley, US Banks Form Group to Offer USDF Stablecoin, COINDESK (Jan. 12, 2022).
+5. Sirio Aramonte et al., DeFi Risks and the Decentralization Illusion, BIS QUARTERLY REVIEW, 22 (Dec. 2021).
+6. Dan Patterson, Internet guru Tim O’Reilly on Web3: “Get ready for the crash”, CBSNEWS (Feb. 10, 2022).
+7. David Rosenthal, EE380 Talk, (Feb. 9, 2022), https://blog.dshr.org/2022/02/ee380-talk.html.
+8. Angela Walch, In Code(rs) We Trust: Software Developers as Fiduciaries in Public Blockchains, in Regulating Blockchain: Techno-Social And Legal Challenges (Hacker et al, Eds), 61 (2019). 
+9. President’s Working Group on Financial Markets, REPORT ON STABLECOINS, 2 (November 2021).
+10. Gary B. Gorton & Jeffery Zhang, Wildcat Stablecoins, 40 (Jul. 19, 2021), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888752.
