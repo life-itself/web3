@@ -52,7 +52,7 @@ Since the BCT is what they hold in the treasury and provides the core "intrinsic
 # Analysis v1 (first pass Dec 2021)
 https://docs.klimadao.finance
 
-* It takes significant work to work how this actually works ... (is it like [[dao/diatom.fund]] which has a relatively clear diagram ...)
+* It takes significant work to work how this actually works ... (is it like [[../notes/diatom.fund]] which has a relatively clear diagram ...)
 * (I think) Klima tokens are minted when they buy carbon offsets and store them in the treasury
 
 ## The Problem (with some very dubious analysis)

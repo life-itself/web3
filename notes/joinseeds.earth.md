@@ -4,7 +4,7 @@ aliases: SEEDS
 
 # Seeds
 
-Created by [[hypha.earth]].
+Created by [[../notes/hypha.earth]].
 
 0:32 into the intro video:
 

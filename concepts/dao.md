@@ -5,20 +5,21 @@ DAOs are experiments in autonomous governance and voting structures (quadratic v
 
 DAOs are a form of [regulatory arbitrage](regulatory-arbitrage.md) which attempt to recreate the regulated of creating voting shares in corporations. Instead this DAOs place this practice outside the regulatory perimeter and have no recourse for shareholders in the presence of fraud. 
 
-DAOs are best understood as shares in a common enterprise which is run by potentially anonymous entities and which has no restrictions on the provenance of funds held by the "corporation" basically acting as a self-governing crypto slush fund. DAOs may be attached to a enterprise which is an attempt at solving a hard [public goods problem](public-goods-problem.md) such as fixing climate change or universal basic income.
+DAOs are best understood as shares in a common enterprise which is run by potentially anonymous entities and which has no restrictions on the provenance of funds held by the "corporation". DAOs may be attached to an enterprise which is attempting to solve a hard [public goods problem](public-goods-problem.md) such as fixing climate change or providing universal basic income.
 
 ## Examples
 
 * Constitution DAO
 * Spice DAO
-* [democracy.earth](../dao/democracy.earth.md)
-* [diatom.fund](../dao/diatom.fund.md)
-* [hive.io](../dao/hive.io.md)
-* [hypha.earth](../dao/hypha.earth.md)
-* [joinseeds.earth](../dao/joinseeds.earth.md)
-* [klimadao.finance](../dao/klimadao.finance.md)
-* [Panvala](../dao/panvala.com.md)
-* [yogacoin.tech](../dao/yogacoin.tech.md)
+* [democracy.earth](../notes/democracy.earth.md)
+* [diatom.fund](../notes/diatom.fund.md)
+* [hive.io](../notes/hive.io.md)
+* [hypha.earth](../notes/hypha.earth.md)
+* [joinseeds.earth](../notes/joinseeds.earth.md)
+* [klimadao.finance](../notes/klimadao.finance.md)
+* [Panvala](../notes/panvala.com.md)
+* [uniswap.org](../notes/uniswap.org.md)
+* [yogacoin.tech](../notes/yogacoin.tech.md)
 
 ## References
 1. Walch, Angela. 2019. ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’. C. Brummer (Ed.), Crypto Assets: Legal and Monetary Perspectives, 1–36. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244.
