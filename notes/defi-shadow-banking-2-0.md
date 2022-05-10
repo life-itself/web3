@@ -1,8 +1,8 @@
 ---
-title: Allen, Hilary J. ‘DeFi. Shadow Banking 2.0?’
+title: Allen, Hilary J. ‘DeFi; Shadow Banking 2.0?’
 date: 2022-05-10
 created: 2022-05-10
-description: "A summary of Hilary Allen's 2022 paper 'DeFi: Shadow Banking 2.0?'. In this paper Allen explores the concept of decentralized finance, or DeFi, as 'Shadow Banking' - services which provide functional equivalents for banking products but operate outside the regulated banking sphere. Allen likens DeFi to services which contributed to the 2008 banking crisis and thus advises precautionary regulation of DeFi in order to limit its growth and to cordon it off from the established financial system and real-world economy."
+description: "A summary of Hilary Allen's 2022 paper 'DeFi; Shadow Banking 2.0?'. In this paper Allen explores the concept of decentralized finance, or DeFi, as 'Shadow Banking' - services which provide functional equivalents for banking products but operate outside the regulated banking sphere. Allen likens DeFi to services which contributed to the 2008 banking crisis and thus advises precautionary regulation of DeFi in order to limit its growth and to cordon it off from the established financial system and real-world economy."
 featured: false
 aliases: notes/defi-shadow-banking-2-0.md
 ---
