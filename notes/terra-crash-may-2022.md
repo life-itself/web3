@@ -17,3 +17,22 @@ https://blazetrends.com/terra-price-collapses-after-attempt-to-rescue-stablecoin
 > The Luna Foundation Guard did say that they have not sold all Bitcoin and promised to update the community on the current situation.
 
 https://twitter.com/vhranger/status/1523835842573357057
+
+
+# Background
+
+https://www.bloomberg.com/news/features/2022-04-19/terraform-s-do-kwon-s-huge-bitcoin-buys-catch-crypto-billionaires-attention [@shen-regan-2022-king-lunatics-becomes]
+
+> Back in Miami, Novogratz sized up Kwon’s pivot to Bitcoin as a reserve asset to back up UST.
+>
+> “It’s not without risk, right?” he told the audience in his keynote address at the conference. “He’s in this transition right now. The plan is to buy $10 billion worth of Bitcoin. And as that ecosystem grows, that number will grow. **That’s all good as long as there’s not a run on the bank.**”
+
+# Tweets
+
+https://twitter.com/hasufl/status/1523803732173103107
+
+> No matter how this ends, I don't want people to call UST decentralized again. Even the little collateral backing it has is intransparent and controlled by a single party. Used to perform discretionary open market operations. This is like 10x worse than the Fed.
+
+https://twitter.com/lawmaster/status/1523844709319327744
+
+> There is a rumor spreading about Jump, Alameda, etc. providing another $2B to “bail out” UST. Whether this rumor is true or not, it makes perfect sense for them to spread. The biggest question here is, even if they can get it to $1 by some miracle, the trust is irreversibly gone
