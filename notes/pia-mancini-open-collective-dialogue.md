@@ -11,4 +11,4 @@ aliases: notes/pia-mancini-open-collective-dialogue.md
 
 # Dialogue with Pia Mancini on Open Collective
 
-![pia-mancini-open-collective-dialog-2022-04-08.excalidraw](../excalidraw/pia-mancini-open-collective-dialog-2022-04-08.excalidraw.svg)
+[![pia-mancini-open-collective-dialog-2022-04-08.excalidraw](/excalidraw/pia-mancini-open-collective-dialog-2022-04-08.excalidraw.svg)](/excalidraw/pia-mancini-open-collective-dialog-2022-04-08.excalidraw.svg)

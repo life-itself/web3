@@ -5,7 +5,7 @@ url: https://planetfinance.io
 
 # Planet Finance
 
-![](../assets/pasted-image-20220313211349.png)
+![](/assets/pasted-image-20220313211349.png)
 
 From the Docs https://docs.planetfinance.io (not much info on the front page - it's a finance dashboard)
 
@@ -23,7 +23,7 @@ Ed: any ideas what "freely activate their capital" means? (How can you activate 
 
 How, what does it do exactly?
 
-![](../assets/pasted-image-20220313211651.png)
+![](/assets/pasted-image-20220313211651.png)
 
 
 Deflation is a feature not a bug:

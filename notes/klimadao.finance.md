@@ -5,7 +5,7 @@ medium:
 
 # Klima
 
-![](../assets/klimadao-home-20220119214836.png)
+![](/assets/klimadao-home-20220119214836.png)
 
 > ## A DAO, A PROTOCOL, AN ECOSYSTEM
 > 
@@ -17,19 +17,19 @@ medium:
 
 Looks like the algo stable coin part isn't going so well. Similar to [[dao/olympusdao.finance]]
 
-![](../assets/klimadao-price-chart-20220123211825.png)
+![](/assets/klimadao-price-chart-20220123211825.png)
 
 
 # Analysis v2 - April 2022
 
 **UPDATE: 2022-05-06. Extensive conversation with KlimaDAO team yielded this summary**
 
-![klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw](../excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)
+[![klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw](/excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)](/excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)
 
 Entire Deep Dive episode on KlimaDAO released: [collective-action-problems-and-climate-change](../notes/collective-action-problems-and-climate-change.md). Here's the drawing we did.
 
 
-![drawing-2022-04-07-20.37.42.excalidraw](../excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)
+[![drawing-2022-04-07-20.37.42.excalidraw](/excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)](/excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)
 
 ### More notes
 
@@ -47,7 +47,7 @@ Since the BCT is what they hold in the treasury and provides the core "intrinsic
 * Klima DAO’s current capture cost is ~8 usd/tn (the price of BCT tokens) [https://hristovbz.medium.com/klima-dao-for-apes-degens-ogs-195af0b4cd0b - Nov 30 2021]
 * This seems low see e.g. this post from KlimaDAO itself https://klimadao.medium.com/carbon-markets-retail-offset-pricing-4eab0f6196c0 which includes this graphic
   
-   ![](../assets/Pasted%20image%2020220407210614.png)
+   ![](/assets/Pasted%20image%2020220407210614.png)
 
 # Analysis v1 (first pass Dec 2021)
 https://docs.klimadao.finance
