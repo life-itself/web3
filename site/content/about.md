@@ -45,7 +45,7 @@ We think good sensemaking begins by clarifying and agreeing the questions we wan
 
 And here is our full structured tree of questions:
 
-![](/img/Web3_What_is_the_evaluation_of_the_various_claims_ve_or_-ve_for_web3crypto_and_the_supporting_reasoningsensemaking_so_that__we_collectively_as_individuals_societies_etc_make_good_choices_te_the_technology_wh_awh0yl.png)
+[![](/img/Web3_What_is_the_evaluation_of_the_various_claims_ve_or_-ve_for_web3crypto_and_the_supporting_reasoningsensemaking_so_that__we_collectively_as_individuals_societies_etc_make_good_choices_te_the_technology_wh_awh0yl.png)](https://coggle.it/diagram/Yh-L7j5DfRykGi7e/t/web3-what-is-the-evaluation-polarizing-way-as-possible)
 
 ## Our Approach
 
@@ -57,7 +57,7 @@ We intend to take a distinctive approach. It has three key, layered components:
 
 First, we distinguish the key claims being made and the underlying aspiration behind them. For example, “blockchain allows for easier collaborative decision making” connects to an aspiration of more democratic governance. This brings clarity to the discussion: claims are atomic, well-defined and separate but connected to aspirations.
 
-![](/img/Web3_Taxonomy_of_Aspirations_and_Claims_m4bmpq.png)
+[![](/img/Web3_Taxonomy_of_Aspirations_and_Claims_m4bmpq.png)](https://coggle.it/diagram/YnpnzQ8o3JWk-DSu/t/web3-taxonomy-of-aspirations-and-claims)
 
 Second, we transparently structure and steel-man the claims. In particular, using hypothesis trees we can break down a larger claim into sub-claims. For example, “blockchain allows for easier collaborative decision making” could break down into the claims: “a major problem for collaborative decision making is creating and tracking votes, especially at scale” and “blockchain makes it easier to create and track votes”. We combine this structured approach with the principle of generosity or steel-manning: creating the best version of any claim or thesis.
 
