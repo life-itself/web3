@@ -5,7 +5,7 @@ medium:
 
 # Klima
 
-![](../assets/klimadao-home-20220119214836.png)
+![](/assets/klimadao-home-20220119214836.png)
 
 > ## A DAO, A PROTOCOL, AN ECOSYSTEM
 > 
@@ -17,7 +17,7 @@ medium:
 
 Looks like the algo stable coin part isn't going so well. Similar to [[dao/olympusdao.finance]]
 
-![](../assets/klimadao-price-chart-20220123211825.png)
+![](/assets/klimadao-price-chart-20220123211825.png)
 
 
 # Analysis v2 - April 2022
@@ -47,7 +47,7 @@ Since the BCT is what they hold in the treasury and provides the core "intrinsic
 * Klima DAO’s current capture cost is ~8 usd/tn (the price of BCT tokens) [https://hristovbz.medium.com/klima-dao-for-apes-degens-ogs-195af0b4cd0b - Nov 30 2021]
 * This seems low see e.g. this post from KlimaDAO itself https://klimadao.medium.com/carbon-markets-retail-offset-pricing-4eab0f6196c0 which includes this graphic
   
-   ![](../assets/Pasted%20image%2020220407210614.png)
+   ![](/assets/Pasted%20image%2020220407210614.png)
 
 # Analysis v1 (first pass Dec 2021)
 https://docs.klimadao.finance
