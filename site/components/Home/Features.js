@@ -12,7 +12,7 @@ export default function Features() {
                   A Guide to Crypto and Web3
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  Blockchain, tokens, NFTs, DAOs - what does it all mean? Our guide provides an accessible overview of the key concepts in Crypto and Web3. 
+                  Blockchain, tokens, NFTs, DAOs - what does it all mean? Our guide provides an accessible overview of the key concepts in Crypto and Web3.
                 </p>
                 <div className="mt-6">
                   <Link href="/guide/">
@@ -26,10 +26,10 @@ export default function Features() {
               </div>
             </div>
           </div>
-          <div className="mt-12 sm:mt-16 lg:mt-0">
-            <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
+          <div className="mt-12 sm:mt-16 lg:mt-0 lg:relative">
+            <div className="mx-auto max-w-md px-4 sm:max-w-xl sm:px-6 lg:m-0 lg:max-w-none lg:px-0">
               <img
-                className="w-full lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
+                className="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-3xl"
                 src="/img/undraw_mind_map_re_nlb6_qh0jel.svg"
                 alt="Discover"
               />
@@ -46,12 +46,12 @@ export default function Features() {
                   Library
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  Want to learn more? We are maintaining a comprehensive library of articles, papers, books and other materials related to the space and the surrounding discourse. It provides deeper background on specific topics along with everything you need to fully engage with, and evaluate, Web3 and the claims being made about it. 
+                  Want to learn more? We are maintaining a comprehensive library of articles, papers, books and other materials related to the space and the surrounding discourse. It provides deeper background on specific topics along with everything you need to fully engage with, and evaluate, Web3 and the claims being made about it.
                 </p>
                 <div className="mt-6">
                   <Link href="/library/">
                     <a
-                      
+
                       className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yellow-500 hover:bg-yellow-400"
                     >
                       Explore
@@ -61,10 +61,10 @@ export default function Features() {
               </div>
             </div>
           </div>
-          <div className="mt-12 sm:mt-16 lg:mt-0 lg:col-start-1">
-            <div className="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
+          <div className="mt-12 sm:mt-16 lg:mt-0 lg:relative">
+            <div className="mx-auto max-w-md px-4 sm:max-w-xl sm:px-6 lg:m-0 lg:max-w-none lg:px-0">
               <img
-                className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-md"
+                className="w-full lg:absolute lg:inset-y-0 lg:right-0 lg:h-full lg:w-auto lg:max-w-3xl"
                 src="/img/undraw_bibliophile_re_xarc_ssxnqe.svg"
                 alt="Library"
               />
@@ -78,10 +78,10 @@ export default function Features() {
             <div>
               <div className="mt-6">
                 <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-slate-100">
-                Claims for Crypto and Web3
+                  Claims for Crypto and Web3
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                Crypto and Web3 are associated with many bold claims. From classic technology boosterism of better and faster, to the radical transformation of our societies. But huge controversy surrounds these claims, and there’s a lack of agreement on even basic points and definitions.
+                  Crypto and Web3 are associated with many bold claims. From classic technology boosterism of better and faster, to the radical transformation of our societies. But huge controversy surrounds these claims, and there’s a lack of agreement on even basic points and definitions.
                 </p>
                 <div className="mt-6">
                   <Link href="/claims">
@@ -95,10 +95,10 @@ export default function Features() {
               </div>
             </div>
           </div>
-          <div className="mt-12 sm:mt-16 lg:mt-0">
-            <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
+          <div className="mt-12 sm:mt-16 lg:mt-0 lg:relative">
+            <div className="mx-auto max-w-md px-4 sm:max-w-xl sm:px-6 lg:m-0 lg:max-w-none lg:px-0">
               <img
-                className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-md"
+                className="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-3xl"
                 src="/img/undraw_instant_analysis_re_mid5_i8r1hp.svg"
                 alt="Learn More"
               />
