@@ -24,12 +24,12 @@ Looks like the algo stable coin part isn't going so well. Similar to [[dao/olymp
 
 **UPDATE: 2022-05-06. Extensive conversation with KlimaDAO team yielded this summary**
 
-![klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw](../excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)
+[![klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw](/excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)](/excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)
 
 Entire Deep Dive episode on KlimaDAO released: [collective-action-problems-and-climate-change](../notes/collective-action-problems-and-climate-change.md). Here's the drawing we did.
 
 
-![drawing-2022-04-07-20.37.42.excalidraw](../excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)
+[![drawing-2022-04-07-20.37.42.excalidraw](/excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)](/excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)
 
 ### More notes
 
