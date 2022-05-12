@@ -1,8 +1,6 @@
 import MdxPage from '../components/MDX';
 import { allOtherPages } from 'contentlayer/generated';
 import { useMDXComponent } from 'next-contentlayer/hooks';
-import { NextSeo } from 'next-seo';
-import siteConfig from "../config/siteConfig"
 
 
 export default function Page({ body, ...rest }) {
@@ -15,38 +13,9 @@ export default function Page({ body, ...rest }) {
       created: rest.created === "Invalid Date" ? null : rest.created
     },
   };
-
-  const titleFromUrl = rest._raw.flattenedPath
-    .split("/")
-    .pop()
-    .replace(/-/g, " ")
-    // capitalize first char of each word
-    .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
-
-  const title = children.frontmatter.title ?? titleFromUrl
-  const imageUrl = siteConfig.url + children.frontmatter.image
   
   return (
-    <>
-      <NextSeo
-        title={title}
-        description={children.frontmatter.description}
-        canonical={`${siteConfig.url}/${rest._raw.flattenedPath}`}
-        openGraph={{
-          title: title,
-          description: children.frontmatter.description,
-          images: [
-            {
-              url: imageUrl,
-              width: 1200,
-              height: 627,
-              alt: children.frontmatter.title,
-            },
-          ],
-        }}
-      />
-      <MdxPage children={children} />
-    </>
+    <MdxPage children={children} />
   );
 }
 
