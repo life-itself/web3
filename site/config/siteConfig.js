@@ -3,6 +3,8 @@ import Logo from "../public/img/life-itself-logo.svg"
 const siteConfig = {
   title: "Making Sense of Crypto and Web3",
   url: "https://web3.lifeitself.us",
+  repoRoot: "https://github.com/life-itself/web3",
+  repoEditPath: "/edit/main/",
   tagline: "",
   description:
   "Introductions to key concepts and ideas in crypto and web3. Plus in-depth evaluation of its potential impact.",

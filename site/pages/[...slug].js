@@ -25,6 +25,11 @@ export default function Page({ body, ...rest }) {
 
   const title = children.frontmatter.title ?? titleFromUrl
   const imageUrl = siteConfig.url + children.frontmatter.image
+
+  // enable editing content only for claims, concepts, and guide for now
+  const editUrl = ['claims', 'concepts', 'guide'].includes(rest._raw.sourceFileDir)
+        ? siteConfig.repoRoot + siteConfig.repoEditPath + rest._raw.sourceFilePath
+        : null
   
   return (
     <>
@@ -45,7 +50,7 @@ export default function Page({ body, ...rest }) {
           ],
         }}
       />
-      <MdxPage children={children} />
+      <MdxPage children={children} editUrl={editUrl} />
     </>
   );
 }
