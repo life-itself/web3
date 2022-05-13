@@ -1,6 +1,7 @@
 import MdxPage from '../components/MDX';
 import { allOtherPages } from 'contentlayer/generated';
 import { useMDXComponent } from 'next-contentlayer/hooks';
+import siteConfig from "../config/siteConfig"
 
 
 export default function Page({ body, ...rest }) {
@@ -13,9 +14,14 @@ export default function Page({ body, ...rest }) {
       created: rest.created === "Invalid Date" ? null : rest.created
     },
   };
+
+  // enable editing content only for claims, concepts, and guide for now
+  const editUrl = ['claims', 'concepts', 'guide'].includes(rest._raw.sourceFileDir)
+        ? siteConfig.repoRoot + siteConfig.repoEditPath + rest._raw.sourceFilePath
+        : null
   
   return (
-    <MdxPage children={children} />
+      <MdxPage children={children} editUrl={editUrl} />
   );
 }
 

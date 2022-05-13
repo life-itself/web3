@@ -9,7 +9,7 @@ const components = {
   p: Paragraph
 }
 
-export default function MdxPage({ children }) {
+export default function MdxPage({ children, editUrl }) {
   const { Component, frontmatter: {
     title, description, date, authors, youtube, podcast, image, _raw
   }} = children
@@ -120,7 +120,20 @@ export default function MdxPage({ children }) {
           </div>
         </header>
         <main>
+          <div className="my-6">
           <Component components={components} />
+        </div>
+        {editUrl && (
+          <div className='mt-12 mb-6'>
+            <a className="flex no-underline font-semibold text-yellow-li" href={editUrl} target="_blank">
+              Edit this page
+              <span className="mx-1">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                </svg>
+              </span>
+            </a>
+          </div>)}
         </main>
       </article>
     </>
