@@ -1,5 +1,13 @@
 # Examples of Ordinary People Speculating in Crypto
 
+## Re [terra-crash-may-2022](terra-crash-may-2022.md) - 2022-05-11
+
+https://twitter.com/joshmanmode_/status/1524884925178171392
+
+![](../assets/Pasted%20image%2020220513223243.png)
+
+![](../assets/Pasted%20image%2020220513223252.png)
+
 ## 2022-05-10 - panic selling in [terra-crash-may-2022](terra-crash-may-2022.md)
 
 In this thread:
