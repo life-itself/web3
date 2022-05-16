@@ -1,12 +1,14 @@
 import Head from 'next/head'
 import ReactPlayer from 'react-player/lazy'
-import { Paragraph } from './Link'
 import { NextSeo } from 'next-seo'
 import siteConfig from "../config/siteConfig"
+import { Paragraph } from './Paragraph'
+import { Anchor } from './Anchor'
 
 const components = {
   Head,
-  p: Paragraph
+  p: Paragraph,
+  a: Anchor
 }
 
 export default function MdxPage({ children, editUrl }) {

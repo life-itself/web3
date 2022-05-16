@@ -1,4 +1,3 @@
-import Link from "next/link";
 import ReactPlayer from "react-player";
 
 const videoLinks = [
