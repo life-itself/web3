@@ -7,6 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@floating-ui/react-dom-interactions": "^0.6.0",
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.4",
     "@mdx-js/loader": "^2.0.0",

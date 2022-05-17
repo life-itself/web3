@@ -1,32 +1,28 @@
-import Trigger from 'rc-trigger'
-import { Content } from './Content'
+const tooltipTextStyles = (theme) => ({
+  padding: '16px 22px',
+  fontSize: '11px',
+  background: theme === 'light' ? '#fff' : '#000',
+  // color: theme === 'light' ? 'black' : 'white',
+  pointerEvents: 'none',
+  borderRadius: '4px',
+  position: 'absolute'
+})
 
-const position = {
-  bottom: {
-    points: ['tc', 'bc'],
-    offset: [0, 10]
-  },
-  right: {
-    points: ['tl', 'tc'],
-    offset: [20, 0]
-  },
-  top: {
-    points: ['bc', 'tc'],
-    offset: [0, -10]
-  }
-}
+// const tooltipBoxStyles = (theme) => ({
+//   color: theme === 'light' ? 'rgb(99, 98, 98)' : '#A8A8A8',
+//   transition: "0.1s",
+//   width: "50vw"
+// })
 
 export const Tooltip = (props) => {
-  const { children, value, theme, mouseEnterDelay = 0.5 } = props;
+  const { theme, content } = props;
   return (
-    <Trigger
-      action={['hover']}
-      popup={<Content theme={theme} value={value} />}
-      mouseEnterDelay={mouseEnterDelay}
-      prefixCls='trigger'
-      popupAlign={position.bottom}
-    >
-    {children}
-    </Trigger>
+    <div>
+      <div style={ tooltipTextStyles(theme) }>
+        { content }
+      </div>
+      {/* <div style={footer(theme)}>{wikiLogo(theme)}</div> */}
+      {/* {arrow(theme)} */}
+    </div>
   )
 }
