@@ -3,13 +3,13 @@ import React from 'react';
 
 const tooltipStyles = (theme) => ({
   height: 'auto',
-  // maxWidth: '30rem',
-  padding: '16px 22px',
+  maxWidth: '80vw',
+  padding: '1rem 2rem',
   background: theme === 'light' ? '#fff' : '#000',
   color: theme === 'light' ? 'rgb(99, 98, 98)' : '#A8A8A8',
   borderRadius: '4px',
   boxShadow: 'rgba(0, 0, 0, 0.55) 0px 0px 16px -3px',
-  fontSize: '90%'
+  fontSize: '0.9em'
 })
 
 const tooltipArrowStyles = ({ theme, x, y, side }) => ({
@@ -27,8 +27,6 @@ const tooltipArrowStyles = ({ theme, x, y, side }) => ({
 
 export const Tooltip = React.forwardRef((props, ref) => {
   const { theme, children, arrowRef, arrowX, arrowY, placement, ...tooltipProps } = props;
-
-  console.log({ arrowRef, arrowX, arrowY, placement });
 
   const arrowPlacement = {
     top: 'bottom',

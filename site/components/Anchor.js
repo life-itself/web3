@@ -2,13 +2,17 @@ import ReactDOM from 'react-dom'
 import { useRouter } from 'next/router'
 import { useState, useEffect, useRef, Fragment } from 'react'
 import {
-  useFloating,
-  useHover,
-  useInteractions,
   arrow,
   autoPlacement,
   autoUpdate,
-  offset
+  FloatingPortal,
+  offset,
+  shift,
+  useDismiss,
+  useFloating,
+  useHover,
+  useInteractions,
+  useRole,
 } from '@floating-ui/react-dom-interactions'
 
 import getAbsolutePath from '../utils/absolutePath'
@@ -42,12 +46,15 @@ export const Anchor = (props) => {
     whileElementsMounted: autoUpdate,
     middleware: [
       offset(5),
-      autoPlacement(),
+      autoPlacement({ padding: 5 }),
+      shift({ padding: 5 }),
       arrow({ element: arrowRef, padding: 4 })
     ]
   });
   const { getReferenceProps, getFloatingProps } = useInteractions([
-    useHover(context, props)
+    useHover(context, { delay: { open: 100, close: 0 } }),
+    useRole(context, { role: 'tooltip' }),
+    useDismiss(context, { ancestorScroll: true })
   ]);
 
   useEffect(() => {
@@ -57,6 +64,7 @@ export const Anchor = (props) => {
   }, [showTooltip])
 
   const fetchPreview = async () => {
+    console.log("Fetching...")
     setPreviewLoaded(false);
     const basePath = "http://localhost:3000"; // TODO
     const currentPath = router.asPath;
@@ -84,30 +92,26 @@ export const Anchor = (props) => {
   ) {
     return <Fragment>
              <a {...props} {...getReferenceProps({ref: reference})} />
-             {( // TODO temp client only
-               typeof window !== 'undefined' && window.document &&
-               ReactDOM.createPortal(
-                 (<Tooltip
-                    {...getFloatingProps({
-                      ref: floating,
-                      theme: 'light',
-                      arrowRef,
-                      arrowX,
-                      arrowY,
-                      placement,
-                      style: {
-                        position: strategy,
-                        visibility: showTooltip && previewLoaded ? 'visible' : 'hidden',
-                        left: x ?? '',
-                        top: y ?? '',
-                      },
-                    })}
-                  >
-                    { preview }
-                  </Tooltip>
-                 ), document.body
-               )
-             )}
+             <FloatingPortal>
+               <Tooltip
+                 {...getFloatingProps({
+                   ref: floating,
+                   theme: 'light',
+                   arrowRef,
+                   arrowX,
+                   arrowY,
+                   placement,
+                   style: {
+                     position: strategy,
+                     visibility: showTooltip && previewLoaded ? 'visible' : 'hidden',
+                     left: x ?? '',
+                     top: y ?? '',
+                   },
+                 })}
+               >
+                 { preview }
+               </Tooltip>
+             </FloatingPortal>
            </Fragment>;
   }
   return <a {...props} />;
