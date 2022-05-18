@@ -1,115 +1,36 @@
-import ReactDOM from 'react-dom'
 import { useRouter } from 'next/router'
-import { useState, useEffect, useRef, Fragment } from 'react'
-import {
-  arrow,
-  autoPlacement,
-  autoUpdate,
-  FloatingPortal,
-  offset,
-  shift,
-  useDismiss,
-  useFloating,
-  useHover,
-  useInteractions,
-  useRole,
-} from '@floating-ui/react-dom-interactions'
 
+import { Tooltip } from './Tooltip';
 import siteConfig from '../config/siteConfig.js'
-import documentExtract from '../utils/documentExtract'
-import { Tooltip } from './Tooltip'
 
-
-// TODO cancel request on mouseleave when it hasn't been fulfilled yet
 
 export const Anchor = (props) => {
   const { href } = props;
   const router = useRouter();
-  const arrowRef = useRef(null);
 
-  const [ showTooltip, setShowTooltip ] = useState(false);
-  const [ preview, setPreview ] = useState("");
-  const [ previewLoaded, setPreviewLoaded ] = useState(false);
-
-  const {
-    x,
-    y,
-    reference,
-    floating,
-    placement,
-    strategy,
-    context,
-    middlewareData: { arrow: { x: arrowX, y: arrowY } = {}}
-  } = useFloating({
-    open: showTooltip,
-    onOpenChange: setShowTooltip,
-    whileElementsMounted: autoUpdate,
-    middleware: [
-      offset(5),
-      autoPlacement({ padding: 5 }),
-      shift({ padding: 5 }),
-      arrow({ element: arrowRef, padding: 4 })
-    ]
-  });
-  const { getReferenceProps, getFloatingProps } = useInteractions([
-    useHover(context, { delay: 100 }),
-    useRole(context, { role: 'tooltip' }),
-    useDismiss(context, { ancestorScroll: true })
-  ]);
-
-  useEffect(() => {
-    if (showTooltip) {
-      fetchPreview();
+  const absoluteContentPath = (href) => {
+    // return content path only if it points to a local file (href path is relative)
+    if (
+      href &&
+      href.indexOf("http:") !== 0 &&
+      href.indexOf("https:") !== 0
+    ) {
+      const currentPageContentPath = [siteConfig.rawContentBaseUrl, router.asPath].join("");
+      const hrefContentPath = new URL(href, currentPageContentPath).href;
+      // excluding notes and claims
+      if (!hrefContentPath.includes("notes") && !hrefContentPath.includes("claims")) {
+        return hrefContentPath;
+      }
     }
-  }, [showTooltip])
-
-  const fetchPreview = async () => {
-    setPreviewLoaded(false);
-    const path = new URL(props.href, document.baseURI).pathname;
-    const rawContentPath = [siteConfig.rawContentBaseUrl, path].join("")
-    const response = await fetch(rawContentPath);
-    if (response.status !== 200) {
-      // TODO
-      console.log(`Looks like there was a problem. Status Code: ${response.status}`)
-      return
-    }
-    const md = await response.text();
-    const extract = documentExtract(md);
-
-    setPreview(extract);
-    setPreviewLoaded(true);
   }
 
-  if (
-    href &&
-    href.indexOf("http:") !== 0 &&
-    href.indexOf("https:") !== 0 &&
-    href.includes(".md")
-  ) {
-    return <Fragment>
-             <a {...props} {...getReferenceProps({ref: reference})} />
-             <FloatingPortal>
-               { showTooltip && previewLoaded &&
-                <Tooltip
-                  {...getFloatingProps({
-                    ref: floating,
-                    theme: 'light',
-                    arrowRef,
-                    arrowX,
-                    arrowY,
-                    placement,
-                    style: {
-                      position: strategy,
-                      left: x ?? '',
-                      top: y ?? '',
-                    },
-                  })}
-                >
-                  { preview }
-                </Tooltip>
-               }
-             </FloatingPortal>
-           </Fragment>;
+  if (absoluteContentPath(props.href)) {
+    return (
+      <Tooltip {...props} absolutePath={absoluteContentPath(props.href)} render={ tooltipTriggerProps => (
+        <a {...tooltipTriggerProps} />
+      )}
+      />
+    )
   }
   return <a {...props} />;
 };

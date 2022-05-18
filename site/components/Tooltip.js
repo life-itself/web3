@@ -1,4 +1,21 @@
-import React from 'react';
+import { useState, useEffect, useRef, Fragment } from 'react'
+import {
+  arrow,
+  autoPlacement,
+  FloatingPortal,
+  inline,
+  offset,
+  shift,
+  useDismiss,
+  useFloating,
+  useHover,
+  useFocus,
+  useInteractions,
+  useRole,
+} from '@floating-ui/react-dom-interactions'
+import { motion, AnimatePresence } from 'framer-motion';
+
+import documentExtract from '../utils/documentExtract'
 
 
 const tooltipBoxStyle = (theme) => ({
@@ -11,7 +28,7 @@ const tooltipBoxStyle = (theme) => ({
   boxShadow: 'rgba(0, 0, 0, 0.55) 0px 0px 16px -3px',
 })
 
-const tooltipBodyStyle = () => ({
+const tooltipBodyStyle = (theme) => ({
   maxHeight: '3.6rem',
   position: 'relative',
   lineHeight: '1.2rem',
@@ -31,8 +48,51 @@ const tooltipArrowStyle = ({ theme, x, y, side }) => ({
   transform: "rotate(45deg)"
 })
 
-export const Tooltip = React.forwardRef((props, ref) => {
-  const { theme, children, arrowRef, arrowX, arrowY, placement, ...tooltipProps } = props;
+export const Tooltip = (props) => {
+  const theme = 'light'; // temporarily hard-coded; light theme tbd in next PR
+
+  const arrowRef = useRef(null);
+  const [ showTooltip, setShowTooltip ] = useState(false);
+  const [ tooltipContent, setTooltipContent ] = useState("");
+  const [ tooltipContentLoaded, setTooltipContentLoaded ] = useState(false);
+  // floating-ui dom hook
+  const {
+    x,
+    y,
+    reference, // trigger element back ref
+    floating, // tooltip back ref
+    placement, // default: 'bottom'
+    strategy, // default: 'absolute'
+    context,
+    middlewareData: { arrow: { x: arrowX, y: arrowY } = {}} // data for arrow positioning
+  } = useFloating({
+    open: showTooltip, // state value binding
+    onOpenChange: setShowTooltip, // state value setter
+    middleware: [
+      offset(5), // offset from container border
+      autoPlacement({ padding: 5 }), // auto place vertically
+      shift({ padding: 5 }), // flip horizontally if necessary
+      arrow({ element: arrowRef, padding: 4 }), // add arrow element
+      inline(), // correct position for multiline anchor tags
+    ]
+  });
+  // floating-ui interactions hook
+  const { getReferenceProps, getFloatingProps } = useInteractions([
+    useHover(context, { delay: 100 }),
+    useFocus(context),
+    useRole(context, { role: 'tooltip' }),
+    useDismiss(context, { ancestorScroll: true }),
+  ]);
+
+  const tooltipTriggerProps = getReferenceProps({ ...props, ref: reference});
+  const tooltipProps = getFloatingProps({
+    ref: floating,
+    style: {
+      position: strategy,
+      left: x ?? '',
+      top: y ?? '',
+    },
+  });
 
   const arrowPlacement = {
     top: 'bottom',
@@ -41,19 +101,56 @@ export const Tooltip = React.forwardRef((props, ref) => {
     left: 'right',
   }[placement.split('-')[0]];
 
+  const fetchTooltipContent = async () => {
+    setTooltipContentLoaded(false);
+
+    const response = await fetch(props.absolutePath);
+    if (response.status !== 200) {
+      console.log(`Looks like there was a problem. Status Code: ${response.status}`)
+      return
+    }
+    const md = await response.text();
+    const extract = documentExtract(md);
+
+    setTooltipContent(extract);
+    setTooltipContentLoaded(true);
+  }
+
+  useEffect(() => {
+    if (showTooltip) {
+      fetchTooltipContent();
+    }
+  }, [showTooltip])
+
   return (
-    <div className="tooltip" {...tooltipProps} ref={ref}>
-      <div className="tooltip-box" style={ tooltipBoxStyle(theme) }>
-        <div className="tooltip-body" style={ tooltipBodyStyle() }>
-          { children }
-        </div>
-      </div>
-      <div className="tooltip-arrow" ref={arrowRef} style={ tooltipArrowStyle({
-        theme,
-        x: arrowX,
-        y: arrowY,
-        side: arrowPlacement
-      }) }></div>
-    </div>
+    <Fragment>
+    { props.render(tooltipTriggerProps) }
+      <FloatingPortal>
+        <AnimatePresence>
+          { showTooltip && tooltipContentLoaded &&
+            <motion.div
+              {...tooltipProps}
+              initial={{ opacity: 0, scale: 0.85 }}
+              animate={{ opacity: 1, scale: 1 }}
+              exit={{ opacity: 0 }}
+              transition={{ type: "spring", damping: 20, stiffness: 300 }}
+            >
+              <div className="tooltip-box" style={ tooltipBoxStyle(theme) }>
+                <div className="tooltip-body" style={ tooltipBodyStyle(theme) }>
+                  { tooltipContent }
+                </div>
+              </div>
+              <div ref={arrowRef} className="tooltip-arrow" style={ tooltipArrowStyle({
+                theme,
+                x: arrowX,
+                y: arrowY,
+                side: arrowPlacement
+              })}>
+              </div>
+            </motion.div>
+          }
+        </AnimatePresence>
+      </FloatingPortal>
+    </Fragment>
   )
-})
+}
