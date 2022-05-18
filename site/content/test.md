@@ -2,11 +2,20 @@
 title: Test frontmatter in markdown
 created: 2022-04-26
 date: 2022-04-26
-description: 'In this test episode with somebody about their work to make community finance transparent and sustainable with Open Collective, their commitment ot steward ownership and the value of an exit to community.'
+description: 'This description is from the frontmatter <description> field.'
 youtube: https://youtube.com/
 featured: false
 ---
 
+***
+
+## Test twitter embeds in markdown
+
+*eg. if this twitter link https://twitter.com/ecb/status/1518591205365460992 is on a separate line, then it will be rendered as seen below*
+
+https://twitter.com/ecb/status/1518591205365460992
+
+***
 
 ## Test (Obsidian) wiki link syntax
 
@@ -29,7 +38,6 @@ featured: false
 5. Internal link heading within page  
      *`[[#Our Approach]]`*  
 	[[#Our Approach]]
-
 
 ***
 
