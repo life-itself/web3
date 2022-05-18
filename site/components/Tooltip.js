@@ -48,7 +48,7 @@ const tooltipArrowStyle = ({ theme, x, y, side }) => ({
   transform: "rotate(45deg)"
 })
 
-export const Tooltip = (props) => {
+export const Tooltip = ({ absolutePath, render, ...props }) => {
   const theme = 'light'; // temporarily hard-coded; light theme tbd in next PR
 
   const arrowRef = useRef(null);
@@ -104,7 +104,7 @@ export const Tooltip = (props) => {
   const fetchTooltipContent = async () => {
     setTooltipContentLoaded(false);
 
-    const response = await fetch(props.absolutePath);
+    const response = await fetch(absolutePath);
     if (response.status !== 200) {
       console.log(`Looks like there was a problem. Status Code: ${response.status}`)
       return
@@ -124,7 +124,7 @@ export const Tooltip = (props) => {
 
   return (
     <Fragment>
-    { props.render(tooltipTriggerProps) }
+    { render(tooltipTriggerProps) }
       <FloatingPortal>
         <AnimatePresence>
           { showTooltip && tooltipContentLoaded &&
