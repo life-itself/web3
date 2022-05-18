@@ -1,37 +1,49 @@
-import Head from 'next/head'
-import ReactPlayer from 'react-player/lazy'
-import { Paragraph } from './Link'
-import { NextSeo } from 'next-seo'
-import siteConfig from "../config/siteConfig"
+import Head from "next/head";
+import ReactPlayer from "react-player/lazy";
+import { Paragraph } from "./Link";
+import { NextSeo } from "next-seo";
+import siteConfig from "../config/siteConfig";
+import { YOUTUBE_REGEX } from "../lib/constants";
 
 const components = {
   Head,
-  p: Paragraph
-}
+  p: Paragraph,
+};
 
 export default function MdxPage({ children, editUrl }) {
-  const { Component, frontmatter: {
-    title, description, date, authors, youtube, podcast, image, _raw
-  }} = children
+  const {
+    Component,
+    frontmatter: {
+      title,
+      description,
+      date,
+      authors,
+      youtube,
+      podcast,
+      image,
+      _raw,
+    },
+  } = children;
 
-  let youtubeThumnbnail
-  let podcastEmbed
+  let youtubeThumnbnail;
+  let podcastEmbed;
 
-  if (youtube && !image) {
+  if (youtube && YOUTUBE_REGEX.test(youtube) && !image) {
     //  get the youtube thumbnail image from https://img.youtube.com/vi/<youtube-video-id>/maxresdefault.jpg
-    const regex =
-      /\www.youtube.com\/\embed\/|youtube.com\/\embed\/|youtu.be\/|\www.youtube.com\/\watch\?v=|\youtube.com\/\watch\?v=/;
-    youtubeThumnbnail =
-      youtube.replace(regex, "img.youtube.com/vi/") + "/maxresdefault.jpg";
+    const youtubeId = youtube.split(/^|=|\//).pop();
+    youtubeThumnbnail = youtube.replace(
+      YOUTUBE_REGEX,
+      `https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`
+    );
   }
 
   if (podcast && podcast.includes("life-itself")) {
-    const podcastUrl = podcast
-    podcastEmbed = ([
+    const podcastUrl = podcast;
+    podcastEmbed = [
       podcastUrl.slice(0, "https://anchor.fm/life-itself".length),
       "/embed",
-      podcastUrl.slice("https://anchor.fm/life-itself".length)
-    ].join(""))
+      podcastUrl.slice("https://anchor.fm/life-itself".length),
+    ].join("");
   }
 
   const titleFromUrl = _raw.flattenedPath
@@ -44,7 +56,9 @@ export default function MdxPage({ children, editUrl }) {
   const SeoTitle = title ?? titleFromUrl;
   const imageUrl = image
     ? siteConfig.url + image
-    : youtubeThumnbnail ? youtubeThumnbnail : null
+    : youtubeThumnbnail
+    ? youtubeThumnbnail
+    : null;
 
   return (
     <>
@@ -56,15 +70,15 @@ export default function MdxPage({ children, editUrl }) {
           title: SeoTitle,
           description: description,
           images: imageUrl
-            ? ([
+            ? [
                 {
                   url: imageUrl,
                   width: 1200,
                   height: 627,
                   alt: title,
-                  type: "image/png"
+                  type: "image/png",
                 },
-              ])
+              ]
             : siteConfig.nextSeo.openGraph.images,
         }}
       />
@@ -82,10 +96,8 @@ export default function MdxPage({ children, editUrl }) {
                 on {date}
               </p>
             )}
-            {description && (
-              <p className="">{description}</p>
-            )}
-            {youtube && (
+            {description && <p className="">{description}</p>}
+            {youtube && YOUTUBE_REGEX.test(youtube) && (
               <div className="relative pt-[56.25%]">
                 <ReactPlayer
                   className="absolute top-0 left-0"
@@ -121,19 +133,35 @@ export default function MdxPage({ children, editUrl }) {
         </header>
         <main>
           <div className="my-6">
-          <Component components={components} />
-        </div>
-        {editUrl && (
-          <div className='mt-12 mb-6'>
-            <a className="flex no-underline font-semibold text-yellow-li" href={editUrl} target="_blank">
-              Edit this page
-              <span className="mx-1">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                </svg>
-              </span>
-            </a>
-          </div>)}
+            <Component components={components} />
+          </div>
+          {editUrl && (
+            <div className="mt-12 mb-6">
+              <a
+                className="flex no-underline font-semibold text-yellow-li"
+                href={editUrl}
+                target="_blank"
+              >
+                Edit this page
+                <span className="mx-1">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-6 w-6"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                    />
+                  </svg>
+                </span>
+              </a>
+            </div>
+          )}
         </main>
       </article>
     </>
