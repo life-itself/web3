@@ -24,7 +24,7 @@ export const Anchor = (props) => {
     if (routerPath === '/guide' || !urlIsRelative(url)) {
       return null
     }
-    const currentPageMdUrl = [siteConfig.rawContentBaseUrl, routerPath].join("");
+    const currentPageMdUrl = [siteConfig.repoRawContentRoot, routerPath].join("");
     return new URL(href, currentPageMdUrl).href;
   }
 
