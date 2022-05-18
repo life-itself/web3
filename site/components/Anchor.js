@@ -1,13 +1,19 @@
+import ReactDOM from 'react-dom'
 import { useRouter } from 'next/router'
-import { useState, useEffect, Fragment } from 'react'
-import { useFloating, useHover, useInteractions } from '@floating-ui/react-dom-interactions'
-import { unified } from 'unified'
-import rehypeParse from 'rehype-parse'
-import find from 'unist-util-find'
-import { toString } from 'hast-util-to-string'
+import { useState, useEffect, useRef, Fragment } from 'react'
+import {
+  useFloating,
+  useHover,
+  useInteractions,
+  arrow,
+  autoPlacement,
+  autoUpdate,
+  offset
+} from '@floating-ui/react-dom-interactions'
 
-import { Tooltip } from './Tooltip'
 import getAbsolutePath from '../utils/absolutePath'
+import documentExtract from '../utils/documentExtract'
+import { Tooltip } from './Tooltip'
 
 
 // TODO cancel request on mouseleave when it hasn't been fulfilled yet
@@ -15,30 +21,47 @@ import getAbsolutePath from '../utils/absolutePath'
 export const Anchor = (props) => {
   const { href } = props;
   const router = useRouter();
-  const [ open, setOpen ] = useState(false);
-  const [ loaded, setLoaded ] = useState(false);
+  const arrowRef = useRef(null);
+
+  const [ showTooltip, setShowTooltip ] = useState(false);
   const [ preview, setPreview ] = useState("");
-  const { x, y, reference, floating, strategy, context } = useFloating({
-    open,
-    onOpenChange: setOpen
+  const [ previewLoaded, setPreviewLoaded ] = useState(false);
+
+  const {
+    x,
+    y,
+    reference,
+    floating,
+    placement,
+    strategy,
+    context,
+    middlewareData: { arrow: { x: arrowX, y: arrowY } = {}}
+  } = useFloating({
+    open: showTooltip,
+    onOpenChange: setShowTooltip,
+    whileElementsMounted: autoUpdate,
+    middleware: [
+      offset(5),
+      autoPlacement(),
+      arrow({ element: arrowRef, padding: 4 })
+    ]
   });
   const { getReferenceProps, getFloatingProps } = useInteractions([
     useHover(context, props)
   ]);
 
   useEffect(() => {
-    if (open) {
+    if (showTooltip) {
       fetchPreview();
     }
-  }, [open])
+  }, [showTooltip])
 
   const fetchPreview = async () => {
-    setLoaded(false);
+    setPreviewLoaded(false);
     const basePath = "http://localhost:3000"; // TODO
     const currentPath = router.asPath;
     const relativePath = props.href.split(".")[0]; // TBD temp remove .md
     const absolutePath = getAbsolutePath({ currentPath, basePath, relativePath });
-    console.log(`Fetching: ${absolutePath}`);
 
     const response = await fetch(absolutePath);
     if (response.status !== 200) {
@@ -47,20 +70,10 @@ export const Anchor = (props) => {
       return
     }
     const html = await response.text();
-    const hast = unified().use(rehypeParse).parse(html);
-    console.log(hast)
-    const article = find(hast, (node) => {
-      return node.tagName === "article"
-    })
-    const main = find(article, (node) => {
-      return node.tagName === "main"
-    })
-    const p = find(main, (node) => {
-      return node.tagName === "p"
-    })
+    const extract = documentExtract(html);
 
-    setPreview(toString(p));
-    setLoaded(true);
+    setPreview(extract);
+    setPreviewLoaded(true);
   }
 
   if (
@@ -71,21 +84,29 @@ export const Anchor = (props) => {
   ) {
     return <Fragment>
              <a {...props} {...getReferenceProps({ref: reference})} />
-             {open && loaded && (
-               // TODO temp span
-               <span
-                 {...getFloatingProps({
-                   ref: floating,
-                   className: "tooltip",
-                   style: {
-                     position: strategy,
-                     left: x ?? '',
-                     top: y ?? '',
-                   },
-                 })}
-               >
-               { preview }
-               </span>
+             {( // TODO temp client only
+               typeof window !== 'undefined' && window.document &&
+               ReactDOM.createPortal(
+                 (<Tooltip
+                    {...getFloatingProps({
+                      ref: floating,
+                      theme: 'light',
+                      arrowRef,
+                      arrowX,
+                      arrowY,
+                      placement,
+                      style: {
+                        position: strategy,
+                        visibility: showTooltip && previewLoaded ? 'visible' : 'hidden',
+                        left: x ?? '',
+                        top: y ?? '',
+                      },
+                    })}
+                  >
+                    { preview }
+                  </Tooltip>
+                 ), document.body
+               )
              )}
            </Fragment>;
   }

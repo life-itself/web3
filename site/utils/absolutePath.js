@@ -3,7 +3,6 @@ const absolutePath = ({ currentPath, basePath, relativePath }) => {
   absolutePath.pop(); // remove current page name
   absolutePath.unshift(basePath);
   absolutePath.push(relativePath);
-  console.log(absolutePath);
   return absolutePath.join("/");
 };
 
