@@ -55,7 +55,7 @@ export const Tooltip = ({ absolutePath, render, ...props }) => {
   const [ showTooltip, setShowTooltip ] = useState(false);
   const [ tooltipContent, setTooltipContent ] = useState("");
   const [ tooltipContentLoaded, setTooltipContentLoaded ] = useState(false);
-  // floating-ui dom hook
+  // floating-ui hook
   const {
     x,
     y,
@@ -76,7 +76,7 @@ export const Tooltip = ({ absolutePath, render, ...props }) => {
       inline(), // correct position for multiline anchor tags
     ]
   });
-  // floating-ui interactions hook
+  // floating-ui hook
   const { getReferenceProps, getFloatingProps } = useInteractions([
     useHover(context, { delay: 100 }),
     useFocus(context),
@@ -84,7 +84,7 @@ export const Tooltip = ({ absolutePath, render, ...props }) => {
     useDismiss(context, { ancestorScroll: true }),
   ]);
 
-  const tooltipTriggerProps = getReferenceProps({ ...props, ref: reference});
+  const triggerElementProps = getReferenceProps({ ...props, ref: reference});
   const tooltipProps = getFloatingProps({
     ref: floating,
     style: {
@@ -124,7 +124,7 @@ export const Tooltip = ({ absolutePath, render, ...props }) => {
 
   return (
     <Fragment>
-    { render(tooltipTriggerProps) }
+    { render(triggerElementProps) }
       <FloatingPortal>
         <AnimatePresence>
           { showTooltip && tooltipContentLoaded &&
