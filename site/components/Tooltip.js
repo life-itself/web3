@@ -1,18 +1,24 @@
 import React from 'react';
 
 
-const tooltipStyles = (theme) => ({
+const tooltipBoxStyle = (theme) => ({
   height: 'auto',
-  maxWidth: '80vw',
-  padding: '1rem 2rem',
+  maxWidth: '60vw',
+  padding: '1rem',
   background: theme === 'light' ? '#fff' : '#000',
   color: theme === 'light' ? 'rgb(99, 98, 98)' : '#A8A8A8',
   borderRadius: '4px',
   boxShadow: 'rgba(0, 0, 0, 0.55) 0px 0px 16px -3px',
-  fontSize: '0.9em'
 })
 
-const tooltipArrowStyles = ({ theme, x, y, side }) => ({
+const tooltipBodyStyle = () => ({
+  maxHeight: '3.6rem',
+  position: 'relative',
+  lineHeight: '1.2rem',
+  overflow: 'hidden',
+})
+
+const tooltipArrowStyle = ({ theme, x, y, side }) => ({
   position: "absolute",
   left: x != null ? `${x}px` : '',
   top: y != null ? `${y}px` : '',
@@ -36,11 +42,13 @@ export const Tooltip = React.forwardRef((props, ref) => {
   }[placement.split('-')[0]];
 
   return (
-    <div {...tooltipProps} ref={ref}>
-      <div style={ tooltipStyles(theme) }>
-        { children }
+    <div className="tooltip" {...tooltipProps} ref={ref}>
+      <div className="tooltip-box" style={ tooltipBoxStyle(theme) }>
+        <div className="tooltip-body" style={ tooltipBodyStyle() }>
+          { children }
+        </div>
       </div>
-      <div ref={arrowRef} style={ tooltipArrowStyles({
+      <div className="tooltip-arrow" ref={arrowRef} style={ tooltipArrowStyle({
         theme,
         x: arrowX,
         y: arrowY,

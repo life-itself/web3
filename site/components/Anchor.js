@@ -15,7 +15,7 @@ import {
   useRole,
 } from '@floating-ui/react-dom-interactions'
 
-import getAbsolutePath from '../utils/absolutePath'
+import siteConfig from '../config/siteConfig.js'
 import documentExtract from '../utils/documentExtract'
 import { Tooltip } from './Tooltip'
 
@@ -52,7 +52,7 @@ export const Anchor = (props) => {
     ]
   });
   const { getReferenceProps, getFloatingProps } = useInteractions([
-    useHover(context, { delay: { open: 100, close: 0 } }),
+    useHover(context, { delay: 100 }),
     useRole(context, { role: 'tooltip' }),
     useDismiss(context, { ancestorScroll: true })
   ]);
@@ -64,21 +64,17 @@ export const Anchor = (props) => {
   }, [showTooltip])
 
   const fetchPreview = async () => {
-    console.log("Fetching...")
     setPreviewLoaded(false);
-    const basePath = "http://localhost:3000"; // TODO
-    const currentPath = router.asPath;
-    const relativePath = props.href.split(".")[0]; // TBD temp remove .md
-    const absolutePath = getAbsolutePath({ currentPath, basePath, relativePath });
-
-    const response = await fetch(absolutePath);
+    const path = new URL(props.href, document.baseURI).pathname;
+    const rawContentPath = [siteConfig.rawContentBaseUrl, path].join("")
+    const response = await fetch(rawContentPath);
     if (response.status !== 200) {
       // TODO
       console.log(`Looks like there was a problem. Status Code: ${response.status}`)
       return
     }
-    const html = await response.text();
-    const extract = documentExtract(html);
+    const md = await response.text();
+    const extract = documentExtract(md);
 
     setPreview(extract);
     setPreviewLoaded(true);
@@ -93,24 +89,25 @@ export const Anchor = (props) => {
     return <Fragment>
              <a {...props} {...getReferenceProps({ref: reference})} />
              <FloatingPortal>
-               <Tooltip
-                 {...getFloatingProps({
-                   ref: floating,
-                   theme: 'light',
-                   arrowRef,
-                   arrowX,
-                   arrowY,
-                   placement,
-                   style: {
-                     position: strategy,
-                     visibility: showTooltip && previewLoaded ? 'visible' : 'hidden',
-                     left: x ?? '',
-                     top: y ?? '',
-                   },
-                 })}
-               >
-                 { preview }
-               </Tooltip>
+               { showTooltip && previewLoaded &&
+                <Tooltip
+                  {...getFloatingProps({
+                    ref: floating,
+                    theme: 'light',
+                    arrowRef,
+                    arrowX,
+                    arrowY,
+                    placement,
+                    style: {
+                      position: strategy,
+                      left: x ?? '',
+                      top: y ?? '',
+                    },
+                  })}
+                >
+                  { preview }
+                </Tooltip>
+               }
              </FloatingPortal>
            </Fragment>;
   }
