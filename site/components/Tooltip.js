@@ -20,7 +20,7 @@ import documentExtract from '../utils/documentExtract'
 
 const tooltipBoxStyle = (theme) => ({
   height: 'auto',
-  maxWidth: '60vw',
+  maxWidth: '30rem',
   padding: '1rem',
   background: theme === 'light' ? '#fff' : '#000',
   color: theme === 'light' ? 'rgb(99, 98, 98)' : '#A8A8A8',
