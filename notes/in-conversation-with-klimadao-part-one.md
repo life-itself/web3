@@ -6,7 +6,7 @@ description: "In a [previous episode](https://youtu.be/SLXtnCL6IxE), Steven Dieh
 youtube: https://youtu.be/fHHxQAQW0co
 podcast: https://anchor.fm/life-itself/episodes/KlimaDAO--Life-Itself-In-Conversation-Part-One-e1ilbra
 featured: false
-aliases: in-conversation-with-klimadao-part-one.md
+aliases: notes/in-conversation-with-klimadao-part-one.md
 ---
 
 ***
