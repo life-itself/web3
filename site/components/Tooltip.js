@@ -112,12 +112,11 @@ export const Tooltip = ({ render, ...props }) => {
       // create a temporary anchor tag to convert relative href to absolute path
       const tempLink = document.createElement("a");
       tempLink.href = props.href;
-      // not all notes documents are structured so that the first paragraph will be the content summary
-      // TBD check if the docs can be adjusted and if previews for notes are even required
-      if (tempLink.pathname.includes('notes')) {
+      const filePath = tempLink.pathname.slice(1) // remove slash from the beginning
+      // disallow tooltips for 'notes' pages for now due to their different structure
+      if (filePath.includes('notes')) {
         return
       }
-      const filePath = tempLink.pathname.slice(1) // remove slash from the beginning
       const page = allOtherPages.find(p => p._raw.sourceFilePath === filePath)
       content = documentExtract(page.body.raw);
     } catch {
