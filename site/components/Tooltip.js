@@ -14,13 +14,14 @@ import {
   useRole,
 } from '@floating-ui/react-dom-interactions'
 import { motion, AnimatePresence } from 'framer-motion';
+import { allOtherPages } from 'contentlayer/generated';
 
 import documentExtract from '../utils/documentExtract'
 
 
 const tooltipBoxStyle = (theme) => ({
   height: 'auto',
-  maxWidth: '30rem',
+  maxWidth: '40rem',
   padding: '1rem',
   background: theme === 'light' ? '#fff' : '#000',
   color: theme === 'light' ? 'rgb(99, 98, 98)' : '#A8A8A8',
@@ -29,7 +30,7 @@ const tooltipBoxStyle = (theme) => ({
 })
 
 const tooltipBodyStyle = (theme) => ({
-  maxHeight: '3.6rem',
+  maxHeight: '4.8rem',
   position: 'relative',
   lineHeight: '1.2rem',
   overflow: 'hidden',
@@ -48,7 +49,8 @@ const tooltipArrowStyle = ({ theme, x, y, side }) => ({
   transform: "rotate(45deg)"
 })
 
-export const Tooltip = ({ absolutePath, render, ...props }) => {
+// export const Tooltip = ({ absolutePath, render, ...props }) => {
+export const Tooltip = ({ render, ...props }) => {
   const theme = 'light'; // temporarily hard-coded; light theme tbd in next PR
 
   const arrowRef = useRef(null);
@@ -104,15 +106,25 @@ export const Tooltip = ({ absolutePath, render, ...props }) => {
   const fetchTooltipContent = async () => {
     setTooltipContentLoaded(false);
 
-    const response = await fetch(absolutePath);
-    if (response.status !== 200) {
-      console.log(`Looks like there was a problem. Status Code: ${response.status}`)
-      return
+    let content;
+    // get tooltip content
+    try {
+      // create a temporary anchor tag to convert relative href to absolute path
+      const tempLink = document.createElement("a");
+      tempLink.href = props.href;
+      // not all notes documents are structured so that the first paragraph will be the content summary
+      // TBD check if the docs can be adjusted and if previews for notes are even required
+      if (tempLink.pathname.includes('notes')) {
+        return
+      }
+      const filePath = tempLink.pathname.slice(1) // remove slash from the beginning
+      const page = allOtherPages.find(p => p._raw.sourceFilePath === filePath)
+      content = documentExtract(page.body.raw);
+    } catch {
+      content = 'An error occured...'
     }
-    const md = await response.text();
-    const extract = documentExtract(md);
 
-    setTooltipContent(extract);
+    setTooltipContent(content);
     setTooltipContentLoaded(true);
   }
 
