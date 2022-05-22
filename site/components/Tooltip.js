@@ -120,7 +120,7 @@ export const Tooltip = ({ render, ...props }) => {
       const page = allOtherPages.find(p => p._raw.sourceFilePath === filePath)
       content = documentExtract(page.body.raw);
     } catch {
-      content = 'An error occured...'
+      return
     }
 
     setTooltipContent(content);
