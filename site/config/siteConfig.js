@@ -5,7 +5,6 @@ const siteConfig = {
   url: "https://web3.lifeitself.us",
   repoRoot: "https://github.com/life-itself/web3",
   repoEditPath: "/edit/main/",
-  repoRawContentRoot: "https://raw.githubusercontent.com/life-itself/web3/main",
   tagline: "",
   description:
   "Introductions to key concepts and ideas in crypto and web3. Plus in-depth evaluation of its potential impact.",
