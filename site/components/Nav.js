@@ -29,7 +29,7 @@ export default function Nav() {
                 </Disclosure.Button>
               </div>
               <div className="flex-1 flex justify-between">
-                <div className="flex-shrink-0 flex items-center uppercase text-yellow-500">
+                <div className="text-sm sm:text-base flex-shrink-0 flex items-center uppercase text-yellow-500">
                   <Link href="/">
                     <a>{siteConfig.title}</a>
                   </Link>
