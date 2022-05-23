@@ -84,7 +84,7 @@ export default function MdxPage({ children }) {
           { name: "keywords", content: keywords ? keywords : "" }
         ]}
       />
-      <article className="prose dark:prose-invert prose-a:break-all mx-auto p-6">
+      <article className="prose max-w-none dark:prose-invert prose-a:break-all mx-auto p-6 xl:mr-50 xl:pr-10 border-2 border-yellow-500">
         <header>
           <div className="mb-6">
             {title && <h1 className="mb-0">{title}</h1>}
@@ -117,6 +117,7 @@ export default function MdxPage({ children }) {
         </header>
         <main>
           <div className="my-6">
+<<<<<<< HEAD
           <Component components={components} />
         </div>
         {editUrl && (
@@ -130,7 +131,33 @@ export default function MdxPage({ children }) {
               </span>
             </a>
           </div>)}
+=======
+            <Component components={components} />
+          </div>
+          {editUrl && (
+            <div className='mt-12 mb-6'>
+              <a className="flex no-underline font-semibold text-yellow-li" href={editUrl} target="_blank">
+                Edit this page
+                <span className="mx-1">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                  </svg>
+                </span>
+              </a>
+            </div>)}
+>>>>>>> 34c9b77 ([components/sidebar][f]: layout ajd for sidebar)
         </main>
+        {/* <div className="hidden xl:block w-50 fixed inset-0 right-auto overflow-y-auto"> */}
+        {/*   <nav> */}
+        {/*     <ul> */}
+        {/*       <li>Heading 1</li> */}
+        {/*       <li>Heading 2</li> */}
+        {/*       <li>Heading 3</li> */}
+        {/*       <li>Heading 4</li> */}
+        {/*       <li>Heading 5</li> */}
+        {/*     </ul> */}
+        {/*   </nav> */}
+        {/* </div> */}
       </article>
     </>
   );
