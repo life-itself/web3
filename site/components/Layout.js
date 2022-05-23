@@ -17,16 +17,14 @@ export default function Layout({ children }) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
       </Head>
       <Nav />
-      <main className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 border-2 border-green-500">
-        <div className="hidden lg:block w-[16rem] fixed top-16 left-[max(0px,calc(50%-40rem))] bottom-0 right-auto px-8 overflow-y-auto border-2 border-red-500">
+      <main className="max-w-7xl mx-auto px-2 sm:px-6 md:px-8 border-2 border-green-500">
+        <div className="hidden md:block w-[16rem] fixed top-16 left-[max(0px,calc(50%-40rem))] bottom-0 right-auto px-8 overflow-y-auto border-2 border-red-500">
           <Sidebar />
         </div>
-        <div className="lg:pl-[16rem]">
           {children}
-        </div>
       </main>
       <footer className="w-full h-24 mt-16">
-        <div className="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 md:px-8">
           <nav className="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
             {navLinks.map((item) => (
               <div key={item.name} className="px-5 py-2">
