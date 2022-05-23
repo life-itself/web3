@@ -1,7 +1,10 @@
 import Head from 'next/head'
-import Nav from './Nav'
+
 import siteConfig from '../config/siteConfig'
-import navLinks from '../config/navLinks.js'
+import navLinks from '../config/navLinks'
+import Nav from './Nav'
+import Sidebar from './Sidebar'
+
 
 export default function Layout({ children }) {
   return (
@@ -14,7 +17,8 @@ export default function Layout({ children }) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
       </Head>
       <Nav />
-      <main>
+      <main className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+        <Sidebar />
         {children}
       </main>
       <footer className="w-full h-24 mt-16">
