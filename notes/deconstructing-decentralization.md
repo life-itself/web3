@@ -14,9 +14,9 @@ aliases: notes/deconstructing-decentralization.md
 
 # Overview
 
-> **What does decentralized mean?** 
-> 
-> There are two different common usages for the term 'decentralized' within crypto: (1) To describe the peer‐to‐peer network of computers that comprise a permissionless blockchain; (2) To describe how power or agency works within permissionless blockchain systems. Coalescing of these meanings and the complexity of blockchain technology results in misunderstandings of how 'decentralized' blockchain technology actually is. 
+**What does decentralized mean?** 
+
+There are two different common usages for the term 'decentralized' within crypto: (1) To describe the peer‐to‐peer network of computers that comprise a permissionless blockchain; (2) To describe how power or agency works within permissionless blockchain systems. Coalescing of these meanings and the complexity of blockchain technology results in misunderstandings of how 'decentralized' blockchain technology actually is. 
 
 * In Part I, Walch outlines the two key senses of the word “decentralized” within this space: describing how power operates in blockchain systems; and describing the network of computers that comprise a permissionless blockchain. 
 * In Part II, Walch identifies and explores key themes within the commentary, such as the different domains where power is exercised in blockchain systems and the fluid nature of power concentration and diffusion in these systems.
