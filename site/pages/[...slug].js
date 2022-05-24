@@ -13,7 +13,7 @@ export default function Page({ body, ...rest }) {
     },
   };
 
-  return <MdxPage children={children} editUrl={editUrl} />;
+  return <MdxPage children={children} />;
 }
 
 export const getStaticProps = async ({ params }) => {

@@ -1,5 +1,4 @@
 import { NextSeo } from "next-seo";
-import ReactPlayer from "react-player/lazy";
 import LiteYouTubeEmbed from "react-lite-youtube-embed";
 import { useState, useEffect } from "react";
 
@@ -17,7 +16,7 @@ import { Anchor } from "./Anchor";
 
 // import { Toc } from './Toc'
 
-export default function MdxPage({ children, editUrl }) {
+export default function MdxPage({ children }) {
   const [activeHeading, setActiveHeading] = useState("");
 
   const components = getMDXComponents({
