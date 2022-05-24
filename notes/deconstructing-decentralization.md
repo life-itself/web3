@@ -39,7 +39,7 @@ aliases: notes/deconstructing-decentralization.md
   * **To describe how power or agency works within permissionless blockchain systems.** If there is not a single, central party keeping the record, that means that power is not held centrally, instead power is diffused throughout the blockchain. 
 * Both political (no one has any power, especially not the state) and physical (we have a lot of computers running, so you can’t easily knock the entire system out) meanings have melded in mainstream usage of the terms. 
 * Director Hinman’s June 2018 speech reflected these melded meanings of ‘decentralized’. His understanding of the ‘decentralized’ nature of bitcoin and ether led to his conclusion that the two are not securities. 
-* Walch argues that the SEC’s standard for “sufficiently decentralized” is extremely low, and argues that a deeper analysis of the concept is needed.
+* Walch argues that the SEC’s standard for “sufficiently decentralized” is extremely low, and argues that a deeper analysis of the concept is needed.  
 
 ## II. The Complex Nature of “Decentralization”
 
@@ -69,6 +69,10 @@ aliases: notes/deconstructing-decentralization.md
     * Decentralization enables groups of people to obscure power and escape consequences for breaking rules.
   * Calls to Action
     * The status quo usage of the terms “decentralized” and “decentralization” is deemed untenable by many commentators, and there are a variety of calls to action in the literature: deeper study of the term; frameworks for better understanding or measuring the decentralization of crypto systems; doing away with the terms altogether in discussing crypto systems.
+
+> **_What does decentralized mean?_** 
+> 
+> There are two different common usages for the term 'decentralized' within the crypto-sphere: (1) To describe the peer‐to‐peer network of computers that comprise a permissionless blockchain; (2) To describe how power or agency works within permissionless blockchain systems. Coalescing of these meanings and the complexity of blockchain technology results in misunderstandings of how 'decentralized' blockchain technology actually is. 
 
 ## III. Examples of Concentrations of Power in Permissionless Blockchain Systems
 
