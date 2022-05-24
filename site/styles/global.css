@@ -38,3 +38,42 @@ body {
   width: 10rem;
   background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 100%);
 }
+
+/* rehype-toc plugin classes */
+.toc {
+  @apply hidden lg:block w-[16rem] p-8 pt-14 fixed top-16 bottom-0 right-[max(0px,50%-40rem)] overflow-y-auto border-2 border-blue-500;
+}
+
+.toc::before {
+  position: absolute;
+  content: "On this page";
+  top: 1.5rem;
+  line-height: 1.125rem;
+  color: white;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+.toc-item {
+  @apply leading-5;
+}
+
+.toc-item-h1 {
+  @apply p-0;
+}
+
+.toc-level {
+  @apply list-none p-0;
+}
+
+.toc-level:not(.toc-level-1) {
+  @apply pl-2
+}
+
+.toc-item .toc-link {
+  @apply text-sm text-slate-400 hover:text-white no-underline break-normal
+}
+
+.toc-link.active {
+  @apply text-yellow-li
+}

@@ -18,9 +18,9 @@ export default function Layout({ children }) {
       </Head>
       <Nav />
       <main className="max-w-7xl mx-auto px-2 sm:px-6 md:px-8 border-2 border-green-500">
-        <div className="hidden md:block w-[16rem] fixed top-16 left-[max(0px,calc(50%-40rem))] bottom-0 right-auto px-8 overflow-y-auto border-2 border-red-500">
-          <Sidebar />
-        </div>
+        {/* <div className="hidden md:block w-[16rem] fixed top-16 left-[max(0px,calc(50%-40rem))] bottom-0 right-auto px-8 overflow-y-auto border-2 border-red-500"> */}
+        {/*   <Sidebar /> */}
+        {/* </div> */}
           {children}
       </main>
       <footer className="w-full h-24 mt-16">
