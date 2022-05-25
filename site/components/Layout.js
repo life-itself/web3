@@ -17,18 +17,18 @@ export default function Layout({ children }) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
       </Head>
       <Nav />
-      <main className="max-w-7xl mx-auto px-2 sm:px-6 md:px-8 border-2 border-green-500">
+      <main className="max-w-7xl relative mx-auto px-2 sm:px-6 md:px-8">
         {/* <div className="hidden md:block w-[16rem] fixed top-16 left-[max(0px,calc(50%-40rem))] bottom-0 right-auto px-8 overflow-y-auto border-2 border-red-500"> */}
         {/*   <Sidebar /> */}
         {/* </div> */}
           {children}
       </main>
       <footer className="w-full h-24 mt-16">
-        <div className="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 md:px-8">
+        <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:px-8 overflow-hidden">
           <nav className="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
             {navLinks.map((item) => (
               <div key={item.name} className="px-5 py-2">
-                <a href={item.href} className="text-base text-gray-500 hover:text-gray-900">
+                <a href={item.href} className="text-base text-gray-400 hover:text-gray-500">
                   {item.name}
                 </a>
               </div>
@@ -42,19 +42,23 @@ export default function Layout({ children }) {
               </a>
             ))}
           </div>
-          <p className="flex items-center justify-center mt-8">
-            Created by
-            <a
-              href={siteConfig.authorUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img src={siteConfig.authorLogo} alt={siteConfig.author} width="20" height="20" className="mx-2 h-6 inline-block" />
-              {siteConfig.author}
-              {' '}
+          <div className="flex flex-col items-center mt-8 text-gray-400">
+            <p>
+              Created by
+              <a
+                href={siteConfig.authorUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img src={siteConfig.authorLogo} alt={siteConfig.author} width="20" height="20" className="mx-2 h-6 inline-block" />
+                {siteConfig.author}
+                {' '}
+              </a>
+            </p>
+            <p>
               Licensed under a CC-By 4.0 International License
-            </a>
-          </p>
+            </p>
+          </div>
         </div>
       </footer>
     </>

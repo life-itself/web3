@@ -13,7 +13,7 @@
 /* OTHERS */
 
 html {
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
 }
 
 /* bg-neutral-800
@@ -39,23 +39,30 @@ body {
   background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 100%);
 }
 
-/* rehype-toc plugin classes */
+/* rehype-toc classes */
 .toc {
-  @apply hidden lg:block w-[16rem] p-8 pt-14 fixed top-16 bottom-0 right-[max(0px,50%-40rem)] overflow-y-auto border-2 border-blue-500;
+  @apply
+    hidden
+    lg:block
+    w-[22rem]
+    p-12 /* 1.5rem */
+    pl-12
+    py-24
+    fixed
+    top-16
+    /* bottom-0 */
+    right-[max(2rem,calc(50%-40rem+2rem))]
+    overflow-y-auto
 }
 
 .toc::before {
   position: absolute;
   content: "On this page";
-  top: 1.5rem;
-  line-height: 1.125rem;
-  color: white;
-  font-size: 1.125rem;
-  font-weight: bold;
+  @apply text-white text-xl font-semibold top-12
 }
 
 .toc-item {
-  @apply leading-5;
+  @apply leading-3;
 }
 
 .toc-item-h1 {
@@ -71,7 +78,11 @@ body {
 }
 
 .toc-item .toc-link {
-  @apply text-sm text-slate-400 hover:text-white no-underline break-normal
+  @apply text-sm text-slate-400 no-underline break-normal
+}
+
+.toc-item .toc-link:not(.active) {
+  @apply hover:text-white
 }
 
 .toc-link.active {

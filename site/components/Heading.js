@@ -1,24 +1,10 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 
-export const Heading = ({ level, activeHeading, setActiveHeading }) => (props) => {
-  console.log(activeHeading, setActiveHeading)
+export const Heading = ({ level, observer }) => (props) => {
   useEffect(() => {
-    const observer = new IntersectionObserver(
-        (entries) => {
-        entries.forEach((entry) => {
-            if (entry.isIntersecting) {
-            setActiveHeading(entry.target.id);
-            }
-        });
-        },
-        { rootMargin: `0% 0% -80% 0%` }
-    );
-
-    observer.observe(document.getElementById(props.id));
-
-    return () => {
-      observer.unobserve(document.getElementById(props.id));
-    };
+    if (observer) {
+      observer.observe(document.getElementById(props.id));
+    }
   });
 
   return React.createElement(`h${level}`, { ...props })

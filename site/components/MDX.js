@@ -2,9 +2,10 @@ import { NextSeo } from "next-seo";
 import LiteYouTubeEmbed from "react-lite-youtube-embed";
 import { useState, useEffect } from "react";
 
-import siteConfig from "../config/siteConfig";
 import { YOUTUBE_REGEX } from "../lib/constants";
+import siteConfig from "../config/siteConfig";
 import getMDXComponents from "./_getMDXComponents";
+import getObserver from "./_getIntersectionObserver"
 import { Paragraph } from "./Paragraph";
 import { Anchor } from "./Anchor";
 
@@ -14,38 +15,29 @@ import { Anchor } from "./Anchor";
 
 // const Paragraph = dynamic(() => import("./Paragraph").then(mod => mod.Paragraph))
 
-// import { Toc } from './Toc'
 
 export default function MdxPage({ children }) {
   const [activeHeading, setActiveHeading] = useState("");
 
+  const observer = getObserver((entry) => {
+    if (entry.isIntersecting) {
+      setActiveHeading(entry.target.id);
+    }
+  })
+
   const components = getMDXComponents({
-    params: {
-      h: {
-        activeHeading,
-        setActiveHeading,
-      },
-    },
-  });
+    h: {
+      observer
+    }
+  })
 
   useEffect(() => {
     if (activeHeading) {
-      const tocLink = document.querySelector(
-        `.toc-link[href="#${activeHeading}"]`
-      );
+      const tocLink = document.querySelector(`.toc-link[href="#${activeHeading}"]`)
       tocLink.classList.add("active");
 
-      // setTimeout to fix scrolling behavior
-      // fix switching on-off when two headings are observed
-      // router push
-    }
-
-    return () => {
-      if (activeHeading) {
-        const tocLink = document.querySelector(
-          `.toc-link[href="#${activeHeading}"]`
-        );
-        tocLink.classList.remove("active");
+      return () => {
+        tocLink.classList.remove("active")
       }
     };
   }, [activeHeading]);
@@ -128,8 +120,8 @@ export default function MdxPage({ children }) {
           { name: "keywords", content: keywords ? keywords : "" },
         ]}
       />
-      {/*<article className="px-8 md:pl-[14rem] lg:pr-[14rem] prose max-w-none dark:prose-invert prose-a:break-all mx-auto border-2 border-yellow-500">*/}
-      <article className="px-8 lg:pr-[14rem] prose max-w-none dark:prose-invert prose-a:break-all mx-auto border-2 border-yellow-500">
+      {/*<article className="px-8 md:pl-[14rem] lg:pr-[1rem] prose max-w-none dark:prose-invert prose-a:break-all mx-auto border-2 border-yellow-500">*/}
+      <article className="px-12 lg:pr-[22rem] prose max-w-none dark:prose-invert prose-a:break-all mx-auto">
         <header>
           <div className="mb-6">
             {title && <h1 className="mb-0">{title}</h1>}
@@ -161,10 +153,8 @@ export default function MdxPage({ children }) {
             )}
           </div>
         </header>
-        <main>
-          <div className="my-6">
-            <Component components={components} />
-          </div>
+        <main className="my-12">
+          <Component components={components} />
           {editUrl && (
             <div className="mt-12 mb-6">
               <a

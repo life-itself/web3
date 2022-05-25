@@ -64,7 +64,7 @@ export default makeSource({
     rehypePlugins: [
       rehypeSlug,
       rehypeAutolinkHeadings,
-      [ rehypeToc, { position: 'beforeend' } ]
+      [ rehypeToc, { position: 'afterend' } ]
     ]
   }
 })
