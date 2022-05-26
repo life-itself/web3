@@ -11,9 +11,16 @@
 }
 
 /* OTHERS */
-
 html {
   scroll-behavior: smooth;
+}
+
+a {
+  @apply no-underline !important;
+}
+
+a:hover {
+  @apply text-yellow-li !important;
 }
 
 /* bg-neutral-800
