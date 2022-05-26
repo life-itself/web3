@@ -1,3 +1,4 @@
+// an Intersection Observer to keep track of currently viewed headings
 const getIntersectionObserver = (callback) => {
   return new IntersectionObserver(
     (entries) => {
@@ -7,8 +8,7 @@ const getIntersectionObserver = (callback) => {
     },
     {
       root: null,
-      // 65px is a navbar height
-      rootMargin: `-65px 0% -90% 0%`
+      rootMargin: "-65px 0% -90% 0%" // 65px is a navbar height
     }
   );
 };

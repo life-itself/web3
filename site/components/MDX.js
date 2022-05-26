@@ -22,6 +22,7 @@ export default function MdxPage({ body, frontMatter, editUrl }) {
   const [observer, setObserver] = useState(null);
 
   // run only after first render, in order to preserve the observer
+  // between component rerenders
   useEffect((() => {
     const observer = getObserver((entry) => {
       if (entry.isIntersecting) {
@@ -34,6 +35,9 @@ export default function MdxPage({ body, frontMatter, editUrl }) {
   }), [])
 
   useEffect(() => {
+    // on initial render activeHeading will be `null`
+    // however, we still want to highlight the current heading in the toc
+    // based on the current url
     if (!activeHeading) {
       try {
         const path = window.location.hash;
@@ -48,6 +52,7 @@ export default function MdxPage({ body, frontMatter, editUrl }) {
         return
       }
     }
+
     const tocLink = document.querySelector(`.toc-link[href="#${activeHeading}"]`)
     tocLink.classList.add("active");
 
