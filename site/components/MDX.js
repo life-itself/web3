@@ -120,8 +120,7 @@ export default function MdxPage({ children }) {
           { name: "keywords", content: keywords ? keywords : "" },
         ]}
       />
-      {/*<article className="px-8 md:pl-[14rem] lg:pr-[1rem] prose max-w-none dark:prose-invert prose-a:break-all mx-auto border-2 border-yellow-500">*/}
-      <article className="px-12 lg:pr-[22rem] prose max-w-none dark:prose-invert prose-a:break-all mx-auto">
+      <article className="border-2 border-green-500 prose dark:prose-invert prose-a:break-all mx-auto lg:mr-[20rem] p-6">
         <header>
           <div className="mb-6">
             {title && <h1 className="mb-0">{title}</h1>}

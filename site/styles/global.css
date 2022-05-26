@@ -44,15 +44,16 @@ body {
   @apply
     hidden
     lg:block
-    w-[22rem]
-    p-12 /* 1.5rem */
-    pl-12
+    w-[20rem]
+    px-8
     py-24
     fixed
     top-16
     /* bottom-0 */
     right-[max(2rem,calc(50%-40rem+2rem))]
     overflow-y-auto
+    border-2
+    border-red-500
 }
 
 .toc::before {

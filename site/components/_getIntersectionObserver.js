@@ -2,12 +2,18 @@ const getIntersectionObserver = (callback) => {
   if (typeof window !== 'undefined') {
     return new IntersectionObserver(
       (entries) => {
-        entries.forEach((entry) => {
-          callback(entry);
-        });
+        const intersectingEntries = entries.filter((e) => e.isIntersecting);
+        const firstEntry = intersectingEntries[0];
+        if (firstEntry) {
+          callback(firstEntry);
+        }
+        // entries.forEach((entry) => {
+        //   callback(entry);
+        // });
       },
       { root: null,
-        rootMargin: `0% 0% -85% 0%`
+        threshold: 0.9,
+        rootMargin: `0% 0% -90% 0%`
       }
     );
   }
