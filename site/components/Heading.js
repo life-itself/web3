@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
+
 export const Heading = ({ level, observer }) => (props) => {
   useEffect(() => {
     if (observer) {
@@ -7,5 +8,9 @@ export const Heading = ({ level, observer }) => (props) => {
     }
   });
 
-  return React.createElement(`h${level}`, { ...props })
+
+  return React.createElement(`h${level}`, {
+    ...props,
+    className: "scroll-mt-16"
+  })
 }

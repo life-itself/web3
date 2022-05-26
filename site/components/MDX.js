@@ -6,8 +6,10 @@ import { YOUTUBE_REGEX } from "../lib/constants";
 import siteConfig from "../config/siteConfig";
 import getMDXComponents from "./_getMDXComponents";
 import getObserver from "./_getIntersectionObserver"
-import { Paragraph } from "./Paragraph";
-import { Anchor } from "./Anchor";
+import MdxContent from "./MdxContent"
+
+// import { Paragraph } from "./Paragraph";
+// import { Anchor } from "./Anchor";
 
 // const Anchor = dynamic(() => import('./Anchor').then(module => module.Anchor), {
 //   ssr: false
@@ -15,46 +17,48 @@ import { Anchor } from "./Anchor";
 
 // const Paragraph = dynamic(() => import("./Paragraph").then(mod => mod.Paragraph))
 
-
-export default function MdxPage({ children }) {
+export default function MdxPage({ body, frontMatter, editUrl }) {
   const [activeHeading, setActiveHeading] = useState("");
+  const [observer, setObserver] = useState(null);
 
-  const observer = getObserver((entry) => {
-    if (entry.isIntersecting) {
-      setActiveHeading(entry.target.id);
-    }
-  })
+  // run only after first render, in order to preserve the observer
+  useEffect((() => {
+    const observer = getObserver((entry) => {
+      if (entry.isIntersecting) {
+        setActiveHeading(entry.target.id);
+      }
+    });
+    setObserver(observer);
 
-  const components = getMDXComponents({
-    h: {
-      observer
-    }
-  })
+    return observer.disconnect();
+  }), [])
 
   useEffect(() => {
-    if (activeHeading) {
-      const tocLink = document.querySelector(`.toc-link[href="#${activeHeading}"]`)
-      tocLink.classList.add("active");
-
-      return () => {
-        tocLink.classList.remove("active")
+    if (!activeHeading) {
+      try {
+        const path = window.location.hash;
+        if (path) {
+          setActiveHeading(path.slice(1))
+        } else {
+          const firstTocHeading = document.querySelector(".toc-link");
+          const href = firstTocHeading.href;
+          setActiveHeading(href.match(/.+#(.+)/)[1]);
+        }
+      } finally {
+        return
       }
-    };
-  }, [activeHeading]);
+    }
+    const tocLink = document.querySelector(`.toc-link[href="#${activeHeading}"]`)
+    tocLink.classList.add("active");
+
+    return () => {
+      tocLink.classList.remove("active")
+    }
+  }, [activeHeading])
 
   const {
-    Component,
-    frontmatter: {
-      title,
-      description,
-      date,
-      keywords,
-      youtube,
-      podcast,
-      image,
-      _raw,
-    },
-  } = children;
+    title, description, date, authors, youtube, podcast, image, _raw
+  } = frontMatter
 
   let youtubeThumnbnail;
 
@@ -120,7 +124,7 @@ export default function MdxPage({ children }) {
           { name: "keywords", content: keywords ? keywords : "" },
         ]}
       />
-      <article className="border-2 border-green-500 prose dark:prose-invert prose-a:break-all mx-auto lg:mr-[20rem] p-6">
+      <article className="prose dark:prose-invert prose-a:break-all mx-auto lg:mr-[20rem] p-6">
         <header>
           <div className="mb-6">
             {title && <h1 className="mb-0">{title}</h1>}
@@ -152,8 +156,8 @@ export default function MdxPage({ children }) {
             )}
           </div>
         </header>
-        <main className="my-12">
-          <Component components={components} />
+        <main className="my-6">
+          <MdxContent body={body} observer={observer}/>
           {editUrl && (
             <div className="mt-12 mb-6">
               <a

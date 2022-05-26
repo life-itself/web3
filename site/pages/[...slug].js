@@ -1,19 +1,23 @@
-import MdxPage from "../components/MDX";
-import { allOtherPages } from "contentlayer/generated";
-import { useMDXComponent } from "next-contentlayer/hooks";
+import { allOtherPages } from 'contentlayer/generated';
 
-import siteConfig from "../config/siteConfig";
+import MdxPage from '../components/MDX';
+import siteConfig from "../config/siteConfig"
 
-export default function Page({ body, ...rest }) {
-  const Component = useMDXComponent(body.code);
-  const children = {
-    Component,
-    frontmatter: {
-      ...rest,
-    },
-  };
+export default function Page({ body, ...meta }) {
+  const frontMatter = {
+    ...meta,
+    date: meta.date === "Invalid Date" ? null : meta.date,
+    created: meta.created === "Invalid Date" ? null : meta.created
+  }
 
-  return <MdxPage children={children} />;
+  // enable editing content only for claims, concepts, and guide for now
+  const editUrl = ['claims', 'concepts', 'guide'].includes(meta._raw.sourceFileDir)
+        ? siteConfig.repoRoot + siteConfig.repoEditPath + meta._raw.sourceFilePath
+        : null
+  
+  return (
+    <MdxPage body={body} frontMatter={frontMatter} editUrl={editUrl} />
+  );
 }
 
 export const getStaticProps = async ({ params }) => {

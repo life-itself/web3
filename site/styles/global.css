@@ -13,7 +13,7 @@
 /* OTHERS */
 
 html {
-  /* scroll-behavior: smooth; */
+  scroll-behavior: smooth;
 }
 
 /* bg-neutral-800
@@ -40,36 +40,32 @@ body {
 }
 
 /* rehype-toc classes */
+/* nav element */
 .toc {
   @apply
     hidden
     lg:block
     w-[20rem]
+    my-12
+    pt-12
     px-8
-    py-24
     fixed
     top-16
-    /* bottom-0 */
+    bottom-0
     right-[max(2rem,calc(50%-40rem+2rem))]
     overflow-y-auto
-    border-2
-    border-red-500
+    border-l
+    border-slate-800
 }
 
+/* toc title */
 .toc::before {
   position: absolute;
   content: "On this page";
-  @apply text-white text-xl font-semibold top-12
+  @apply text-white text-xl font-semibold top-1
 }
 
-.toc-item {
-  @apply leading-3;
-}
-
-.toc-item-h1 {
-  @apply p-0;
-}
-
+/* list (ol) element */
 .toc-level {
   @apply list-none p-0;
 }
@@ -78,6 +74,20 @@ body {
   @apply pl-2
 }
 
+/* list item (li) element */
+.toc-item {
+  @apply leading-3;
+}
+
+.toc-item-h1 {
+  @apply p-0;
+}
+
+.toc-link {
+  @apply transition-colors;
+}
+
+/* link (a) element */
 .toc-item .toc-link {
   @apply text-sm text-slate-400 no-underline break-normal
 }
