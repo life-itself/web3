@@ -3,7 +3,7 @@ import Head from 'next/head'
 import siteConfig from '../config/siteConfig'
 import navLinks from '../config/navLinks'
 import Nav from './Nav'
-import Sidebar from './Sidebar'
+// import Sidebar from './Sidebar'
 
 
 export default function Layout({ children }) {
