@@ -35,16 +35,16 @@ According to the founders of KlimaDAO: Value and price are visibly disconnected 
 
 Their goal, according to their own words, is to become a Climate Carbon-Based Reserve Currency... effectively a semi-algorithmic [central bank](../concepts/central-banks.md) with [DAO](../concepts/dao.md) governance structures.
 
-> “The DAO serves the role of "de-central" bank, governing the monetary policy of this new carbon-backed currency, just as a central bank governs the monetary policy of a fiat currency. Over time, we will build an economy around KLIMA by driving adoption and unlocking growth of the crypto-carbon economy.” - [KlimaDAO](https://docs.klimadao.finance/)
+> The DAO serves the role of "de-central" bank, governing the monetary policy of this new carbon-backed currency, just as a central bank governs the monetary policy of a fiat currency. Over time, we will build an economy around KLIMA by driving adoption and unlocking growth of the crypto-carbon economy. - [KlimaDAO](https://docs.klimadao.finance/)
 
 We have drawn up our best understanding of the underlying model of KlimaDAO as an investment vehicle: 
 
-[view it here](https://excalidraw.com/#room=1891d6b61b0fee7269f9,T_TZqXxVGi5TGABRzS0T7w)
+[View it here](https://excalidraw.com/#room=1891d6b61b0fee7269f9,T_TZqXxVGi5TGABRzS0T7w)
 
 Boiled down to the essentials, the model is as follows:
 
   * Someone comes along with some currency, eg a [dollar](../concepts/dollar.md) or a euro, and then converts that into USDC, the [stablecoin](../concepts/stablecoin.md) equivalent of a US dollar.
-  * In exchange for depositing whatever amount of USDC, you get 1 divided by the price of Klima Klima tokens from the Klima treasury.
+  * In exchange for depositing whatever amount of USDC, you get 1 divided by the price of Klima  tokens from the Klima treasury.
   * Then the Klima organization takes the USDC that it has received, converts them back into dollars (or euros or pounds etc) and buys carbon offset certificates. Carbon offset certificates represent carbon sequestration (tree planting), methane capture, and renewable energy initiatives. The idea is then that certificates of carbon offsets come back into the treasury. As we understand it from the white paper, there's a guarantee that every Klima token that's issued is backed by at least one tonne of carbon offsets. 
   * So essentially what is being done is they're collecting money together and buying carbon offsets. It's basically the equivalent of a special purpose vehicle for buying carbon offsets.
 * You can also take those Klima tokens and sell them back to the Treasury or create [derivative](../concepts/derivative.md) financial products on top of them, which can potentially give you more shares in the entity itself. This is called [staking](../concepts/staking.md) and bonding. This process doesn't change the macro structure of what KlimaDAO is trying to do end to end, it just adds a level for people who are already invested in it to get more invested in it.
@@ -66,7 +66,7 @@ In Summary:
 * Underlying aspiration: To sequestrate carbon, to plant more trees, and to drive up the price of carbon offsets -  as we buy more of them, there'll be less supply, that will make it more expensive to pollute...
 * Klima tokens are a reserve currency that can act as a complementary currency to the world's national currencies that can be used to do targeted quantitative easing to encourage either degrowth or decarbonisation.
 * The potential to raise a lot of money due to price volatility of Klima tokens
-* KlimaDAO are engaging with important questions that need addressed
+* KlimaDAO are engaging with important questions that need to be addressed
   *   How do we find cooperative solutions to climate change? KlimaDAO are trying to address crucial questions surrounding human cooperation and institutional design. 
 
 ## *The Ministry of the Future* - Kim Stanley Robinson
@@ -95,7 +95,7 @@ In Summary:
   * Firstly, the insane price volatility means Klima can't function as a [currency](../concepts/currency.md). The price of Klima peaked at around $3600, well above the intrinsic value of one ton of carbon. It has since collapsed, losing around 99% of its value over 1 year - it's now trading at around $20.
   * The notion that it can be a [reserve currency](../concepts/reserve-currency.md), when nobody's denominated any kind of goods or services, seems to be an irreconcilable contradiction inherent in Klima.
   *  Like many other crypto projects it seems to be a piece of financial engineering that at the bottom sits nothing but some appeal to narrative and the faith that “number go up” by creating artificial scarcity of a digital speculative asset. So not a currency.
-  * If this is supposed to be a currency then it looks like the Weimar republic.
+  * If this is supposed to be a currency then it looks like the Weimar Republic.
 * Something that makes Klima exciting is this price volatility and the potential to raise a lot of money based on this price volatility. 
   * Why not just raise the money at the beginning and then shut down the thing and just buy carbon offsets and hold on to them? 
 * KlimaDAO are asking an important question: how can we tackle climate change using human cooperation? 
@@ -111,14 +111,14 @@ In Summary:
   * Are effectively a form of indulgence where you pay for the right to pollute the environment by paying off the damage via some future project or activity. You're not seeking to solve the problem, but rather to mitigate it. It doesn't seek to fix the root of the problem: that we're burning fossil fuels. Buying tokens that represent tree planting in the future will not solve climate change.
   * People will and can exploit these mechanisms to maximize their capacity to pollute. Secondary markets for carbon credits are driven by bizarre corruption. Tesla has made a lot of money on secondary markets trading carbon credits
 * Web3 Common Theme: [Technosolutionism](../concepts/technosolutionism.md) via the [financialization of everything](../claims/is-hyperfinancialization.md)
-  * Let’s turn the abstract idea of fighting climate change into a [ficticious commodity](../concepts/ficticious-commodity.md) to be traded on the market.
+  * Let’s turn the abstract idea of fighting climate change into a [fictitious commodity](../concepts/ficticious-commodity.md) to be traded on the market.
   * This is a distraction from actual solutions. Of which there is no financial silver bullet.
   * Just adding an additional layer of complexity to fighting climate change. Such a project absorbs time, money, and runs on [proof of work](../concepts/proof-of-work.md) which requires a large amount of energy. All these resources could be better allocated. 
 * Anything we can do we can afford. The money exists, the problem is doing supranational coordination of solutions and allocating resources to those projects.
   * Mark Carney proposed to COP26 to allocate $130 trillion to help address solutions to climate change. **The money to fight climate change absolutely exists, but sufficient funds is not the issue.**
   * “Anything we can actually do we can afford.”  — John Maynard Keynes
   * Unfettered capitalism is a process of commoditizing everything, privatizing the commons and destroying that which has no value and converting everything into private profit.
-    * [Crypto asset](../concepts/cryptoasset.md) are an extension of that program to an even more extreme level.
+    * [Crypto assets](../concepts/cryptoasset.md) are an extension of that program to an even more extreme level.
   * **Our system will continue exploiting fossil fuels so long as the private costs to capitalists are much lower than the societal cost.**
   * Vague appeals to new mechanism designs and appeals to absolute free [markets](../concepts/market.md) about “aligning incentives” can’t conceive of solutions outside their own capitalist logics.
 * Overall: 
@@ -135,7 +135,7 @@ In Summary:
     * "Let others do the costly things that need to be done to ensure the upkeep of the commons."
     * If enough people stop contributing, the good disappears.
     * Rufus’s book [‘The Open Revolution’](https://openrevolution.net/) is an extensive exploration of the internet economy, public goods, and the free-rider problem.
-  * A lot of attention is being payed to this problem by people within the [web3](../concepts/web3.md) space through things like quadratic voting, DAOs, however these don't really seem to be dealing with the issue of what to do if people aren't contributing.
+  * A lot of attention is being paid to this problem by people within the [web3](../concepts/web3.md) space through things like quadratic voting, DAOs, however these don't really seem to be dealing with the issue of what to do if people aren't contributing.
   * The mechanisms we currently have in our society to address this problem have been developed over thousands of years, eg if we don't pay our taxes we go to jail, and generally the way it is achieved is that someone or some body enforces this contribution, eg the state. 
     *   Rufus's book goes into detail into mechanisms for funding software, goods, information, movies, music. We also have examples of funding informational public goods at a large scale, and efforts around the environment.  Governments spend billions, trillions in combination, a year on international research and development. All of modern medical science, all of modern mathematics was publicly funded in some way by governments or through other mechanisms. So we have got examples of solutions to the collective action problem - most done via states. It of course comes with some oppressive characteristics, eg the state can compel you to pay taxes, but we haven't really found a mechanism better than that
   * There are often visions of [libertarian](../concepts/libertarianism.md) solutions to the collective action problem, completely voluntary solutions. And such solutions would be great but they don't seem to exist: we charge people to use swimming pools and we build walls around them to limit access to those who have paid or those who have access by virtue of having contributed to the building of the swimming pool for example.
@@ -146,7 +146,7 @@ In Summary:
   * Collective action problems are not impossible to solve, but they are not by any means straightforward.
 * **The urgency of the time scale of the climate crisis requires us to engage with existing institutions. There is no other choice, we're out of time** 
   *  More innovative solutions to addressing the free rider problem are not mutually incompatible with compelling our institutions to behave differently, and seeking to change them from within.
-  *   We need to affect change from within existing institutions instead of burning everything down and replacing it with [DAOs](../concepts/dao.md). 
+  *   We need to effect change from within existing institutions instead of burning everything down and replacing it with [DAOs](../concepts/dao.md). 
   *   Solving climate change is going to involve some aspect of the state, it's going to involve claiming public money and putting that money towards the sustenance of public goods. 
 *   **We need to deconstruct the $100 trillion [shadow banking](../concepts/shadow-bank.md) system** that’s being used by plutocrats to evade taxes and strangle democracy. We need to on-shore that capital and redistribute it towards public interests: public works projects, R&D (fusion, solar cells, etc), green infrastructure development, relocation and international development. 
     * Crypto is just enabling more shadow banking as scholars like Ann Pettifor and Hillary Allen have noted.
