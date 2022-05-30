@@ -2,7 +2,7 @@
 title: Fintech Incrementalism and Responsible Innovation
 created: 2022-04-04
 date: 2022-04-04
-description: "In episode #5 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl explore the claim that blockchain can be a vehicle for increase in financialization through the development of more complex, blockchain based financial products."
+description: "In episode #5 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl explore the claim that blockchain can be a vehicle for increase in financialization through the development of more complex, blockchain-based financial products."
 youtube: https://www.youtube.com/watch?v=7rLQoTtwRSU&t=4s
 podcast: https://anchor.fm/life-itself/episodes/Fintech-Incrementalism-and-Responsible-Innovation-e1gn02u
 featured: false
@@ -21,9 +21,9 @@ aliases: notes/fintech-incrementalism-and-responsible-innovation.md
 
 In this episode, Rufus and Stephen  explore an argument for blockchain and crypto that they term “fintech incrementalism”. 
 
-This position assumes the capitalist notion that greater [financialization](../claims/is-hyperfinancialization.md) is an engine for progress, and claims that blockchain can be a vehicle for this increase in financialization through the development of more complex, [blockchain](../concepts/blockchain.md) based [financial products](../concepts/financial-asset.md) – and the added market efficiency which will result. This ranges from better payment rails i.e. a better visa, stripe etc, to more efficient clearings systems, to full-scale innovation in financial engineering.
+This position assumes the capitalist notion that greater [financialization](../claims/is-hyperfinancialization.md) is an engine for progress, and claims that blockchain can be a vehicle for this increase in financialization through the development of more complex, [blockchain](../concepts/blockchain.md)-based [financial products](../concepts/financial-asset.md) – and the added market efficiency which will result. This ranges from better payment rails i.e. a better Visa, Stripe etc, to more efficient clearing systems, to full-scale innovation in financial engineering.
 
-The political imaginaries of this position are more efficient markets and more bespoke and customized financial products to buy. [Capitalism](../concepts/capitalism.md) is net positive in the world, and a fairer, more efficient and transparent economy benefits everyone. 
+The political imaginaries of this position are: more efficient markets and more bespoke and customized financial products to buy. [Capitalism](../concepts/capitalism.md) is net positive in the world, and a fairer, more efficient and transparent economy benefits everyone. 
 
 Rufus and Stephen 'steel man' the “fintech incrementalism” position, identifying 7 key claims, before then conducting an analysis of the position.
 
@@ -43,7 +43,7 @@ Rufus and Stephen 'steel man' the “fintech incrementalism” position, identif
 * Fintech innovation and quantitative finance has a good track record of progress in the last few decades. 
   * New York Fed’s open source models of the US economy
     * GitHub - [FRBNY-DSGE/DSGE.jl: Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)](https://github.com/FRBNY-DSGE/DSGE.jl)
-  * Low cost index funds
+  * Low-cost index funds
   * [Mechanism design](https://www.investopedia.com/terms/m/mechanism-design-theory.asp#:~:text=Mechanism%20design%20is%20a%20branch,self%2Dinterest%20and%20incomplete%20information.), [auction theory](https://en.wikipedia.org/wiki/Auction_theory)
   * [Myerson–Satterthwaite theorem](https://en.wikipedia.org/wiki/Myerson%E2%80%93Satterthwaite_theorem)
   * [Black-Scholes-Merton model](https://www.investopedia.com/terms/b/blackscholes.asp)
@@ -60,9 +60,9 @@ Rufus and Stephen 'steel man' the “fintech incrementalism” position, identif
 
 * **Claim 1:** Everything is moving towards real-time and international finance. Crypto is the evolution of this trend. We want to move the entire economy into a hyperfinanicalized 24/7 real-time always-trading market with even more complexity and lower friction than what we have presently.
     *  Building a [T+0 settlement](https://www.investopedia.com/ask/answers/what-do-t1-t2-and-t3-mean/) system for equities is a great idea. Real-time settlements would be a boon for the liquidity of US capital markets.
-    *  Real time payments are a resounding success in Europe and Asia.
+    *  Real-time payments are a resounding success in Europe and Asia.
   * We’ve solved volatility problems of asset classes in the past. We’ll do it again. It just requires more math and more sophisticated models.
-* **Claim 2:** Banks are outdated and slow to innovate: core banking software is mostly from the 1980s; state of bitrot in financial infrastructure is vast; American infrastructure is massively outdated. Crypto is the means to fix all this.
+* **Claim 2:** Banks are outdated and slow to innovate: core banking software is mostly from the 1980s; state of bit rot in financial infrastructure is vast; American infrastructure is massively outdated. Crypto is the means to fix all this.
     * **Subclaim 2a)** Private money and [Central Bank Digital Currencies](../concepts/cbdc.md) will compete for market share and will coexist. This will be the future of finance.
       * The Federal Reserve, and the European Central Bank will keep all of their balance sheets and swap lines on a global distributed ledger providing greater market transparency and efficiency of sovereign flows.
       * Retail accounts will all be held directly at the [central bank](../concepts/central-banks.md)
@@ -85,7 +85,7 @@ Rufus and Stephen 'steel man' the “fintech incrementalism” position, identif
   * If we can create completely synthetic hedges for a wide range of real-world phenomenal factors then it doesn’t really matter how we do it. 
 * **Claim 6:** There are a few **[asset classes](asset) that are almost exclusively narrative-driven** rather than mathematics or cashflow-driven.
   * “If gold appears to be a hedge for anything, it’s the fear of inflation, or the fear of financial instability as proxied by changes in government deficits.”
-  * **The demand curve for [gold](../concepts/gold.md) is, at least partially,generated by emotion and politics.** This is squishy but quantifiable.
+  * **The demand curve for [gold](../concepts/gold.md) is, at least partially, generated by emotion and politics.** This is squishy but quantifiable.
   * With crypto tokens we can create new synthetic assets whose demand curves are artificially generated by different [psychological forces](../concepts/narrative-economics.md)
   * Gold is a proxy asset for investing in the “[libertarian](../concepts/libertarianism.md) project”. With crypto can we create a proxy asset for investing in the “[anarchist](../concepts/anarchocapitalism.md) project” or the “[Marxism](../concepts/marxism.md) project”?
 * **Claim 7:** “The next step in the evolutionary tree of homo economicus, in which all aspects of our humanity sublimates into the free market.”
