@@ -78,13 +78,13 @@ This thesis has been put forward in various forms. So far, the most fully articu
   * Problems like climate change show that liberal democracies and the existing international order are highly vulnerable to paralysis on global tragedy of the commons problems.
   * Just like evolution, corruption is the natural state of being, so we need to embrace corruption rather than live up to the ideals of liberal democracy.
   * Instead of a strong man to save us, we need strong tech.
-* **Claim 5:** [web3](../concepts/web3.md) is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
-  * We can’t stop runaway phenomenon. We simply have to embrace them.
+* **Claim 5:** [web3](../concepts/web3.md) is a paradigm shift akin to the Industrial Revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
+  * We can’t stop runaway phenomena. We simply have to embrace them.
   * Crypto is inevitable. We can’t put the toothpaste back in the tube.
   * Creative destruction is unpredictable but in the end it’s right.
   * Historical inventions like the printing press were fraught with concern and risk, and yet humanity survived those paradigm shifts. The disruption of the financial system is no different than the printing press.
   * The train of progress only goes one direction, get on or get off. There’s no place for Luddites in the future.
-  * Matt Damon superbowl ad is the soft form of this worldview.
+  * Matt Damon Superbowl ad is the soft form of this worldview.
 
 ## Evaluating the position
 
@@ -105,7 +105,7 @@ This thesis has been put forward in various forms. So far, the most fully articu
 * **Claim 2:** "The state can (and should) be hollowed out"
   * "Nation states are being dissolved from within. The internet is global, the internet is the basis of human life, so borders should not exist."
     *    “No borders politics” is legitimately a divergence from classical right wing positions. Usually resonates with far-left positions. This is an interesting shift in thinking.
-  * "We can replace all of the state's legacy functions with software, and the public goods that it once supported can be replaced by either the private sector or blockchain apps.""
+  * "We can replace all of the state's legacy functions with software, and the public goods that it once supported can be replaced by either the private sector or blockchain apps."
     * Replacing the DMV and the tax authority with automation is a genuinely appealing idea to many people. Replacing it with the private sector is more controversial.
     *  People have successfully built antifragile services that exist outside the regulatory perimeter that have endured the test of time: 
         * ThePirateBay has existed since 2003 despite government attempts to remove it from the internet. No government cares enough to really pursue it because it only infringes on the private sector and there’s no political will to shut it down.
@@ -129,8 +129,8 @@ This thesis has been put forward in various forms. So far, the most fully articu
 * **Claim 4:** "Crypto is the smartest people in the world exiting into their own economy"
   * A tech-led plutocracy, not a utopia.
   *  The result would be an oligarchy: the technical elite and those with access to capital rule.
-* **Claim 5:** [web3](../concepts/web3.md) is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life.
-  * This is a vision of the future detached from the lived experience and day to day economics of the vast majority of people globally.
+* **Claim 5:** "[web3](../concepts/web3.md) is a paradigm shift akin to the industrial revolution. Our current reading of economics is incommensurate with the inevitable new world order that will exist after blockchain and tokenization subsume all of human life."
+  * This is a vision of the future detached from the lived experience and day-to-day economics of the vast majority of people globally.
   * We'll all be full-time FX traders at face value makes zero sense. Price discovery is important but who will smelt the aluminium for your MacBook?
   * How will this new economy function when their financial system can't even be used to buy goods and services?
     * “Crypto doesn’t currently function as money, not because of technical or economics limitations, but because statists won’t give up their power.”
@@ -145,7 +145,7 @@ This thesis has been put forward in various forms. So far, the most fully articu
   * We can’t run nation states like we run tech startups.
   * Skeptical about finding a quick-fix in technology or politics. There is wisdom in learning from the past and the institutions that exist.
   * Esperanto-style solutionism has never worked for societies or economies. 
-  * Anna Neima’s book The Utopians is full of similarly minded people and communities. They usually dissolve or collapse.
+  * Anna Neima’s book *The Utopians* is full of similarly minded people and communities. They usually dissolve or collapse.
 		
 ***
 	
