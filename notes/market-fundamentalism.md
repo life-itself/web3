@@ -23,9 +23,9 @@ The trader or market fundamentalist view likely represents a majority of interes
 
 Rufus and Stephen 'steel man' the market fundamentalism position, exploring four key claims:
 
-1. [Unregulated](../concepts/regulation.md) markets allow companies to so what they're supposed to do: maximize returns to shareholders.
-2. [Markets](../concepts/market.md) are likeable to evolution; they have no moral quality.
-3. Crypto-trading is a [public good](../concepts/public-goods-problem.md)
+1. [Unregulated](../concepts/regulation.md) markets allow companies to do what they're supposed to do: maximize returns to shareholders.
+2. [Markets](../concepts/market.md) are comparable to evolution; they have no moral quality.
+3. Crypto trading is a [public good](../concepts/public-goods-problem.md)
 4. There is no [non-public](../concepts/asymmetric-information.md) disclosure about the risks of these assets, everyone is going in with their eyes open that this is the wild west.
 
 Rufus and Stephen end their conversation with an analysis of the market fundamentalist position and the associated claims.
@@ -41,11 +41,11 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 * Exchange traded [pyramid scheme](../concepts/pyramid-scheme.md)?
 * [Derivative](../concepts/derivative.md) contract with no underlying?
 * [Libertarian](../concepts/libertarianism.md) performance [art](../concepts/art.md) split into 21 million pieces https://en.wikipedia.org/wiki/Monte_Carlo_Bonds
-* If we value it as a "block box" [financial asset](../concepts/financial-asset.md) (ala Nassim Taleb) we find it’s [present value](../concepts/present-value.md) can only be zero. https://www.fooledbyrandomness.com/BTC-QF.pdf
+* If we value it as a "block box" [financial asset](../concepts/financial-asset.md) (ala Nassim Taleb) we find its [present value](../concepts/present-value.md) can only be zero. https://www.fooledbyrandomness.com/BTC-QF.pdf
 
 ## Who is Trading Crypto?
 
-* The day-trader in the pub, WallStreetBets demographic.
+* The day trader in the pub, WallStreetBets demographic.
 	* [Barrett, Claer. ‘Why Young Investors Bet the Farm on Cryptocurrencies’. Financial Times, 2021.](https:www.ft.com/content/162839aa-0437-478b-a4d4-4a8d7ab71458):
     > "I’ll either be rich, or wrong." This is how Sam, a 29-year-old cryptocurrency enthusiast I interviewed on this week’s Money Clinic podcast, summarized his strategy for investing the last £2,000 of his savings in a hugely volatile and unregulated asset class. Claiming that he's not a natural risk taker, Sam has never set foot inside a casino or put money on a horse. "To me, that seems stupid, like you’re throwing money away." He has never considered investing in stocks and shares. Being self-employed, he's never paid into a pension or thought about setting up a self-invested personal pension (Sipp). "No one’s ever given me that kind of information," he says. So why is he prepared to risk his spare cash betting on crypto? Sam found out his younger brother had turned a £3,000 investment into £30,000 within four years — money he now intends to use as a property deposit. "I was very surprised and it made me feel a bit stupid . . . why aren’t I doing this?"*
     * cf low bets in general: tiny but possible asymmetric returns. A regressive tax or distributed lottery.
@@ -60,8 +60,8 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 
 ## Why is the Crypto-Can-Make-Me-Money Position So Interesting to Examine?
 
-* Likely represents a majority of interest and activity in crypto (and even [DAOs](../concepts/dao.md)) from the day-trader in the pub up to the wall street trader
-* Generally not brought up explicitly as much in the crypto / [web3](../concepts/web3.md) discussion (for obvious reasons: it is not as substantive or attractive position to espouse publicly)
+* Likely represents a majority of interest and activity in crypto (and even [DAOs](../concepts/dao.md)) from the day trader in the pub up to the Wall Street trader
+* Generally not brought up explicitly as much in the crypto / [web3](../concepts/web3.md) discussion (for obvious reasons: it is not a substantive or attractive position to espouse publicly)
 * The political imaginaries aren’t there - "I just want to make money", "Greed is good"
   * Consequences and externalities be damned
   * Hyper-[capitalist](../concepts/capitalism.md)
@@ -72,15 +72,15 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 
 ## Steel-Manning the Market Fundamentalism Position
 
-* Unregulated markets allow companies to so what they're supposed to do: maximize returns to shareholders.
+* Unregulated markets allow companies to do what they're supposed to do: maximize returns to shareholders.
   * [Friedman Doctrine](https://en.wikipedia.org/wiki/Friedman_doctrine)  applied to unregulated markets. Optimize for shareholder value.
     * Now we get to redefine shareholder to mean token holder, without any regulatory baggage from traditional markets. 
     * Line must go up at any cost.
   * Crypto products are risk assets that have no fundamentals, but that’s not necessarily a problem because you can make money on trading them. 
-    * There other financial products (ETNs - exchange traded notes, volatility swaps) many of which are intrinsically negative-sum and high-risk as well, these are allowed in markets … so why shouldn’t crypto be.
+    * There are other financial products (ETNs - exchange traded notes, volatility swaps) many of which are intrinsically negative-sum and high-risk as well, these are allowed in markets … so why shouldn’t crypto be.
       * [Credit Suisse defends controversial financial product at the center of the market turmoil](https://www.cnbc.com/2018/02/07/credit-suisse-defends-controversial-xiv-etn-amid-market-turmoil.html)
-* Markets are likeable to evolution; they have no moral quality.
-  * Markets are a mechanism likeable to evolution: they [select](../concepts/price-formation.md) for fitness and success
+* Markets are comparable to evolution; they have no moral quality.
+  * Markets are a mechanism comparable to evolution: they [select](../concepts/price-formation.md) for fitness and success
   * If I'm allowed to trade products that are massively [asymmetric](../concepts/asymmetric-information.md) and disadvantageous to retail traders (individual, non-professional market participants) then I can and I will => it will eliminate those inefficient players (it punishes unfitness and rewards fitness)
   * Even if I know it’s a [greater fool asset](../concepts/greater-fool-theory), if I have access to non-public information and more capital I can (and should) use it and exit before the other fools.
     * Some people legitimately did make money trading on [bubbles](../concepts/bubble.md): South Sea Bubble, Dotcom Bubble, Tulip Mania
@@ -116,17 +116,17 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 * What does that lead to?
   * Inequality (money flows to the sharks)
   * Distrust and cynicism 
-    * Both wider in society: i’m out for myself, other people are just out for themselves. Dishonesty and exploitation are a normal part of (capitalist) society  
+    * Both wider in society: I’m out for myself, other people are just out for themselves. Dishonesty and exploitation are a normal part of (capitalist) society  
     * Subversive opportunism
-    * When it goes wrong the state and its institutions and leaders are blamed further corroding trust in our collective capabilities when we most need them (climate change etc)
+    * When it goes wrong the state and its institutions and leaders are blamed, further corroding trust in our collective capabilities when we most need them (climate change etc.)
     * In markets - assuming that markets esp financial markets have some value then undermining faith in them is problematic. Cf the 1920s/1930s which led to much of the market regulations we have today
       * You may think this is a good if you are anarchist-nihilist
   * Just because you can trade something doesn't mean it’s good for the world (opium trade, slave trade, asbestos)
-  * [Moral hazard](../concepts/moral-hazard.md)- public is incentivized to take on disproportionate risk expecting a bailout
+  * [Moral hazard](../concepts/moral-hazard.md) - public is incentivized to take on disproportionate risk expecting a bailout
   * A deformation of character: we become enslaved to the idea of getting rich quick (cf Salgado). Capitalist alienation
-* Terribly pathological form of [capitalism](../concepts/capitalism.md) that doesn't result in price formation on collective enterprise, goods or services. Funds are betting on financial fantasy castles in the sky detached from any day to day reality of human life.
+* Terribly pathological form of [capitalism](../concepts/capitalism.md) that doesn't result in price formation on collective enterprise, goods or services. Funds are betting on financial fantasy castles in the sky detached from any day-to-day reality of human life.
   * What is the purpose of public [markets](../concepts/market.md) then?
-* A captive market for [ficticious commodities](../concepts/ficticious-commodity.md) that is controlled by opaque unregulated market making and an economic [cartel](../concepts/cartel.md).
+* A captive market for [fictiyious commodities](../concepts/ficticious-commodity.md) that is controlled by opaque unregulated market making and an economic [cartel](../concepts/cartel.md).
   * This is great if you're inside the cartel. Not so great if you aren’t.
   * Wealth transfer from public to insiders is all but guaranteed by the information [asymmetry](../concepts/asymmetric-information.md).
 
