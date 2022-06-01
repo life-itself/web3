@@ -7,6 +7,10 @@ export const Heading = ({ level, observer }) => (props) => {
      * set by observer's `rootMargin` */
     if (observer) {
       observer.observe(document.getElementById(props.id));
+
+      return () => {
+        observer.unobserve(document.getElementById(props.id));
+      }
     }
   });
 
