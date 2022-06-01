@@ -1,5 +1,4 @@
 import { Tooltip } from './Tooltip';
-import siteConfig from '../config/siteConfig.js'
 
 /**
  * Component for adding previews on hovering over anchor tags with relative paths
