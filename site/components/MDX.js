@@ -4,9 +4,8 @@ import { useState, useEffect } from "react";
 
 import { YOUTUBE_REGEX } from "../lib/constants";
 import siteConfig from "../config/siteConfig";
-import getMDXComponents from "./_getMDXComponents";
-import getObserver from "./_getIntersectionObserver"
-import MdxContent from "./MdxContent"
+import MdxContent from './MdxContent'
+import useHeadingsObserver from '../hooks/useHeadingsObserver'
 
 // import { Paragraph } from "./Paragraph";
 // import { Anchor } from "./Anchor";
@@ -18,48 +17,7 @@ import MdxContent from "./MdxContent"
 // const Paragraph = dynamic(() => import("./Paragraph").then(mod => mod.Paragraph))
 
 export default function MdxPage({ body, frontMatter, editUrl }) {
-  const [activeHeading, setActiveHeading] = useState("");
-  const [observer, setObserver] = useState(null);
-
-  // run only after first render, in order to preserve the observer
-  // between component rerenders
-  useEffect((() => {
-    const observer = getObserver((entry) => {
-      if (entry.isIntersecting) {
-        setActiveHeading(entry.target.id);
-      }
-    });
-    setObserver(observer);
-
-    return observer.disconnect();
-  }), [])
-
-  useEffect(() => {
-    // on initial render activeHeading will be `null`
-    // however, we still want to highlight the current heading in the toc
-    // based on the current url
-    if (!activeHeading) {
-      try {
-        const path = window.location.hash;
-        if (path) {
-          setActiveHeading(path.slice(1))
-        } else {
-          const firstTocHeading = document.querySelector(".toc-link");
-          const href = firstTocHeading.href;
-          setActiveHeading(href.match(/.+#(.+)/)[1]);
-        }
-      } finally {
-        return
-      }
-    }
-
-    const tocLink = document.querySelector(`.toc-link[href="#${activeHeading}"]`)
-    tocLink.classList.add("active");
-
-    return () => {
-      tocLink.classList.remove("active")
-    }
-  }, [activeHeading])
+  const observer = useHeadingsObserver();
 
   const {
     title, description, date, authors, youtube, podcast, image, _raw
