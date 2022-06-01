@@ -12,6 +12,7 @@ const getIntersectionObserver = (callback) => {
     },
     {
       root: null,
+      threshold: 0.55,
       rootMargin: "-65px 0% -85% 0%" // 65px is a navbar height
     }
   );
