@@ -1,9 +1,15 @@
 import Head from 'next/head'
-import ReactPlayer from 'react-player/lazy'
+import dynamic from 'next/dynamic'
 import { NextSeo } from 'next-seo'
 import siteConfig from "../config/siteConfig"
-import { Paragraph } from './Paragraph'
-import { Anchor } from './Anchor'
+import LiteYouTubeEmbed from "react-lite-youtube-embed"
+import { YOUTUBE_REGEX } from "../lib/constants"
+
+const Anchor = dynamic(() => import('./Anchor').then(module => module.Anchor), {
+  ssr: false
+})
+
+const Paragraph = dynamic(() => import("./Paragraph").then(mod => mod.Paragraph))
 
 const components = {
   Head,
@@ -11,30 +17,25 @@ const components = {
   a: Anchor
 }
 
-export default function MdxPage({ children, editUrl }) {
+export default function MdxPage({ children }) {
   const { Component, frontmatter: {
-    title, description, date, authors, youtube, podcast, image, _raw
+    title, description, date, keywords, youtube, podcast, image, _raw
   }} = children
 
   let youtubeThumnbnail
-  let podcastEmbed
 
-  if (youtube && !image) {
+  const youtubeId =
+    youtube && YOUTUBE_REGEX.test(youtube) && youtube.split(/^|=|\//).pop();
+
+  if (youtubeId && !image) {
     //  get the youtube thumbnail image from https://img.youtube.com/vi/<youtube-video-id>/maxresdefault.jpg
-    const regex =
-      /\www.youtube.com\/\embed\/|youtube.com\/\embed\/|youtu.be\/|\www.youtube.com\/\watch\?v=|\youtube.com\/\watch\?v=/;
-    youtubeThumnbnail =
-      youtube.replace(regex, "img.youtube.com/vi/") + "/maxresdefault.jpg";
+    youtubeThumnbnail = youtube.replace(
+      YOUTUBE_REGEX,
+      `https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`
+    );
   }
 
-  if (podcast && podcast.includes("life-itself")) {
-    const podcastUrl = podcast
-    podcastEmbed = ([
-      podcastUrl.slice(0, "https://anchor.fm/life-itself".length),
-      "/embed",
-      podcastUrl.slice("https://anchor.fm/life-itself".length)
-    ].join(""))
-  }
+  const PodcastIcon = siteConfig.social.find((s) => s.name === "Podcast").icon;
 
   const titleFromUrl = _raw.flattenedPath
     .split("/")
@@ -47,6 +48,11 @@ export default function MdxPage({ children, editUrl }) {
   const imageUrl = image
     ? siteConfig.url + image
     : youtubeThumnbnail ? youtubeThumnbnail : null
+  
+  // enable editing content only for claims, concepts, and guide for now
+  const editUrl = ['claims', 'concepts', 'guide'].includes(_raw.sourceFileDir)
+        ? siteConfig.repoRoot + siteConfig.repoEditPath + _raw.sourceFilePath
+        : null
 
   return (
     <>
@@ -57,6 +63,11 @@ export default function MdxPage({ children, editUrl }) {
         openGraph={{
           title: SeoTitle,
           description: description,
+          url: `${siteConfig.url}/${_raw.flattenedPath}`,
+          type: "article",
+          article: {
+            tags: keywords ? keywords.split(",") : []
+          },
           images: imageUrl
             ? ([
                 {
@@ -69,16 +80,14 @@ export default function MdxPage({ children, editUrl }) {
               ])
             : siteConfig.nextSeo.openGraph.images,
         }}
+        additionalMetaTags={[
+          { name: "keywords", content: keywords ? keywords : "" }
+        ]}
       />
       <article className="prose dark:prose-invert prose-a:break-all mx-auto p-6">
         <header>
           <div className="mb-6">
             {title && <h1 className="mb-0">{title}</h1>}
-            {authors && (
-              <div className="-mt-6">
-                <p className="opacity-60 pl-1">{authors}</p>
-              </div>
-            )}
             {date && (
               <p className="text-gray-900 dark:text-gray-500 text-sm pl-2">
                 on {date}
@@ -87,36 +96,21 @@ export default function MdxPage({ children, editUrl }) {
             {description && (
               <p className="">{description}</p>
             )}
-            {youtube && (
-              <div className="relative pt-[56.25%]">
-                <ReactPlayer
-                  className="absolute top-0 left-0"
-                  width="100%"
-                  height="100%"
-                  url={youtube}
-                />
-              </div>
+            {youtubeId && (
+              <LiteYouTubeEmbed id={youtubeId} />
             )}
             {podcast && (
               <div className="pt-4">
                 <ul className="list-disc">
                   <li>
-                    Podcast: &nbsp;
-                    <a href={podcast}>{podcast}</a>
+                    <a className="flex items-center" target="_blank" rel="noopener" href={podcast}>
+                      <div className="w-4 mr-2">
+                        <PodcastIcon />
+                      </div>
+                      <p className="m-0">Listen to this podcast</p>
+                    </a>
                   </li>
                 </ul>
-                {podcastEmbed && (
-                  <div className="md:mx-4">
-                    <iframe
-                      src={podcastEmbed}
-                      height="100px"
-                      width="100%"
-                      frameBorder="0"
-                      scrolling="no"
-                      className="rounded-md"
-                    />
-                  </div>
-                )}
               </div>
             )}
           </div>
