@@ -1,3 +1,5 @@
+import Image from "next/image"
+
 export function Latest({ posts }) {
   return (
     <div className="relative pt-16 pb-20 px-4 sm:px-6 lg:pt-24 lg:pb-28 lg:px-8">
@@ -15,8 +17,11 @@ export function Latest({ posts }) {
           {posts && posts.map((post) => (
             <div key={post.title} className="flex flex-col rounded-lg shadow-lg overflow-hidden">
               <div className="flex-shrink-0">
-                {post.image ? <img className="h-48 w-full object-cover" src={post.image} alt={post.title} />
-                 : <div className="h-20 w-full bg-slate-500" />
+                {post.image ? (
+                  <div className="relative h-48 w-full">
+                    <Image className="object-cover" src={post.image} alt={post.title} layout="fill" placeholder="blur" blurDataURL={post.image} />
+                  </div>
+                  ) : <div className="h-20 w-full bg-slate-500" />
                 }
               </div>
               <div className="flex-1 bg-slate-800 p-6 flex flex-col justify-between">
