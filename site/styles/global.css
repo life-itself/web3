@@ -61,8 +61,8 @@ body {
     bottom-0
     right-[max(2rem,calc(50%-40rem+2rem))]
     overflow-y-auto
-    border-l
-    border-slate-800
+    /* border-l */
+    /* border-slate-800 */
 }
 
 /* toc title */
