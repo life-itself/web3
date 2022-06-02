@@ -5,6 +5,9 @@ import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import wikiLinkPlugin from "remark-wiki-link-plus"
 
+const isValidDate = dateObject => new Date(dateObject)
+    .toString() !== 'Invalid Date';
+
 const ObsidianAliases = defineNestedType(() => ({
   name: 'Obsidian',
   filePathPattern: '**/*.md*',
@@ -22,6 +25,7 @@ const OtherPage = defineDocumentType(() => ({
     date: { type: "date", description: "This will be the publication date" },
     image: { type: "string" },
     description: { type: 'string' },
+    keywords: { type: "string" },
     youtube: { type: "string" },
     podcast: { type: "string" },
     featured: { type: "boolean", default: false },
@@ -31,13 +35,19 @@ const OtherPage = defineDocumentType(() => ({
   computedFields: {
     date: {
       type: "date",
-      resolve: (doc) => new Date(doc.date).toLocaleDateString('en-US', {
-        weekday: "long", year: "numeric", month: "long", day: "numeric"
-      })
+      resolve: (doc) => {
+        const formattedDate = new Date(doc.date).toLocaleDateString('en-US', {
+          weekday: "long", year: "numeric", month: "long", day: "numeric"
+        })
+        return isValidDate(formattedDate) ? formattedDate : null
+      }
     },
     created: {
       type: "date",
-      resolve: (doc) => new Date(doc.created).toLocaleDateString('en-US')
+      resolve: (doc) => {
+        const formattedDate = new Date(doc.created).toLocaleDateString('en-US')
+        return isValidDate(formattedDate) ? formattedDate : null
+      }
     },
   }
 }));

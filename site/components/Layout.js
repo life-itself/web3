@@ -12,8 +12,6 @@ export default function Layout({ children }) {
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
-        {/* <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"></link> */}
       </Head>
       <Nav />
       <main>
@@ -45,7 +43,7 @@ export default function Layout({ children }) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img src={siteConfig.authorLogo} alt={siteConfig.author} className="mx-2 h-6 inline-block" />
+              <img src={siteConfig.authorLogo} alt={siteConfig.author} width="20" height="20" className="mx-2 h-6 inline-block" />
               {siteConfig.author}
               {' '}
               Licensed under a CC-By 4.0 International License

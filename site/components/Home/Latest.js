@@ -14,11 +14,12 @@ export function Latest({ posts }) {
         <div className="mt-12 max-w-lg mx-auto grid gap-5 lg:grid-cols-3 lg:max-w-none">
           {posts && posts.map((post) => (
             <div key={post.title} className="flex flex-col rounded-lg shadow-lg overflow-hidden">
-              <div className="flex-shrink-0">
-                {post.image ? <img className="h-48 w-full object-cover" src={post.image} alt={post.title} />
-                 : <div className="h-20 w-full bg-slate-500" />
-                }
-              </div>
+              {post.image ? 
+                <div className="h-48 flex-shrink-0">
+                  <img className="" width="100%" height="100%" src={post.image} alt={post.title} />
+                </div>
+                : <div className="h-20 w-full bg-slate-500" />
+              }
               <div className="flex-1 bg-slate-800 p-6 flex flex-col justify-between">
                 <div className="flex-1">
                   <p className="text-sm font-medium text-indigo-600 dark:text-yellow-500">
