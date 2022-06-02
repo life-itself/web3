@@ -18,7 +18,7 @@ export default function Layout({ children }) {
       </Head>
       <Nav />
       <main>
-          {children}
+        {children}
       </main>
       <footer className="w-full h-24 mt-16">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:px-8 overflow-hidden">

@@ -1,6 +1,5 @@
-import { NextSeo } from "next-seo";
+import { NextSeo } from 'next-seo'
 import LiteYouTubeEmbed from "react-lite-youtube-embed";
-import { useState, useEffect } from "react";
 
 import { YOUTUBE_REGEX } from "../lib/constants";
 import siteConfig from "../config/siteConfig";
