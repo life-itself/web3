@@ -17,10 +17,7 @@ export default function Layout({ children }) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
       </Head>
       <Nav />
-      <main className="max-w-7xl relative mx-auto px-2 sm:px-6 md:px-8">
-        {/* <div className="hidden md:block w-[16rem] fixed top-16 left-[max(0px,calc(50%-40rem))] bottom-0 right-auto px-8 overflow-y-auto border-2 border-red-500"> */}
-        {/*   <Sidebar /> */}
-        {/* </div> */}
+      <main>
           {children}
       </main>
       <footer className="w-full h-24 mt-16">
