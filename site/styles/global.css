@@ -15,7 +15,7 @@ html {
   scroll-behavior: smooth;
 }
 
-a {
+.c-heading a {
   @apply no-underline !important;
 }
 

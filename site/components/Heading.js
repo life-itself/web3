@@ -13,6 +13,6 @@ export const Heading = ({ level, observer }) => (props) => {
 
   return React.createElement(`h${level}`, {
     ...props,
-    className: "scroll-mt-16 cursor-pointer"
+    className: "c-heading scroll-mt-16 cursor-pointer"
   })
 }
