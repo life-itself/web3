@@ -3,7 +3,7 @@ title: Collective Action Problems & Climate Change
 created: 2022-04-13
 date: 2022-03-01
 description: 'In this episode we use the example of KlimaDAO to explore the interaction between climate change and the public goods problem.'
-image: /img/Collective Action Climate.png
+image: /img/Collective Action Climate.jpg
 youtube: https://www.youtube.com/watch?v=SLXtnCL6IxE
 podcast: https://anchor.fm/life-itself/episodes/Collective-Action-Problems--Climate-Change-e1h4o6e/a-a7gpq18
 featured: true
