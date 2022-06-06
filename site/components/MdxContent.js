@@ -1,12 +1,15 @@
-import React from 'react'
-import Head from 'next/head'
-import { useMDXComponent } from 'next-contentlayer/hooks';
-import { Paragraph } from './Paragraph'
-import { Anchor } from './Anchor'
-import { Heading } from './Heading'
+import React from "react";
+import Head from "next/head";
+import { useMDXComponent } from "next-contentlayer/hooks";
 
+import useHeadingsObserver from "../hooks/useHeadingsObserver";
+import { Paragraph } from "./Paragraph";
+import { Anchor } from "./Anchor";
+import { Heading } from "./Heading";
 
-const MdxContent = ({ body, observer }) => {
+const MdxContent = ({ body }) => {
+  const observer = useHeadingsObserver();
+
   const customComponents = {
     Head,
     p: Paragraph,
@@ -17,10 +20,10 @@ const MdxContent = ({ body, observer }) => {
     h4: Heading({ level: 4, observer }),
     h5: Heading({ level: 5, observer }),
     h6: Heading({ level: 6, observer }),
-  }
+  };
   const Component = useMDXComponent(body.code);
 
-  return <Component components={ customComponents }/>
+  return <Component components={customComponents} />;
 };
 
 // prevent rerendering of the component if it's props don't change

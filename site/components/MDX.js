@@ -1,27 +1,13 @@
-import { NextSeo } from 'next-seo'
+import { NextSeo } from "next-seo";
 import LiteYouTubeEmbed from "react-lite-youtube-embed";
 
 import { YOUTUBE_REGEX } from "../lib/constants";
 import siteConfig from "../config/siteConfig";
-import MdxContent from './MdxContent'
-import useHeadingsObserver from '../hooks/useHeadingsObserver'
-// import dynamic from 'next/dynamic'
-
-// import { Paragraph } from "./Paragraph";
-// import { Anchor } from "./Anchor";
-
-// const Anchor = dynamic(() => import('./Anchor').then(module => module.Anchor), {
-//   ssr: false
-// })
-
-// const Paragraph = dynamic(() => import("./Paragraph").then(mod => mod.Paragraph))
+import MdxContent from "./MdxContent";
 
 export default function MdxPage({ body, frontMatter }) {
-  const observer = useHeadingsObserver();
-
-  const {
-    title, description, date, keywords, youtube, podcast, image, _raw
-  } = frontMatter
+  const { title, description, date, keywords, youtube, podcast, image, _raw } =
+    frontMatter;
 
   let youtubeThumnbnail;
 
@@ -97,23 +83,23 @@ export default function MdxPage({ body, frontMatter }) {
                   on {date}
                 </p>
               )}
-            {description && <p className="">{description}</p>}
-            {youtubeId && <LiteYouTubeEmbed id={youtubeId} />}
+              {description && <p className="">{description}</p>}
+              {youtubeId && <LiteYouTubeEmbed id={youtubeId} />}
               {podcast && (
                 <div className="pt-4">
                   <ul className="list-disc">
                     <li>
-                    <a
-                      className="flex items-center"
-                      target="_blank"
-                      rel="noopener"
-                      href={podcast}
-                    >
-                      <div className="w-4 mr-2">
-                        <PodcastIcon />
-                      </div>
-                      <p className="m-0">Listen to this podcast</p>
-                    </a>
+                      <a
+                        className="flex items-center"
+                        target="_blank"
+                        rel="noopener"
+                        href={podcast}
+                      >
+                        <div className="w-4 mr-2">
+                          <PodcastIcon />
+                        </div>
+                        <p className="m-0">Listen to this podcast</p>
+                      </a>
                     </li>
                   </ul>
                 </div>
@@ -121,34 +107,34 @@ export default function MdxPage({ body, frontMatter }) {
             </div>
           </header>
           <main className="my-6">
-            <MdxContent body={body} observer={observer}/>
+            <MdxContent body={body} />
             {editUrl && (
-            <div className="mt-12 mb-6">
-              <a
-                className="flex no-underline font-semibold text-yellow-li"
-                href={editUrl}
-                target="_blank"
-              >
+              <div className="mt-12 mb-6">
+                <a
+                  className="flex no-underline font-semibold text-yellow-li"
+                  href={editUrl}
+                  target="_blank"
+                >
                   Edit this page
                   <span className="mx-1">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="h-6 w-6"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    strokeWidth="2"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
-                    />
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="h-6 w-6"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      strokeWidth="2"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                      />
                     </svg>
                   </span>
                 </a>
-            </div>
-          )}
+              </div>
+            )}
           </main>
         </article>
       </div>
