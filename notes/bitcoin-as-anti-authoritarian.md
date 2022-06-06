@@ -22,7 +22,7 @@ We will begin by steel manning this claim, before moving on to evaluate it. Our 
 * Bitcoin is traceable
 * Countries with the worst human rights records have very sophisticated surveillance software. Trying to undermine powerful nation states in this way is therefore fraught with risk for individuals.
 * For most uses, Bitcoin must be cashed out by those in charge of the monetary supply, most often the very regime the transferor is seeking to circumvent.
-* Forces people to move from the country. While that might be beneficial for the indidivual, will not help solve the overall problem.
+* Forces people to move from the country. While that might be beneficial for the individual, will not help solve the overall problem.
 * Crypto further enables and expands the scope of the shadow banking system.
 * The argument for bitcoin as a hedge against authoritarianism suffers from fallacy of composition and selection bias.
 * The rule of law must always take precedence.  
@@ -41,7 +41,7 @@ We will conclude that **Bitcoin and crypto generally is not an liberatory force 
         *  Gandhi's non-cooperation movement
         *  Anti Vietnam-war protests
   *  Examples of using crypto as a form of, or to facilitate, disobedience: Edward Snowden and Sci-Hub.
-      *  Snowden speaks on the infosec conference circuit and likely receives all his speaker feeds via bitcoin which he converts into Russian rubles.
+      *  Snowden speaks on the infosec conference circuit and likely receives all his speaker fees via bitcoin which he converts into Russian rubles.
       *  Sci-Hub pirates every scientific paper from Elvesier, Wiley, and other academic publishers and hosts a PirateBay style mirror site in which researchers can bypass paywalls and download paper.
           *  Server is run by one woman in Russia who takes crypto donations. She is seen as a folk hero giving knowledge to the world and advancing science.
           *  Is a violation of copyright laws, although the jurisdictional boundaries of this are somewhat gray considering Russia doesn’t respect US law.
