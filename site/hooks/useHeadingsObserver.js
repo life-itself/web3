@@ -3,18 +3,7 @@ import { useState, useEffect } from "react";
 /* Creates an Intersection Observer to keep track of headings intersecting
  * a section of the viewport defined by the rootMargin */
 const getIntersectionObserver = (callback) => {
-  return new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        callback(entry);
-      });
-    },
-    {
-      root: null,
-      threshold: 0.55,
-      rootMargin: "-65px 0% -85% 0%", // 65px is a navbar height
-    }
-  );
+  return;
 };
 
 const useHeadingsObserver = () => {
@@ -24,11 +13,27 @@ const useHeadingsObserver = () => {
   /* Runs only after the first render, in order to preserve the observer
    * between component rerenderings (e.g. after activeHeading change). */
   useEffect(() => {
-    const observer = getIntersectionObserver((entry) => {
-      if (entry.isIntersecting) {
-        setActiveHeading(entry.target.id);
+    const observer = new IntersectionObserver(
+      (entries) => {
+        // entries.forEach((entry) => {
+        //   if (entry.isIntersecting) {
+        //     setActiveHeading(entry.target.id);
+        //   }
+        // });
+        const firstIntersectingHeading = entries.find(
+          (entry) => entry.isIntersecting
+        );
+        if (firstIntersectingHeading) {
+          setActiveHeading(firstIntersectingHeading.target.id);
+        }
+      },
+      {
+        root: null,
+        threshold: 0.55,
+        rootMargin: "-65px 0% -85% 0%", // 65px is a navbar height
       }
-    });
+    );
+
     setObserver(observer);
 
     return () => {
