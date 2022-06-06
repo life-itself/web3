@@ -26,6 +26,4 @@ const MdxContent = ({ body }) => {
   return <Component components={customComponents} />;
 };
 
-// prevent rerendering of the component if it's props don't change
-// i.e. re-render only when the observer is set
-export default React.memo(MdxContent);
+export default MdxContent;
