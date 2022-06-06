@@ -10,13 +10,8 @@ export default function Page({ body, ...meta }) {
     created: meta.created === "Invalid Date" ? null : meta.created
   }
 
-  // enable editing content only for claims, concepts, and guide for now
-  const editUrl = ['claims', 'concepts', 'guide'].includes(meta._raw.sourceFileDir)
-        ? siteConfig.repoRoot + siteConfig.repoEditPath + meta._raw.sourceFilePath
-        : null
-  
   return (
-    <MdxPage body={body} frontMatter={frontMatter} editUrl={editUrl} />
+    <MdxPage body={body} frontMatter={frontMatter} />
   );
 }
 

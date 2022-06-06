@@ -5,6 +5,7 @@ import { YOUTUBE_REGEX } from "../lib/constants";
 import siteConfig from "../config/siteConfig";
 import MdxContent from './MdxContent'
 import useHeadingsObserver from '../hooks/useHeadingsObserver'
+// import dynamic from 'next/dynamic'
 
 // import { Paragraph } from "./Paragraph";
 // import { Anchor } from "./Anchor";
@@ -15,11 +16,11 @@ import useHeadingsObserver from '../hooks/useHeadingsObserver'
 
 // const Paragraph = dynamic(() => import("./Paragraph").then(mod => mod.Paragraph))
 
-export default function MdxPage({ body, frontMatter, editUrl }) {
+export default function MdxPage({ body, frontMatter }) {
   const observer = useHeadingsObserver();
 
   const {
-    title, description, date, authors, youtube, podcast, image, _raw
+    title, description, date, keywords, youtube, podcast, image, _raw
   } = frontMatter
 
   let youtubeThumnbnail;
