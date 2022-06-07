@@ -31,6 +31,7 @@
     "postcss": "^8.3.5",
     "prettier": "^2.6.2",
     "rehype-autolink-headings": "^6.1.1",
+    "rehype-toc": "^3.0.2",
     "rehype-slug": "^5.0.1",
     "remark-gfm": "^3.0.0",
     "remark-parse": "^10.0.1",

@@ -192,7 +192,7 @@ Understand the deeper theoretical concepts behind the technical and economic cla
 * [Predatory inclusion](../concepts/predatory-inclusion.md)
 * [Enclosure](../concepts/enclosure.md)
 
-**Meta**
+#### Meta
 
 * [Value](../concepts/value.md)
 * [Risk](../concepts/risk.md)

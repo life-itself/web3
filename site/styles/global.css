@@ -11,9 +11,16 @@
 }
 
 /* OTHERS */
-
 html {
   scroll-behavior: smooth;
+}
+
+.c-heading a {
+  @apply no-underline !important;
+}
+
+a:hover {
+  @apply text-yellow-li !important;
 }
 
 /* bg-neutral-800
@@ -37,4 +44,65 @@ body {
   height: 1.2rem; /* ($top + $height)/$line-height is the number of lines we want to clip tooltip text at*/
   width: 10rem;
   background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 100%);
+}
+
+/* rehype-toc classes */
+/* nav element */
+.toc {
+  @apply
+    hidden
+    lg:block
+    w-[20rem]
+    my-12
+    pt-12
+    px-8
+    fixed
+    top-16
+    bottom-0
+    right-[max(2rem,calc(50%-40rem+2rem))]
+    overflow-y-auto
+    /* border-l */
+    /* border-slate-800 */
+}
+
+/* toc title */
+.toc::before {
+  position: absolute;
+  content: "On this page";
+  @apply text-white text-xl font-semibold top-1
+}
+
+/* list (ol) element */
+.toc-level {
+  @apply list-none p-0;
+}
+
+.toc-level:not(.toc-level-1) {
+  @apply pl-2
+}
+
+/* list item (li) element */
+.toc-item {
+  @apply leading-3;
+}
+
+.toc-item-h1 {
+  @apply p-0;
+}
+
+.toc-link {
+  @apply transition-colors;
+}
+
+/* link (a) element */
+.toc-item .toc-link {
+  @apply text-sm text-slate-400 no-underline break-normal
+}
+
+.toc-item .toc-link:not(.active) {
+  @apply hover:text-white
+}
+
+.toc-link.active {
+  @apply text-yellow-li
 }
