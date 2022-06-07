@@ -1,18 +1,10 @@
-import { allOtherPages } from 'contentlayer/generated';
+import { allOtherPages } from "contentlayer/generated";
 
-import MdxPage from '../components/MDX';
-import siteConfig from "../config/siteConfig"
+import MdxPage from "../components/MDX";
+import siteConfig from "../config/siteConfig";
 
 export default function Page({ body, ...meta }) {
-  const frontMatter = {
-    ...meta,
-    date: meta.date === "Invalid Date" ? null : meta.date,
-    created: meta.created === "Invalid Date" ? null : meta.created
-  }
-
-  return (
-    <MdxPage body={body} frontMatter={frontMatter} />
-  );
+  return <MdxPage body={body} meta={meta} />;
 }
 
 export const getStaticProps = async ({ params }) => {

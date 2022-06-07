@@ -5,9 +5,9 @@ import { YOUTUBE_REGEX } from "../lib/constants";
 import siteConfig from "../config/siteConfig";
 import MdxContent from "./MdxContent";
 
-export default function MdxPage({ body, frontMatter }) {
+export default function MdxPage({ body, meta }) {
   const { title, description, date, keywords, youtube, podcast, image, _raw } =
-    frontMatter;
+    meta;
 
   let youtubeThumnbnail;
 
