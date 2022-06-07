@@ -1,21 +1,11 @@
 import React from "react";
 import Head from "next/head";
-import dynamic from "next/dynamic";
 import { useMDXComponent } from "next-contentlayer/hooks";
 
+import { Anchor } from  "./Anchor";
 import { Heading } from "./Heading";
+import { Paragraph } from "./Paragraph";
 import useHeadingsObserver from "../hooks/useHeadingsObserver";
-
-const Anchor = dynamic(
-  () => import("./Anchor").then((module) => module.Anchor)
-  // {
-  //   ssr: false,
-  // }
-);
-
-const Paragraph = dynamic(() =>
-  import("./Paragraph").then((module) => module.Paragraph)
-);
 
 const MdxContent = ({ body }) => {
   const observer = useHeadingsObserver();
