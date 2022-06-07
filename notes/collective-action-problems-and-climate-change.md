@@ -6,7 +6,7 @@ description: 'In this episode we use the example of KlimaDAO to explore the inte
 image: /img/Collective Action Climate.jpg
 youtube: https://www.youtube.com/watch?v=SLXtnCL6IxE
 podcast: https://anchor.fm/life-itself/episodes/Collective-Action-Problems--Climate-Change-e1h4o6e/a-a7gpq18
-featured: true
+featured: false
 aliases: notes/collective-action-problems-and-climate-change.md
 ---
 
