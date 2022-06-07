@@ -41,9 +41,6 @@ const useHeadingsObserver = () => {
     };
   }, []);
 
-  /* On initial render activeHeading will be `null`, since the observer
-   * has not been instantiated yet. However, we still want to highlight
-   * the current heading in the ToC based on the current url. */
   useEffect(() => {
     if (!activeHeading) {
       return;
