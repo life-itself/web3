@@ -14,10 +14,6 @@ aliases: notes/deconstructing-decentralization.md
 
 # Overview
 
-**What does decentralized mean?** 
-
-There are two different common usages for the term 'decentralized' within crypto: (1) To describe the peer‐to‐peer network of computers that comprise a permissionless blockchain; (2) To describe how power or agency works within permissionless blockchain systems. Coalescing of these meanings and the complexity of blockchain technology results in misunderstandings of how 'decentralized' blockchain technology actually is. 
-
 * In Part I, Walch outlines the two key senses of the word “decentralized” within this space: describing how power operates in blockchain systems; and describing the network of computers that comprise a permissionless blockchain. 
 * In Part II, Walch identifies and explores key themes within the commentary, such as the different domains where power is exercised in blockchain systems and the fluid nature of power concentration and diffusion in these systems.
 * In Part III, Walch explores examples of events which reveal sites of concentrated power in permissionless blockchain systems.
@@ -34,6 +30,14 @@ There are two different common usages for the term 'decentralized' within crypto
 * We must decide whether ‘decentralized’ is a meaningful way to evaluate a blockchain system, and if so, we must be precise about what we mean by the term, and which portions of a complex blockchain system we are referring to.
 
 ## I. Mainstream Discourse Around ‘Decentralized’ Permissionless Blockchains
+
+---
+
+_**What does 'decentralized' mean?**_ 
+
+_There are two different common usages for the term 'decentralized' within crypto: (1) To describe the peer‐to‐peer network of computers that comprise a permissionless blockchain; (2) To describe how power or agency works within permissionless blockchain systems. Coalescing of these meanings and the complexity of blockchain technology results in misunderstandings of how 'decentralized' blockchain technology actually is._ 
+
+---
 
 * The terms ‘decentralized’ and ‘decentralization’ are ubiquitous in the discourse around blockchain technologies and cryptoassets.
   * Academic work, discussions within the crypto space, businesses, governments, international organizations, legislation.
@@ -88,6 +92,14 @@ There are two different common usages for the term 'decentralized' within crypto
     * A series of 51% attacks on many permissionless blockchains, including the January 2019 51% attack on Ethereum Classic, demonstrate the power dominant miners wield over these networks.
 
 ## IV. Using ‘Decentralized’ to Make Legal Decisions about Blockchains
+
+---
+
+_**Is crypto 'decentralized'?**_ 
+
+_There are sites of concentrated power in permissionless blockchain systems: core developers and mining pools. Usage of the term differs making its meaning uncertain. Decentralization is **dynamic**. 'Decentralization' is therefore ill-suited to be used as a legal standard._
+
+---
 
 * The implications for law of making decisions about permissionless blockchains based on their level of decentralization are significant. 
 * Decentralization’s **uncertain meaning makes it ill‐suited for a legal standard.**
