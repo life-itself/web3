@@ -2,7 +2,7 @@
 title:  "Crypto: can these financial perpetual motion machines work?"
 date: 2022-05-20
 created: 2022-05-20
-featured: false
+featured: true
 aliases: notes/financial-perpetual-motion-machine.md
 ---
 
