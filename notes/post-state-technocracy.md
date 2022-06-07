@@ -6,7 +6,7 @@ description: "In this episode we explore the aspirational transition from the ex
 image: /img/post-state-technocracy.jpg
 youtube: https://www.youtube.com/watch?v=gZ0iCJkM3PU
 podcast: https://anchor.fm/life-itself/episodes/On-Web3-and-Post-State-Technocracy-with-Stephen-Diehl--Rufus-Pollock-e1g4cpe
-featured: true
+featured: false
 aliases: notes/post-state-technocracy.md
 ---
 
