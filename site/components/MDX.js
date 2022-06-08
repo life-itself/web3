@@ -74,7 +74,7 @@ export default function MdxPage({ body, meta }) {
         ]}
       />
       <div className="max-w-7xl mx-auto px-2 sm:px-6 md:px-8">
-        <article className="prose dark:prose-invert prose-a:break-all mx-auto lg:mr-[20rem] p-6">
+        <article className="prose dark:prose-invert prose-a:break-words mx-auto lg:mr-[20rem] p-6">
           <header>
             <div className="mb-6">
               {title && <h1 className="mb-0">{title}</h1>}
