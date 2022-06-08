@@ -16,11 +16,11 @@ html {
 }
 
 .c-heading a {
-  @apply no-underline !important;
+  @apply transition-colors no-underline break-normal;
 }
 
-a:hover {
-  @apply text-yellow-li !important;
+.c-heading a:hover {
+  @apply text-yellow-li;
 }
 
 /* bg-neutral-800
