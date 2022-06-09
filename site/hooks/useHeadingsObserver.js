@@ -34,7 +34,7 @@ const useHeadingsObserver = () => {
             ?.classList.add("active");
 
           activeHeading = newActiveHeading;
-        }, 250);
+        }, 300);
       },
       {
         root: null,
