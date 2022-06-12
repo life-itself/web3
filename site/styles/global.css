@@ -8,6 +8,10 @@
   h1, h2, h3, h4, h5 {
     @apply font-sans;
   }
+
+  .twitter-tweet iframe {
+    @apply !border !border-2 !border-neutral-900 !rounded-2xl !bg-neutral-900 shadow;
+  }
 }
 
 /* OTHERS */
