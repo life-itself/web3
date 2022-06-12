@@ -3,18 +3,17 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "NODE_OPTIONS='--experimental-json-modules' node ./scripts/generate-sitemap.mjs",
     "export": "next export",
     "start": "next start"
   },
   "dependencies": {
+    "@floating-ui/react-dom-interactions": "^0.6.0",
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.4",
-    "@mdx-js/loader": "^2.0.0",
-    "@mdx-js/react": "^2.0.0",
-    "@next/mdx": "^12.1.0",
-    "@silvenon/remark-smartypants": "^1.0.0",
     "@tailwindcss/typography": "^0.5.2",
     "contentlayer": "^0.1.2",
+    "framer-motion": "^6.3.3",
     "gray-matter": "^4.0.3",
     "next": "^12.1.0",
     "next-contentlayer": "^0.1.2",
@@ -22,17 +21,22 @@
     "next-themes": "^0.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-player": "^2.10.0",
-    "rehype-autolink-headings": "^6.1.1",
-    "rehype-slug": "^5.0.1",
-    "remark-gfm": "^3.0.0",
-    "remark-slug": "^7.0.0",
-    "remark-toc": "^8.0.0",
-    "remark-wiki-link-plus": "^1.0.0"
+    "react-lite-youtube-embed": "^2.2.2",
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
+    "globby": "^13.1.1",
+    "hast-util-to-string": "^2.0.0",
     "postcss": "^8.3.5",
-    "tailwindcss": "^3.0.0"
+    "prettier": "^2.6.2",
+    "rehype-autolink-headings": "^6.1.1",
+    "rehype-toc": "^3.0.2",
+    "rehype-slug": "^5.0.1",
+    "remark-gfm": "^3.0.0",
+    "remark-parse": "^10.0.1",
+    "remark-wiki-link-plus": "^1.0.0",
+    "tailwindcss": "^3.0.0",
+    "unist-util-find": "^1.0.2"
   }
 }

@@ -5,7 +5,7 @@ date: 2022-04-08
 description: 'In this episode with Pia Mancini about her work to make community finance transparent and sustainable with Open Collective, her commitment ot steward ownership and the value of an exit to community.'
 image: /img/Pia Mancini Thumbnail.jpg
 youtube: https://www.youtube.com/watch?v=C2KYJiQVtIM
-featured: true
+featured: false
 aliases: notes/pia-mancini-open-collective-dialogue.md
 ---
 

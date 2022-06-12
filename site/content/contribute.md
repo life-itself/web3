@@ -8,6 +8,7 @@ This is an open collaborative project. We already have a variety of partners and
 * Write up key concepts and ideas. You can check out our [existing guide][guide] to see which ones could be extended or improved.
 	* See our [concepts-todo](../../meta/concepts-todo.md) task list for open topics.
 	* See our [claims-todo](../../meta/claims-todo.md) task list for open topics.
+* Read our [editor guide](../../meta/editing.md) on how to contribute or edit content on the website.  
 * Proof edit articles and transcribe dialogs. Please [get in touch][contact] to find out more.
 
 ### If you like coding and designing

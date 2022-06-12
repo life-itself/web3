@@ -5,6 +5,7 @@ import { DefaultSeo } from 'next-seo'
 import { ThemeProvider } from 'next-themes'
 
 import '../styles/global.css'
+import "react-lite-youtube-embed/dist/LiteYouTubeEmbed.css";
 import siteConfig from '../config/siteConfig.js'
 import Layout from '../components/Layout'
 import * as gtag from '../lib/gtag'
