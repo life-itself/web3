@@ -11,9 +11,13 @@ featured: false
 
 ## Test twitter embeds in markdown
 
-*eg. if this twitter link https://twitter.com/ecb/status/1518591205365460992 is on a separate line, then it will be rendered as seen below*
+*eg. if this twitter link https://twitter.com/rufuspollock/status/1524012242777395201 is on a separate line, then it will be rendered as seen below*
 
-https://twitter.com/ecb/status/1518591205365460992
+https://twitter.com/rufuspollock/status/1524012242777395201
+
+*tweets that have been deleted or are private would show the link instead as seen below*
+
+https://twitter.com/polka_ether_up/status/1524052691692908544
 
 ***
 
