@@ -117,7 +117,7 @@ export const Tooltip = ({ render, ...props }) => {
       if (filePath.includes('notes')) {
         return
       }
-      const page = allOtherPages.find(p => p._raw.sourceFilePath === filePath)
+      const page = allOtherPages.find(p => p._raw.flattenedPath === filePath)
       content = documentExtract(page.body.raw);
     } catch {
       return
