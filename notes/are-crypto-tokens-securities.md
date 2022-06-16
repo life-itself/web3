@@ -5,7 +5,7 @@ created: 2022-04-13
 description: "In episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as 'securities', their relation to crypto tokens, and the regulatory framework that exists around these structures."
 youtube: https://www.youtube.com/embed/z2uAg-AIs-Y
 podcast: https://anchor.fm/life-itself/episodes/Are-Cryptocurrencies-Securities--The-Nature-of-Securities--Their-Relation-to-Crypto-Tokens-with-Stephen-Diehl-e1fph69
-featured: false
+featured: true
 aliases: notes/are-crypto-tokens-securities.md
 ---
 
