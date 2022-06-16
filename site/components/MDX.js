@@ -3,13 +3,13 @@ import MdxContent from "./MdxContent";
 import siteConfig from "../config/siteConfig";
 
 import LiteYouTubeEmbed from "react-lite-youtube-embed";
-import { getYoutube } from "utils/getYoutube"
+import { YOUTUBE_REGEX, YOUTUBE_ID_REGEX } from "lib/constants";
 
 export default function MdxPage({ body, meta }) {
   const { title, description, date, keywords, youtube, podcast, image, _raw } =
     meta;
 
-  const { id: youtubeId, thumbnail: youtubeThumnbnail } = getYoutube(youtube)
+  const youtubeId = youtube && YOUTUBE_REGEX.test(youtube) && youtube.match(YOUTUBE_ID_REGEX)[1]
 
   const PodcastIcon = siteConfig.social.find((s) => s.name === "Podcast").icon;
 
@@ -21,11 +21,7 @@ export default function MdxPage({ body, meta }) {
     .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
 
   const SeoTitle = title ?? titleFromUrl;
-  const imageUrl = image
-    ? siteConfig.url + image
-    : youtubeThumnbnail
-    ? youtubeThumnbnail
-    : null;
+  const imageUrl = image ? siteConfig.url + image : null;
 
   // enable editing for all pages for now
   const editUrl = siteConfig.repoRoot + siteConfig.repoEditPath + _raw.sourceFilePath
