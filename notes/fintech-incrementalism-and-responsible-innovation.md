@@ -3,6 +3,7 @@ title: Fintech Incrementalism and Responsible Innovation
 created: 2022-04-04
 date: 2022-04-04
 description: "In episode #5 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl explore the claim that blockchain can be a vehicle for increase in financialization through the development of more complex, blockchain-based financial products."
+image: /img/fintech-incrementalism-thumbnail.jpg
 youtube: https://www.youtube.com/watch?v=7rLQoTtwRSU&t=4s
 podcast: https://anchor.fm/life-itself/episodes/Fintech-Incrementalism-and-Responsible-Innovation-e1gn02u
 featured: true
