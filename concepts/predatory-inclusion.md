@@ -6,6 +6,7 @@ With regards to financial assets this concept is typically discussed in conjunct
 See [crypto exchange](crypto-exchange.md).
 
 ## References
+1. Taylor, Keeanga-Yamahtta. 2019. *Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeownership*. University of North Carolina Press.
 1. ‘Guidance on Cryptoassets’. 2019. Financial Conduct Authority. https://www.fca.org.uk/publication/consultation/cp19-03.pdf#page=11.
 1. Hacker, Philipp, Ioannis Lianos, Georgios Dimitropoulos, and Stefan Eich. 2019. Regulating Blockchain: : Techno-Social and Legal Challenges. https://doi.org/10.1093/oso/9780198842187.001.0001.
 1. Aitken, Rob. 2017. ‘“All Data Is Credit Data”: Constituting the Unbanked’. Competition and Change 21 (4): 274–300. https://doi.org/10.1177/1024529417712830.
