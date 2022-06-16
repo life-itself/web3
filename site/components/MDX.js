@@ -1,26 +1,15 @@
 import { NextSeo } from "next-seo";
-import LiteYouTubeEmbed from "react-lite-youtube-embed";
-
-import { YOUTUBE_REGEX } from "../lib/constants";
-import siteConfig from "../config/siteConfig";
 import MdxContent from "./MdxContent";
+import siteConfig from "../config/siteConfig";
+
+import LiteYouTubeEmbed from "react-lite-youtube-embed";
+import { getYoutube } from "utils/getYoutube"
 
 export default function MdxPage({ body, meta }) {
   const { title, description, date, keywords, youtube, podcast, image, _raw } =
     meta;
 
-  let youtubeThumnbnail;
-
-  const youtubeId =
-    youtube && YOUTUBE_REGEX.test(youtube) && youtube.split(/^|=|\//).pop();
-
-  if (youtubeId && !image) {
-    //  get the youtube thumbnail image from https://img.youtube.com/vi/<youtube-video-id>/maxresdefault.jpg
-    youtubeThumnbnail = youtube.replace(
-      YOUTUBE_REGEX,
-      `https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`
-    );
-  }
+  const { id: youtubeId, thumbnail: youtubeThumnbnail } = getYoutube(youtube)
 
   const PodcastIcon = siteConfig.social.find((s) => s.name === "Podcast").icon;
 
