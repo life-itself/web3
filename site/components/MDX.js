@@ -38,10 +38,8 @@ export default function MdxPage({ body, meta }) {
     ? youtubeThumnbnail
     : null;
 
-  // enable editing content only for claims, concepts, and guide for now
-  const editUrl = ["claims", "concepts", "guide"].includes(_raw.sourceFileDir)
-    ? siteConfig.repoRoot + siteConfig.repoEditPath + _raw.sourceFilePath
-    : null;
+  // enable editing for all pages for now
+  const editUrl = siteConfig.repoRoot + siteConfig.repoEditPath + _raw.sourceFilePath
 
   return (
     <>
