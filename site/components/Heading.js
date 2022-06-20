@@ -8,7 +8,8 @@ export const Heading = ({ level, observer }) => (props) => {
     if (!observer) {
       return
     }
-    observer.observe(document.getElementById(props.id));
+    const heading = document.getElementById(props.id)
+    if (heading) observer.observe(heading);
   });
 
   return React.createElement(`h${level}`, {
