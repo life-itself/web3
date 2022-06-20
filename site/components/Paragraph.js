@@ -1,6 +1,6 @@
 import LiteYouTubeEmbed from "react-lite-youtube-embed";
 import TwitterEmbed from "./TwitterEmbed";
-import { YOUTUBE_REGEX, TWITTER_REGEX } from "../lib/constants";
+import { YOUTUBE_REGEX, TWITTER_REGEX, YOUTUBE_ID_REGEX } from "../lib/constants";
 
 export const Paragraph = (props) => {
   if (
@@ -8,13 +8,17 @@ export const Paragraph = (props) => {
     props.children.props &&
     props.children.props.href
   ) {
-    if (YOUTUBE_REGEX.test(props.children.props.href)) {
-      const youtubeId = props.children.props.href.split(/^|=|\//).pop();
-      return <LiteYouTubeEmbed id={youtubeId} />;
+    const href = props.children.props.href
+    
+    if (YOUTUBE_REGEX.test(href)) {
+      const youtubeId = href.match(YOUTUBE_ID_REGEX)[1];
+      let startTime = href.match(/t=[0-9]*/)
+      if (startTime) startTime = startTime[0].split("=").pop()
+      return <LiteYouTubeEmbed id={youtubeId} params={`start=${startTime}`} />;
     }
 
-    if (TWITTER_REGEX.test(props.children.props.href)) {
-      return <TwitterEmbed url={props.children.props.href} {...props} />;
+    if (TWITTER_REGEX.test(href)) {
+      return <TwitterEmbed url={href} {...props} />;
     }
   }
   return <p {...props} />;
