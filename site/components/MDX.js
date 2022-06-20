@@ -1,26 +1,15 @@
 import { NextSeo } from "next-seo";
-import LiteYouTubeEmbed from "react-lite-youtube-embed";
-
-import { YOUTUBE_REGEX } from "../lib/constants";
-import siteConfig from "../config/siteConfig";
 import MdxContent from "./MdxContent";
+import siteConfig from "../config/siteConfig";
+
+import LiteYouTubeEmbed from "react-lite-youtube-embed";
+import { YOUTUBE_REGEX, YOUTUBE_ID_REGEX } from "lib/constants";
 
 export default function MdxPage({ body, meta }) {
   const { title, description, date, keywords, youtube, podcast, image, _raw } =
     meta;
 
-  let youtubeThumnbnail;
-
-  const youtubeId =
-    youtube && YOUTUBE_REGEX.test(youtube) && youtube.split(/^|=|\//).pop();
-
-  if (youtubeId && !image) {
-    //  get the youtube thumbnail image from https://img.youtube.com/vi/<youtube-video-id>/maxresdefault.jpg
-    youtubeThumnbnail = youtube.replace(
-      YOUTUBE_REGEX,
-      `https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`
-    );
-  }
+  const youtubeId = youtube && YOUTUBE_REGEX.test(youtube) && youtube.match(YOUTUBE_ID_REGEX)[1]
 
   const PodcastIcon = siteConfig.social.find((s) => s.name === "Podcast").icon;
 
@@ -32,11 +21,7 @@ export default function MdxPage({ body, meta }) {
     .replace(/(^\w{1})|(\s{1}\w{1})/g, (str) => str.toUpperCase());
 
   const SeoTitle = title ?? titleFromUrl;
-  const imageUrl = image
-    ? siteConfig.url + image
-    : youtubeThumnbnail
-    ? youtubeThumnbnail
-    : null;
+  const imageUrl = image ? siteConfig.url + image : null;
 
   // enable editing for all pages for now
   const editUrl = siteConfig.repoRoot + siteConfig.repoEditPath + _raw.sourceFilePath
