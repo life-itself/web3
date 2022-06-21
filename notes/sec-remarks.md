@@ -20,7 +20,7 @@ Crypto is a bubble. And bubbles don't end well for most people who try to time t
 
 > Ads, thus, don’t equal credibility. In crypto, there is lots of innovation, but plenty of hype. As in other start-up fields, many projects likely could fail. That’s simply part of the entrepreneurial spirit in the U.S.
 
-Matt Damon is probably the hawking the new pets.com.
+Matt Damon is probably hawking the new pets.com.
 
 > The SEC’s remit is overseeing the capital markets and our three-part mission: protecting investors, facilitating capital formation, and maintaining fair, orderly, and efficient markets. Within the policy perimeter, regulators also care about guarding against illicit activity, a role that is so important to us and our partners at the Department of the Treasury and the Department of Justice; and about financial stability, which is important to all financial regulators.
 
@@ -30,7 +30,7 @@ The SEC oversees activities, not technologies. Its remit oversees regulating inv
 
 > So I’d like to mention three areas related to the SEC’s work in this area: platforms, stablecoins, and crypto tokens.
 
-**Platforms**
+### Platforms
 
 > First are the crypto trading and lending platforms, whether they call themselves centralized or decentralized (DeFi).
 
@@ -45,7 +45,7 @@ DeFi is not [decentralized](../concepts/decentralization.md) like the namesake i
 DeFi is engaging in [regulatory arbitrage](../concepts/regulatory-arbitrage.md). Almost all of them are likely breaking the law.
 
 > Thus, I’ve asked staff to work on a number of projects related to the platforms.
-
+> 
 > First is getting the platforms themselves registered and regulated much like exchanges. Congress gave us a broad framework with which to regulate exchanges. These crypto platforms play roles similar to those of traditional regulated exchanges. Thus, investors should be protected in the same way.
 
 [Crypto exchange](../concepts/crypto-exchange.md) are acting like [broker](../concepts/broker.md) but aren't regulated as such. This does not provide any [consumer protections](../claims/is-consumer-protections.md) and opens the public up to fraud.
@@ -80,7 +80,7 @@ Creating alternative lending platforms that offer extremely high interest rates,
 
 Turns out BlockFi was breaking the law. We sued BlockFi and we won.
 
-**Stablecoins**
+### Stablecoins
 
 > The second area is the $183 billion (and growing) stablecoins market. Outside of use on crypto platforms, stablecoins generally are not used for commerce. Generally, you’re not using them to get a cup of coffee at Good Karma on your way to class from Center City. They are not issued by a central government and are not legal tender.
 
@@ -104,7 +104,7 @@ Stablecoins needs to be brought within the normal [KYC](../concepts/kyc.md) / [A
 
 The most popular stablecoins exclude US persons from withdrawing the USD equivalent of the stablecoin's marked value. This introduces a conflict of interest and makes the market vulnerable to [manipulation](../concepts/market-manipulation.md) by avoiding US regulatory oversight.
 
-**Tokens**
+### Tokens
 
 > Then, thirdly from a policy perspective are all the other crypto tokens. The fact is, most crypto tokens involve a group of entrepreneurs raising money from the public in anticipation of profits — the hallmark of an investment contract or a security under our jurisdiction. Some, probably only a few, are like digital gold; they may not be securities. Even fewer, if any, are actually operating like money.
 
@@ -136,7 +136,7 @@ There are currently illegal security sales happening in the crypto ecosystem.
 
 United States law still applies to crypto investments. Companies engaging in [regulatory arbitrage](../concepts/regulatory-arbitrage.md) should engage the SEC or risk being shut down.
 
-**Conclusion**
+### Conclusion
 
 > In conclusion, new technologies come along all the time; the question is how we adjust to that new technology. But make no mistake: We already live in a digital age. That’s not what’s new here. We already can buy a cup of coffee with money stored in an app on our smartphones. The days of physical stock certificates ended decades ago. There’s nothing new about people raising money to fund their projects. Crypto may offer new ways for entrepreneurs to raise capital and for investors to trade, but we still need investor and market protection.
 
@@ -149,5 +149,3 @@ Fair, orderly, and efficient markets encourage capital formation which is in the
 > We ought to apply these same protections in the crypto markets. Let’s not risk undermining 90 years of securities laws and create some regulatory arbitrage or loopholes.
 
 Crypto is engaging in [regulatory arbitrage](../concepts/regulatory-arbitrage.md) of [security](../concepts/security.md) regulation and we're going to continue enforcing these laws.
-
-***
