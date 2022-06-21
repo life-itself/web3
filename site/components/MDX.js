@@ -3,13 +3,13 @@ import MdxContent from "./MdxContent";
 import siteConfig from "../config/siteConfig";
 
 import LiteYouTubeEmbed from "react-lite-youtube-embed";
-import { YOUTUBE_REGEX, YOUTUBE_ID_REGEX } from "lib/constants";
+import { YOUTUBE_ID_REGEX } from "lib/constants";
 
 export default function MdxPage({ body, meta }) {
   const { title, description, date, keywords, youtube, podcast, image, _raw } =
     meta;
 
-  const youtubeId = youtube && YOUTUBE_REGEX.test(youtube) && youtube.match(YOUTUBE_ID_REGEX)[1]
+  const youtubeId = youtube && YOUTUBE_ID_REGEX.test(youtube) && youtube.match(YOUTUBE_ID_REGEX)[1]
 
   const PodcastIcon = siteConfig.social.find((s) => s.name === "Podcast").icon;
 
