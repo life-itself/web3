@@ -70,9 +70,13 @@ How? How does it enable this in ways that say market democracy does not? Why can
 
 He continues:
 
-> It’s also doing that alongside new granularity and subsidiarity in decision making, and I think that’s fundamentally important. In a future world your regular choice of investments could include a <climateDAO> that funded emergent climate solutions, or <hungerDAO> that fed the hungry, or even <neighbourDAO> that supported your community. If you are bullish on Tesla stocks, wait ’til you see the latent demand for investments that directly support emergent regenerative practices on a global scale! (Of course, we are a ways off from that yet.)
+> It’s also doing that alongside new granularity and subsidiarity in decision making, and I think that’s fundamentally important. In a future world your regular choice of investments could include a "climateDAO" that funded emergent climate solutions, or "hungerDAO" that fed the hungry, or even "neighbourDAO" that supported your community. If you are bullish on Tesla stocks, wait ’til you see the latent demand for investments that directly support emergent regenerative practices on a global scale! (Of course, we are a ways off from that yet.)
 
-But again we have had participatory voting etc for a long time. There are fundamental reasons of scale why we don't do participatory budgeting at scale or why liquid democracy has generally been an abject failure.
+We have had participatory voting etc for a long time. There are fundamental challenges re scaling why we don't do participatory budgeting at society level or why liquid democracy has generally been an abject failure. In short: making choices between large number of complex options (budgeting in a modern state) requires detailed expertise and a substantial long-running process. This is not something that most of us have the time or expertise to do. Hence we delegate it to people: our elected representatives together with a (hopefully) expert set of managers (the bureaucracy).
+
+More oddly this sounds much like a utopia of libertarian right-wingers where everything is funded by voluntary donations of the rich and powerful and basic services depend on their largesse and goodwill:
+
+> In a future world your regular choice of investments could include a "climateDAO" that funded emergent climate solutions, or "hungerDAO" that fed the hungry, or even "neighbourDAO" that supported your community.
 
 ### We don't need to question that investment capital will flow into these tools
 
