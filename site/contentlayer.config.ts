@@ -31,7 +31,12 @@ const OtherPage = defineDocumentType(() => ({
     podcast: { type: "string" },
     featured: { type: "boolean", default: false },
     created: { type: "date", description: "The date this page was created (For internal use)" },
-    aliases: { type: 'reference', of: ObsidianAliases }
+    aliases: { type: 'reference', of: ObsidianAliases },
+    url: { type: 'string', description: 'Associated url e.g. homepage for a project' },
+    twitter: { type: 'string' },
+    medium: { type: 'string' },
+    status: { type: 'string' },
+    launched: { type: 'string' },
   },
   computedFields: {
     date: {
