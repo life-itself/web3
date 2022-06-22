@@ -25,7 +25,7 @@ In this episode, Rufus and Stephen engage with the vision laid out by technologi
 This thesis has been put forward in various forms. So far, the most fully articulated form that we have found is from Balaji Srinivasan. See the show notes below for links to source material.
 
     
-## Conflict of Interests Disclaimer
+## A note before we get stuck in
 
 * It’s hard to disentangle venture capitalist narratives from:
 	1.  Talking their books
