@@ -33,20 +33,22 @@ We will conclude that **Bitcoin and crypto generally is not an liberatory force 
 
 ## Steel manning the claim that Bitcoin is an anti-authoritarian force
 
-*  Not everyone lives in a stable liberal democracy. Sometimes it’s necessary to violate laws, when laws are unjust or regimes are corrupt. In such circumstances, Bitcoin can be used as a safe haven for one’s investments or a shield against government tyranny. 
-    *  Nonviolent resistance and civil disobedience have some very notable success stories and are an important part of the arc of “moral universe bending towards justice”:
+* Not everyone lives in a stable liberal democracy. Sometimes it’s necessary to violate laws, when laws are unjust or regimes are corrupt. In such circumstances, Bitcoin can be used as a safe haven for one’s investments or a shield against government tyranny. 
+    * Nonviolent resistance and civil disobedience have some very notable success stories and are an important part of the arc of “moral universe bending towards justice”:
         *  Abolitionist movement
         *  Civil rights movement
         *  Nelson Mandela
         *  LGBT movement
         *  Gandhi's non-cooperation movement
         *  Anti Vietnam-war protests
-  *  Examples of using crypto as a form of, or to facilitate, disobedience: Edward Snowden and Sci-Hub.
-      *  Snowden speaks on the infosec conference circuit and likely receives all his speaker fees via bitcoin which he converts into Russian rubles.
-      *  Sci-Hub pirates every scientific paper from Elvesier, Wiley, and other academic publishers and hosts a PirateBay style mirror site in which researchers can bypass paywalls and download paper.
+  * Examples of using crypto as a form of, or to facilitate, disobedience: Edward Snowden and Sci-Hub.[^1]
+      * Snowden speaks on the infosec conference circuit and likely receives all his speaker fees via bitcoin which he converts into Russian rubles.
+      * Sci-Hub pirates every scientific paper from Elvesier, Wiley, and other academic publishers and hosts a PirateBay style mirror site in which researchers can bypass paywalls and download paper.
           *  Server is run by one woman in Russia who takes crypto donations. She is seen as a folk hero giving knowledge to the world and advancing science.
           *  Is a violation of copyright laws, although the jurisdictional boundaries of this are somewhat gray considering Russia doesn’t respect US law.
           *  Many feel that although this is an intellectual property crime, the predatory business models of Elvesier are somehow worse than this crime. And that Sci-Hub is a net benefit for humanity under a certain utilitarian calculus.
+
+[^1]: More examples in e.g. here https://twitter.com/LynAldenContact/status/1529084598268968962 though note connection with crypto-advocate Alex Gladstein.
 
 ## Analysis
 

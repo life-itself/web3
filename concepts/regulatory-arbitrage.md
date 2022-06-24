@@ -1,4 +1,5 @@
 # Regulatory Arbitrage
+
 The use of one region or jurisdictions laws to create financial products which abuse or break another jurisdictions laws using legal loopholes, [regulatory capture](regulatory-capture.md), or outright scofflaw and criminal behaviour.
 
 Tax avoidance is a form of [regulatory arbitrage](regulatory-arbitrage.md).
