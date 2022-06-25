@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { YOUTUBE_REGEX } from "../../lib/constants"
+import { YOUTUBE_ID_REGEX } from "../../lib/constants"
 
 export function Latest({ posts }) {
   return (
@@ -23,7 +23,7 @@ export function Latest({ posts }) {
                 <div className="flex-1 bg-slate-800 p-6 flex flex-col justify-between">
                   <div className="flex-1">
                     <p className="text-sm font-medium text-indigo-600 dark:text-yellow-500">
-                      {youtube && YOUTUBE_REGEX.test(youtube) ? (
+                      {youtube && YOUTUBE_ID_REGEX.test(youtube) ? (
                         <a target="_blank" rel="noopener" href={youtube} className="hover:underline">
                         Video
                       </a>) : <p>Article</p>}
