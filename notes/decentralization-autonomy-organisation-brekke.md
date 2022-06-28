@@ -1,7 +1,3 @@
-# Overview 
-
-This is a Zettelkasten note from my zettelkasten, it uses a certain structure (tags, cross_references). Hopefully the format and the content is useful in better understanding the topics at hand (decentralization, Autonomy and Organisation)
-
 # Keynote Decentralization, Autonomy and Organization - jaya klara brekke
 
 - #tags: #history #blockchain #web3 #bottom_up #coordination #daos #aeon_hochberg #friedrich_hayek #decentralization #scale #monopolies #markets #financialization #postcapitalism
