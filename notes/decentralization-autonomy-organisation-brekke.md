@@ -48,11 +48,7 @@ Organization: coming together around shared aims/coordination of isolated indivi
 - "I just want to open up these concepts so that they are considered less as ideologies less as kind of absolute goods and more as as as strategies as as pragmatics to try and achieve something so that we can actually start to be a little bit more clear on the things that we're actually really trying to achieve"
 - "I like to come back and end up with the policy report that i wrote for for the european commission because it was really some a kind of process where i was thinking .. whether the arts might be a kind of gateway for people who are involved in crypto to actually start experimenting more with some actually functioning and upgraded forms of democracy for the digital age"  
 - euopean comission report: https://publications.jrc.ec.europa.eu/repository/handle/JRC121675 : d
-SCANNING THE EUROPEAN ECOSYSTEM OF DISTRIBUTED LEDGER FOR SOCIAL AND PUBLIC GOOD TECHNOLOGIES - What, Why, Where, How, and Ways to Move Forward - Alexandre Pólvora (editor), Anna Hakami (editor),Erica Bol (editor) ,Samer Hassan,
- Jaya Klara Brekke,
-Marcella Atzori, Balázs Bodó,Sarah Meiklejohn ,
-Primavera De Filippi, 
-Kate Beecroft, David Rozas, Christian Orgaz Alonso, Elena Martínez Vicente, Genoveva Lopéz Morales, Abel Figueras Aguilar
+SCANNING THE EUROPEAN ECOSYSTEM OF DISTRIBUTED LEDGER FOR SOCIAL AND PUBLIC GOOD TECHNOLOGIES - What, Why, Where, How, and Ways to Move Forward - Alexandre Pólvora (editor), Anna Hakami (editor),Erica Bol (editor) ,Samer Hassan, Jaya Klara Brekke, Marcella Atzori, Balázs Bodó,Sarah Meiklejohn ,Primavera De Filippi, Kate Beecroft, David Rozas, Christian Orgaz Alonso, Elena Martínez Vicente, Genoveva Lopéz Morales, Abel Figueras Aguilar
 - "or conversely whether it would instead be that the arts becomes a gateway for the expansion of the reach of predatory  
 markets and financialization"
 - ".. but we can't really afford that luxury anymore and we need to build at least as much as we critique at this time to really kind of set 
