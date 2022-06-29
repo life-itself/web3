@@ -6,7 +6,7 @@ description: "In episode 13 of our Making Sense of Crypto & Web3 series, Life It
 image: /img/on-worker-cooperatives.png
 youtube: https://youtu.be/cLC6Dlc_VnI
 podcast: https://anchor.fm/life-itself/episodes/Stephen-Reid--Rufus-Pollock-on-Worker-Cooperatives-and-DAOs-e1kgk7j
-featured: false
+featured: true
 aliases: notes/on-worker-cooperatives.md
 ---
 
