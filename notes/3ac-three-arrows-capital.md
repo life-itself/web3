@@ -1,3 +1,7 @@
+---
+aliases: Three Arrows Capital
+---
+
 # 3 Arrows Capital
 
 **Update**: 1 July 2022. Three Arrows Capital files for bankruptcy (Chapter 15) in New York after being pushed into liquidation in the British Virgin Islands by [[notes/deribit|DeriBit]] (who they apparently owe $80m).
