@@ -3,14 +3,12 @@ title: Regenerative Finance and Web3 for Public Goods
 date: 2022-07-04
 description: "Regenerative Finance (ReFi) is about combining web3 finance tools with regenerative purposes like tackling climate change or cleaning up the oceans. ReFi pioneer Jeff Emmett discusses the promises and pitfalls of ReFi for providing public goods and nourishing the commons."
 image: /img/regenerative-finance.jpg
-youtube: 
-podcast: 
+youtube: https://youtu.be/31AoZgjTYwg 
+podcast: https://anchor.fm/life-itself/episodes/Rufus-Pollock-and-Jeff-Emmett-on-Regenerative-Finance-and-Web3-for-Public-Goods-e1kq45q 
 featured: false
 aliases: notes/regenerative-finance.md
 ---
 
-
-{/* Podcast:  */}
 * Wiki topic:  [Public Goods Problem](../[concepts/public-goods-problem)
 
 ***
@@ -45,8 +43,7 @@ Jeff Emmett is a Token Engineering researcher and Communications Lead at BlockSc
 
 # Some left over questions
 
-* Bonding curve just seem to be a way to automatically issue shares at a preset rate in an enterprise. How is this helpful?
-* What problems are there? For example, what stops someone with private information about the success of enterprise buying tokens early?.
-* Or conversely who hears bad news from selling back on their news?
+* Bonding curve just seems to be a way to automatically issue shares at a preset rate in an enterprise. How is this helpful?
+* What problems are there? For example, what stops someone with private information about the success of enterprise buying tokens early?. Or conversely, who hears bad news from selling back on their news?
 * And doesn’t that undermine trust in the markets which is a crucial ingredient in their functioning? Trust in securities markets is in fact a public good - and a very valuable one.
-* What happens if a gap opens up between secondary market for your token and your bonding curve, why would buy from the bonding curve system (i.e. entity) when you can buy cheaper on the secondary market?
+* What happens if a gap opens up between the secondary market for your token and your bonding curve, why would you buy from the bonding curve system (i.e. entity) when you can buy cheaper on the secondary market?
