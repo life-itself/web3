@@ -5,7 +5,7 @@ description: "Regenerative Finance (ReFi) is about combining web3 finance tools 
 image: /img/regenerative-finance.jpg
 youtube: https://youtu.be/31AoZgjTYwg
 podcast: https://anchor.fm/life-itself/episodes/Rufus-Pollock-and-Jeff-Emmett-on-Regenerative-Finance-and-Web3-for-Public-Goods-e1kq45q 
-featured: false
+featured: true
 aliases: notes/regenerative-finance.md
 ---
 
