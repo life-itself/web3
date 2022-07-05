@@ -3,7 +3,7 @@ title: Regenerative Finance and Web3 for Public Goods
 date: 2022-07-04
 description: "Regenerative Finance (ReFi) is about combining web3 finance tools with regenerative purposes like tackling climate change or cleaning up the oceans. ReFi pioneer Jeff Emmett discusses the promises and pitfalls of ReFi for providing public goods and nourishing the commons."
 image: /img/regenerative-finance.jpg
-youtube: https://youtu.be/31AoZgjTYwg 
+youtube: https://youtu.be/31AoZgjTYwg
 podcast: https://anchor.fm/life-itself/episodes/Rufus-Pollock-and-Jeff-Emmett-on-Regenerative-Finance-and-Web3-for-Public-Goods-e1kq45q 
 featured: false
 aliases: notes/regenerative-finance.md
@@ -31,7 +31,16 @@ Jeff Emmett is a Token Engineering researcher and Communications Lead at BlockSc
         * "At the common stack we're aiming to build tools that improve a community's ability to raise funds, coordinate on the use of those funds, and make decisions together on how to allocate their collective resources." - Jeff Emmett at 16:57
         * "How these tools help us coordinate is less about excluding the people who don't pay and more about aligning the incentives of the people who do such that it's a win win." - Jeff Emmett at 22:27
 * Could we walk through a basic model of public goods funding and how web3 (e.g. [blockchain](https://web3.lifeitself.us/concepts/blockchain), [smart contracts](https://web3.lifeitself.us/concepts/smart-contracts), [DAOs](https://web3.lifeitself.us/concepts/dao), bonding curve) help address this?
+    * Public goods walkthrough
+
+    [![public-goods-walkthrough-2022-07-05-0545.excalidraw](/excalidraw/public-goods-walkthrough-2022-07-05-0545.excalidraw.svg)](/excalidraw/public-goods-walkthrough-2022-07-05-0545.excalidraw.svg)
+
     * Beach clean-up project, TrashHero, example set out in Jeff's [2018 article](https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8). Explored from 24:03
+
+        * Annotated version:
+
+        [![public-goods-funding-2022-07-05-0520.excalidraw](/excalidraw/public-goods-funding-2022-07-05-0520.excalidraw.svg)](/excalidraw/public-goods-funding-2022-07-05-0520.excalidraw.svg)
+
         * Jeff: The aim is to clear beaches of trash (cleaning a beach is a public good). An issue faced is how to raise funds for materials to help the volunteers clear beaches (an example of the public good problem). One tool in addressing this issue is a bonding curve. A bonding curve is a mechanism to issue a token based on assets placed into reserve. So we establish a DAO and issue trash tokens, THC. We issue these tokens at a price that is defined by an algorhythm that icreases the price of shares as more shares are sold - bonding curve.
         *  Jeff: What this tool is trying to do is align the incentives of people who want a clean beach. They contribute the money to fund the cleaning of a beach and in return get a token. Tokens are good for two things: you can sell them back, probably for less than you put in because the project needs to fund itself; and use them to vote on how the money is spent/ what projects are funded.
         *  Rufus: I spent time as an economcis researcher working on this problem, how to fund public goods. The way we address the public goods issue at the moment is often by institutional means, eg the state: if you live in the US, you pay taxes, and then get access to the ediucation system and other public goods. My question is in relation to TrashHero is, why would people put money in? What's different here than just donating to a cause?
