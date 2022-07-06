@@ -54,5 +54,5 @@ Jeff Emmett is a Token Engineering researcher and Communications Lead at BlockSc
 
 * Bonding curve just seems to be a way to automatically issue shares at a preset rate in an enterprise. How is this helpful?
 * What problems are there? For example, what stops someone with private information about the success of enterprise buying tokens early?. Or conversely, who hears bad news from selling back on their news?
-* And doesn’t that undermine trust in the markets which is a crucial ingredient in their functioning? Trust in securities markets is in fact a public good - and a very valuable one.
+* And doesn’t that undermine trust in the markets which is a crucial ingredient in their functioning? Trust in [securities](https://web3.lifeitself.us/notes/are-crypto-tokens-securities) markets is in fact a public good - and a very valuable one.
 * What happens if a gap opens up between the secondary market for your token and your bonding curve, why would you buy from the bonding curve system (i.e. entity) when you can buy cheaper on the secondary market?
