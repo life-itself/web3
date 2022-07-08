@@ -1,6 +1,6 @@
 # News
 
-## [[notes/celsius]] sued by former partner claiming lack of payment
+## [[notes/celsius|Celsius]] sued by former partner claiming lack of payment
 
 https://twitter.com/0x_b1/status/1545153652624691200 - thread from Jason Stone on twitter
 
@@ -30,7 +30,7 @@ This is someone points out in the twitter comments:
 
 https://twitter.com/mgnr_io/status/1545287527422099456
 
-## [[notes/voyager-digital|Voyager Digital]] Files for [[notes/chapter-11|Chapter 11]] - 2022-07-06
+## [[notes/voyager-digital|Voyager Digital]] Files for [[concepts/chapter-11|Chapter 11]] - 2022-07-06
 
 From  https://www.ledgerinsights.com/crypto-firm-voyager-digital-files-for-chapter-11/
 
@@ -52,7 +52,7 @@ Coverage
 
 ## 2022-07-02 - Fall-out from [Three Arrows Capital](3ac-three-arrows-capital.md) as BlockFi sells and Voyager faces bankruptcy
 
-Crypto-lender [[notes/blockfi|BlockFi]] are a creditor of collapsed crypto hedge fund [Three Arrows Capital](3ac-three-arrows-capital.md). After taking $350m at a $3bn valuation in March 2021 it looks like they may less at between 1-10% on the dollar with an option to be acquired for up to $240m by FTX
+Crypto-lender [[notes/blockfi|BlockFi]] are a creditor of collapsed crypto hedge fund [Three Arrows Capital](3ac-three-arrows-capital.md). After taking $350m at a $3bn valuation in March 2021 it looks like they may be worth only 1-10% on the dollar with an option to be acquired for up to $240m by FTX
 
 https://decrypt.co/104286/blockfi-ftx-credit-deal-acquisition-terms
 
