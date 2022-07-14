@@ -4,7 +4,6 @@ const navLinks = [
   { href: '/claims', name: 'Claims' },
   { href: '/library', name: 'Library' },
   { href: '/all', name: 'Notes' },
-  { href: '/webinars', name: 'Webinars' },
   { href: '/contribute', name: 'Contribute' },
 ]
 
