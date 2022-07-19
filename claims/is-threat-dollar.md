@@ -1,10 +1,12 @@
-# Bitcoin does not threaten the US dollar as reserve currency
+# Does bitcoin threaten the US dollar as reserve currency?
+
+**Bitcoin does not threaten the US dollar as reserve currency**
 
 Crypto assets, such as bitcoin, do not threaten the US dollar as an international [reserve currency](../concepts/reserve-currency.md) currency because they [cannot function as a currency](is-bitcoin-currency.md). To quote financial historian Adam Tooze:
 
 > [The dollar] is backed by "nothing" other than the trifling matter of tens of trillions of dollars in private credit, the rule of law and the power of the state, itself inserted into a state system. In other words, the entire structure of global macrofinance.
 
-Since bitcoin cannot be used to issue debt products, denominate contracts or scale to act as a medium of exchange for commerce it lacks *any* of the properties of [money](../concepts/money.md) that a reserve currency would have to fulfil. Bitcoin cannot upend the entire structure of global macrofinance any more than beanie babies or tulip bulbs could.
+Since bitcoin cannot be used to issue debt products, denominate contracts or scale to act as a medium of exchange for commerce it lacks *any* of the properties of [money](../concepts/money.md) that a reserve currency would have to fulfil. Bitcoin cannot upend the entire structure of global macrofinance any more than tulip bulbs could.
 
 ## References
 1. Varoufakis, Yanis. 2021. ‘What Is Money, Really? And Why Bitcoin Is Not the Answer (Even If Blockchain Is Brilliant & Potentially Helpful in Democratising Money)’. Yanis Varoufakis (blog). 2 August 2021. https://www.yanisvaroufakis.eu/2021/08/02/what-is-money/.
