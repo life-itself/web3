@@ -1,4 +1,6 @@
-# Bitcoin cannot function as a currency
+# Is bitcoin a currency?
+**Bitcoin cannot function as a currency.** 
+
 Unlike the namesake of "cryptocurrency" might imply, [bitcoin](../concepts/bitcoin.md) is not a [currency](../concepts/currency.md). It does not fulfil the economic definition of [money](../concepts/money.md).  Instead bitcoin is best understood as a  [speculative](../concepts/speculation.md) [cryptoasset](../concepts/cryptoasset.md) or [gambling](../concepts/gambling.md) product.
 
 Since bitcoin is not issued by a sovereign state or [central-banks](../concepts/central-banks.md) there is no central party to manage the [deflationary](../concepts/deflationary.md) spirals that occur in the [price-formation](../concepts/price-formation.md) of the asset. Therefore it is subject to wild and uncontrollable volatility that makes it unsuitable as a *means of exchange*. No amount of technology can fix the volatility problem as it is a function of the economic design of the asset and its fixed supply. This arises out of the political imaginaries of the [neo-metallism](../notes/neo-metallism.md) school and [Austrian economics](../concepts/austrian-economics.md) that informed the design of the bitcoin to resemble the historical [gold-standard](../concepts/gold-standard.md) and the conception of heterodox ideas of [sound money](../concepts/sound-money.md). 
