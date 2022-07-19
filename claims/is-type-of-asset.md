@@ -25,7 +25,6 @@ While crypto assets are securities contracts, they are a pathological form of a 
 
 ## References
 1. Krugman, Paul. 2018. ‘Bitcoin Is Basically a Ponzi Scheme’. The Seattle Times 30.
-1. ———. 2013. ‘Bitcoin Is Evil’. Paul Krugman Blog (blog). 28 December 2013. https://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/.
 1. ———. 2021a. ‘Technobabble, Libertarian Derp and Bitcoin’. The New York Times 21.
 1. ———. 2021b. ‘The Brutal Truth About Bitcoin’. The New York Times 21.
 1. Taleb, Nassim Nicholas. 2021. ‘Bitcoin, Currencies, and Fragility’. ArXiv:2106.14204 [Physics, q-Fin], July. http://arxiv.org/abs/2106.14204.
