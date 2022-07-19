@@ -1,5 +1,7 @@
-# Crypto assets are a form of gambling
-Purchasing crypto assets is a form of gambling. Crypto assets have no [income](../concepts/income-cashflows.md) and [use value](../concepts/use-value.md) and are [zero-sum games](../concepts/zero-sum-game.md) and thus have no [fundamental value](../concepts/fundamental-value.md). Trying to time the market of crypto assets is equivalent to games of chance and [gambling](../concepts/gambling.md) with a negative [expected return](../concepts/expected-return.md). This is strictly worse behaviour than participating in [price-formation](../concepts/price-formation.md) in the [stock](../concepts/stock.md) and [commodity](../concepts/commodity.md) markets.
+# Are crypto assets a form of gambling?
+**Crypto assets are a form of gambling**
+
+Crypto assets have no [income](../concepts/income-cashflows.md) and [use value](../concepts/use-value.md) and are [zero-sum games](../concepts/zero-sum-game.md) and thus have no [fundamental value](../concepts/fundamental-value.md). Trying to time the market of crypto assets is equivalent to games of chance and [gambling](../concepts/gambling.md) with a negative [expected return](../concepts/expected-return.md). 
 
 Crypto assets are not gambling if one participates in a [cartel](../concepts/cartel.md) which does [pump and dump schemes](../concepts/pump-and-dump.md)  or other forms of [market manipulation](../concepts/market-manipulation.md) which uses [asymmetric information](../concepts/asymmetric-information.md) to defraud other market participants. Pump and dump schemes result in a net wealth transfer from the larger [market](../concepts/market.md) to a small set of insiders.
 
