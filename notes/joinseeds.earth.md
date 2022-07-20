@@ -1,5 +1,5 @@
 ---
-aliases: SEEDS
+url: https://joinseeds.earth
 ---
 
 # Seeds
