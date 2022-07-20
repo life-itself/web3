@@ -1,4 +1,5 @@
-# Private money is not desirable
+# Is private money desirable?
+**Private money is not desirable**
 
 The aspirations of some [cryptoasset](../concepts/cryptoasset.md) is to reinvent historical ideas of private money issuance, effectively shifting the control of an alleged currency from the democratically elected officials to the unaccountable individuals in the private sector. Unless one subscribes to extreme forms of [libertarianism](../concepts/libertarianism.md) or [anarchocapitalism](../concepts/anarchocapitalism.md) this is not a desirable state and the historical precedence on private money is one of repeated disasters compared to the normal issuance of money.
 
