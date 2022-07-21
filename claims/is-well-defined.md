@@ -1,5 +1,5 @@
-# Web3 is not well-defined
-Web3 does not have any universally agreed upon definition.
+# Is web3 well-defined?
+**Web3 does not have any universally agreed upon definition.**
 
 Web3 has been [criticised](https://www.stephendiehl.com/blog/web3-bullshit.html) as being an intentionally ambiguous buzzword.
 
@@ -22,5 +22,4 @@ Web3 has also been described as a means of doing [regulatory arbitrage](regulato
 1. Tonelli, Emily. 2022. ‘Internet Guru Tim O’Reilly: Crypto and NFTs Are “Pretty Serious Speculative Bubble”’. Decrypt. 10 February 2022. https://decrypt.co/92676/internet-guru-tim-oreilly-crypto-nfts-serious-speculative-bubble.
 1. Yaffe-Bellany, David. 2022. ‘Millions for Crypto Start-Ups, No Real Names Necessary’. The New York Times, 2 March 2022, sec. Technology. https://www.nytimes.com/2022/03/02/technology/cryptocurrency-anonymity-alarm.html.
 1. Zitron, Ed. 2022. ‘Solutions That Create Problems’. Substack newsletter. Ed Zitron’s Where’s Your Ed At (blog). 23 February 2022. https://ez.substack.com/p/solutions-that-create-problems.
-1. Diehl, Stephen. 2021. ‘Web3 Is Bullshit’. 4 December 2021. https://www.stephendiehl.com/blog/web3-bullshit.html.
 1. White, Molly. 2022. ‘It’s Not Still the Early Days’. Molly White. 14 January 2022. https://blog.mollywhite.net/its-not-still-the-early-days/.
