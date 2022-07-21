@@ -1,8 +1,7 @@
-# Legality of crypto assets
+# Are crypto assets legal?
+The legality of buying these risky products depends on the jurisdiction of the buyer and seller.
 
 Crypto assets are unlicensed [security](../concepts/security.md) contracts for unregulated [speculative](../concepts/speculation.md) investments. Crypto assets are effectively like buying unregulated penny stocks, except with no recourse to the courts in the case of the project being a [Ponzi scheme](../concepts/ponzi-scheme.md) or [exit scam](../concepts/exit-scam.md). 
-
-The legality of buying these risky products depends on the jurisdiction of the buyer and seller.
 
 In the United States the sale of unregistered securities to the public is illegal. The legality of the purchase of of unregistered securities will depend on the facts and circumstances of the sale, but regardless of legality these type of extra-legal transactions expose the buyer to unnecessary [risk](../concepts/risk.md) compared to buying normal [financial assets](../concepts/financial-asset.md) within the regulatory perimeter. Buying crypto assets is thus legally inadvisable from both a risk and compliance perspective. 
 
