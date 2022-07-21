@@ -1,11 +1,9 @@
-# Crypto Mining is Harmful to the Environment
-Bitcoin [mining](../concepts/mining.md) is enormously harmful to the environment, the design of the Proof of Work (PoW) [consensus algorithm](../concepts/consensus-algorithm.md) is energy wasteful as part of its design. There are three factors that give rise to its inordinate environmental footprint which is incommensurate with its generated utility.
+# Is crypto mining harmful to the environment?
+**Bitcoin [mining](../concepts/mining.md) is enormously harmful to the environment**. the design of the Proof of Work (PoW) [consensus algorithm](../concepts/consensus-algorithm.md) is energy wasteful as part of its design. There are three factors that give rise to its inordinate environmental footprint which is incommensurate with its generated utility.
 
 1. E-waste from discarded or broken ASIC mining equipment, graphics cards and servers.
 2. Carbon release from fossil fuels used to power mining data centres
 3. Opportunity cost of the energy used to run [consensus algorithm](../concepts/consensus-algorithm.md) compared to more efficient of efficient [real time gross settlement systems](../concepts/rtgs.md) and traditional [payment rails](is-transnational-payment.md) such as SWIFT, SEPA, Visa and ACH.
-
-Crypto assets are not [providing access to the unbanked](is-crypto-unbanked.md) and cannot fulfil even a tiny fraction of the services provided by the global banking sector. Crypto assets like [bitcoin](../concepts/bitcoin.md) are simply a very inefficient and settlement to issue a speculative [cryptoasset](../concepts/cryptoasset.md) used primarily for [gambling](../concepts/gambling.md) and [illicit financing](../concepts/illicit-financing.md).
 
 BItcoin mining has the equivalent power consumption of the state of Argentina, a country with a population of 45 million people. Bitcoin mining has an e-waste footprint comparable to that of entire population of Germany.
 
