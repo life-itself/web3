@@ -1,12 +1,12 @@
-# An unregulated transnational payment is not desirable
+# Is an unregulated transnational payment desirable?
 
 The stated aspirations of some crypto projects is to build a global supranational payment system which is [censorship resistant](../concepts/censorship-resistence.md) against nation state actors, effectively allowing parties from any jurisdiction to move value anonymously and with no controls. However from the perspective of civil society this is not desirable since the world already struggles with an excess of offshore tax evasion and dark money flows, as evidenced by the recent Panama Paper leaks.
 
-Today there already exists and enormous [shadow banking](../concepts/shadow-bank.md) space which facilitates the creation of credit and movement of money through jurisdictions with questionable money controls and loose enforcement of policy. Many wealthy individuals avail themselves of this transnational network of trusts and shell companies to avoid paying taxes in their country of residence, opting to instead hide their money abroad in opaque financial structures set up in island nations like the Bahamas or Cayman Islands.
+Today there already exists an enormous [shadow banking](../concepts/shadow-bank.md) space which facilitates the creation of credit and movement of money through jurisdictions with questionable money controls and loose enforcement of policy. Many wealthy individuals avail themselves of this transnational network of trusts and shell companies to avoid paying taxes in their country of residence, opting to instead hide their money abroad in opaque financial structures set up in island nations like the Bahamas or Cayman Islands.
 
 The incorporation of crypto into the shadow banking system, which is already happening, is providing even easier access for disreputable individuals to avoid taxes and to expand their holdings abroad. Instead of offshore shell companies, these individuals will use [stablecoin](../concepts/stablecoin.md) and [cryptoasset](../concepts/cryptoasset.md) to hide their money from tax authorities.
 
-From the public interest perspective none of this setup is desirable, since it allows the already wealth to avoid paying taxes and supporting [public goods](../concepts/public-goods-problem.md) and the welfare state which supports people with less resources than wealthy individuals. Crypto thus exasperates wealth inequality and allows individuals to circumvent the rule of law and undermine the entire social contract of democracy.
+From the public interest perspective none of this setup is desirable, since it allows the already wealthy to avoid paying taxes and supporting [public goods](../concepts/public-goods-problem.md) and the welfare state which supports people with less resources than wealthy individuals. Crypto thus exasperates wealth inequality and allows individuals to circumvent the rule of law and undermine the entire social contract of democracy.
 
 ## References
 1. Allen, Hilary J. 2022. ‘DeFi: Shadow Banking 2.0?’ William & Mary Law Review, Forthcoming.
