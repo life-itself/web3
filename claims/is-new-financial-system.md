@@ -1,4 +1,6 @@
-# Web3 is not a means to rebuild the global financial system.
+# Is web3 a means to rebuild the global financial system?
+**Web3 is not a means to rebuild the global financial system.**
+
 Crypto assets do [not have the capacity](is-bitcoin-currency.md) to function as [money](../concepts/money.md) which serves as the foundation for a financial system. Without money which can mediate transactions, serve as a medium exchange, be used to denominate contracts and issue debt products in, all of modern finance could not exist. 
 
 Crypto has no theoretical basis as a foundation for a financial system because it is not fit for purpose and is not a [currency](../concepts/currency.md).
