@@ -1,6 +1,7 @@
-# Crypto tokens are not a means to destroy capitalism 
+# Are crypto tokens a means to destroy capitalism?
+**Crypto tokens are not a means to destroy capitalism.**
 
-Crypto tokens are indeed a form of [predatory investment](../concepts/predatory-inclusion.md) that may have wide-reaching consequences in the lives of people it harms. However it is not a means to accelerate the collapse of capitalism even if one subscribes to the [accelerationism](../concepts/accelerationism.md) school of thought and believed this the acceleration of capitalism and its destruction was a good thing.
+Crypto is not a means to accelerate the collapse of capitalism even if one subscribes to the [accelerationism](../concepts/accelerationism.md) school of thought and believed this the acceleration of capitalism and its destruction was a good thing. Crypto tokens are a form of [predatory investment](../concepts/predatory-inclusion.md) that may have wide-reaching consequences in the lives of people it harms. 
 
 The crypto ideology is an extension of neoliberal project that aims to expand the scope and reach of markets to all aspects of human life, a concept often referred to [as hyperfinancialization](is-hyperfinancialization.md). Since crypto tokens aim to expand the scope of capitalism, they cannot bring about anything but more capitalism.
 
