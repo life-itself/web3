@@ -1,5 +1,5 @@
-# Bitcoin is not a means to counter authoritarian regimes
-Crypto assets are not a safe haven for one’s investments or a shield against government tyranny. In his whitepaper *Bitcoin, Currencies, and Fragility*, Nassim Taleb writes of the "safe haven from tyranny" thesis:
+# Is bitcoin a means to counter authoritarian regimes?
+**Crypto assets are not a safe haven for one’s investments or a shield against government tyranny.** In his whitepaper *Bitcoin, Currencies, and Fragility*, Nassim Taleb writes of the "safe haven from tyranny" thesis:
 
 > By its very nature, bitcoin is open for all to see. The belief in one’s ability to hide one’s assets from the government with a public blockchain easily triangularizable at endpoints, and not just read by the FBI but also by people in their living rooms, requires a certain lack of financial seasoning and statistical understanding — perhaps even a lack of minimal common sense. For instance a Wolfram Research specialist was able to statistically detect and triangularize "anonymous" ransom payments made by Colonial Pipeline on May 8 in 2021 — and it did not take long for the FBI to restore the funds. We can safely assume that government structures and computational power will remain stronger than those of distributed operators who, while distrusting one another, can fall prey to simple hoaxes
 > 
