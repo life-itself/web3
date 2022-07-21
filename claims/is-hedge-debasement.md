@@ -1,5 +1,5 @@
-# Crypto assets are not a hedge against the "debasement" of the dollar
-Crypto assets are not a hedge against the "debasement" of the dollar. This thesis is predicated on an [Austrian economics](../concepts/austrian-economics.md) reading of United States monetary policy and policy a conspiracy theories about the Federal Reserve.
+# Are crypto assets a hedge against the "debasement" of the dollar?
+**Crypto assets are not a hedge against the "debasement" of the dollar.** This thesis is predicated on an [Austrian economics](../concepts/austrian-economics.md) reading of United States monetary policy and policy a conspiracy theories about the Federal Reserve.
 
 As part of the normal functioning of the dollar system, the Federal Reserve will make 
 [interventionist](../concepts/keynsian-economics.md) adjustments to its quantitative easing policy and interest rates with the aims of achieving dollar price stability. The economy adjusts to these changes and factors them into the pricing of goods and services and this system results in relatively predictable inflation which encourages economic growth. The use of the pejorative term "debasement" to describe the natural and principled monetary policy rests on a fallacy which presumes fringe economic theories.
