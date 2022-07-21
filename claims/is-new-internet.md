@@ -1,12 +1,10 @@
-# Crypto is not building a new internet
+# Is crypto building a new internet?
 
 The meme of a "new internet" is a consistent and persistent marketing term that has always existed in technology, to the point where the term itself is widely considered a joke. Many technologies are described as being a new iteration of the internet as a way of generating hype or marketing themselves to the public or regulators as important "innovation". [Crypto assets](../concepts/cryptoasset.md) continue on in this marketing trend, yet the underlying reality of the tech is completely removed from any level of paradigm shift that the early internet ushered in.
 
 The early internet was a collaboration between the United States defense sector and private academic institutions to build early networking solutions, originally for defence applications to connect different national laboratories. The evolution of the internet expanded with the development of the world wide web in 1989, whose initial development at CERN in Switzerland allowed the dissemination of scientific research in a new form called *hypertext* which would form the foundation for the now ubiquitous HTML.
 
 At each step along the evolution early of the internet, its design was informed and shaped by real applications and the solutions which developed rapidly were fit-for-purpose. Crypto does not resemble this kind of technical formation in any way, because crypto is a solution in search of a problem whose existence is predicated on the political imaginaries of its acolytes who advance the solution allegedly as a means to do reconfiguration projects or enrich themselves through [regulatory arbitrage](../concepts/regulatory-arbitrage.md). Thus there is no resemblance to the early internet in either form or function. 
-
-The notion that crypto is building new internet is pernicious form of myth-making that wrapped in phoney populism as an excuse for the already wealthy to enrich themselves on the back of securities fraud and phoney aimless innovation detached from any real world problems.
 
 ## References
 1. Blank, Steve. "A Secret History of Silicon Valley." Computer History Museum (2008).
