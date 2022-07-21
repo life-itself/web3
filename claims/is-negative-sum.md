@@ -1,4 +1,4 @@
-# Investing in crypto assets is a negative-sum game
+# Is investing in crypto assets a negative-sum game?
 Investing in crypto assets is a [negative sum game](../concepts/zero-sum-game.md) as defined in game theory and economics. Negative sum games result in a net loss across participants and multiple losers associated with every one winner.
 
 Since crypto assets are [investments](../concepts/security.md) the purpose of buying a crypto asset is to buy it at a lower price and sell it at a higher price to generate a return denominated in a [real currency](../concepts/currency.md). However as an investment crypto assets have no [income-cashflows](../concepts/income-cashflows.md) therefore the only money that exists to pay out investors is money that is brought in by later investors. This makes the entire scheme a [zero sum game](../concepts/zero-sum-game.md). All money won by [speculation](../concepts/speculation.md) is ultimately money that is equally lost by another participant. 
