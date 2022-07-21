@@ -1,4 +1,4 @@
-# Crypto has a weird subculture
+# Crypto subculture
 The crypto subculture is an example of a self-organizing [high control group](../concepts/high-control-group.md) whose existence organically creates a market mania, [bubble](../concepts/bubble.md) and [narrative economics](../concepts/narrative-economics.md) that entices the public to invest in the asset class or join the group and its subculture.
 
 Since the asset class is [non-productive](../concepts/productive-asset.md) and [is-negative-sum](is-negative-sum.md) the crypto scheme entirely depends on attracting new investor inflows based on narratives of "money for nothing" and "easy wealth" that clash with traditional readings of [economics](../concepts/keynsian-economics.md). These schemes may also depend on [technosolutionism](../concepts/technosolutionism.md) or [libertarianism](../concepts/libertarianism.md) to justify bringing more [greater fools](../concepts/greater-fool-theory.md) into the scheme.
