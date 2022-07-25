@@ -4,6 +4,8 @@ status: stub
 
 # DAO creation platforms
 
+## Examples
+
 * Aragon
 * DAOHaus
 * Colony
