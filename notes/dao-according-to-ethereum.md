@@ -6,5 +6,3 @@
 https://ethereum.org/en/dao/
 
 https://ethereum.org/en/dao/#dao-comparison
-
-![[Pasted image 20220119225539.png]]
