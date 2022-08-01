@@ -2,7 +2,7 @@
 title: Open Collective, Steward Ownership & Exit to Community with Pia Mancini
 created: 2022-04-13
 date: 2022-04-08
-description: 'In this episode with Pia Mancini about her work to make community finance transparent and sustainable with Open Collective, her commitment ot steward ownership and the value of an exit to community.'
+description: 'In this episode, Rufus Pollock speaks with Pia Mancini about: her work to make community finance transparent and sustainable with Open Collective, her commitment to steward ownership, and the value of an exit to community.'
 image: /img/Pia Mancini Thumbnail.jpg
 youtube: https://www.youtube.com/watch?v=C2KYJiQVtIM
 podcast: https://anchor.fm/life-itself/episodes/Open-Collective--Steward-Ownership--Exit-to-Community-with-Pia-Mancini-e1hkltv/a-a7gpq18
