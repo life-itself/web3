@@ -8,6 +8,8 @@ https://diatom.fund
 
 This is where they explain the model: https://medium.com/@diatomdao/plastic-reduction-credits-prc-whitepaper-pt-3-3-26f6bde1ad34
 
+![[Pasted image 20220117221812.png]]
+
 So ... imagine this was simply a company
 
 * It sells share to investors ...
@@ -18,6 +20,8 @@ So ... imagine this was simply a company
 Why does it need to be on blockchain? Other than this is a place you can (currently) raise (incredible amounts of) money from investors (in an unregulated way) ...
 
 Note that in their follow on "How It Works" the financial aspects come first ...
+
+![[Pasted image 20220117222844.png]]
 
 ### Who is backing it?
 
