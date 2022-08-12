@@ -754,7 +754,7 @@ Our evaluation of this claim is that while there are examples of DAOs facilitati
 * [On the Potential of DAOs & Web3 with Jordan Hall & Rufus Pollock](https://web3.lifeitself.us/notes/on-the-potential-of-daos-and-web3)
 * [Stephen Reid & Rufus Pollock on Worker Cooperatives and DAOs](https://web3.lifeitself.us/notes/on-worker-cooperatives)
 * [Open Collective, Steward Ownership & Exit to Community with Pia Mancini](https://web3.lifeitself.us/notes/pia-mancini-open-collective-dialogue)
-* [Regenerative Finance and Web3 for Public Goods](https://web3.lifeitself.us/notes/jeff-emmett-on-regenerative-finance)<span style="text-decoration:underline;">  </span>
+* [Regenerative Finance and Web3 for Public Goods](https://web3.lifeitself.us/notes/jeff-emmett-on-regenerative-finance)
 * [Samer Hassan on Decentralization, Platform Monopolies and Web3](https://web3.lifeitself.us/notes/samer-hassan) 
 * [In conversation with Hypha](https://web3.lifeitself.us/notes/in-conversation-with-hypha) 
 
@@ -817,7 +817,7 @@ Our evaluation is that web3 is yet to achieve this; we have not managed to find 
 * [Notes on Jeff Emmett's 'Rewriting the Story of Human Collaboration'](https://web3.lifeitself.us/notes/emmett-2018-rewriting-story-human)
 * [KlimaDAO & Life Itself in Conversation](https://web3.lifeitself.us/notes/in-conversation-with-klimadao-part-one)
 * [Making Sense of KlimaDao](https://web3.lifeitself.us/notes/klimadao.finance)
-* [Regenerative Finance and Web3 for Public Goods](https://web3.lifeitself.us/notes/jeff-emmett-on-regenerative-finance)<span style="text-decoration:underline;">  </span>
+* [Regenerative Finance and Web3 for Public Goods](https://web3.lifeitself.us/notes/jeff-emmett-on-regenerative-finance)
 
 
 ### Concepts
@@ -872,7 +872,7 @@ Our evaluation is that blockchain technology, detached from the sale of crypto a
 
 * [Deep Dive: Web3 and Post-State Technocracy](https://web3.lifeitself.us/notes/post-state-technocracy)
 * [Deep Dive: Collective Action Problems & Climate Change ](https://web3.lifeitself.us/notes/collective-action-problems-and-climate-change)
-* [Regenerative Finance and Web3 for Public Goods](https://web3.lifeitself.us/notes/jeff-emmett-on-regenerative-finance)<span style="text-decoration:underline;"> </span>
+* [Regenerative Finance and Web3 for Public Goods](https://web3.lifeitself.us/notes/jeff-emmett-on-regenerative-finance)
 * [Crypto Is Like The Early Internet](https://web3.lifeitself.us/notes/crypto-is-like-the-early-internet) 
 * [Walch, Angela. Deconstructing 'Decentralization'; Exploring the Core Claim of Crypto Systems](https://web3.lifeitself.us/notes/deconstructing-decentralization)
 * [Allen, Hilary. 2022. Driverless Finance](https://web3.lifeitself.us/notes/driverless-finance)
