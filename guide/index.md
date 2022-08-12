@@ -1,8 +1,14 @@
-# Introduction
+---
+title: Guide to Crypto and Web3
+---
 
-A broad range of claims are being made about the potential of blockchain technology. We have engaged in a project of[ rigorous research and analysis](https://coggle.it/diagram/Yh-L7j5DfRykGi7e/t/web3-what-is-the-evaluation-polarizing-way-as-possible) in order to make sense of these claims. We have spoken with technologists, economists, computer scientists, crypto skeptics and crypto enthusiasts in order to understand what is being claimed, what are the high level aspirations these claims speak to, do these claims hold up to scrutiny, what are the risks associated with the claims, and are there alternative options? It is important that we, as collectives of individuals, organizations, and society more broadly, make good choices about this emerging technology. We must decide whether to support, improve or curb it, how to allocate our resources effectively, and how we can make these decisions and take action in a constructive, intersectional and depolarizing way. 
+Big claims are being made for the potential of crypto and web3. We have engaged in a multi-month project of [rigorous research and analysis](https://coggle.it/diagram/Yh-L7j5DfRykGi7e/t/web3-what-is-the-evaluation-polarizing-way-as-possible) in order to make sense of these claims.
 
-The culmination of our sense-making effort is an easy-to-read guide in order to help facilitate the informed and wise decision-making needed. Below you will find a resource bank of aspirations and associated claims being made about crypto and web3. The guide has been organized by aspirations. Under each aspiration can be found the associated claim(s) with a brief description of the claim and our evaluation, links to content we have created digging into the claim, a list of related concepts, a list of associated FAQs and a Zotero Library for further reading.
+We have spoken with technologists, economists, computer scientists, crypto skeptics and crypto enthusiasts. We have sought first to establish  hat is being claimed and the higher aspirations these claims speak to. Second, to evaluate these claims: do they hold up to scrutiny, what are the associated risks, and are there alternatives?
+
+It is important that we, as individuals, organizations, and society more broadly, make good choices about this emerging technology. We must decide whether to support, improve or curb it, how to allocate our resources effectively, and how we can make these decisions and take action in a constructive, intersectional and depolarizing way. 
+
+The culmination of our sense-making effort is this guide. The guide starts with a basic introduction to the key concepts related to crypto and web3. The main part of the guide is organized by aspiration. Under each aspiration can be found the associated claim(s) with a brief description of the claim and our evaluation along with Links to further detail, related concepts, FAQs and a reading list.
 
 # Contents
 
@@ -71,8 +77,6 @@ The culmination of our sense-making effort is an easy-to-read guide in order to 
 
 
 # Foundational FAQs
-
-
 
 * [What does Web3 mean?](https://web3.lifeitself.us/claims/is-well-defined)
 * [Is crypto legal?](https://web3.lifeitself.us/claims/is-legal)
