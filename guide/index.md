@@ -2,13 +2,15 @@
 title: Guide to Crypto and Web3
 ---
 
-Big claims are being made for the potential of crypto and web3. We have engaged in a multi-month project of [rigorous research and analysis](https://coggle.it/diagram/Yh-L7j5DfRykGi7e/t/web3-what-is-the-evaluation-polarizing-way-as-possible) in order to make sense of these claims.
+Big claims are being made for the potential of crypto and web3. We have engaged in a [multi-month project of research and analysis](about) to make sense of these claims.
 
-We have spoken with technologists, economists, computer scientists, crypto skeptics and crypto enthusiasts. We have sought first to establish  hat is being claimed and the higher aspirations these claims speak to. Second, to evaluate these claims: do they hold up to scrutiny, what are the associated risks, and are there alternatives?
+We have spoken with technologists, economists, computer scientists, crypto skeptics and crypto enthusiasts. Our work has divided into two parts. First, to establish what is being claimed, and the higher aspirations these claims speak to. For example, that crypto and web3 can democratize finance with the deeper aspiration of a fairer and/or more innovative economy.
 
-It is important that we, as individuals, organizations, and society more broadly, make good choices about this emerging technology. We must decide whether to support, improve or curb it, how to allocate our resources effectively, and how we can make these decisions and take action in a constructive, intersectional and depolarizing way. 
+Second, we have provided a detailed evaluation of each claim setting out reasons for thinking it true or false as well as any associated risks or alternative approaches to the same goal.
 
-The culmination of our sense-making effort is this guide. The guide starts with a basic introduction to the key concepts related to crypto and web3. The main part of the guide is organized by aspiration. Under each aspiration can be found the associated claim(s) with a brief description of the claim and our evaluation along with Links to further detail, related concepts, FAQs and a reading list.
+It is important that we make good choices about this emerging technology. We must decide whether to support, improve or curb it. Decide how to allocate our resources effectively. And finally,  to make these choices and take action in a constructive, intersectional and depolarizing way. 
+
+The culmination of our sense-making effort is this guide. The guide starts with a basic introduction to the key concepts related to crypto and web3. The main part of the guide is organized by aspiration. Under each aspiration can be found the associated claim(s) with a brief description of the claim and our evaluation along with links to further detail, related concepts, FAQs and a reading list.
 
 # Contents
 
@@ -398,42 +400,30 @@ In addition, crypto is not a solution for the unbanked, because by its deflation
 
 ### Library
 
-
-
 * [Market Fundamentalism Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/Y5NM665F)
 * [Securities Regulation Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/ANAGFNVQ)  
 
 
 ## Claim: Crypto is an anti authoritarian force
 
-
 ### Description
 
 According to this claim, cryptocurrencies provide a privacy-friendly way to store or transfer funds in situations where the state is an adversary – for example, when opposing a repressive regime.
 
-
 ### Evaluation of claim
 
-Our evaluation of this claim is that crypto is not an anti-authoritarian force:
-
-
+Crypto has very limited potential as an anti-authoritarian force. More importantly, any positive value is heavily outweighed by the potential downside in terms of enabling malign uses: money-laundering, fraud, terrorism etc. In summary:
 
 * the malign uses outnumber the benign;
 * Bitcoin is traceable;
 * for most uses, Bitcoin must be cashed out by those in charge of the monetary supply, most often the very regime the transferor is seeking to circumvent.
 * the argument for bitcoin as a hedge against authoritarianism suffers from fallacy of composition and selection bias.
 
-
 ### Content
-
-
 
 * [Deep Dive: Bitcoin as an Anti-Authoritarian Force ](/notes/bitcoin-as-anti-authoritarian)
 
-
 ### Concepts
-
-
 
 * [Technolibertarianism](/concepts/technolibertarianism)
 * [Cryptoanarchism](/concepts/cryptoanarchism)
@@ -448,8 +438,6 @@ Our evaluation of this claim is that crypto is not an anti-authoritarian force:
 
 ### FAQs
 
-
-
 * [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
 * [Is Bitcoin a means to counter authoritarian regimes?](/claims/is-authoritarianism)
 * [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
@@ -458,8 +446,6 @@ Our evaluation of this claim is that crypto is not an anti-authoritarian force:
 
 
 ### Library
-
-
 
 * [Antiauthoritarianism Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/B3RVHR65)
 
