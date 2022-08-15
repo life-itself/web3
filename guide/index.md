@@ -66,24 +66,26 @@ The culmination of our sense-making effort is this guide. The guide starts with 
 
 # Foundational Concepts
 
-* [Web3](https://web3.lifeitself.us/concepts/web3)
-* [Blockchain](https://web3.lifeitself.us/concepts/blockchain)
-* [Bitcoin](https://web3.lifeitself.us/concepts/bitcoin)
-* [Ethereum](https://web3.lifeitself.us/concepts/ethereum)
-* [NFT](https://web3.lifeitself.us/concepts/nft)
-* [Cryptoasset ](https://web3.lifeitself.us/concepts/cryptoasset)
-* [Mining ](https://web3.lifeitself.us/concepts/mining)
-* [Decentralization](https://web3.lifeitself.us/concepts/decentralization)
+* [Web3](/concepts/web3)
+* [Blockchain](/concepts/blockchain)
+* [Bitcoin](concepts/bitcoin)
+* [Ethereum](/concepts/ethereum)
+* [NFT](/concepts/nft)
+* [Cryptoasset ](/concepts/cryptoasset)
+* [Mining ](/concepts/mining)
+* [Decentralization](/concepts/decentralization)
+
 
 
 # Foundational FAQs
 
-* [What does Web3 mean?](https://web3.lifeitself.us/claims/is-well-defined)
-* [Is crypto legal?](https://web3.lifeitself.us/claims/is-legal)
-* [Is Bitcoin a currency?](https://web3.lifeitself.us/claims/is-bitcoin-currency)
-* [Why do people invest in crypto tokens?](https://web3.lifeitself.us/claims/is-why-invest)
-* [What type of assets are crypto tokens?](https://web3.lifeitself.us/claims/is-type-of-asset) 
-* [Is crypto mining harmful to the environment?](https://web3.lifeitself.us/claims/is-environmental-footprint)
+* [What does Web3 mean?](/is-well-defined)
+* [Is crypto legal?](/claims/is-legal)
+* [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Why do people invest in crypto tokens?](/claims/is-why-invest)
+* [What type of assets are crypto tokens?](/claims/is-type-of-asset) 
+* [Is crypto mining harmful to the environment?](/claims/is-environmental-footprint)
+
 
 
 # Aspiration 1: A more stable, more efficient, and more transparent economy
@@ -118,50 +120,50 @@ Our evaluation of this claim is that Bitcoin as a new gold standard would not ac
 
 
 
-* [Deep Dive: Web​​3, Bitcoin and Neo-metallism](https://web3.lifeitself.us/notes/neo-metallism)
-* [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](https://web3.lifeitself.us/notes/cryptocurrencies-an-assessment)
+* [Deep Dive: Web​​3, Bitcoin and Neo-metallism](/notes/neo-metallism)
+* [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](/notes/cryptocurrencies-an-assessment)
 
 
 ### Concepts
 
 
 
-* [Austrian economics](https://web3.lifeitself.us/concepts/austrian-economics)
-* [Bank](https://web3.lifeitself.us/concepts/bank)
-* [Currency](https://web3.lifeitself.us/concepts/currency)
-* [Currency peg](https://web3.lifeitself.us/concepts/currency-peg)
-* [Central banks](https://web3.lifeitself.us/concepts/central-banks)
-* [Deflationary](https://web3.lifeitself.us/concepts/deflationary)
-* [Externalities ](https://web3.lifeitself.us/concepts/externalities)
-* [Fiat money](https://web3.lifeitself.us/concepts/fiat-money)
-* [Gold](https://web3.lifeitself.us/concepts/gold)
-* [Gold standard](https://web3.lifeitself.us/concepts/gold-standard)
-* [Inflationary](https://web3.lifeitself.us/concepts/inflationary)
-* [Keynesian economics](https://web3.lifeitself.us/concepts/keynsian-economics)
-* [Libertarianism](https://web3.lifeitself.us/concepts/libertarianism)
-* [Money](https://web3.lifeitself.us/concepts/money)
-* [Network Effect ](https://web3.lifeitself.us/concepts/network-effect)
-* [Private money](https://web3.lifeitself.us/concepts/private-money)
-* [Reserve currency](https://web3.lifeitself.us/concepts/reserve-currency)
-* [Sound money](https://web3.lifeitself.us/concepts/sound-money)
-* [Store of value](https://web3.lifeitself.us/concepts/store-of-value)
-* [Techno Collectivism](https://web3.lifeitself.us/concepts/techno-collectivism)
-* [Technolibertarianism](https://web3.lifeitself.us/concepts/technolibertarianism)
-* [US dollar](https://web3.lifeitself.us/concepts/dollar)
+* [Austrian economics](/concepts/austrian-economics)
+* [Bank](/concepts/bank)
+* [Currency](/concepts/currency)
+* [Currency peg](/concepts/currency-peg)
+* [Central banks](/concepts/central-banks)
+* [Deflationary](/concepts/deflationary)
+* [Externalities ](/concepts/externalities)
+* [Fiat money](/concepts/fiat-money)
+* [Gold](/concepts/gold)
+* [Gold standard](/concepts/gold-standard)
+* [Inflationary](/concepts/inflationary)
+* [Keynesian economics](/concepts/keynsian-economics)
+* [Libertarianism](/concepts/libertarianism)
+* [Money](/concepts/money)
+* [Network Effect ](/concepts/network-effect)
+* [Private money](/concepts/private-money)
+* [Reserve currency](/concepts/reserve-currency)
+* [Sound money](/concepts/sound-money)
+* [Store of value](/concepts/store-of-value)
+* [Techno Collectivism](/concepts/techno-collectivism)
+* [Technolibertarianism](/concepts/technolibertarianism)
+* [US dollar](/concepts/dollar)
 
 
 ### FAQs
 
 
 
-* [Is bitcoin a currency?](https://web3.lifeitself.us/claims/is-bitcoin-currency)
-* [Are crypto assets a risk to the dollar?](https://web3.lifeitself.us/claims/is-threat-dollar)
-* [Does Bitcoin threaten the US dollar as reserve currency?](https://web3.lifeitself.us/claims/is-threat-dollar)
-* [Is bitcoin the basis for a new gold standard?](https://web3.lifeitself.us/claims/is-digital-gold)
-* [Are crypto tokens a hedge against the “debasement” of the dollar?](https://web3.lifeitself.us/claims/is-hedge-debasement)
-* [Are crypto assets a hedge against inflation?](https://web3.lifeitself.us/claims/is-hedge-inflation)
-* [Is private money desirable?](https://web3.lifeitself.us/claims/is-private-money)
-* [Is Web3 decentralized?](https://web3.lifeitself.us/claims/is-web3-decentralized)
+* [Is bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Are crypto assets a risk to the dollar?](/claims/is-threat-dollar)
+* [Does Bitcoin threaten the US dollar as reserve currency?](/claims/is-threat-dollar)
+* [Is bitcoin the basis for a new gold standard?](/claims/is-digital-gold)
+* [Are crypto tokens a hedge against the “debasement” of the dollar?](/claims/is-hedge-debasement)
+* [Are crypto assets a hedge against inflation?](/claims/is-hedge-inflation)
+* [Is private money desirable?](/claims/is-private-money)
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
 
 ### Library
@@ -178,9 +180,9 @@ Our evaluation of this claim is that Bitcoin as a new gold standard would not ac
 
 This claim argues that we are evolving towards a 24/7 real-time, always-trading international market with greater complexity and lower friction than at present and that crypto is the next step in this evolution.
 
-According to the capitalist notion that greater [financialization](https://web3.lifeitself.us/claims/is-hyperfinancialization) is an engine for progress, added market efficiency will result from increase in financialization through the development of more complex, [blockchain](https://web3.lifeitself.us/concepts/blockchain)-based [financial products](https://web3.lifeitself.us/concepts/financial-asset) (ranging from better payment rails to more efficient clearing systems).
+According to the capitalist notion that greater [financialization](/claims/is-hyperfinancialization) is an engine for progress, added market efficiency will result from increase in financialization through the development of more complex, [blockchain](/concepts/blockchain)-based [financial products](/concepts/financial-asset) (ranging from better payment rails to more efficient clearing systems).
 
-This position assumes that c[apitalism](https://web3.lifeitself.us/concepts/capitalism) is net positive in the world, and a fairer, more efficient and transparent economy benefits everyone.
+This position assumes that c[apitalism](/concepts/capitalism) is net positive in the world, and a fairer, more efficient and transparent economy benefits everyone.
 
 
 ### Evaluation of claim
@@ -192,74 +194,74 @@ Our evaluation of this claim is that “innovative” blockchain-based financial
 
 
 
-* [Deep Dive: Fintech Incrementalism and Responsible Innovation](https://web3.lifeitself.us/notes/fintech-incrementalism-and-responsible-innovation)
-* [Deep Dive: Are Crypto Tokens Securities? ](https://web3.lifeitself.us/notes/are-crypto-tokens-securities)
-* [Deep Dive: Market Fundamentalism](https://web3.lifeitself.us/notes/market-fundamentalism) 
-* [A Macroeconomics Perspective on Cryptocurrencies ](https://web3.lifeitself.us/notes/a-macroeconomics-perspective-on-cryptocurrencies)
-* [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](https://web3.lifeitself.us/notes/cryptocurrencies-an-assessment)
-* [Allen, Hilary J. 'DeFi; Shadow Banking 2.0?' ](https://web3.lifeitself.us/notes/defi-shadow-banking-2-0)
-* [Speech by Fabio Panetta, Member of the Executive Board of the ECB, at Columbia University New York, 25 April 2022](https://web3.lifeitself.us/notes/ecb-fabio-panetta-crypto-needs-regulation-columbia-2022-04-25)
-* [Crypto: can these financial perpetual motion machines work?](https://web3.lifeitself.us/notes/financial-perpetual-motion-machine)
-* [Notes on Dan Olson's 'Line Goes Up'](https://web3.lifeitself.us/notes/olson-2022-line-go-up)
-* [Terra Crash May 2022 ](https://web3.lifeitself.us/notes/terra-crash-may-2022)
-* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web3.lifeitself.us/notes/the-encrypted-threat)’
-* [Notes on Secretary of the Treasury, Janet L. Yellen's remarks on digital assets policy, innovation, and regulation](https://web3.lifeitself.us/notes/yellen-treasury-remarks)
+* [Deep Dive: Fintech Incrementalism and Responsible Innovation](/notes/fintech-incrementalism-and-responsible-innovation)
+* [Deep Dive: Are Crypto Tokens Securities? ](/notes/are-crypto-tokens-securities)
+* [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
+* [A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
+* [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](/notes/cryptocurrencies-an-assessment)
+* [Allen, Hilary J. 'DeFi; Shadow Banking 2.0?' ](/notes/defi-shadow-banking-2-0)
+* [Speech by Fabio Panetta, Member of the Executive Board of the ECB, at Columbia University New York, 25 April 2022](/notes/ecb-fabio-panetta-crypto-needs-regulation-columbia-2022-04-25)
+* [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine)
+* [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
+* [Terra Crash May 2022 ](/notes/terra-crash-may-2022)
+* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](/notes/the-encrypted-threat)’
+* [Notes on Secretary of the Treasury, Janet L. Yellen's remarks on digital assets policy, innovation, and regulation](/notes/yellen-treasury-remarks)
 
 
 ### Concepts
 
 
 
-* [Artificial demand](https://web3.lifeitself.us/concepts/artificial-demand)
-* [Artificial scarcity](https://web3.lifeitself.us/concepts/artificial-scarcity)
-* [Automated Market Maker (AMM)](https://web3.lifeitself.us/concepts/amm)
-* [Assets](https://web3.lifeitself.us/concepts/assets)
-* [Capitalism](https://web3.lifeitself.us/concepts/capitalism)
-* [Capital Formation](https://web3.lifeitself.us/concepts/capital-formation)
-* [Consensus algorithm](https://web3.lifeitself.us/concepts/consensus-algorithm)
-* [Counterparty Risk ](https://web3.lifeitself.us/concepts/counterparty-risk)
-* [Cryptoasset](https://web3.lifeitself.us/concepts/cryptoasset)
-* [Crypto exchanges](https://web3.lifeitself.us/concepts/crypto-exchange)
-* [Decentralized Finance (DeFi)](https://web3.lifeitself.us/concepts/defi)
-* [Decentralized exchange](https://web3.lifeitself.us/concepts/dex)
-* [Derivative](https://web3.lifeitself.us/concepts/derivative)
-* [Distributed Autonomous Organization (DAO)](https://web3.lifeitself.us/concepts/dao)
-* [Exit-scam](https://web3.lifeitself.us/concepts/exit-scam) 
-* [Externalities ](https://web3.lifeitself.us/concepts/externalities)
-* [Financial asset](https://web3.lifeitself.us/concepts/financial-asset)
-* [Fundamental Value](https://web3.lifeitself.us/concepts/fundamental-value)
-* [Income Cashflows ](https://web3.lifeitself.us/concepts/income-cashflows)
-* [Leverage](https://web3.lifeitself.us/concepts/leverage)
-* [Liquidity ](https://web3.lifeitself.us/concepts/liquidity)
-* [Liquidity Pool ](https://web3.lifeitself.us/concepts/liquidity-pool)
-* [Market](https://web3.lifeitself.us/concepts/market)
-* [Market Fundamentalism ](https://web3.lifeitself.us/concepts/market-fundamentalism)
-* [Narrative-economics](https://web3.lifeitself.us/concepts/narrative-economics)
-* [Platform Risk ](https://web3.lifeitself.us/concepts/platform-risk)
-* [Regulation](https://web3.lifeitself.us/concepts/regulation)
-* [Regulatory Arbitrage](https://web3.lifeitself.us/concepts/regulatory-arbitrage)
-* [Security](https://web3.lifeitself.us/concepts/security) 
-* [Smart contract](https://web3.lifeitself.us/concepts/smart-contracts)
-* [Speculation](https://web3.lifeitself.us/concepts/speculation)
-* [Stablecoin](https://web3.lifeitself.us/concepts/stablecoin)
-* [Staking ](https://web3.lifeitself.us/concepts/staking)
-* [Systemic Risk ](https://web3.lifeitself.us/concepts/systemic-risk)
-* [Technolibertarianism](https://web3.lifeitself.us/concepts/technolibertarianism)
-* [Techno-obscurantism ](https://web3.lifeitself.us/concepts/techno-obscurantism)
-* [Yield Farming](https://web3.lifeitself.us/concepts/yield-farming)
-* [Zero Sum Game ](https://web3.lifeitself.us/concepts/zero-sum-game)
+* [Artificial demand](/concepts/artificial-demand)
+* [Artificial scarcity](/concepts/artificial-scarcity)
+* [Automated Market Maker (AMM)](/concepts/amm)
+* [Assets](/concepts/assets)
+* [Capitalism](/concepts/capitalism)
+* [Capital Formation](/concepts/capital-formation)
+* [Consensus algorithm](/concepts/consensus-algorithm)
+* [Counterparty Risk ](/concepts/counterparty-risk)
+* [Cryptoasset](/concepts/cryptoasset)
+* [Crypto exchanges](/concepts/crypto-exchange)
+* [Decentralized Finance (DeFi)](/concepts/defi)
+* [Decentralized exchange](/concepts/dex)
+* [Derivative](/concepts/derivative)
+* [Distributed Autonomous Organization (DAO)](/concepts/dao)
+* [Exit-scam](/concepts/exit-scam) 
+* [Externalities ](/concepts/externalities)
+* [Financial asset](/concepts/financial-asset)
+* [Fundamental Value](/concepts/fundamental-value)
+* [Income Cashflows ](/concepts/income-cashflows)
+* [Leverage](/concepts/leverage)
+* [Liquidity ](/concepts/liquidity)
+* [Liquidity Pool ](/concepts/liquidity-pool)
+* [Market](/concepts/market)
+* [Market Fundamentalism ](/concepts/market-fundamentalism)
+* [Narrative-economics](/concepts/narrative-economics)
+* [Platform Risk ](/concepts/platform-risk)
+* [Regulation](/concepts/regulation)
+* [Regulatory Arbitrage](/concepts/regulatory-arbitrage)
+* [Security](/concepts/security) 
+* [Smart contract](/concepts/smart-contracts)
+* [Speculation](/concepts/speculation)
+* [Stablecoin](/concepts/stablecoin)
+* [Staking ](/concepts/staking)
+* [Systemic Risk ](/concepts/systemic-risk)
+* [Technolibertarianism](/concepts/technolibertarianism)
+* [Techno-obscurantism ](/concepts/techno-obscurantism)
+* [Yield Farming](/concepts/yield-farming)
+* [Zero Sum Game ](/concepts/zero-sum-game)
 
 
 ### FAQs
 
 
 
-* [Is bitcoin a currency?](https://web3.lifeitself.us/claims/is-bitcoin-currency)
-* [Is crypto bringing about the “financialization of everything”?](https://web3.lifeitself.us/claims/is-hyperfinancialization)
-* [Is an unregulated transnational payment system desirable?](https://web3.lifeitself.us/claims/is-transnational-payment)
-* [Is crypto providing faster payment rails or better remittance services?](https://web3.lifeitself.us/claims/is-better-payments)
-* [Are crypto assets a systemic risk to the economy? ](https://web3.lifeitself.us/claims/is-systemic-risk)
-* [What is the narrative economics of crypto assets?](https://web3.lifeitself.us/claims/is-narrative-economics)
+* [Is bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is crypto bringing about the “financialization of everything”?](/claims/is-hyperfinancialization)
+* [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
+* [Is crypto providing faster payment rails or better remittance services?](/claims/is-better-payments)
+* [Are crypto assets a systemic risk to the economy? ](/claims/is-systemic-risk)
+* [What is the narrative economics of crypto assets?](/claims/is-narrative-economics)
 
 
 ### Library
@@ -291,37 +293,37 @@ Our evaluation of this claim is that the entire argument is predicated on the te
 
 
 
-* [Deep Dive: Web3 and Post-State Technocracy ](https://web3.lifeitself.us/notes/post-state-technocracy)
-* [Cory Doctorow on Blockchain, Crypto & Web3](https://web3.lifeitself.us/notes/cory-doctorow-on-blockchain)
-* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web3.lifeitself.us/notes/the-encrypted-threat)’
+* [Deep Dive: Web3 and Post-State Technocracy ](/notes/post-state-technocracy)
+* [Cory Doctorow on Blockchain, Crypto & Web3](/notes/cory-doctorow-on-blockchain)
+* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses]/notes/the-encrypted-threat)’
 
 
 ### Concepts
 
 
 
-* [Bank](https://web3.lifeitself.us/concepts/bank)
-* [Post-state-technocracy](https://web3.lifeitself.us/concepts/post-state-technocracy)
-* [Cryptoanarchism](https://web3.lifeitself.us/concepts/cryptoanarchism)
-* [Technosolutionism](https://web3.lifeitself.us/concepts/technosolutionism)
-* [Narrative-economics](https://web3.lifeitself.us/concepts/narrative-economics)
-* [Private-money](http://private-money)
-* [Anarchocapitalism](https://web3.lifeitself.us/concepts/anarchocapitalism)
-* [Reserve Currency](https://web3.lifeitself.us/concepts/reserve-currency)
-* [Sanctions Enforcement ](https://web3.lifeitself.us/concepts/sanctions-enforcement)
-* [Techno Collectivism](https://web3.lifeitself.us/concepts/techno-collectivism)
-* [Technolibertarianism](https://web3.lifeitself.us/concepts/technolibertarianism)
+* [Bank](/concepts/bank)
+* [Post-state-technocracy](/concepts/post-state-technocracy)
+* [Cryptoanarchism](/concepts/cryptoanarchism)
+* [Technosolutionism](/concepts/technosolutionism)
+* [Narrative-economics](/concepts/narrative-economics)
+* [Private-money](/concepts/private-money)
+* [Anarchocapitalism](/concepts/anarchocapitalism)
+* [Reserve Currency](/concepts/reserve-currency)
+* [Sanctions Enforcement ](/concepts/sanctions-enforcement)
+* [Techno Collectivism](/concepts/techno-collectivism)
+* [Technolibertarianism](/concepts/technolibertarianism)
 
 
 ### FAQs
 
 
 
-* [Do crypto assets pose a risk to the state?](https://web3.lifeitself.us/claims/is-risk-to-state)
-* [Does Bitcoin threaten the US dollar as reserve currency?](https://web3.lifeitself.us/claims/is-threat-dollar)
-* [What is the narrative economics of crypto assets?](https://web3.lifeitself.us/claims/is-narrative-economics)
-* [Is the underlying technology of “blockchain” useful for non-monetary purposes?](https://web3.lifeitself.us/claims/is-blockchain-tech)
-* [Is Web3 decentralized?](https://web3.lifeitself.us/claims/is-web3-decentralized)
+* [Do crypto assets pose a risk to the state?](/claims/is-risk-to-state)
+* [Does Bitcoin threaten the US dollar as reserve currency?](/claims/is-threat-dollar)
+* [What is the narrative economics of crypto assets?](/claims/is-narrative-economics)
+* [Is the underlying technology of “blockchain” useful for non-monetary purposes?](/claims/is-blockchain-tech)
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
 
 ### Library
@@ -341,7 +343,7 @@ This claim argues that cryptocurrencies are a liberatory and egalitarian force t
 
 ### Evaluation of claim
 
-Our evaluation of this claim is that financial inclusion via cryptocurrencies is not something to be desired. The crypto markets are currently drastically under regulated, resulting in unacceptable levels of risk to individuals and risk to the broader financial system. Web3 facilitates [predatory inclusion](https://web3.lifeitself.us/concepts/predatory-inclusion): individuals are encouraged to join a volatile and risk-laden marketplace rife with fraud and [asymmetric information](https://web3.lifeitself.us/concepts/asymmetric-information).
+Our evaluation of this claim is that financial inclusion via cryptocurrencies is not something to be desired. The crypto markets are currently drastically under regulated, resulting in unacceptable levels of risk to individuals and risk to the broader financial system. Web3 facilitates [predatory inclusion](/concepts/predatory-inclusion): individuals are encouraged to join a volatile and risk-laden marketplace rife with fraud and [asymmetric information](/concepts/asymmetric-information).
 
 In addition, crypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency. It is therefore unusable as a scalable means for purchasing goods and services
 
@@ -350,48 +352,48 @@ In addition, crypto is not a solution for the unbanked, because by its deflation
 
 
 
-* [Deep Dive: Are Crypto Tokens Securities?](https://web3.lifeitself.us/notes/are-crypto-tokens-securities) 
-* [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies ](https://web3.lifeitself.us/notes/a-macroeconomics-perspective-on-cryptocurrencies)
-* [Deep Dive: Market Fundamentalism](https://web3.lifeitself.us/notes/market-fundamentalism) 
-* [Richard D. Bartlett, Stephen Reid & Rufus Pollock on Critical Exploration of Web3](https://web3.lifeitself.us/notes/richard-bartlett-and-stephen-reid)
-* [Stephen Reid & Rufus Pollock on Worker Cooperatives and DAOs](https://web3.lifeitself.us/notes/on-worker-cooperatives)
-* [Crypto: can these financial perpetual motion machines work?](https://web3.lifeitself.us/notes/financial-perpetual-motion-machine)
-* [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](https://web3.lifeitself.us/notes/web3-dystopia)
+* [Deep Dive: Are Crypto Tokens Securities?](/notes/are-crypto-tokens-securities) 
+* [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
+* [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
+* [Richard D. Bartlett, Stephen Reid & Rufus Pollock on Critical Exploration of Web3](/notes/richard-bartlett-and-stephen-reid)
+* [Stephen Reid & Rufus Pollock on Worker Cooperatives and DAOs](/notes/on-worker-cooperatives)
+* [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine)
+* [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](/notes/web3-dystopia)
 
 
 ### Concepts
 
 
 
-* [Asymmetric information](https://web3.lifeitself.us/concepts/asymmetric-information)
-* [Bank](https://web3.lifeitself.us/concepts/bank)
-* [Crowdfunding](https://web3.lifeitself.us/concepts/crowdfunding) 
-* [Unbanked](https://web3.lifeitself.us/concepts/unbanked16dd3ddcd7bfc19ae2113bb5/concepts/unbanked.md)
-* [Crypto exchanges ](https://web3.lifeitself.us/concepts/crypto-exchange)
-* [Predatory inclusion](https://web3.lifeitself.us/concepts/predatory-inclusion)
-* [Ponzinomics ](https://web3.lifeitself.us/concepts/ponzinomics)
-* [Gambling](https://web3.lifeitself.us/concepts/gambling)
-* [Externalities ](https://web3.lifeitself.us/concepts/externalities)
-* [Bandwagon Bias ](https://web3.lifeitself.us/concepts/bandwagon-bias)
-* [Pyramid Scheme ](https://web3.lifeitself.us/concepts/pyramid-scheme)
-* [Cryptoanarchism](https://web3.lifeitself.us/concepts/cryptoanarchism)
-* [Technosolutionism](https://web3.lifeitself.us/concepts/technosolutionism)
-* [Mobile-payments](https://web3.lifeitself.us/concepts/mobile-payments) 
+* [Asymmetric information](/concepts/asymmetric-information)
+* [Bank](/concepts/bank)
+* [Crowdfunding](/concepts/crowdfunding) 
+* [Unbanked](/concepts/unbanked16dd3ddcd7bfc19ae2113bb5/concepts/unbanked.md)
+* [Crypto exchanges ](/concepts/crypto-exchange)
+* [Predatory inclusion](/concepts/predatory-inclusion)
+* [Ponzinomics](/concepts/ponzinomics)
+* [Gambling](/concepts/gambling)
+* [Externalities ](/concepts/externalities)
+* [Bandwagon Bias ](/concepts/bandwagon-bias)
+* [Pyramid Scheme ](/concepts/pyramid-scheme)
+* [Cryptoanarchism](/concepts/cryptoanarchism)
+* [Technosolutionism](/concepts/technosolutionism)
+* [Mobile-payments](/concepts/mobile-payments) 
 
 
 ### FAQs
 
 
 
-* [Is Bitcoin a currency?](https://web3.lifeitself.us/claims/is-bitcoin-currency)
-* [Is crypto a solution for the unbanked?](https://web3.lifeitself.us/claims/is-crypto-unbanked)
-* [Are crypto tokens a negative-sum investment?](https://web3.lifeitself.us/claims/is-negative-sum)
-* [Why do people invest in crypto tokens?](https://web3.lifeitself.us/claims/is-why-invest)
-* [Is an unregulated transnational payment system desirable?](https://web3.lifeitself.us/claims/is-transnational-payment)
-* [Can I raise money for my non-profit using crypto tokens? ](https://web3.lifeitself.us/claims/is-raise-nonprofit)
-* [Can I do a crowdfunded equity raise for my company? ](https://web3.lifeitself.us/claims/is-raise-company)
-* [Are crypto assets predatory investments?](https://web3.lifeitself.us/claims/is-predatory)
-* [Are crypto assets a form of gambling?](https://web3.lifeitself.us/claims/is-gambling)
+* [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is crypto a solution for the unbanked?](/claims/is-crypto-unbanked)
+* [Are crypto tokens a negative-sum investment?](/claims/is-negative-sum)
+* [Why do people invest in crypto tokens?](/claims/is-why-invest)
+* [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
+* [Can I raise money for my non-profit using crypto tokens?](/claims/is-raise-nonprofit)
+* [Can I do a crowdfunded equity raise for my company? ](/claims/is-raise-company)
+* [Are crypto assets predatory investments?](/claims/is-predatory)
+* [Are crypto assets a form of gambling?](/claims/is-gambling)
 
 
 ### Library
@@ -426,33 +428,33 @@ Our evaluation of this claim is that crypto is not an anti-authoritarian force:
 
 
 
-* [Deep Dive: Bitcoin as an Anti-Authoritarian Force ](https://web3.lifeitself.us/notes/bitcoin-as-anti-authoritarian)
+* [Deep Dive: Bitcoin as an Anti-Authoritarian Force ](/notes/bitcoin-as-anti-authoritarian)
 
 
 ### Concepts
 
 
 
-* [Technolibertarianism](https://web3.lifeitself.us/concepts/technolibertarianism)
-* [Cryptoanarchism](https://web3.lifeitself.us/concepts/cryptoanarchism)
-* [Techno Collectivism](https://web3.lifeitself.us/concepts/techno-collectivism)
-* [Technopopulism](https://web3.lifeitself.us/concepts/technopopulism)
-* [Decentralization](https://web3.lifeitself.us/concepts/decentralization)
-* [Illicit Financing ](https://web3.lifeitself.us/concepts/illicit-financing)
-* [Censorship Resistance](https://web3.lifeitself.us/concepts/censorship-resistence)
-* [Shadow Bank ](https://web3.lifeitself.us/concepts/shadow-bank)
-* [Pseudonymous](https://web3.lifeitself.us/concepts/pseudonymous)
+* [Technolibertarianism](/concepts/technolibertarianism)
+* [Cryptoanarchism](/concepts/cryptoanarchism)
+* [Techno Collectivism](/concepts/techno-collectivism)
+* [Technopopulism](/concepts/technopopulism)
+* [Decentralization](/concepts/decentralization)
+* [Illicit Financing](/concepts/illicit-financing)
+* [Censorship Resistance](/concepts/censorship-resistence)
+* [Shadow Bank ](/concepts/shadow-bank)
+* [Pseudonymous](/concepts/pseudonymous)
 
 
 ### FAQs
 
 
 
-* [Is Bitcoin a currency?](https://web3.lifeitself.us/claims/is-bitcoin-currency)
-* [Is Bitcoin a means to counter authoritarian regimes?](https://web3.lifeitself.us/claims/is-authoritarianism)
-* [Is an unregulated transnational payment system desirable?](https://web3.lifeitself.us/claims/is-transnational-payment)
-* [Is crypto legal?](https://web3.lifeitself.us/claims/is-legal)
-* [Is Web3 decentralized?](https://web3.lifeitself.us/claims/is-web3-decentralized)
+* [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is Bitcoin a means to counter authoritarian regimes?](/claims/is-authoritarianism)
+* [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
+* [Is crypto legal?](/claims/is-legal)
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
 
 ### Library
@@ -481,36 +483,36 @@ Our evaluation is that crypto is not a means to accelerate the collapse of capit
 
 
 
-* [Deep Dive: Web3 and Post-State Technocracy](https://web3.lifeitself.us/notes/post-state-technocracy) 
-* [Deep Dive: Fintech Incrementalism And Responsible Innovation ](https://web3.lifeitself.us/notes/fintech-incrementalism-and-responsible-innovation)
-* [Crypto: can these financial perpetual motion machines work?](https://web3.lifeitself.us/notes/financial-perpetual-motion-machine)
-* [Notes on Dan Olson's 'Line Goes Up'](https://web3.lifeitself.us/notes/olson-2022-line-go-up)
+* [Deep Dive: Web3 and Post-State Technocracy](/notes/post-state-technocracy) 
+* [Deep Dive: Fintech Incrementalism And Responsible Innovation ](/notes/fintech-incrementalism-and-responsible-innovation)
+* [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine)
+* [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
 
 
 ### Concepts
 
 
 
-* [Money](https://web3.lifeitself.us/concepts/money)
-* [Currency](https://web3.lifeitself.us/concepts/currency)
-* [Accelerationism](https://web3.lifeitself.us/concepts/accelerationism) 
-* [Capitalism](https://web3.lifeitself.us/concepts/capitalism)
-* [Market ](https://web3.lifeitself.us/concepts/market)
-* [Marxism ](https://web3.lifeitself.us/concepts/marxism)
-* [Financial Nihilism](https://web3.lifeitself.us/concepts/financial-nihilism)
-* [Technosolutionism](https://web3.lifeitself.us/concepts/technosolutionism)
+* [Money](/concepts/money)
+* [Currency](/concepts/currency)
+* [Accelerationism](/concepts/accelerationism) 
+* [Capitalism](/concepts/capitalism)
+* [Market](/concepts/market)
+* [Marxism](/concepts/marxism)
+* [Financial Nihilism](/concepts/financial-nihilism)
+* [Technosolutionism](/concepts/technosolutionism)
 
 
 ### FAQs
 
 
 
-* [Is web3 a means to rebuild the global financial system?](https://web3.lifeitself.us/claims/is-new-financial-system)
-* [Is an unregulated transnational payment system desirable?](https://web3.lifeitself.us/claims/is-transnational-payment)
-* [It Bitcoin a currency?](https://web3.lifeitself.us/claims/is-bitcoin-currency)
-* [Are crypto assets a hedge against the "debasement" of the dollar?](https://web3.lifeitself.us/claims/is-hedge-debasement)
-* [Are crypto tokens a means to destroy capitalism?](https://web3.lifeitself.us/claims/is-collapse)
-* [Is Web3 decentralized?](https://web3.lifeitself.us/claims/is-web3-decentralized)
+* [Is web3 a means to rebuild the global financial system?](/claims/is-new-financial-system)
+* [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
+* [It Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Are crypto assets a hedge against the "debasement" of the dollar?](/claims/is-hedge-debasement)
+* [Are crypto tokens a means to destroy capitalism?](/claims/is-collapse)
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
 
 ### Library
@@ -538,35 +540,35 @@ Our analysis is that the economic structure of NFTs is almost identical to that 
 
 
 
-* [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies ](https://web3.lifeitself.us/notes/a-macroeconomics-perspective-on-cryptocurrencies)
-* [Deep Dive: Market Fundamentalism](https://web3.lifeitself.us/notes/market-fundamentalism) 
-* [Notes on Dan Olson's 'Line Goes Up'](https://web3.lifeitself.us/notes/olson-2022-line-go-up)
-* [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](https://web3.lifeitself.us/notes/web3-dystopia)
+* [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
+* [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
+* [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
+* [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](/notes/web3-dystopia)
 
 
 ### Concepts
 
 
 
-* [Art ](https://web3.lifeitself.us/concepts/art)
-* [Artificial scarcity](https://web3.lifeitself.us/concepts/artificial-scarcity)
-* [NFTs](https://web3.lifeitself.us/concepts/nft)
-* [Cryptoasset ](https://web3.lifeitself.us/concepts/cryptoasset)
-* [Artificial Demand](https://web3.lifeitself.us/concepts/artificial-demand)
-* [Sign Value ](https://web3.lifeitself.us/concepts/sign-value)
-* [Predatory Inclusion](https://web3.lifeitself.us/concepts/predatory-inclusion)
-* [Externalities ](https://web3.lifeitself.us/concepts/externalities)
-* [Bandwagon Bias](https://web3.lifeitself.us/concepts/bandwagon-bias)
-* [Fictitious commodity](https://web3.lifeitself.us/concepts/ficticious-commodity)
+* [Art](/concepts/art)
+* [Artificial scarcity](/concepts/artificial-scarcity)
+* [NFTs](/concepts/nft)
+* [Cryptoasset ](/concepts/cryptoasset)
+* [Artificial Demand](/concepts/artificial-demand)
+* [Sign Value ](/concepts/sign-value)
+* [Predatory Inclusion](/concepts/predatory-inclusion)
+* [Externalities ](/concepts/externalities)
+* [Bandwagon Bias](/concepts/bandwagon-bias)
+* [Fictitious commodity](/concepts/ficticious-commodity)
 
 
 ### FAQs
 
 
 
-* [Are NFTs good for artists?](https://web3.lifeitself.us/claims/is-nfts-artists) 
-* [Is Web3 decentralized?](https://web3.lifeitself.us/claims/is-web3-decentralized)
-* [Are crypto assets predatory investments?](https://web3.lifeitself.us/claims/is-predatory)
+* [Are NFTs good for artists?](/claims/is-nfts-artists) 
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
+* [Are crypto assets predatory investments?](/claims/is-predatory)
 
 
 ### Library
@@ -593,28 +595,28 @@ Our evaluation of this claim is that Web3 is not a means to disrupt the American
 
 
 
-* [Deep Dive: Web3 and Post-State Technocracy  ](https://web3.lifeitself.us/notes/post-state-technocracy)
-* [Walch, Angela. Deconstructing 'Decentralization'; Exploring the Core Claim of Crypto Systems](https://web3.lifeitself.us/notes/deconstructing-decentralization)
-* [Samer Hassan on Decentralization, Platform Monopolies and Web3](https://web3.lifeitself.us/notes/samer-hassan) 
+* [Deep Dive: Web3 and Post-State Technocracy](/notes/post-state-technocracy)
+* [Walch, Angela. Deconstructing 'Decentralization'; Exploring the Core Claim of Crypto Systems](/notes/deconstructing-decentralization)
+* [Samer Hassan on Decentralization, Platform Monopolies and Web3](/notes/samer-hassan) 
 
 
 ### Concepts
 
 
 
-* [Decentralization](https://web3.lifeitself.us/concepts/decentralization)  
-* [Recentralization ](https://web3.lifeitself.us/concepts/recentralization)
-* [Techno Collectivism](https://web3.lifeitself.us/concepts/techno-collectivism)
+* [Decentralization](/concepts/decentralization)  
+* [Recentralization](/concepts/recentralization)
+* [Techno Collectivism](/concepts/techno-collectivism)
 
 
 ### FAQs
 
 
 
-* [Is web3 a means to dismantle the American tech hegemony?](https://web3.lifeitself.us/claims/is-disrupt-hegemony)  
-* [Is crypto building a new internet?](https://web3.lifeitself.us/claims/is-new-internet) 
-* [Is the underlying technology of “blockchain” useful for non-monetary purposes?](https://web3.lifeitself.us/claims/is-blockchain-tech)
-* [Is Web3 decentralized?](https://web3.lifeitself.us/claims/is-web3-decentralized)
+* [Is web3 a means to dismantle the American tech hegemony?](/claims/is-disrupt-hegemony)  
+* [Is crypto building a new internet?](/claims/is-new-internet) 
+* [Is the underlying technology of “blockchain” useful for non-monetary purposes?](/claims/is-blockchain-tech)
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
 
 ### Library
@@ -644,86 +646,86 @@ Our evaluation of this claim is that markets work best when we have abundant pub
 
 
 
-* [Deep Dive: Stephen Diehl & Rufus Pollock on Unfettered & Unregulated Financial Markets](https://web3.lifeitself.us/notes/market-fundamentalism): In this podcast episode, Rufus Pollock and Stephen Diehl explore a common incentive for investing in crypto: the belief - held by day traders and quantitative hedge funds alike - that crypto can make those who trade it a lot of money. Particular focus in this episode is placed on the 'market fundamentalist' position.
-*  [Deep Dive: Market Fundamentalism](https://web3.lifeitself.us/notes/market-fundamentalism) 
-* [A Macroeconomics Perspective on Cryptocurrencies ](https://web3.lifeitself.us/notes/a-macroeconomics-perspective-on-cryptocurrencies) 
-* [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](https://web3.lifeitself.us/notes/cryptocurrencies-an-assessment)
-* [Examples Of Retail Investors Speculating ](https://web3.lifeitself.us/notes/examples-of-ordinary-people-speculating)
-* [Crypto: can these financial perpetual motion machines work?](https://web3.lifeitself.us/notes/financial-perpetual-motion-machine) 
-* [Notes on Dan Olson's 'Line Goes Up'](https://web3.lifeitself.us/notes/olson-2022-line-go-up)
-* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](https://web3.lifeitself.us/notes/the-encrypted-threat)’
+* [Deep Dive: Stephen Diehl & Rufus Pollock on Unfettered & Unregulated Financial Markets](/notes/market-fundamentalism)
+*  [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
+* [A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies) 
+* [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](/notes/cryptocurrencies-an-assessment)
+* [Examples Of Retail Investors Speculating ](/notes/examples-of-ordinary-people-speculating)
+* [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine) 
+* [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
+* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](/notes/the-encrypted-threat)’
 
 
 ### Concepts
 
 
 
-* [Artificial Demand](https://web3.lifeitself.us/concepts/artificial-demand)
-* [Asymmetric information](https://web3.lifeitself.us/concepts/asymmetric-information)
-* [Bandwagon Bias ](https://web3.lifeitself.us/concepts/bandwagon-bias)
-* [Bank Run](https://web3.lifeitself.us/concepts/bank-run)
-* [Bubble ](https://web3.lifeitself.us/concepts/bubble)
-* [Capitalism](https://web3.lifeitself.us/concepts/capitalism)
-* [Cartel](https://web3.lifeitself.us/concepts/cartel)
-* [Crypto exchanges](https://web3.lifeitself.us/concepts/crypto-exchange)
-* [Exit-scam](https://web3.lifeitself.us/concepts/exit-scam) 
-* [Expected Return](https://web3.lifeitself.us/concepts/expected-return)
-* [Externalities ](https://web3.lifeitself.us/concepts/externalities)
-* [Fictitious commodities](https://web3.lifeitself.us/concepts/ficticious-commodity)
-* [Financial Asset ](https://web3.lifeitself.us/concepts/financial-asset)
-* [Front running](https://web3.lifeitself.us/concepts/front-running)
-* [Gambling](https://web3.lifeitself.us/concepts/gambling)
-* [Greater fool theory](https://web3.lifeitself.us/concepts/greater-fool-theory)
-* [High Control Group ](https://web3.lifeitself.us/concepts/high-control-group)
-* [Income Cashflows](https://web3.lifeitself.us/concepts/income-cashflows)
-* [Keynesian economics](https://web3.lifeitself.us/concepts/keynsian-economics)
-* [Leverage](https://web3.lifeitself.us/concepts/leverage)
-* [Liquidity ](https://web3.lifeitself.us/concepts/liquidity)
-* [Madness Crowds ](https://web3.lifeitself.us/concepts/madness-crowds)
-* [Market](https://web3.lifeitself.us/concepts/market)
-* [Market Fundamentalism ](https://web3.lifeitself.us/concepts/market-fundamentalism) 
-* [Market Mania ](https://web3.lifeitself.us/concepts/market-mania)
-* [Market Manipulation](https://web3.lifeitself.us/concepts/market-manipulation)
-* [Market Value ](https://web3.lifeitself.us/concepts/market-value)
-* [Memecoin ](https://web3.lifeitself.us/concepts/memecoin)
-* [Meme-stock](https://web3.lifeitself.us/concepts/meme-stock) 
-* [Moral hazard](https://web3.lifeitself.us/concepts/moral-hazard)
-* [Narrative-economics](https://web3.lifeitself.us/concepts/narrative-economics)
-* [Paper-wealth](https://web3.lifeitself.us/concepts/paper-wealth) 
-* [Platform Risk ](https://web3.lifeitself.us/concepts/platform-risk)
-* [Ponzinomics ](https://web3.lifeitself.us/concepts/ponzinomics)
-* [Pre Mine ](https://web3.lifeitself.us/concepts/pre-mine)
-* [Predatory inclusion](https://web3.lifeitself.us/concepts/predatory-inclusion)
-* [Present Value](https://web3.lifeitself.us/concepts/present-value)
-* [Price formation](https://web3.lifeitself.us/concepts/price-formation)
-* [Price risk](https://web3.lifeitself.us/concepts/price-risk)
-* [Pump and dump scheme](https://web3.lifeitself.us/concepts/pump-and-dump)
-* [Pyramid Scheme ](https://web3.lifeitself.us/concepts/pyramid-scheme)
-* [Speculation](https://web3.lifeitself.us/concepts/speculation)
-* [Systemic Risk ](https://web3.lifeitself.us/concepts/systemic-risk)
-* [Regulation](https://web3.lifeitself.us/concepts/regulation)
-* [Risk](https://web3.lifeitself.us/concepts/risk) 
-* [Technolibertarianism](https://web3.lifeitself.us/concepts/technolibertarianism)
-* [Value](https://web3.lifeitself.us/concepts/value)
-* [Zero Sum Game ](https://web3.lifeitself.us/concepts/zero-sum-game)
+* [Artificial Demand](/concepts/artificial-demand)
+* [Asymmetric information](/concepts/asymmetric-information)
+* [Bandwagon Bias ](/concepts/bandwagon-bias)
+* [Bank Run](/concepts/bank-run)
+* [Bubble ](/concepts/bubble)
+* [Capitalism](/concepts/capitalism)
+* [Cartel](/concepts/cartel)
+* [Crypto exchanges](/concepts/crypto-exchange)
+* [Exit-scam](/concepts/exit-scam) 
+* [Expected Return](/concepts/expected-return)
+* [Externalities ](/concepts/externalities)
+* [Fictitious commodities](/concepts/ficticious-commodity)
+* [Financial Asset ](/concepts/financial-asset)
+* [Front running](/concepts/front-running)
+* [Gambling](/concepts/gambling)
+* [Greater fool theory](/concepts/greater-fool-theory)
+* [High Control Group ](/concepts/high-control-group)
+* [Income Cashflows](/concepts/income-cashflows)
+* [Keynesian economics](/concepts/keynsian-economics)
+* [Leverage](/concepts/leverage)
+* [Liquidity ](/concepts/liquidity)
+* [Madness Crowds ](/concepts/madness-crowds)
+* [Market](/concepts/market)
+* [Market Fundamentalism ](/concepts/market-fundamentalism) 
+* [Market Mania ](/concepts/market-mania)
+* [Market Manipulation](/concepts/market-manipulation)
+* [Market Value ](/concepts/market-value)
+* [Memecoin ](/concepts/memecoin)
+* [Meme-stock](/concepts/meme-stock) 
+* [Moral hazard](/concepts/moral-hazard)
+* [Narrative-economics](/concepts/narrative-economics)
+* [Paper-wealth](/concepts/paper-wealth) 
+* [Platform Risk ](/concepts/platform-risk)
+* [Ponzinomics ](/concepts/ponzinomics)
+* [Pre Mine ](/concepts/pre-mine)
+* [Predatory inclusion](/concepts/predatory-inclusion)
+* [Present Value](/concepts/present-value)
+* [Price formation](/concepts/price-formation)
+* [Price risk](/concepts/price-risk)
+* [Pump and dump scheme](/concepts/pump-and-dump)
+* [Pyramid Scheme ](/concepts/pyramid-scheme)
+* [Speculation](/concepts/speculation)
+* [Systemic Risk ](/concepts/systemic-risk)
+* [Regulation](/concepts/regulation)
+* [Risk](/concepts/risk) 
+* [Technolibertarianism](/concepts/technolibertarianism)
+* [Value](/concepts/value)
+* [Zero Sum Game](/concepts/zero-sum-game)
 
 
 ### FAQs
 
 
 
-* [Is Bitcoin a currency?](https://web3.lifeitself.us/claims/is-bitcoin-currency)
-* [Is crypto legal?](https://web3.lifeitself.us/claims/is-legal)
-* [Is bitcoin compatible with ESG investing?](https://web3.lifeitself.us/claims/is-bitcoin-esg)
-* [Why do people invest in crypto tokens?](https://web3.lifeitself.us/claims/is-why-invest)
-* [Are crypto tokens a negative-sum investment?](https://web3.lifeitself.us/claims/is-negative-sum)
-* [Are crypto assets a bubble?](https://web3.lifeitself.us/claims/is-bubble)
-* [Do crypto assets have a verifiable valuation model?](https://web3.lifeitself.us/claims/is-valuation-model)
-* [Are crypto assets a form of gambling?](https://web3.lifeitself.us/claims/is-gambling)
-*  [What is the narrative economics of crypto assets?](https://web3.lifeitself.us/claims/is-narrative-economics)
-* [What consumer protections exist for crypto assets?](https://web3.lifeitself.us/claims/is-consumer-protections)
-* [Are crypto assets predatory investments?](https://web3.lifeitself.us/claims/is-predatory)
-* [Are crypto assets a systemic risk to the economy? ](https://web3.lifeitself.us/claims/is-systemic-risk)
+* [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is crypto legal?](/claims/is-legal)
+* [Is bitcoin compatible with ESG investing?](/claims/is-bitcoin-esg)
+* [Why do people invest in crypto tokens?](/claims/is-why-invest)
+* [Are crypto tokens a negative-sum investment?](/claims/is-negative-sum)
+* [Are crypto assets a bubble?](/claims/is-bubble)
+* [Do crypto assets have a verifiable valuation model?](/claims/is-valuation-model)
+* [Are crypto assets a form of gambling?](/claims/is-gambling)
+*  [What is the narrative economics of crypto assets?](/claims/is-narrative-economics)
+* [What consumer protections exist for crypto assets?](/claims/is-consumer-protections)
+* [Are crypto assets predatory investments?](/claims/is-predatory)
+* [Are crypto assets a systemic risk to the economy?](/claims/is-systemic-risk)
 
 
 ### Library section
@@ -753,41 +755,40 @@ Our evaluation of this claim is that while there are examples of DAOs facilitati
 
 
 
-* [Deep Dive: Collective Action Problems & Climate Change](https://web3.lifeitself.us/notes/collective-action-problems-and-climate-change)
-* [Richard D. Bartlett, Stephen Reid & Rufus Pollock on Critical Exploration of Web3](https://web3.lifeitself.us/notes/richard-bartlett-and-stephen-reid)
-* [On the Potential of DAOs & Web3 with Jordan Hall & Rufus Pollock](https://web3.lifeitself.us/notes/on-the-potential-of-daos-and-web3)
-* [Stephen Reid & Rufus Pollock on Worker Cooperatives and DAOs](https://web3.lifeitself.us/notes/on-worker-cooperatives)
-* [Open Collective, Steward Ownership & Exit to Community with Pia Mancini](https://web3.lifeitself.us/notes/pia-mancini-open-collective-dialogue)
-* [Regenerative Finance and Web3 for Public Goods](https://web3.lifeitself.us/notes/jeff-emmett-on-regenerative-finance)
-* [Samer Hassan on Decentralization, Platform Monopolies and Web3](https://web3.lifeitself.us/notes/samer-hassan) 
-* [In conversation with Hypha](https://web3.lifeitself.us/notes/in-conversation-with-hypha) 
+* [Deep Dive: Collective Action Problems & Climate Change](/notes/collective-action-problems-and-climate-change)
+* [Richard D. Bartlett, Stephen Reid & Rufus Pollock on Critical Exploration of Web3](/notes/richard-bartlett-and-stephen-reid)
+* [On the Potential of DAOs & Web3 with Jordan Hall & Rufus Pollock](/notes/on-the-potential-of-daos-and-web3)
+* [Stephen Reid & Rufus Pollock on Worker Cooperatives and DAOs](/notes/on-worker-cooperatives)
+* [Open Collective, Steward Ownership & Exit to Community with Pia Mancini](/notes/pia-mancini-open-collective-dialogue)
+* [Regenerative Finance and Web3 for Public Goods](/notes/jeff-emmett-on-regenerative-finance)
+* [Samer Hassan on Decentralization, Platform Monopolies and Web3](/notes/samer-hassan) 
+* [In conversation with Hypha](/notes/in-conversation-with-hypha) 
 
 
 ### Concepts
 
 
 
-* [Distributed Autonomous Organization](https://web3.lifeitself.us/concepts/dao)
-* [Technosolutionism](https://web3.lifeitself.us/concepts/technosolutionism)
-* [Techno Collectivism](https://web3.lifeitself.us/concepts/techno-collectivism)
-* [Hyperfinancialization](https://web3.lifeitself.us/claims/is-hyperfinancialization)
-* [Decentralization](https://web3.lifeitself.us/concepts/decentralization)
-* [Externalities ](https://web3.lifeitself.us/concepts/externalities)
-* [Free Rider Problem](https://web3.lifeitself.us/concepts/free-rider-problem) 
-* [Public Goods Problem ](https://web3.lifeitself.us/concepts/public-goods-problem)
-* [Governance tokens](https://web3.lifeitself.us/concepts/governance-token) 
-* [Smart Contracts ](https://web3.lifeitself.us/concepts/smart-contracts)
-* [Post-state Technocracy](https://web3.lifeitself.us/concepts/post-state-technocracy)
-* [Consensus algorithm](https://web3.lifeitself.us/concepts/consensus-algorithm)
-* [DAO ](https://web3.lifeitself.us/concepts/dao)
+* [Distributed Autonomous Organization](/concepts/dao)
+* [Technosolutionism](/concepts/technosolutionism)
+* [Techno Collectivism](/concepts/techno-collectivism)
+* [Hyperfinancialization](/claims/is-hyperfinancialization)
+* [Decentralization](/concepts/decentralization)
+* [Externalities](/concepts/externalities)
+* [Free Rider Problem](/concepts/free-rider-problem) 
+* [Public Goods Problem ](/concepts/public-goods-problem)
+* [Governance tokens](/concepts/governance-token) 
+* [Smart Contracts ](/concepts/smart-contracts)
+* [Post-state Technocracy](/concepts/post-state-technocracy)
+* [Consensus algorithm](/concepts/consensus-algorithm)
 
 
 ### FAQs
 
 
 
-* [Is the underlying technology of “blockchain” useful for non-monetary purposes?](https://web3.lifeitself.us/claims/is-blockchain-tech)
-* [Is Web3 decentralized?](https://web3.lifeitself.us/claims/is-web3-decentralized)
+* [Is the underlying technology of “blockchain” useful for non-monetary purposes?](/claims/is-blockchain-tech)
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
 
 ### Library
@@ -814,37 +815,36 @@ Our evaluation is that web3 is yet to achieve this; we have not managed to find 
 
 
 
-* [Deep Dive: Web3 and Post-State Technocracy ](https://web3.lifeitself.us/notes/post-state-technocracy)
-* [Deep Dive: Collective Action Problems & Climate Change ](https://web3.lifeitself.us/notes/collective-action-problems-and-climate-change)
-* [Richard D. Bartlett, Stephen Reid & Rufus Pollock on Critical Exploration of Web3](https://web3.lifeitself.us/notes/richard-bartlett-and-stephen-reid)
-* [On the Potential of DAOs & Web3 with Jordan Hall & Rufus Pollock](https://web3.lifeitself.us/notes/on-the-potential-of-daos-and-web3)
-* [Notes on Jeff Emmett's 'Rewriting the Story of Human Collaboration'](https://web3.lifeitself.us/notes/emmett-2018-rewriting-story-human)
-* [KlimaDAO & Life Itself in Conversation](https://web3.lifeitself.us/notes/in-conversation-with-klimadao-part-one)
-* [Making Sense of KlimaDao](https://web3.lifeitself.us/notes/klimadao.finance)
-* [Regenerative Finance and Web3 for Public Goods](https://web3.lifeitself.us/notes/jeff-emmett-on-regenerative-finance)
+* [Deep Dive: Web3 and Post-State Technocracy ](/notes/post-state-technocracy)
+* [Deep Dive: Collective Action Problems & Climate Change ](/notes/collective-action-problems-and-climate-change)
+* [Richard D. Bartlett, Stephen Reid & Rufus Pollock on Critical Exploration of Web3](/notes/richard-bartlett-and-stephen-reid)
+* [On the Potential of DAOs & Web3 with Jordan Hall & Rufus Pollock](/notes/on-the-potential-of-daos-and-web3)
+* [Notes on Jeff Emmett's 'Rewriting the Story of Human Collaboration'](/notes/emmett-2018-rewriting-story-human)
+* [KlimaDAO & Life Itself in Conversation](/notes/in-conversation-with-klimadao-part-one)
+* [Making Sense of KlimaDao](/notes/klimadao.finance)
+* [Regenerative Finance and Web3 for Public Goods](/notes/jeff-emmett-on-regenerative-finance)
 
 
 ### Concepts
 
 
 
-* [Distributed Autonomous Organization](https://web3.lifeitself.us/concepts/dao)
-* [Free Rider Problem](https://web3.lifeitself.us/concepts/free-rider-problem) 
-* [Public Goods Problem ](https://web3.lifeitself.us/concepts/public-goods-problem)
-* [Initial Coin Offerings (ICO)](https://web3.lifeitself.us/concepts/ico)
-* [Regulatory Arbitrage](https://web3.lifeitself.us/concepts/regulatory-arbitrage)
-* [Crowdfunding](https://web3.lifeitself.us/concepts/crowdfunding) 
-* [Techno Collectivism](https://web3.lifeitself.us/concepts/techno-collectivism)
-* [DAO ](https://web3.lifeitself.us/concepts/dao)
+* [Distributed Autonomous Organization](/concepts/dao)
+* [Free Rider Problem](/concepts/free-rider-problem) 
+* [Public Goods Problem ](/concepts/public-goods-problem)
+* [Initial Coin Offerings (ICO)](/concepts/ico)
+* [Regulatory Arbitrage](/concepts/regulatory-arbitrage)
+* [Crowdfunding](/concepts/crowdfunding) 
+* [Techno Collectivism](/concepts/techno-collectivism)
 
 
 ### FAQs
 
 
 
-* [Is Web3 a well-defined term?](https://web3.lifeitself.us/claims/is-well-defined)
-* [Is Bitcoin a currency?](https://web3.lifeitself.us/claims/is-bitcoin-currency)
-* [Can I do a crowdfunded equity raise for my company? ](https://web3.lifeitself.us/claims/is-raise-company)
+* [Is Web3 a well-defined term?](/claims/is-well-defined)
+* [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Can I do a crowdfunded equity raise for my company? ](/claims/is-raise-company)
 
 
 ### Library
@@ -874,42 +874,42 @@ Our evaluation is that blockchain technology, detached from the sale of crypto a
 
 
 
-* [Deep Dive: Web3 and Post-State Technocracy](https://web3.lifeitself.us/notes/post-state-technocracy)
-* [Deep Dive: Collective Action Problems & Climate Change ](https://web3.lifeitself.us/notes/collective-action-problems-and-climate-change)
-* [Regenerative Finance and Web3 for Public Goods](https://web3.lifeitself.us/notes/jeff-emmett-on-regenerative-finance)
-* [Crypto Is Like The Early Internet](https://web3.lifeitself.us/notes/crypto-is-like-the-early-internet) 
-* [Walch, Angela. Deconstructing 'Decentralization'; Exploring the Core Claim of Crypto Systems](https://web3.lifeitself.us/notes/deconstructing-decentralization)
-* [Allen, Hilary. 2022. Driverless Finance](https://web3.lifeitself.us/notes/driverless-finance)
-* [Notes on Dan Olson's 'Line Goes Up'](https://web3.lifeitself.us/notes/olson-2022-line-go-up)
-* [Our notes on Gary Gensler's Remarks On Crypto Markets, Penn Law Capital Markets Association Annual Conference](https://web3.lifeitself.us/notes/sec-remarks)
-* [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](https://web3.lifeitself.us/notes/web3-dystopia)
+* [Deep Dive: Web3 and Post-State Technocracy](/notes/post-state-technocracy)
+* [Deep Dive: Collective Action Problems & Climate Change ](/notes/collective-action-problems-and-climate-change)
+* [Regenerative Finance and Web3 for Public Goods](/notes/jeff-emmett-on-regenerative-finance)
+* [Crypto Is Like The Early Internet](/notes/crypto-is-like-the-early-internet) 
+* [Walch, Angela. Deconstructing 'Decentralization'; Exploring the Core Claim of Crypto Systems](/notes/deconstructing-decentralization)
+* [Allen, Hilary. 2022. Driverless Finance](/notes/driverless-finance)
+* [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
+* [Our notes on Gary Gensler's Remarks On Crypto Markets, Penn Law Capital Markets Association Annual Conference](/notes/sec-remarks)
+* [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](/notes/web3-dystopia)
 
 
 ### Concepts
 
 
 
-* [Decentralization](https://web3.lifeitself.us/concepts/decentralization)
-* [Externalities ](https://web3.lifeitself.us/concepts/externalities)
-* [Recentralization](https://web3.lifeitself.us/concepts/recentralization)
-* [Technosolutionism](https://web3.lifeitself.us/concepts/technosolutionism)
-* [Post-state-technocracy](https://web3.lifeitself.us/concepts/post-state-technocracy)
-* [Crypto-inevitablism](https://web3.lifeitself.us/concepts/inevitablism) 
-* [Central Bank Digital Currency](https://web3.lifeitself.us/concepts/cbdc)
+* [Decentralization](/concepts/decentralization)
+* [Externalities ](/concepts/externalities)
+* [Recentralization](/concepts/recentralization)
+* [Technosolutionism](/concepts/technosolutionism)
+* [Post-state-technocracy](/concepts/post-state-technocracy)
+* [Crypto-inevitablism](/concepts/inevitablism) 
+* [Central Bank Digital Currency](/concepts/cbdc)
 
 
 ### FAQs
 
 
 
-* [Is Web3 a means to rebuild the global financial system?](https://web3.lifeitself.us/claims/is-new-financial-system)
-* [Is crypto building a new internet?](https://web3.lifeitself.us/claims/is-new-internet) 
-* [Is Web3 decentralized?](https://web3.lifeitself.us/claims/is-web3-decentralized)
-* [Is Web3 green?](https://web3.lifeitself.us/claims/is-web3-green)
-* [Is crypto bringing about the “financialization” of everything?](https://web3.lifeitself.us/claims/is-hyperfinancialization)
-* [Does building crypto have an opportunity cost?](https://web3.lifeitself.us/claims/is-opportunity-cost)
-* [Why does crypto have a weird subculture?](https://web3.lifeitself.us/claims/is-weird-culture)
-* [Are crypto tokens a means to destroy capitalism?](https://web3.lifeitself.us/claims/is-collapse)
+* [Is Web3 a means to rebuild the global financial system?](/claims/is-new-financial-system)
+* [Is crypto building a new internet?](/claims/is-new-internet) 
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
+* [Is Web3 green?](/claims/is-web3-green)
+* [Is crypto bringing about the “financialization” of everything?](/claims/is-hyperfinancialization)
+* [Does building crypto have an opportunity cost?](/claims/is-opportunity-cost)
+* [Why does crypto have a weird subculture?](/claims/is-weird-culture)
+* [Are crypto tokens a means to destroy capitalism?](/claims/is-collapse)
 
 
 ### Library section
