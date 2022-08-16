@@ -6,9 +6,9 @@ Big claims are being made for the potential of crypto and web3. We have engaged 
 
 We have spoken with technologists, economists, computer scientists, crypto skeptics and crypto enthusiasts. Our work has divided into two parts. First, to establish what is being claimed, and the higher aspirations these claims speak to. For example, that crypto and web3 can democratize finance with the deeper aspiration of a fairer and/or more innovative economy.
 
-Second, we have provided a detailed evaluation of each claim setting out reasons for thinking it true or false as well as any associated risks or alternative approaches to the same goal.
+Second, we have provided a detailed evaluation of each claim and have set out reasons for why we have concluded whether that claim is true or false in relation to the associated aspiration. We also analyze associated risks or alternative approaches to achieving the same goal.
 
-It is important that we make good choices about this emerging technology. We must decide whether to support, improve or curb it. Decide how to allocate our resources effectively. And finally,  to make these choices and take action in a constructive, intersectional and depolarizing way. 
+It is important that we make good choices about this emerging technology. We must decide whether to support, improve or curb it. Decide how to allocate our resources effectively. And finally, to make these choices and take action in a constructive, intersectional and depolarizing way. 
 
 The culmination of our sense-making effort is this guide. The guide starts with a basic introduction to the key concepts related to crypto and web3. The main part of the guide is organized by aspiration. Under each aspiration can be found the associated claim(s) with a brief description of the claim and our evaluation along with links to further detail, related concepts, FAQs and a reading list.
 
@@ -98,9 +98,9 @@ This section contains information relating to the claim that Bitcoin can be the 
 
 According to advocates of Bitcoin as the new gold standard, Bitcoin shares the features of gold which make it a good choice to use as a currency, but also has additional features which make it an even better choice than gold for a currency.
 
-### Evaluation of claim
+### Evaluation: False
 
-Our evaluation of this claim is that Bitcoin as a new gold standard would not achieve a more stable, more efficient economy: 
+Bitcoin as a new gold standard would not achieve a more stable, more efficient economy: 
 
 * the gold standard is inherently deflationary and moderate inflation is far preferable; 
 * the flexibility offered by the ability for governments/central banks to intervene is highly useful; 
@@ -165,9 +165,9 @@ According to the capitalist notion that greater [financialization](/claims/is-hy
 
 This position assumes that c[apitalism](/concepts/capitalism) is net positive in the world, and a fairer, more efficient and transparent economy benefits everyone.
 
-### Evaluation of claim
+### Evaluation: False
 
-Our evaluation of this claim is that “innovative” blockchain-based financial instruments and financial services would introduce an unacceptable amount of risk into the markets. 
+“Innovative” blockchain-based financial instruments and financial services would introduce an unacceptable amount of risk into the markets, thus not acheiving a more stable, more efficient, and more transparent economy.
 
 ### Content
 
@@ -251,9 +251,9 @@ This claim argues that states are no longer desirable and that blockchain techno
 
 In addition, modern nation states are too big. Blockchain technology can be used to achieve a more optimal form of human self-organization.
 
-### Evaluation of claim
+### Evaluation: False
 
-Our evaluation of this claim is that the entire argument is predicated on the technology being able to do the things they claim. This is falsely treated as a technical reality and an inevitability. States exist for a very good reason. It’s the only structure proven to sustain public goods at a civilization level and be the guarantor of last resort for justice, defense, and monetary issuance.
+The entire argument is predicated on the technology being able to do the things being claimed. This is falsely treated as a technical reality and an inevitability. States exist for a very good reason. It’s the only structure proven to sustain public goods at a civilization level and be the guarantor of last resort for justice, defense, and monetary issuance.
 
 ### Content
 
@@ -293,9 +293,9 @@ Our evaluation of this claim is that the entire argument is predicated on the te
 
 This claim argues that cryptocurrencies are a liberatory and egalitarian force that democratizes company formation, lowers barriers, and allows all types of common enterprises that were previously prohibited by law. In addition, crypto can facilitate the financial inclusion of the unbanked.
 
-### Evaluation of claim
+### Evaluation: False
 
-Our evaluation of this claim is that financial inclusion via cryptocurrencies is not something to be desired. The crypto markets are currently drastically under regulated, resulting in unacceptable levels of risk to individuals and risk to the broader financial system. Web3 facilitates [predatory inclusion](/concepts/predatory-inclusion): individuals are encouraged to join a volatile and risk-laden marketplace rife with fraud and [asymmetric information](/concepts/asymmetric-information).
+Financial inclusion via cryptocurrencies is not something to be desired. The crypto markets are currently drastically under regulated, resulting in unacceptable levels of risk to individuals and risk to the broader financial system. Web3 facilitates [predatory inclusion](/concepts/predatory-inclusion): individuals are encouraged to join a volatile and risk-laden marketplace rife with fraud and [asymmetric information](/concepts/asymmetric-information). This method of "financial inclusion" therefore cannot faciliate a fairer, freer society through.
 
 In addition, crypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency. It is therefore unusable as a scalable means for purchasing goods and services
 
@@ -349,7 +349,7 @@ In addition, crypto is not a solution for the unbanked, because by its deflation
 
 According to this claim, cryptocurrencies provide a privacy-friendly way to store or transfer funds in situations where the state is an adversary – for example, when opposing a repressive regime.
 
-### Evaluation of claim
+### Evaluation: Mostly False
 
 Crypto has very limited potential as an anti-authoritarian force. More importantly, any positive value is heavily outweighed by the potential downside in terms of enabling malign uses: money-laundering, fraud, terrorism etc. In summary:
 
@@ -394,9 +394,9 @@ This claim is based on the notion that we need to reconfigure the entire global 
 
 Advocates argue that we can reinvent money independent of existing power structures and that by doing so we can redefine value and power and achieve a fairer distribution of wealth.
 
-### Evaluation of claim
+### Evaluation: False
 
-Our evaluation is that crypto is not a means to accelerate the collapse of capitalism. The crypto ideology is an extension of the neoliberal project that aims to expand the scope and reach of markets to all aspects of human life, a concept often referred to as hyperfinancialization. Since crypto tokens aim to expand the scope of capitalism, they cannot bring about anything but more capitalism.
+Crypto is not a means to accelerate the collapse of capitalism. The crypto ideology is an extension of the neoliberal project that aims to expand the scope and reach of markets to all aspects of human life, a concept often referred to as hyperfinancialization. Since crypto tokens aim to expand the scope of capitalism, they cannot bring about anything but more capitalism.
 
 ### Content
 
@@ -436,9 +436,9 @@ Our evaluation is that crypto is not a means to accelerate the collapse of capit
 
 This claim is based on the notion that Web3 can create an economy where workers/creators can own the means of production. This claim argues that NFTs can facilitate a fairer deal for artists.
 
-### Evaluation of claim
+### Evaluation: False
 
-Our analysis is that the economic structure of NFTs is almost identical to that of multilevel marketing schemes. NFTs are a form of predatory inclusion that on average does not liberate artists. Instead most artists will engage in the token sales at a loss, making almost nothing in return.
+The economic structure of NFTs is almost identical to that of multilevel marketing schemes. NFTs are a form of predatory inclusion that on average does not liberate artists. Instead most artists will engage in the token sales at a loss, making almost nothing in return.
 
 ### Content
 
@@ -476,9 +476,9 @@ Our analysis is that the economic structure of NFTs is almost identical to that 
 
 This claim is premised on the notion that web3 technology can be used to build a decentralized web, which will hand back agency to individual users and will dismantle the monopoly held by companies like Google, Facebook, Amazon.
 
-### Evaluation of claim
+### Evaluation: False
 
-Our evaluation of this claim is that Web3 is not a means to disrupt the American tech hegemony.  Blockchain technologies have intractable scalability problems; the only means by which they can scale is by recentralization thereby recreating just another corporate monolith.
+Web3 is not a means to disrupt the American tech hegemony. Blockchain technologies have intractable scalability problems; the only means by which they can scale is by recentralization thereby recreating just another corporate monolith.
 
 ### Content
 
@@ -511,11 +511,11 @@ Our evaluation of this claim is that Web3 is not a means to disrupt the American
 
 ### Description
 
-This claim is rooted in the notion that unfettered and unregulated markets are efficient markets; unregulated markets allow companies to do what they're supposed to do, which is maximize returns to shareholders.  As the crypto markets are currently unregulated, those who subscribe to the market fundamentalist ideology argue that these markets therefore have the potential to make those who invest in crypto assets a lot of money. The trader or market fundamentalist view likely represents a majority of interest and activity in crypto. 
+This claim is rooted in the notion that unfettered and unregulated markets are efficient markets; unregulated markets allow companies to do what they're supposed to do, which is maximize returns to shareholders. As the crypto markets are currently unregulated, those who subscribe to the market fundamentalist ideology argue that these markets therefore have the potential to make those who invest in crypto assets a lot of money. The trader or market fundamentalist view likely represents a majority of interest and activity in crypto. 
 
-### Evaluation of claim
+### Evaluation: Mostly False
 
-Our evaluation of this claim is that markets work best when we have abundant public information and minimize fraud and collusion in price formation. Due to the unregulated nature of crypto markets, the markets are rife with fraud and asymmetric information. We also have no idea how much leverage is baked into the system due to the existence of complex financial instruments built upon assets with no fundamental value. The result is inequality (money flows to the sharks), individual and systemic risk, and moral hazard. 
+Markets work best when we have abundant public information and minimize fraud and collusion in price formation. Due to the unregulated nature of crypto markets, the markets are rife with fraud and asymmetric information. We also have no idea how much leverage is baked into the system due to the existence of complex financial instruments built upon assets with no fundamental value. The result is inequality (money flows to the sharks), individual and systemic risk, and moral hazard. 
 
 ### Content
 
@@ -608,9 +608,9 @@ Our evaluation of this claim is that markets work best when we have abundant pub
 
 This claim argues that blockchain technology can support more democratic, distributed governance and that, by revolutionizing systems of governance, web3 can facilitate cooperative solutions to collective action problems such as climate change.
 
-### Evaluation of claim
+### Evaluation: Mostly False
 
-Our evaluation of this claim is that while there are examples of DAOs facilitating distributed governance, we are yet to find an example of a DAO solving a collective action problem. 
+While there are examples of DAOs facilitating distributed governance, we are yet to find an example of a DAO solving a collective action problem. 
 
 ### Content
 
@@ -653,7 +653,7 @@ Our evaluation of this claim is that while there are examples of DAOs facilitati
 
 This claim argues that web3 can revolutionize the resourcing of public goods and the commons, especially in a voluntary way eg Gitcoin, KlimaDAO.
 
-### Evaluation of claim
+### Evaluation: False
 
 Our evaluation is that web3 is yet to achieve this; we have not managed to find an instance of blockchain technology being used to solve the public goods problem. 
 
@@ -698,9 +698,9 @@ Our evaluation is that web3 is yet to achieve this; we have not managed to find 
 
 This claim argues that web3 is the path which progress is taking. Historical inventions like the printing press were fraught with concern and risk, and yet humanity survived those paradigm shifts. Blockchain technology is no different than the printing press. We can’t stop runaway phenomena. We simply have to embrace them.
 
-### Evaluation of claim
+### Evaluation: False
 
-Our evaluation is that blockchain technology, detached from the sale of crypto assets, has shown no track record of providing benefit for any real world applications. A financial system rooted in blockchain technology is not desirable and the dream of revolutionary systems of governance built on blockchain technology which can support the solving of public goods problems and collective action problems remains unrealized.
+Blockchain technology, detached from the sale of crypto assets, has shown no track record of providing benefit for any real world applications. A financial system rooted in blockchain technology is not desirable and the dream of revolutionary systems of governance built on blockchain technology which can support the solving of public goods problems and collective action problems remains unrealized.
 
 ### Content
 
