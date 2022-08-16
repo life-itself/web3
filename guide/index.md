@@ -77,8 +77,6 @@ The culmination of our sense-making effort is this guide. The guide starts with 
 * [Mining ](/concepts/mining)
 * [Decentralization](/concepts/decentralization)
 
-
-
 # Foundational FAQs
 
 * [What does Web3 mean?](/is-well-defined)
@@ -88,13 +86,11 @@ The culmination of our sense-making effort is this guide. The guide starts with 
 * [What type of assets are crypto tokens?](/claims/is-type-of-asset) 
 * [Is crypto mining harmful to the environment?](/claims/is-environmental-footprint)
 
-
-
+---
 # Aspiration 1: A more stable, more efficient, and more transparent economy
-
+---
 
 ## Claim: Blockchain technology can facilitate the reduction of state intervention in the money supply 
-
 
 ### Description
 
@@ -102,12 +98,9 @@ This section contains information relating to the claim that Bitcoin can be the 
 
 According to advocates of Bitcoin as the new gold standard, Bitcoin shares the features of gold which make it a good choice to use as a currency, but also has additional features which make it an even better choice than gold for a currency.
 
-
 ### Evaluation of claim
 
 Our evaluation of this claim is that Bitcoin as a new gold standard would not achieve a more stable, more efficient economy: 
-
-
 
 * the gold standard is inherently deflationary and moderate inflation is far preferable; 
 * the flexibility offered by the ability for governments/central banks to intervene is highly useful; 
@@ -117,18 +110,12 @@ Our evaluation of this claim is that Bitcoin as a new gold standard would not ac
 * Bitcoin, unlike traditional commodities, has a negative price elasticity of demand. For this reason, Bitcoin looks like a speculative bubble, which at some point will inevitably crash.
 * Bitcoin does not share gold’s uniquness due to the emergence of many ‘alternative coins’. 
 
-
 ### Content
-
-
 
 * [Deep Dive: Web​​3, Bitcoin and Neo-metallism](/notes/neo-metallism)
 * [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](/notes/cryptocurrencies-an-assessment)
 
-
 ### Concepts
-
-
 
 * [Austrian economics](/concepts/austrian-economics)
 * [Bank](/concepts/bank)
@@ -153,10 +140,7 @@ Our evaluation of this claim is that Bitcoin as a new gold standard would not ac
 * [Technolibertarianism](/concepts/technolibertarianism)
 * [US dollar](/concepts/dollar)
 
-
 ### FAQs
-
-
 
 * [Is bitcoin a currency?](/claims/is-bitcoin-currency)
 * [Are crypto assets a risk to the dollar?](/claims/is-threat-dollar)
@@ -167,16 +151,11 @@ Our evaluation of this claim is that Bitcoin as a new gold standard would not ac
 * [Is private money desirable?](/claims/is-private-money)
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
-
 ### Library
-
-
 
 * [Neo-metallism Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/U7CJT3RQ) 
 
-
 ## Claim: Blockchain based financial innovation will create more efficient markets
-
 
 ### Description
 
@@ -186,15 +165,11 @@ According to the capitalist notion that greater [financialization](/claims/is-hy
 
 This position assumes that c[apitalism](/concepts/capitalism) is net positive in the world, and a fairer, more efficient and transparent economy benefits everyone.
 
-
 ### Evaluation of claim
 
 Our evaluation of this claim is that “innovative” blockchain-based financial instruments and financial services would introduce an unacceptable amount of risk into the markets. 
 
-
 ### Content
-
-
 
 * [Deep Dive: Fintech Incrementalism and Responsible Innovation](/notes/fintech-incrementalism-and-responsible-innovation)
 * [Deep Dive: Are Crypto Tokens Securities? ](/notes/are-crypto-tokens-securities)
@@ -209,10 +184,7 @@ Our evaluation of this claim is that “innovative” blockchain-based financial
 * [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](/notes/the-encrypted-threat)’
 * [Notes on Secretary of the Treasury, Janet L. Yellen's remarks on digital assets policy, innovation, and regulation](/notes/yellen-treasury-remarks)
 
-
 ### Concepts
-
-
 
 * [Artificial demand](/concepts/artificial-demand)
 * [Artificial scarcity](/concepts/artificial-scarcity)
@@ -256,8 +228,6 @@ Our evaluation of this claim is that “innovative” blockchain-based financial
 
 ### FAQs
 
-
-
 * [Is bitcoin a currency?](/claims/is-bitcoin-currency)
 * [Is crypto bringing about the “financialization of everything”?](/claims/is-hyperfinancialization)
 * [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
@@ -265,19 +235,15 @@ Our evaluation of this claim is that “innovative” blockchain-based financial
 * [Are crypto assets a systemic risk to the economy? ](/claims/is-systemic-risk)
 * [What is the narrative economics of crypto assets?](/claims/is-narrative-economics)
 
-
 ### Library
-
-
 
 * [Fintech Incrementalism Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/C56BYQD3) 
 
-
+---
 # Aspiration 2: A fairer and freer society 
-
+---
 
 ## Claim: The state can and should be hollowed out and blockchain technology can facilitate this
-
 
 ### Description
 
@@ -285,24 +251,17 @@ This claim argues that states are no longer desirable and that blockchain techno
 
 In addition, modern nation states are too big. Blockchain technology can be used to achieve a more optimal form of human self-organization.
 
-
 ### Evaluation of claim
 
 Our evaluation of this claim is that the entire argument is predicated on the technology being able to do the things they claim. This is falsely treated as a technical reality and an inevitability. States exist for a very good reason. It’s the only structure proven to sustain public goods at a civilization level and be the guarantor of last resort for justice, defense, and monetary issuance.
 
-
 ### Content
-
-
 
 * [Deep Dive: Web3 and Post-State Technocracy ](/notes/post-state-technocracy)
 * [Cory Doctorow on Blockchain, Crypto & Web3](/notes/cory-doctorow-on-blockchain)
 * [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses]/notes/the-encrypted-threat)’
 
-
 ### Concepts
-
-
 
 * [Bank](/concepts/bank)
 * [Post-state-technocracy](/concepts/post-state-technocracy)
@@ -316,10 +275,7 @@ Our evaluation of this claim is that the entire argument is predicated on the te
 * [Techno Collectivism](/concepts/techno-collectivism)
 * [Technolibertarianism](/concepts/technolibertarianism)
 
-
 ### FAQs
-
-
 
 * [Do crypto assets pose a risk to the state?](/claims/is-risk-to-state)
 * [Does Bitcoin threaten the US dollar as reserve currency?](/claims/is-threat-dollar)
@@ -327,21 +283,15 @@ Our evaluation of this claim is that the entire argument is predicated on the te
 * [Is the underlying technology of “blockchain” useful for non-monetary purposes?](/claims/is-blockchain-tech)
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
-
 ### Library
-
-
 
 * [Post-State Technocracy Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/G4ILACKC)
 
-
 ## Claim: Web3 can facilitate financial inclusion
-
 
 ### Description
 
 This claim argues that cryptocurrencies are a liberatory and egalitarian force that democratizes company formation, lowers barriers, and allows all types of common enterprises that were previously prohibited by law. In addition, crypto can facilitate the financial inclusion of the unbanked.
-
 
 ### Evaluation of claim
 
@@ -349,10 +299,7 @@ Our evaluation of this claim is that financial inclusion via cryptocurrencies is
 
 In addition, crypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency. It is therefore unusable as a scalable means for purchasing goods and services
 
-
 ### Content
-
-
 
 * [Deep Dive: Are Crypto Tokens Securities?](/notes/are-crypto-tokens-securities) 
 * [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
@@ -362,10 +309,7 @@ In addition, crypto is not a solution for the unbanked, because by its deflation
 * [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine)
 * [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](/notes/web3-dystopia)
 
-
 ### Concepts
-
-
 
 * [Asymmetric information](/concepts/asymmetric-information)
 * [Bank](/concepts/bank)
@@ -382,10 +326,7 @@ In addition, crypto is not a solution for the unbanked, because by its deflation
 * [Technosolutionism](/concepts/technosolutionism)
 * [Mobile-payments](/concepts/mobile-payments) 
 
-
 ### FAQs
-
-
 
 * [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
 * [Is crypto a solution for the unbanked?](/claims/is-crypto-unbanked)
@@ -397,12 +338,10 @@ In addition, crypto is not a solution for the unbanked, because by its deflation
 * [Are crypto assets predatory investments?](/claims/is-predatory)
 * [Are crypto assets a form of gambling?](/claims/is-gambling)
 
-
 ### Library
 
 * [Market Fundamentalism Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/Y5NM665F)
 * [Securities Regulation Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/ANAGFNVQ)  
-
 
 ## Claim: Crypto is an anti authoritarian force
 
@@ -435,7 +374,6 @@ Crypto has very limited potential as an anti-authoritarian force. More important
 * [Shadow Bank ](/concepts/shadow-bank)
 * [Pseudonymous](/concepts/pseudonymous)
 
-
 ### FAQs
 
 * [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
@@ -444,14 +382,11 @@ Crypto has very limited potential as an anti-authoritarian force. More important
 * [Is crypto legal?](/claims/is-legal)
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
-
 ### Library
 
 * [Antiauthoritarianism Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/B3RVHR65)
 
-
 ## Claim: Web3 is a means to accelerate the collapse of capitalism and rebuild the global financial system
-
 
 ### Description
 
@@ -459,25 +394,18 @@ This claim is based on the notion that we need to reconfigure the entire global 
 
 Advocates argue that we can reinvent money independent of existing power structures and that by doing so we can redefine value and power and achieve a fairer distribution of wealth.
 
-
 ### Evaluation of claim
 
 Our evaluation is that crypto is not a means to accelerate the collapse of capitalism. The crypto ideology is an extension of the neoliberal project that aims to expand the scope and reach of markets to all aspects of human life, a concept often referred to as hyperfinancialization. Since crypto tokens aim to expand the scope of capitalism, they cannot bring about anything but more capitalism.
 
-
 ### Content
-
-
 
 * [Deep Dive: Web3 and Post-State Technocracy](/notes/post-state-technocracy) 
 * [Deep Dive: Fintech Incrementalism And Responsible Innovation ](/notes/fintech-incrementalism-and-responsible-innovation)
 * [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine)
 * [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
 
-
 ### Concepts
-
-
 
 * [Money](/concepts/money)
 * [Currency](/concepts/currency)
@@ -488,10 +416,7 @@ Our evaluation is that crypto is not a means to accelerate the collapse of capit
 * [Financial Nihilism](/concepts/financial-nihilism)
 * [Technosolutionism](/concepts/technosolutionism)
 
-
 ### FAQs
-
-
 
 * [Is web3 a means to rebuild the global financial system?](/claims/is-new-financial-system)
 * [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
@@ -500,41 +425,29 @@ Our evaluation is that crypto is not a means to accelerate the collapse of capit
 * [Are crypto tokens a means to destroy capitalism?](/claims/is-collapse)
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
-
 ### Library
-
-
 
 * [Post-state Technocracy Zotero Folder](https://www.zotero.org/groups/4600269/web3/collections/G4ILACKC) 
 * [Fintech Incrementalism Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/C56BYQD3)  
 
-
 ## Claim: NFTs are good for artists
-
 
 ### Description
 
 This claim is based on the notion that Web3 can create an economy where workers/creators can own the means of production. This claim argues that NFTs can facilitate a fairer deal for artists.
 
-
 ### Evaluation of claim
 
 Our analysis is that the economic structure of NFTs is almost identical to that of multilevel marketing schemes. NFTs are a form of predatory inclusion that on average does not liberate artists. Instead most artists will engage in the token sales at a loss, making almost nothing in return.
 
-
 ### Content
-
-
 
 * [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
 * [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
 * [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
 * [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](/notes/web3-dystopia)
 
-
 ### Concepts
-
-
 
 * [Art](/concepts/art)
 * [Artificial scarcity](/concepts/artificial-scarcity)
@@ -547,90 +460,64 @@ Our analysis is that the economic structure of NFTs is almost identical to that 
 * [Bandwagon Bias](/concepts/bandwagon-bias)
 * [Fictitious commodity](/concepts/ficticious-commodity)
 
-
 ### FAQs
-
-
 
 * [Are NFTs good for artists?](/claims/is-nfts-artists) 
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)
 * [Are crypto assets predatory investments?](/claims/is-predatory)
 
-
 ### Library
-
-
 
 * [Market Fundamentalism Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/Y5NM665F)
 
-
 ## Claim: Web3 is a means to dismantle the American tech hegemony
-
 
 ### Description
 
 This claim is premised on the notion that web3 technology can be used to build a decentralized web, which will hand back agency to individual users and will dismantle the monopoly held by companies like Google, Facebook, Amazon.
 
-
 ### Evaluation of claim
 
 Our evaluation of this claim is that Web3 is not a means to disrupt the American tech hegemony.  Blockchain technologies have intractable scalability problems; the only means by which they can scale is by recentralization thereby recreating just another corporate monolith.
 
-
 ### Content
-
-
 
 * [Deep Dive: Web3 and Post-State Technocracy](/notes/post-state-technocracy)
 * [Walch, Angela. Deconstructing 'Decentralization'; Exploring the Core Claim of Crypto Systems](/notes/deconstructing-decentralization)
 * [Samer Hassan on Decentralization, Platform Monopolies and Web3](/notes/samer-hassan) 
 
-
 ### Concepts
-
-
 
 * [Decentralization](/concepts/decentralization)  
 * [Recentralization](/concepts/recentralization)
 * [Techno Collectivism](/concepts/techno-collectivism)
 
-
 ### FAQs
-
-
 
 * [Is web3 a means to dismantle the American tech hegemony?](/claims/is-disrupt-hegemony)  
 * [Is crypto building a new internet?](/claims/is-new-internet) 
 * [Is the underlying technology of “blockchain” useful for non-monetary purposes?](/claims/is-blockchain-tech)
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
-
 ### Library
-
-
 
 * [Post-State Technocracy Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/G4ILACKC)
 
-
+---
 # Aspiration 3: Financial Gain Through Financial Liberty
-
+---
 
 ## Claim: Traders and investors can make large financial gains in free, unregulated crypto-markets
-
 
 ### Description
 
 This claim is rooted in the notion that unfettered and unregulated markets are efficient markets; unregulated markets allow companies to do what they're supposed to do, which is maximize returns to shareholders.  As the crypto markets are currently unregulated, those who subscribe to the market fundamentalist ideology argue that these markets therefore have the potential to make those who invest in crypto assets a lot of money. The trader or market fundamentalist view likely represents a majority of interest and activity in crypto. 
 
-
 ### Evaluation of claim
 
 Our evaluation of this claim is that markets work best when we have abundant public information and minimize fraud and collusion in price formation. Due to the unregulated nature of crypto markets, the markets are rife with fraud and asymmetric information. We also have no idea how much leverage is baked into the system due to the existence of complex financial instruments built upon assets with no fundamental value. The result is inequality (money flows to the sharks), individual and systemic risk, and moral hazard. 
 
-
 ### Content
-
-
 
 * [Deep Dive: Stephen Diehl & Rufus Pollock on Unfettered & Unregulated Financial Markets](/notes/market-fundamentalism)
 *  [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
@@ -641,10 +528,7 @@ Our evaluation of this claim is that markets work best when we have abundant pub
 * [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
 * [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](/notes/the-encrypted-threat)’
 
-
 ### Concepts
-
-
 
 * [Artificial Demand](/concepts/artificial-demand)
 * [Asymmetric information](/concepts/asymmetric-information)
@@ -695,10 +579,7 @@ Our evaluation of this claim is that markets work best when we have abundant pub
 * [Value](/concepts/value)
 * [Zero Sum Game](/concepts/zero-sum-game)
 
-
 ### FAQs
-
-
 
 * [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
 * [Is crypto legal?](/claims/is-legal)
@@ -713,33 +594,25 @@ Our evaluation of this claim is that markets work best when we have abundant pub
 * [Are crypto assets predatory investments?](/claims/is-predatory)
 * [Are crypto assets a systemic risk to the economy?](/claims/is-systemic-risk)
 
-
 ### Library section
-
-
 
 * [Market Fundamentalism Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/Y5NM665F)
 
-
+---
 # Aspiration 4: Overcoming governance problems 
-
+---
 
 ## Claim: Web3 can revolutionize systems of governance
-
 
 ### Description
 
 This claim argues that blockchain technology can support more democratic, distributed governance and that, by revolutionizing systems of governance, web3 can facilitate cooperative solutions to collective action problems such as climate change.
 
-
 ### Evaluation of claim
 
 Our evaluation of this claim is that while there are examples of DAOs facilitating distributed governance, we are yet to find an example of a DAO solving a collective action problem. 
 
-
 ### Content
-
-
 
 * [Deep Dive: Collective Action Problems & Climate Change](/notes/collective-action-problems-and-climate-change)
 * [Richard D. Bartlett, Stephen Reid & Rufus Pollock on Critical Exploration of Web3](/notes/richard-bartlett-and-stephen-reid)
@@ -750,10 +623,7 @@ Our evaluation of this claim is that while there are examples of DAOs facilitati
 * [Samer Hassan on Decentralization, Platform Monopolies and Web3](/notes/samer-hassan) 
 * [In conversation with Hypha](/notes/in-conversation-with-hypha) 
 
-
 ### Concepts
-
-
 
 * [Distributed Autonomous Organization](/concepts/dao)
 * [Technosolutionism](/concepts/technosolutionism)
@@ -768,38 +638,26 @@ Our evaluation of this claim is that while there are examples of DAOs facilitati
 * [Post-state Technocracy](/concepts/post-state-technocracy)
 * [Consensus algorithm](/concepts/consensus-algorithm)
 
-
 ### FAQs
-
-
 
 * [Is the underlying technology of “blockchain” useful for non-monetary purposes?](/claims/is-blockchain-tech)
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)
 
-
 ### Library
-
-
 
 * [Climate Change and DAOs Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/9ET9KDLI)
 
-
 ## Claim: Web3 can facilitate the resourcing of public goods and the commons
-
 
 ### Description
 
 This claim argues that web3 can revolutionize the resourcing of public goods and the commons, especially in a voluntary way eg Gitcoin, KlimaDAO.
 
-
 ### Evaluation of claim
 
 Our evaluation is that web3 is yet to achieve this; we have not managed to find an instance of blockchain technology being used to solve the public goods problem. 
 
-
 ### Content
-
-
 
 * [Deep Dive: Web3 and Post-State Technocracy ](/notes/post-state-technocracy)
 * [Deep Dive: Collective Action Problems & Climate Change ](/notes/collective-action-problems-and-climate-change)
@@ -810,10 +668,7 @@ Our evaluation is that web3 is yet to achieve this; we have not managed to find 
 * [Making Sense of KlimaDao](/notes/klimadao.finance)
 * [Regenerative Finance and Web3 for Public Goods](/notes/jeff-emmett-on-regenerative-finance)
 
-
 ### Concepts
-
-
 
 * [Distributed Autonomous Organization](/concepts/dao)
 * [Free Rider Problem](/concepts/free-rider-problem) 
@@ -823,42 +678,31 @@ Our evaluation is that web3 is yet to achieve this; we have not managed to find 
 * [Crowdfunding](/concepts/crowdfunding) 
 * [Techno Collectivism](/concepts/techno-collectivism)
 
-
 ### FAQs
-
-
 
 * [Is Web3 a well-defined term?](/claims/is-well-defined)
 * [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
 * [Can I do a crowdfunded equity raise for my company? ](/claims/is-raise-company)
 
-
 ### Library
-
-
 
 * [Climate Change and DAOs Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/9ET9KDLI)
 
-
+---
 # Aspiration 5: Innovation and Progress
-
+---
 
 ## Claim: Web3 is an inevitable paradigm shift akin to the Industrial Revolution
-
 
 ### Description
 
 This claim argues that web3 is the path which progress is taking. Historical inventions like the printing press were fraught with concern and risk, and yet humanity survived those paradigm shifts. Blockchain technology is no different than the printing press. We can’t stop runaway phenomena. We simply have to embrace them.
 
-
 ### Evaluation of claim
 
 Our evaluation is that blockchain technology, detached from the sale of crypto assets, has shown no track record of providing benefit for any real world applications. A financial system rooted in blockchain technology is not desirable and the dream of revolutionary systems of governance built on blockchain technology which can support the solving of public goods problems and collective action problems remains unrealized.
 
-
 ### Content
-
-
 
 * [Deep Dive: Web3 and Post-State Technocracy](/notes/post-state-technocracy)
 * [Deep Dive: Collective Action Problems & Climate Change ](/notes/collective-action-problems-and-climate-change)
@@ -870,10 +714,7 @@ Our evaluation is that blockchain technology, detached from the sale of crypto a
 * [Our notes on Gary Gensler's Remarks On Crypto Markets, Penn Law Capital Markets Association Annual Conference](/notes/sec-remarks)
 * [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](/notes/web3-dystopia)
 
-
 ### Concepts
-
-
 
 * [Decentralization](/concepts/decentralization)
 * [Externalities ](/concepts/externalities)
@@ -883,10 +724,7 @@ Our evaluation is that blockchain technology, detached from the sale of crypto a
 * [Crypto-inevitablism](/concepts/inevitablism) 
 * [Central Bank Digital Currency](/concepts/cbdc)
 
-
 ### FAQs
-
-
 
 * [Is Web3 a means to rebuild the global financial system?](/claims/is-new-financial-system)
 * [Is crypto building a new internet?](/claims/is-new-internet) 
@@ -897,10 +735,7 @@ Our evaluation is that blockchain technology, detached from the sale of crypto a
 * [Why does crypto have a weird subculture?](/claims/is-weird-culture)
 * [Are crypto tokens a means to destroy capitalism?](/claims/is-collapse)
 
-
 ### Library section
-
-
 
 * [Post-State Technocracy Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/G4ILACKC)
 * [Climate Change and DAOs Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/9ET9KDLI) 
