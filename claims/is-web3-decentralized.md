@@ -1,6 +1,6 @@
 # Is web3 decentralized?
 
-In all scenarios web3 still requires central parties for its technical operation and simply involves [recentralization](../concepts/recentralization.md) of services that already exist. Since web3 is centralized then it has neither the [censorship resistance](../concepts/censorship-resistence.md) properties or [decentralization](../concepts/decentralization.md) claims its myth-making and marketing claims.
+In all current scenarios web3 still requires central parties for its technical operation and simply involves [recentralization](../concepts/recentralization.md) of services that already exist. Since web3 is centralized then it has neither the [censorship resistance](../concepts/censorship-resistence.md) properties or [decentralization](../concepts/decentralization.md) its marketing claims.
 
 See [our summary](https://web3.lifeitself.us/notes/deconstructing-decentralization) of Angela Walch's ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’.
 
