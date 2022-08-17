@@ -602,7 +602,7 @@ Markets work best when we have abundant public information and minimize fraud an
 # Aspiration 4: Overcoming governance problems 
 ---
 
-## Claim: Web3 can revolutionize systems of governance and thus facilitate cooperative solutions to collective action
+## Claim: Web3 can revolutionize systems of governance and thus facilitate cooperative solutions to collective action problems
 
 ### Description
 
