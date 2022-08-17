@@ -297,7 +297,7 @@ This claim argues that cryptocurrencies are a liberatory and egalitarian force t
 
 Financial inclusion via cryptocurrencies is not something to be desired. The crypto markets are currently drastically under regulated, resulting in unacceptable levels of risk to individuals and risk to the broader financial system. Web3 facilitates [predatory inclusion](/concepts/predatory-inclusion): individuals are encouraged to join a volatile and risk-laden marketplace rife with fraud and [asymmetric information](/concepts/asymmetric-information). This method of "financial inclusion" therefore cannot faciliate a fairer, freer society.
 
-In addition, crypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency. It is therefore unusable as a scalable means for purchasing goods and services
+In addition, crypto is not a solution for the unbanked, because by its deflationary design it cannot function as a currency. It is therefore unusable as a scalable means for purchasing goods and services.
 
 ### Content
 
