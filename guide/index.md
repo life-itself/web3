@@ -259,7 +259,7 @@ The entire argument is predicated on the technology being able to do the things 
 
 * [Deep Dive: Web3 and Post-State Technocracy ](/notes/post-state-technocracy)
 * [Cory Doctorow on Blockchain, Crypto & Web3](/notes/cory-doctorow-on-blockchain)
-* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses]/notes/the-encrypted-threat)’
+* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](/notes/the-encrypted-threat)’
 
 ### Concepts
 
