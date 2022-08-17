@@ -602,7 +602,7 @@ Markets work best when we have abundant public information and minimize fraud an
 # Aspiration 4: Overcoming governance problems 
 ---
 
-## Claim: Web3 can revolutionize systems of governance
+## Claim: Web3 can revolutionize systems of governance and thus facilitate cooperative solutions to collective action
 
 ### Description
 
@@ -610,7 +610,7 @@ This claim argues that blockchain technology can support more democratic, distri
 
 ### Evaluation: Mostly False
 
-While there are examples of DAOs facilitating distributed governance, we are yet to find an example of a DAO solving a collective action problem. 
+While there are examples of DAOs facilitating distributed governance, we have not managed to find an instance of blockchain technology being used to solve a collective action problem.
 
 ### Content
 
@@ -622,6 +622,10 @@ While there are examples of DAOs facilitating distributed governance, we are yet
 * [Regenerative Finance and Web3 for Public Goods](/notes/jeff-emmett-on-regenerative-finance)
 * [Samer Hassan on Decentralization, Platform Monopolies and Web3](/notes/samer-hassan) 
 * [In conversation with Hypha](/notes/in-conversation-with-hypha) 
+* [Deep Dive: Web3 and Post-State Technocracy ](/notes/post-state-technocracy)
+* [Notes on Jeff Emmett's 'Rewriting the Story of Human Collaboration'](/notes/emmett-2018-rewriting-story-human)
+* [KlimaDAO & Life Itself in Conversation](/notes/in-conversation-with-klimadao-part-one)
+* [Making Sense of KlimaDao](/notes/klimadao.finance)
 
 ### Concepts
 
@@ -637,49 +641,14 @@ While there are examples of DAOs facilitating distributed governance, we are yet
 * [Smart Contracts ](/concepts/smart-contracts)
 * [Post-state Technocracy](/concepts/post-state-technocracy)
 * [Consensus algorithm](/concepts/consensus-algorithm)
+* [Initial Coin Offerings (ICO)](/concepts/ico)
+* [Regulatory Arbitrage](/concepts/regulatory-arbitrage)
+* [Crowdfunding](/concepts/crowdfunding) 
 
 ### FAQs
 
 * [Is the underlying technology of “blockchain” useful for non-monetary purposes?](/claims/is-blockchain-tech)
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)
-
-### Library
-
-* [Climate Change and DAOs Zotero Library](https://www.zotero.org/groups/4600269/web3/collections/9ET9KDLI)
-
-## Claim: Web3 can facilitate the resourcing of public goods and the commons
-
-### Description
-
-This claim argues that web3 can revolutionize the resourcing of public goods and the commons, especially in a voluntary way eg Gitcoin, KlimaDAO.
-
-### Evaluation: False
-
-Our evaluation is that web3 is yet to achieve this; we have not managed to find an instance of blockchain technology being used to solve the public goods problem. 
-
-### Content
-
-* [Deep Dive: Web3 and Post-State Technocracy ](/notes/post-state-technocracy)
-* [Deep Dive: Collective Action Problems & Climate Change ](/notes/collective-action-problems-and-climate-change)
-* [Richard D. Bartlett, Stephen Reid & Rufus Pollock on Critical Exploration of Web3](/notes/richard-bartlett-and-stephen-reid)
-* [On the Potential of DAOs & Web3 with Jordan Hall & Rufus Pollock](/notes/on-the-potential-of-daos-and-web3)
-* [Notes on Jeff Emmett's 'Rewriting the Story of Human Collaboration'](/notes/emmett-2018-rewriting-story-human)
-* [KlimaDAO & Life Itself in Conversation](/notes/in-conversation-with-klimadao-part-one)
-* [Making Sense of KlimaDao](/notes/klimadao.finance)
-* [Regenerative Finance and Web3 for Public Goods](/notes/jeff-emmett-on-regenerative-finance)
-
-### Concepts
-
-* [Distributed Autonomous Organization](/concepts/dao)
-* [Free Rider Problem](/concepts/free-rider-problem) 
-* [Public Goods Problem ](/concepts/public-goods-problem)
-* [Initial Coin Offerings (ICO)](/concepts/ico)
-* [Regulatory Arbitrage](/concepts/regulatory-arbitrage)
-* [Crowdfunding](/concepts/crowdfunding) 
-* [Techno Collectivism](/concepts/techno-collectivism)
-
-### FAQs
-
 * [Is Web3 a well-defined term?](/claims/is-well-defined)
 * [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
 * [Can I do a crowdfunded equity raise for my company? ](/claims/is-raise-company)
