@@ -5,6 +5,7 @@ import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import wikiLinkPlugin from "remark-wiki-link-plus"
 import rehypeToc from "@jsdevtools/rehype-toc"
+import remarkToc from 'remark-toc'
 
 const isValidDate = dateObject => new Date(dateObject)
     .toString() !== 'Invalid Date';
@@ -64,6 +65,7 @@ export default makeSource({
   mdx: {
     remarkPlugins: [
       remarkGfm,
+      remarkToc,
       [ wikiLinkPlugin, { markdownFolder: 'content' } ]
     ],
     rehypePlugins: [

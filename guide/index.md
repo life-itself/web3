@@ -12,59 +12,7 @@ This main part of the guide is organized by aspiration. Under each aspiration ca
 
 It is important that we make good choices about crypto and web3. Ultimately, we must decide whether to support, improve or restrict them. And to do so in as constructive, intersectional and depolarizing way as possible. This guide is a resource for doing so.
 
-# Contents
-
-[Introduction](#introduction)
-
-[Foundational Concepts](#foundational-concepts)
-
-[Foundational FAQs](#foundational-faqs)
-
-[Aspiration 1: A more stable, more efficient, and more transparent economy](#aspiration-1-a-more-stable-more-efficient-and-more-transparent-economy)
-
-
-[Claim 1.1: Blockchain technology can facilitate the reduction of state intervention in the money supply](#claim-blockchain-technology-can-facilitate-the-reduction-of-state-intervention-in-the-money-supply)
-
-
-[Claim 1.2: Blockchain based financial innovation will create more efficient markets](#claim-blockchain-based-financial-innovation-will-create-more-efficient-markets)
-
-[Aspiration 2: A fairer and freer society](#aspiration-2-a-fairer-and-freer-society)
-
-
-[Claim 2.1:  The state can and should be hollowed out and blockchain technology can facilitate this](#claim-the-state-can-and-should-be-hollowed-out-and-blockchain-technology-can-facilitate-this)
-
-
-[Claim 2.2: Web3 can facilitate financial inclusion](#claim-web3-can-facilitate-financial-inclusion)
-
-
-[Claim 2.3: Crypto is an anti authoritarian force](#claim-crypto-is-an-anti-authoritarian-force)
-
-
-[Claim 2.4: Web3 is a means to accelerate the collapse of capitalism and rebuild the global financial system](#claim-web3-is-a-means-to-accelerate-the-collapse-of-capitalism-and-rebuild-the-global-financial-system)
-
-
-[Claim 2.5: NFTs are good for artists](#claim-nfts-are-good-for-artists)
-
-
-[Claim 2.6: Web3 is a means to dismantle the American tech hegemony](#claim-web3-is-a-means-to-dismantle-the-american-tech-hegemony)
-
-[Aspiration 3: Financial Gain Through Financial Liberty](#aspiration-3-financial-gain-through-financial-liberty)
-
-
-[Claim 3.1: Traders and investors can make large financial gains in free, unregulated crypto-markets](#claim-traders-and-investors-can-make-large-financial-gains-in-free-unregulated-crypto-markets)
-
-[Aspiration 4: Overcoming governance problems](#aspiration-4-overcoming-governance-problems)
-
-
-[Claim 4.1: Web3 can revolutionize systems of governance](#claim-web3-can-revolutionize-systems-of-governance)
-
-
-[Claim 4.2: Web3 can facilitate the resourcing of public goods and the commons](#claim-web3-can-facilitate-the-resourcing-of-public-goods-and-the-commons)
-
-[Aspiration 5: Innovation and Progress](#aspiration-5-innovation-and-progress)
-
-
-[Claim 5.1: Web3 is an inevitable paradigm shift akin to the Industrial Revolution](#claim-web3-is-an-inevitable-paradigm-shift-akin-to-the-industrial-revolution)
+## Table of Contents
 
 # Foundational Concepts
 
@@ -86,9 +34,10 @@ It is important that we make good choices about crypto and web3. Ultimately, we 
 * [What type of assets are crypto tokens?](/claims/is-type-of-asset) 
 * [Is crypto mining harmful to the environment?](/claims/is-environmental-footprint)
 
----
-# Aspiration 1: A more stable, more efficient, and more transparent economy
----
+
+# Aspiration 1: a better economy
+
+A more stable, more efficient, and more transparent economy.
 
 ## Claim: Blockchain technology can facilitate the reduction of state intervention in the money supply 
 
