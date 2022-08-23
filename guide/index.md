@@ -2,15 +2,15 @@
 title: Guide to Crypto and Web3
 ---
 
-Big claims are being made for the potential of crypto and web3. We have engaged in a [multi-month project of research and analysis](about) to make sense of these claims.
+Big claims are being made for the potential of crypto and web3. We have engaged in a [multi-month project of research and analysis](about) to "make sense" of crypto and web3 and to evaluate the various claims being made for and against.
 
-We have spoken with technologists, economists, computer scientists, crypto skeptics and crypto enthusiasts. Our work has divided into two parts. First, to establish what is being claimed, and the higher aspirations these claims speak to. For example, that crypto and web3 can democratize finance with the deeper aspiration of a fairer and/or more innovative economy.
+We have spoken with technologists, economists, computer scientists, crypto skeptics and crypto enthusiasts. Much of the resulting material is published on this site. The culmination of our efforts is this guide. 
 
-Second, we have provided a detailed evaluation of each claim and have set out reasons for why we have concluded whether that claim is true or false in relation to the associated aspiration. We also analyze associated risks or alternative approaches to achieving the same goal.
+It is divided into two parts. The first part is an introduction to the key concepts related to crypto and web3. The second part sets out the key claims and aspirations for crypto and web3 together with an evaluation of those claims.
 
-It is important that we make good choices about this emerging technology. We must decide whether to support, improve or curb it. Decide how to allocate our resources effectively. And finally, to make these choices and take action in a constructive, intersectional and depolarizing way. 
+This main part of the guide is organized by aspiration. Under each aspiration can be found the associated claim(s) with a brief description of the claim and our evaluation along with links to further detail, related concepts, FAQs and a reading list. For example, we identified one common claim along the lines that crypto and web3 can democratize finance. This, in turn is tied to a deeper aspiration of a fairer and/or more innovative economy.
 
-The culmination of our sense-making effort is this guide. The guide starts with a basic introduction to the key concepts related to crypto and web3. The main part of the guide is organized by aspiration. Under each aspiration can be found the associated claim(s) with a brief description of the claim and our evaluation along with links to further detail, related concepts, FAQs and a reading list.
+It is important that we make good choices about crypto and web3. Ultimately, we must decide whether to support, improve or restrict them. And to do so in as constructive, intersectional and depolarizing way as possible. This guide is a resource for doing so.
 
 # Contents
 
