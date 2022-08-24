@@ -5,11 +5,11 @@
 > 
 > [..] The slogan "Escape government tyranny hence bitcoin" is similar to advertisements in the 1960s extolling the health benefits of cigarettes.
 
-The massive power asymmetries of authoritarian regimes and their control over both traditional payment rails and domestic implies that dissidents attempting to use crypto assets to circumvent repression or capital controls will find it very difficult to move assets or cash out. Without the capacity to cash out the efficacy of their actions is fundamentally limited to external geographic regions outside of the authoritarian regimes. Since no action can effected internal to the regime this fundamentally refutes the argument that crypto assets are an effective tool for dissidents.
+The massive power asymmetries of authoritarian regimes and their control over both traditional payment rails and domestic implies that dissidents attempting to use crypto assets to circumvent repression or capital controls will find it very difficult to move assets or cash out. Without the capacity to cash out, the efficacy of their actions is fundamentally limited to external geographic regions outside of the authoritarian regimes. Since no action can be effected internal to the regime this refutes the argument that crypto assets are an effective tool for dissidents.
 
 This is best evidenced by the Canadian convoys in 2022 which attempted to take international donations in crypto assets and found themselves and their accounts frozen by both banks and Canadian [crypto exchanges](../concepts/crypto-exchange.md) which blocked transactions under [illicit financing](../concepts/illicit-financing.md) laws. This made using the donations to purchase supplies impossible and undermined the [crypto assets](../concepts/cryptoasset.md) narrative.
 
-The complete ban of [crypto asset](../concepts/cryptoasset.md) by the People's Republic of China also does not lend credibility to the thesis that [crypto asset](../concepts/cryptoasset.md) are outside the remit of authoritarian controls and their restriction on capital movement and controls over domestic [money services business](../concepts/money-services-business.md).
+The complete ban of [crypto assets](../concepts/cryptoasset.md) by the People's Republic of China also does not lend credibility to the thesis that [crypto assets](../concepts/cryptoasset.md) are outside the remit of authoritarian controls and their restriction on capital movement and controls over domestic [money services business](../concepts/money-services-business.md).
 
 ## References
 1. Bogost, Ian. 2017. ‘Cryptocurrency Might Be a Path to Authoritarianism’. The Atlantic 30.
