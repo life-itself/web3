@@ -2,9 +2,7 @@
 
 e.g. information architecture, job stories etc.
 
-
 Launchable and *announceable* website.
-
 
 # Wireframes and Mockups
 
@@ -15,7 +13,6 @@ Mockup of home page (design): https://excalidraw.com/#room=8bc8a0afb0afc89015dc,
 v0.1 Wireframe
 
 ![website-homepage-v0.1-2022-02-23.excalidraw](../../excalidraw/website-homepage-v0.1-2022-02-23.excalidraw.svg)
-
 
 # Content Plan (and Info Architecture)
 
@@ -33,21 +30,7 @@ Currently have `ideologies` folder too. I wonder if we merge into notes.
 
 ## Claims
 
-### Claims/Aspirations Database 2022-03-11
-
-* [ ] Analysis of needs for DB
-  * [ ] Identify needs for this "database" e.g. a) does it need to be structured b draft as well as finished material c) planning or publication (or both) 
-  * [ ] Choose canonical location
-  * [ ] Move stuff there and de-duplicate
-* [ ] Key features for aspirations & claims database #todo/process to somewhere in the wiki (design section?) 
-  * Aspiration title
-  * Aspiration Description
-  * Title for Claim
-  * Short Description
-  * Example	Who holds this position
-* [ ] What exists already? Ans: coggle plus some material in the [issue tree spreadsheet](https://docs.google.com/spreadsheets/d/12Yh1kuxH4uoposLUJsJifM2W_zixkAhlc7QgcKavfls/edit#gid=1407864122)
-
-### Design
+For work on this see https://github.com/life-itself/web3/issues/192
 
 ![info-architecture-aspirations-claims-subclaims-2022-03-21.excalidraw](../excalidraw/info-architecture-aspirations-claims-subclaims-2022-03-21.excalidraw.svg)
 
@@ -94,5 +77,5 @@ Flow / UI
     * But we can always turn a claim into a question and vice-versa ...
     * Hypotheses are more accurate than claims but a bit more obscure in terminology
   * H: (70%) use questions rather than claims/hypotheses
-* Do we call ourselves "Making sense of Web3" or "Making sense of Crypto and Web3" or "Making Sense of Crypto"
-  * Do we mention Crypto at all? ✅ **Yes, crypto is more widespread and even less controversial in definition so definitely want to mention it**
+* [x] Do we call ourselves "Making sense of Web3" or "Making sense of Crypto and Web3" or "Making Sense of Crypto" **✅2022-03-11 Making sense of crypto and web3**
+  * [x] Do we mention Crypto at all? ✅ **Yes, crypto is more widespread and even less controversial in definition so definitely want to mention it**

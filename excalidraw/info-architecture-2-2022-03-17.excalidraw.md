@@ -12,8 +12,6 @@ Focus on Claims (and Aspirations)
 
 Supported by "Underlay of concepts" ^LmKov7Lo
 
-https://web3.lifeitself.us/concepts/ethereum ^WSpGdb50
-
 Claims vs subclaims ^6ivRrWTm
 
 Aspiration 1
@@ -71,10 +69,6 @@ Why are claims such a good focus?
 
 FAQs ^lt3LwZGK
 
-
-# Embedded files
-28509b4b65966c17a1feb94af44ddf74eb1d2d22: [[assets/Pasted Image 20220318085031_383.png]]
-
 %%
 # Drawing
 ```json
@@ -116,71 +110,6 @@ FAQs ^lt3LwZGK
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Focus on Claims (and Aspirations)\n\nSupported by \"Underlay of concepts\""
-		},
-		{
-			"type": "text",
-			"version": 77,
-			"versionNonce": 1190604286,
-			"isDeleted": false,
-			"id": "WSpGdb50",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1302.977605189348,
-			"y": -7.9604014604710756,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 452,
-			"height": 29,
-			"seed": 1739288047,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1647589831081,
-			"link": "https://web3.lifeitself.us/concepts/ethereum",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "🌐https://web3.lifeitself.us/concepts/ethereum",
-			"rawText": "https://web3.lifeitself.us/concepts/ethereum",
-			"baseline": 22,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "🌐https://web3.lifeitself.us/concepts/ethereum"
-		},
-		{
-			"type": "image",
-			"version": 164,
-			"versionNonce": 702101730,
-			"isDeleted": false,
-			"id": "BKuNNtWR5pf_S4JyU9RoH",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1311.9208323106525,
-			"y": 49.34145186858689,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 451.6520792426086,
-			"height": 326.193168341884,
-			"seed": 1300098177,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1647589831081,
-			"link": null,
-			"status": "saved",
-			"fileId": "28509b4b65966c17a1feb94af44ddf74eb1d2d22",
-			"scale": [
-				1,
-				1
-			]
 		},
 		{
 			"type": "text",
@@ -922,8 +851,8 @@ FAQs ^lt3LwZGK
 		},
 		{
 			"type": "arrow",
-			"version": 165,
-			"versionNonce": 218836614,
+			"version": 166,
+			"versionNonce": 425764946,
 			"isDeleted": false,
 			"id": "FhRq4pQe5_V7gcruw0-mq",
 			"fillStyle": "hachure",
@@ -942,7 +871,7 @@ FAQs ^lt3LwZGK
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651578945098,
+			"updated": 1662564444683,
 			"link": null,
 			"startBinding": {
 				"elementId": "fkxdFsby7I4uHkFOlJuXA",
@@ -966,8 +895,8 @@ FAQs ^lt3LwZGK
 		},
 		{
 			"type": "arrow",
-			"version": 164,
-			"versionNonce": 2137613530,
+			"version": 165,
+			"versionNonce": 681197006,
 			"isDeleted": false,
 			"id": "GQ1cPWblb7bnb87YNj8iG",
 			"fillStyle": "hachure",
@@ -986,7 +915,7 @@ FAQs ^lt3LwZGK
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651578945098,
+			"updated": 1662564444683,
 			"link": null,
 			"startBinding": {
 				"elementId": "fkxdFsby7I4uHkFOlJuXA",
@@ -1010,8 +939,8 @@ FAQs ^lt3LwZGK
 		},
 		{
 			"type": "arrow",
-			"version": 193,
-			"versionNonce": 2132384538,
+			"version": 197,
+			"versionNonce": 305539214,
 			"isDeleted": false,
 			"id": "8tWsxwD7s3tb26NP4C9bq",
 			"fillStyle": "hachure",
@@ -1030,7 +959,7 @@ FAQs ^lt3LwZGK
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651578945100,
+			"updated": 1662564444684,
 			"link": null,
 			"startBinding": {
 				"elementId": "fkxdFsby7I4uHkFOlJuXA",
@@ -1058,8 +987,8 @@ FAQs ^lt3LwZGK
 		},
 		{
 			"type": "arrow",
-			"version": 563,
-			"versionNonce": 1002493594,
+			"version": 567,
+			"versionNonce": 2052737806,
 			"isDeleted": false,
 			"id": "wTi-R4lQndSVo_ZTgqsHX",
 			"fillStyle": "hachure",
@@ -1078,7 +1007,7 @@ FAQs ^lt3LwZGK
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651578945096,
+			"updated": 1662564444682,
 			"link": null,
 			"startBinding": {
 				"elementId": "Q5j6I_u6cs71luU9quJDx",
@@ -1140,8 +1069,8 @@ FAQs ^lt3LwZGK
 		},
 		{
 			"type": "arrow",
-			"version": 145,
-			"versionNonce": 1453029402,
+			"version": 149,
+			"versionNonce": 445734798,
 			"isDeleted": false,
 			"id": "hXLB5jbTlavzMWMQK7gJ3",
 			"fillStyle": "hachure",
@@ -1150,17 +1079,17 @@ FAQs ^lt3LwZGK
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -446.6037777592565,
-			"y": -259.6868184276019,
+			"x": -446.60377775472824,
+			"y": -259.68681842670026,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 24.28913367038166,
-			"height": 52.80518746794547,
+			"width": 24.289133668491388,
+			"height": 52.805187468294946,
 			"seed": 530911151,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651578945097,
+			"updated": 1662564444683,
 			"link": null,
 			"startBinding": {
 				"elementId": "0srZWtL9ifBoLj38rheYi",
@@ -1181,8 +1110,8 @@ FAQs ^lt3LwZGK
 					0
 				],
 				[
-					24.28913367038166,
-					-52.80518746794547
+					24.289133668491388,
+					-52.805187468294946
 				]
 			]
 		},
@@ -1271,7 +1200,7 @@ FAQs ^lt3LwZGK
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 90,
-			"height": 45,
+			"height": 46,
 			"seed": 644073121,
 			"groupIds": [
 				"Icka9Sjc2_kkL3fjNoQjz"
@@ -1292,8 +1221,8 @@ FAQs ^lt3LwZGK
 		},
 		{
 			"type": "arrow",
-			"version": 167,
-			"versionNonce": 1499183514,
+			"version": 171,
+			"versionNonce": 913134606,
 			"isDeleted": false,
 			"id": "SEUgWhgZSKOLwkBXLWQ1M",
 			"fillStyle": "hachure",
@@ -1312,7 +1241,7 @@ FAQs ^lt3LwZGK
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1651578945098,
+			"updated": 1662564444683,
 			"link": null,
 			"startBinding": {
 				"elementId": "fkxdFsby7I4uHkFOlJuXA",
