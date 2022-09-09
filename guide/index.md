@@ -650,7 +650,6 @@ Blockchain technology, detached from the sale of crypto assets, has shown no tra
 * [Is Web3 green?](/claims/is-web3-green)
 * [Is crypto bringing about the “financialization” of everything?](/claims/is-hyperfinancialization)
 * [Does building crypto have an opportunity cost?](/claims/is-opportunity-cost)
-* [Why does crypto have a weird subculture?](/claims/is-weird-culture)
 * [Are crypto tokens a means to destroy capitalism?](/claims/is-collapse)
 
 ### Library section

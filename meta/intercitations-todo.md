@@ -17,5 +17,4 @@ Claims
 
 - [ ] [is-bitcoin-currency](../claims/is-bitcoin-currency.md)
 - [ ] [is-blockchain-tech](../claims/is-blockchain-tech.md)
-- [ ] [is-weird-culture](../claims/is-weird-culture.md)
 - [ ] [is-well-defined](../claims/is-well-defined.md)

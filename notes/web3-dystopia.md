@@ -150,7 +150,6 @@ From the video description on YouTube.
 * [capitalism](../concepts/capitalism.md) 
 * [high-control-group](../concepts/high-control-group.md)
 * [thought-terminating-cliches](../concepts/thought-terminating-cliches.md)
-* [is-weird-culture](../claims/is-weird-culture.md)
 * [regulatory-arbitrage](../concepts/regulatory-arbitrage.md)
 
 **Sources**

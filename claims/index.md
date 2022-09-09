@@ -26,7 +26,6 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [Are crypto assets legal?](/claims/is-legal.md)
 * [Are crypto tokens a negative-sum investment?](/claims/is-negative-sum.md)
 * [Why do people invest in crypto tokens?](/claims/is-why-invest.md)
-* [Why does crypto have such a weird subculture?](/claims/is-weird-culture.md)
 
 #### Financial Liberty
 
@@ -38,7 +37,6 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 
 #### Solving Public Goods Problems
 
-* [Is crypto a means to fund public goods projects?](/claims/is-public-goods.md)
 * [Is bitcoin mining harmful to the environment?](/claims/is-environmental-footprint.md)
 * [Is crypto bringing about the "financialization of everything"?](/claims/is-hyperfinancialization.md)
 * [Is crypto a giant misallocation of resources with an enormous opportunity cost?](/claims/is-opportunity-cost.md)
@@ -47,7 +45,6 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 
 * [Is the underlying technology of "blockchain" useful for non-monetary purposes?](/claims/is-blockchain-tech.md)
 * [Is web3 even a well-defined term?](/claims/is-well-defined.md)
-* [Is web3 green?](/claims/is-web3-green.md)
 * [Is web3 decentralized?](/claims/is-web3-decentralized.md)
 * [Is web3 the next generation of the internet?](/claims/is-new-internet.md)
 
