@@ -8,7 +8,6 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 * [What type of asset is a crypto token?](/claims/is-type-of-asset.md)
 * [How do we value a crypto token?](/claims/is-valuation-model.md)
 * [Are crypto assets a systemic risk to the economy?](/claims/is-systemic-risk.md)
-* [Is bitcoin the basis for a new gold standard?](/claims/is-digital-gold.md)
 * [Are crypto assets a bubble?](/claims/is-bubble.md)
 * [Are crypto assets a form of gambling?](../claims/is-gambling.md)
 * [Are crypto tokens an inflation hedge?](/claims/is-hedge-inflation.md)

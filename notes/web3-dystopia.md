@@ -302,11 +302,12 @@ From the video description on YouTube.
 *** 
 
 
-### BItcoin: The Gold Standard & Right-Wing Extremism
+### Bitcoin: The Gold Standard & Right-Wing Extremism
 
 **Concepts Referenced**:
+
 * [gold-standard](../concepts/gold-standard.md)
-* [is-digital-gold](../claims/is-digital-gold.md)
+* [[neo-metallism|Neo-metallism]]
 * [bubble](../concepts/bubble.md)
 * [bank-run](../concepts/bank-run.md)
 * [deflationary](../concepts/deflationary.md)

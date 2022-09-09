@@ -94,7 +94,6 @@ Bitcoin as a new gold standard would not achieve a more stable, more efficient e
 * [Is bitcoin a currency?](/claims/is-bitcoin-currency)
 * [Are crypto assets a risk to the dollar?](/claims/is-threat-dollar)
 * [Does Bitcoin threaten the US dollar as reserve currency?](/claims/is-threat-dollar)
-* [Is bitcoin the basis for a new gold standard?](/claims/is-digital-gold)
 * [Are crypto tokens a hedge against the “debasement” of the dollar?](/claims/is-hedge-debasement)
 * [Are crypto assets a hedge against inflation?](/claims/is-hedge-inflation)
 * [Is private money desirable?](/claims/is-private-money)

@@ -3,41 +3,56 @@ title: Web3, Bitcoin and Neo-metallism
 created: 2022-04-13
 date: 2022-02-17
 image: /img/Neo-metallism_Thumb_vo3dhs.png
-description: "Evaluating the Bitcoin and Neo-Metallist thesis: Bitcoin is a better gold, a gold-standard was good monetary policy, and thus that a Bitcoin-standard would be a better gold-standard"
+description: "Evaluating the Bitcoin and Neo-Metallist thesis: Bitcoin is a digital gold, a gold-standard was good monetary policy, and thus that a Bitcoin-standard would be a better gold-standard."
 youtube: https://www.youtube.com/embed/_o7pRFLzJHY
 podcast: https://anchor.fm/life-itself/episodes/Stephen-Diehl-on-Web3--Bitcoin--Neometalism-e1f5rca
 featured: true
 aliases: [Neo-metallism, neo-metallism]
 ---
 
-* Wiki topic: [is-digital-gold](../claims/is-digital-gold.md)
+# Summary
 
-***
+## Claim Steel-manned
 
-# Episode Notes
+*Bitcoin is a digital gold, a [gold standard](../concepts/gold-standard.md) was a good idea, and thus that a "Bitcoin-standard" – i.e. a new gold-standard built on bitcoin – is a good idea.*
 
-## Summary
+The neo-metallist claim is that bitcoin can operate as a new asset class which exhibits similar financial properties to [gold](../concepts/gold.md).  The strong version of this claim asserts that a [gold standard](../concepts/gold-standard.md) was a good idea and hence that that a new gold standard should be built on top of bitcoin.
 
-In this episode, Rufus and Stephen explore the neo-metallist position, dividing the position into core claims and subclaims:
+**Bitcoin is a better gold**: it shares the features of gold which make it a good choice for a currency (or something to peg a currency to). In addition, Bitcoin has specific features which may make it better than gold e.g.:
+  * Bitcoin is digital and so is not subject to the same costs around storage and transportation as gold;
+  * Bitcoin is under less state control. Gold supply is mostly controlled by sovereign nations like the U.S., China, Germany, and other European countries.
 
-1. The [Gold Standard](../concepts/gold-standard.md) is Good 
-	- 1a) Managerial Argument: Government/[central bank](../concepts/central-banks.md) (CB) intervention in the money supply will inevitably lead to [inflation](../concepts/inflationary.md).
-	- 1b) Philosophical Argument: Government/CB intervention in the money supply is inherently undemocratic. It imposes the will of the few on the many so undermines freedom.
-2. The Bitcoin Standard is Better:
-	- 2a) Bitcoin is Like [Gold](../concepts/gold.md): Bitcoin shares the features of gold which make it a good choice for a currency (or something to [peg](../concepts/currency-peg.md) currency to).
-	- 2b) Bitcoin is Better Than Gold: Bitcoin has specific features which make it a better choice than gold for this purpose.
+**The gold standard is a good idea**: for two reasons. First, because it reduces the scope for governmental or central bank intervention in the money supply. Intervention is bad because it leads to inflation which is harmful to the free market and commerce. In addition, Second, more philosophically, government / central bank intervention in the money supply is inherently undemocratic; the will of the few imposed on the many.
 
-Rufus and Stephen then evaluate the neo-metallism position, before ending with a note on trust.
+**The bitcoin-standard is a good idea**: combining points one and two we arrive at the neo-metallist thesis that a new digital gold-standard based on bitcoin will be good for the economy.
+
+## Examples of claim being made
+
+### [[notes/wences-casares|Wences Casares]] in [The Case for a Small Allocation to Bitcoin](https://www.kanaandkatana.com/valuation-depot-contents/2019/4/11/the-case-for-a-small-allocation-to-bitcoin)
+
+> "If Bitcoin succeeds it will most likely not replace any national currency. It may be a supranational currency that exists on top of all national currencies. If Bitcoin succeeds it may be a global non-political standard of value and settlement." e.g. like the kilo is a global standard measure of weight
+
+## Evaluation: False (high confidence)
+
+*Summary: both key sub-claims are weak and since both are required the overall claim for a bitcoin-standard is very weak. Bitcoin does not resemble gold as a store of value. The gold-standard was deflationary and dysfunctional especially in times of economic stress and a Bitcoin-based gold standard would be worse.*
+
+**Bitcoin is a better gold**: False
+
+Bitcoin has no consistent track record of being a reliable store of value, it's price movements are extremely volatile and thus is not a reliable place to store value on long time scales. Bitcoin's price behavior is uncorrelated with gold and is largely correlated with the broader stock market making it an unreliable safe haven in times of market volatility since it is directly exposed to the price action of the Nasdaq.
+
+Bitcoin has limited track record of being a store of value and lacks the millenlia of history that [gold](../concepts/gold.md) as a [commodity](../concepts/commodity.md) has achieved. Unlike gold it also lacks a [use-value](../concepts/use-value.md) for the physical asset which consistently generates demand. Bitcoin also has a upkeep cost in the form of [mining](../concepts/mining.md) which forces the asset to behave like a [negative-sum](../concepts/zero-sum-game.md) [speculative](../concepts/speculation.md) asset instead of a store of value.
+
+**The gold standard is a good idea**: False (high confidence)
+
+The [gold-standard](../concepts/gold-standard.md) and the notion of [sound-money](../concepts/sound-money.md) are undesirable foundations for a [currency](../concepts/currency.md) and were subject to extreme shocks and deflationary spirals. As such they were abandoned in the mid 20th century in favour of the [central-banks](../concepts/central-banks.md) and fiat monetary system.
+
+# Full Analysis
 
 ## What is Neo-Metallism?
 
-
 The term neo-metallism stems from metallism, a school of thinking which relates to the connection between money and some form of commodity. 
 
-Neo-metallism argues that cryptocurrencies, and in particular Bitcoin, can and should be the [new gold](../claims/is-digital-gold.md) - it should be used to fix the monetary supply to the value of this new asset. Just as under the gold standard the value of a given unit of currency (e.g. a pound or dollar) was based on a fixed quantity of gold, neo-metallists argue the value of a unit of currency should be based on a fixed amount of Bitcoin. 
-
-
-
+Neo-metallism argues that cryptocurrencies, and in particular Bitcoin, can and should be the new gold - it should be used to fix the monetary supply to the value of this new asset. Just as under the gold standard the value of a given unit of currency (e.g. a pound or dollar) was based on a fixed quantity of gold, neo-metallists argue the value of a unit of currency should be based on a fixed amount of Bitcoin. 
 
 ## Gold as Currency
 
@@ -126,6 +141,7 @@ Bitcoin is Better
     * The history of large issuances of private money isn't good. These systems are subject to fraud and a general breakdown of trust. If any bank can issue its own [private bank notes](../concepts/private-money.md), how does one know which bank is reliable and which isn’t?
 
 ## A Final Note on Trust
+
 * In the world of Bitcoin, and [blockchain](../concepts/blockchain.md) more generally, replacing interpersonal trust with cryptographic verification mechanisms is seen as positive; we no longer need trust: in states, governmental institutions or one another.
 * The problem with trust is that when you get rid of it, it's very hard to get it back. If crypto were to fail we would risk a large-scale general reduction in trust. Even if it were to succeed, it would likely lead to a significantly diminished role for trust at a broader level.
 * At the root of [trustless](../concepts/decentralization.md) blockchain technologies are assumptions about human nature, which have significant implications for how we approach vital questions of social cooperation. 
@@ -133,7 +149,7 @@ Bitcoin is Better
 * Aside from its impacts on Bitcoin’s potential as a gold substitute, the issue of trust has serious ramifications for how we govern our societies. 
 
 
-## Concepts Covered
+## Concepts
 
 * [gold-standard](../concepts/gold-standard.md)
 * [austrian-economics](../concepts/austrian-economics.md)
@@ -154,20 +170,22 @@ Bitcoin is Better
 * [zero-sum-game](../concepts/zero-sum-game.md)
 
 ## References
+
 1. Bemanke, Ben, and Harold James. 1991. ‘The Gold Standard, Deflation, and Financial Crisis in the Great Depression: An International Comparison’. In Financial Markets and Financial Crises, 33–68. University of Chicago Press. https://www.nber.org/books-and-chapters/financial-markets-and-financial-crises/gold-standard-deflation-and-financial-crisis-great-depression-international-comparison.
 1. Bernanke, B. S. (2004). Essays on the Great Depression. Princeton University Press.
 1. Eich, Stefan. 2018. ‘The Currency of Politics’. The Political Theory of Money from Aristotle to Keynes.
-1. Corradi, Fiammetta, and Philipp Höfner. 2018. ‘The Disenchantment of Bitcoin: Unveiling the Myth of a Digital Currency’. International Review of Sociology 28 (1): 193–207. https://doi.org/10.1080/03906701.2018.1430067.
-1. Green, Russell A. "Gold Standard or Fool’s Gold? Should the US Consider Returning to the Gold Standard?." Issue Brief 02.23. 16 (2016).
-1. Ammous, Saifedean. 2018. The Bitcoin Standard: The Decentralized Alternative to Central Banking. Hoboken, New Jersey: Wiley.
-1. Sanz Bas, David. 2020. ‘Hayek and the Cryptocurrency Revolution’. Iberian Journal of the History of Economic Thought 7 (1): 15–28. https://doi.org/10.5209/ijhe.69403.
-1. Friedrich, Carl J. "The Road to Serfdom." (1945): 575-579.
-1. Selmi, R., Bouoiyour, J., & Wohar, M. E. (2022). “Digital Gold” and geopolitics. Research in International Business and Finance, 59, 101512. https://doi.org/10.1016/j.ribaf.2021.101512
-1. Krugman, Paul. "The hangover theory." Slate. December 3 (1998).
-1. Krugman, Paul (7 April 2010). "The Conscience of a Liberal: Martin And The Austrians". The New York Times. Archived from the original on 23 September 2011. 
-1. Allon, F. (2018). Money after Blockchain: Gold, Decentralised Politics and the New Libertarianism. Australian Feminist Studies, 33(96), 223–243. https://doi.org/10.1080/08164649.2018.1517245
-1. Caferra, R., Tedeschi, G., & Morone, A. (2021). Bitcoin: Bubble that bursts or Gold that glitters? Economics Letters, 205, 109942. https://doi.org/10.1016/j.econlet.2021.109942
-1. Wang, G., Tang, Y., Xie, C., & Chen, S. (2019). Is bitcoin a safe haven or a hedging asset? Evidence from China. Journal of Management Science and Engineering, 4(3), 173–188. https://doi.org/10.1016/j.jmse.2019.09.001
-1. Caferra, Rocco, Gabriele Tedeschi, and Andrea Morone. 2021. ‘Bitcoin: Bubble That Bursts or Gold That Glitters?’ Economics Letters 205: 109942. https://doi.org/10.1016/j.econlet.2021.109942.
-1. Wolf, Martin. 2019. ‘The Libertarian Fantasies of Cryptocurrencies’. Financial Times, February. https://www.ft.com/content/eeeacd7c-2e0e-11e9-ba00-0251022932c8.
-1. Fantacci, Luca. 2019. ‘Cryptocurrencies and the Denationalization of Money’. International Journal of Political Economy 48 (2): 105–26. https://doi.org/10.1080/08911916.2019.1624319.
+1. Cembalest, M. (2022). The Maltese Falcoin: On Cryptocurrencies and Blockchains (p. 31).
+3. Corradi, Fiammetta, and Philipp Höfner. 2018. ‘The Disenchantment of Bitcoin: Unveiling the Myth of a Digital Currency’. International Review of Sociology 28 (1): 193–207. https://doi.org/10.1080/03906701.2018.1430067.
+4. Green, Russell A. "Gold Standard or Fool’s Gold? Should the US Consider Returning to the Gold Standard?." Issue Brief 02.23. 16 (2016).
+5. Ammous, Saifedean. 2018. The Bitcoin Standard: The Decentralized Alternative to Central Banking. Hoboken, New Jersey: Wiley.
+6. Sanz Bas, David. 2020. ‘Hayek and the Cryptocurrency Revolution’. Iberian Journal of the History of Economic Thought 7 (1): 15–28. https://doi.org/10.5209/ijhe.69403.
+7. Friedrich, Carl J. "The Road to Serfdom." (1945): 575-579.
+8. Selmi, R., Bouoiyour, J., & Wohar, M. E. (2022). “Digital Gold” and geopolitics. Research in International Business and Finance, 59, 101512. https://doi.org/10.1016/j.ribaf.2021.101512
+9. Krugman, Paul. "The hangover theory." Slate. December 3 (1998).
+10. Krugman, Paul (7 April 2010). "The Conscience of a Liberal: Martin And The Austrians". The New York Times. Archived from the original on 23 September 2011. 
+11. Allon, F. (2018). Money after Blockchain: Gold, Decentralised Politics and the New Libertarianism. Australian Feminist Studies, 33(96), 223–243. https://doi.org/10.1080/08164649.2018.1517245
+12. Caferra, R., Tedeschi, G., & Morone, A. (2021). Bitcoin: Bubble that bursts or Gold that glitters? Economics Letters, 205, 109942. https://doi.org/10.1016/j.econlet.2021.109942
+13. Wang, G., Tang, Y., Xie, C., & Chen, S. (2019). Is bitcoin a safe haven or a hedging asset? Evidence from China. Journal of Management Science and Engineering, 4(3), 173–188. https://doi.org/10.1016/j.jmse.2019.09.001
+14. Caferra, Rocco, Gabriele Tedeschi, and Andrea Morone. 2021. ‘Bitcoin: Bubble That Bursts or Gold That Glitters?’ Economics Letters 205: 109942. https://doi.org/10.1016/j.econlet.2021.109942.
+15. Wolf, Martin. 2019. ‘The Libertarian Fantasies of Cryptocurrencies’. Financial Times, February. https://www.ft.com/content/eeeacd7c-2e0e-11e9-ba00-0251022932c8.
+16. Fantacci, Luca. 2019. ‘Cryptocurrencies and the Denationalization of Money’. International Journal of Political Economy 48 (2): 105–26. https://doi.org/10.1080/08911916.2019.1624319.
