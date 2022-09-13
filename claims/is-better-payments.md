@@ -10,12 +10,12 @@ Blockchain-based payment rails can also facilitate faster, cheaper, and more eff
 [BLOCKDATA. ‘Blockchain Is Disrupting the $700 Billion Remittance Industry’. Medium (blog), 7 March 2019.](https://medium.com/@blockdata_tech/blockchain-is-disrupting-the-700-billion-remittance-industry-b79a01a95a10.) 
 
 [CMT, Bill Miller IV, CFA. ‘The Value Investor’s Case for... Bitcoin?!’ _Miller Value Partners_ (blog), 8 September 2015:]([https://millervalue.com/a-value-investors-case-for-bitcoin/](https://millervalue.com/a-value-investors-case-for-bitcoin/)
-> "The open ledger combined with the complexity of transaction data makes Bitcoin a very secure method of payment... One of Bitcoin’s biggest advantages over other payment networks like Visa (V) and MasterCard (MA) is minimal transactions fees. While other payments networks typically charge the greater of ~3% and $0.15, Bitcoin’s transaction fee tends to be a negligible fraction of the transaction, if any at all. Lower transaction fees not only enable buyers and sellers to transact at prices that are better for both parties, but they could enable micropayments in markets that are not otherwise compatible with a $0.15 surcharge on low-price, low-margin goods and services." 
+> The open ledger combined with the complexity of transaction data makes Bitcoin a very secure method of payment... One of Bitcoin’s biggest advantages over other payment networks like Visa (V) and MasterCard (MA) is minimal transactions fees. While other payments networks typically charge the greater of ~3% and $0.15, Bitcoin’s transaction fee tends to be a negligible fraction of the transaction, if any at all. Lower transaction fees not only enable buyers and sellers to transact at prices that are better for both parties, but they could enable micropayments in markets that are not otherwise compatible with a $0.15 surcharge on low-price, low-margin goods and services.
 
 [Nakamoto, Satoshi. ‘Bitcoin: A Peer-to-Peer Electronic Cash System’, n.d.](https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf)
 
 Roger Ver, an investor in Blockchain.info, quoted in [COINTELEGRAPH. ‘Western Union Is Not yet Ready for Bitcoin International Transfer’. Cointelegraph, 1 November 2013:](https://cointelegraph.com/news/western_union_is_not_yet_ready_for_bitcoin_international_transfer)
-> “I think we will know when bitcoin has reached prime time when it is transferring more value each day than Western Union or Money Gram... I think we may see that happen within another two years.” 
+> I think we will know when bitcoin has reached prime time when it is transferring more value each day than Western Union or Money Gram... I think we may see that happen within another two years.
  
 ## Evaluation: False (high confidence)
 
