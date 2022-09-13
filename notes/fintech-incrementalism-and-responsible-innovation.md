@@ -2,7 +2,7 @@
 title: Fintech Incrementalism and Responsible Innovation
 created: 2022-04-04
 date: 2022-04-04
-description: "In episode #5 of our ongoing deep dive into web3 and crypto, Rufus Pollock and Stephen Diehl explore the claim that blockchain can be a vehicle for increase in financialization through the development of more complex, blockchain-based financial products."
+description: "The fintech incrementalist position is that fintech (financial technology) is a force for effecting change in financial services and building a more stable, efficient and transparent economy. Here we evaluate the claim that blockchain-based financial technology can be a vehicle for more efficient markets through the development of more complex, blockchain-based financial products."
 image: /img/fintech-incrementalism-thumbnail.jpg
 youtube: https://www.youtube.com/watch?v=7rLQoTtwRSU&t=4s
 podcast: https://anchor.fm/life-itself/episodes/Fintech-Incrementalism-and-Responsible-Innovation-e1gn02u
@@ -10,23 +10,37 @@ featured: true
 aliases: notes/fintech-incrementalism-and-responsible-innovation.md
 ---
 
-{/* https://www.youtube.com/watch?v=7rLQoTtwRSU&t=4s */}
+# Summary
 
-{/* Podcast: https://anchor.fm/life-itself/episodes/Fintech-Incrementalism-and-Responsible-Innovation-e1gn02u */}
+## Claim Steel-Manned
 
-***
+Building more complex financial models and products allows us to create more antifragile structures that remove or disperse [risk](../concepts/risk.md) from the broader [market](../concepts/market.md) that the public benefits from. We can see real world examples of this: mortgage-backed securities have enabled more democratic and more liquid access to mortgage credit; volaitility in the price of products has been reduced by creating future products, eg the volatility of chicken nuggets is solved by creating synthetic futures on corn and soymeal commodities that would hedge the chicken producer’s exposure to underlying price fluctuations.
 
-# Episode Notes
+Crypto is just the evolution of this trend of good incremental fintech improvemments. We want to continue moving the economy into a hyperfinanicalized 24/7 real-time always-trading market with even more complexity and lower friction than what we have presently. Blockchain can get us there. 
 
-## Summary
+Blockchain can be a vehicle for increase in financialization through the development of more complex, [blockchain](../concepts/blockchain.md)-based [financial products](../concepts/financial-asset.md). This ranges from better payment rails i.e. a better Visa, Stripe etc, to more efficient clearing systems, to full-scale innovation in financial engineering.
 
-In this episode, Rufus and Stephen  explore an argument for blockchain and crypto that they term “fintech incrementalism”. 
+Banks provide a clear example of what a lack of innovation looks like: banks are outdated and slow to innovate; core banking software is mostly from the 1980s; financial infrastructure is massively outdated in America and other coutrnies and the state of bit rot is vast. 
 
-This position assumes the capitalist notion that greater [financialization](../claims/is-hyperfinancialization.md) is an engine for progress, and claims that blockchain can be a vehicle for this increase in financialization through the development of more complex, [blockchain](../concepts/blockchain.md)-based [financial products](../concepts/financial-asset.md) – and the added market efficiency which will result. This ranges from better payment rails i.e. a better Visa, Stripe etc, to more efficient clearing systems, to full-scale innovation in financial engineering.
+Crypto is the means to fix all this. In the origial Bitcoin whitepaper Satoshi argues Bitcoin will provide a better payment rail, that we will be able to transfer money to people quickly and easily.
 
-The political imaginaries of this position are: more efficient markets and more bespoke and customized financial products to buy. [Capitalism](../concepts/capitalism.md) is net positive in the world, and a fairer, more efficient and transparent economy benefits everyone. 
+In addition, the future of finance will see private money and [Central Bank Digital Currencies](../concepts/cbdc.md) coexist and compete for market share. A global distributed ledger will provide greater market transparency and efficiency of sovereign flows.
 
-Rufus and Stephen 'steel man' the “fintech incrementalism” position, identifying 7 key claims, before then conducting an analysis of the position.
+While it’s common to have a knee-jerk reaction to financial complexity, we need to take things on a case-by-case basis rather than blanket write off financialization. Regulation can catch up with technical innovation.
+
+## Evidence of the claim being made
+
+## Evaluation: False
+
+The global financial crisis is a warning sign about opaque markets, complex products and moral hazard in the presence of government bailouts. Quant funds levered to the hilt on exotic products have almost universally gone very badly historically. That regulation will catch up, in the future, is not sufficient. Testing such experimental services and products live on people and markets is very questionable engineering practice.
+
+Upending the entire space of commercial banks is a massive financial reconfiguration project which needs political will. This does not currently exist either in Europe or the United States.
+
+If crypto payment rails [are lower-cost](../claims/is-better-payments.md) or lower-friction then it’s likely because they’ve removed that which is costly and adds friction: fraud mitigation, transaction reversal, custodial services, customer service, and compliance. Once we add compliance back to crypto payment rails, it’s unclear that there would be any efficiency increase or cost savings.
+
+In addition, as a [remittance use-case](https://academy.binance.com/en/articles/blockchain-use-cases-remittance) , crypto assets such as bitcoin make no sense at face value. We still have to convert to and from the local currency on both legs of the payment. This has a non-zero cost. Currency A -> Currency B -> Currency C is a very indirect way of doing cross-border payments as compared to a two-hop transaction. Introducing a third hypervoliate intermediary step just adds more risk and makes this more expensive.
+
+# Full Analysis
 
 ## Fintech Incrementalism
 
@@ -57,7 +71,6 @@ Rufus and Stephen 'steel man' the “fintech incrementalism” position, identif
   * [Microfinances](https://en.wikipedia.org/wiki/Microfinance)
 
 ## Steel manning the fintech incrementalist position
-
 
 * **Claim 1:** Everything is moving towards real-time and international finance. Crypto is the evolution of this trend. We want to move the entire economy into a hyperfinanicalized 24/7 real-time always-trading market with even more complexity and lower friction than what we have presently.
     *  Building a [T+0 settlement](https://www.investopedia.com/ask/answers/what-do-t1-t2-and-t3-mean/) system for equities is a great idea. Real-time settlements would be a boon for the liquidity of US capital markets.
