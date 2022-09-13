@@ -325,7 +325,6 @@ Crypto has very limited potential as an anti-authoritarian force. More important
 ### FAQs
 
 * [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
-* [Is Bitcoin a means to counter authoritarian regimes?](/claims/is-authoritarianism)
 * [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
 * [Is crypto legal?](/claims/is-legal)
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)

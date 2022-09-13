@@ -30,7 +30,6 @@ Explore crypto and "web3" in terms of the claims made about it. These subclaims 
 
 * [Is an unregulated transnational payment rail even desirable?](/claims/is-transnational-payment.md)
 * [Are crypto tokens a hedge against the "debasement" of the dollar?](/claims/is-hedge-debasement.md)
-* [Are crypto tokens a means to counter authoritarianism?](/claims/is-authoritarianism.md)
 * [Can I raise money for my non-profit using crypto tokens?](/claims/is-raise-nonprofit.md)
 * [Can I do a crowdfunded equity raise for my company using crypto tokens?](/claims/is-raise-company.md)
 
