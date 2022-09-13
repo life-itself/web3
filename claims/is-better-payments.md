@@ -1,7 +1,24 @@
 # Is crypto providing faster payment rails or better remittance services?
-Since crypto assets [cannot function as a currency](is-bitcoin-currency.md) they are not useful in building payment rails or remittance services. Crypto assets can be used as an intermediate asset in which trades can be settled in, but this does not serve a technical of financial purpose; it simply introduces an unnecessary conversion step.
 
-If a person wants to send money abroad, say from US dollars to Indian rupees they would typically use a service like MoneyGram or WesternUnion. These services charge a transaction fee and do a direct swap of dollars to rupees from the reserves the company holds in both currencies.
+## Claim Steel-Manned
+
+Crypto can provide us with better payment rails i.e. a better Visa, Stripe etc. These payment rails would have reduced friction and costs resulting in a cheaper, faster, more efficient service. 
+
+Blockchain-based payment rails can also facilitate faster, cheaper, and more efficient international remittances. People can send money abroad, eg from US dollars to Indian rupees using crypto.
+
+## Examples of the claim being made
+
+“I think we will know when bitcoin has reached prime time when it is transferring more value each day than Western Union or Money Gram... I think we may see that happen within another two years.” - Roger Ver, an investor in Blockchain.info, quoted in [COINTELEGRAPH. ‘Western Union Is Not yet Ready for Bitcoin International Transfer’. Cointelegraph, 1 November 2013.](https://cointelegraph.com/news/western_union_is_not_yet_ready_for_bitcoin_international_transfer)
+
+[BLOCKDATA. ‘Blockchain Is Disrupting the $700 Billion Remittance Industry’. Medium (blog), 7 March 2019.](https://medium.com/@blockdata_tech/blockchain-is-disrupting-the-700-billion-remittance-industry-b79a01a95a10.) 
+
+[Nakamoto, Satoshi. ‘Bitcoin: A Peer-to-Peer Electronic Cash System’, n.d.](https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf)
+ 
+## Evaluation: False (high confidence)
+
+Since crypto assets [cannot function as a currency](is-bitcoin-currency.md), they are not useful in building payment rails or remittance services. Crypto assets can be used as an intermediate asset in which trades can be settled in, but this does not serve a technical of financial purpose; it simply introduces an unnecessary conversion step.
+
+If a person wants to send money abroad, say from US dollars to Indian rupees, they would typically use a service like MoneyGram or WesternUnion. These services charge a transaction fee and do a direct swap of dollars to rupees from the reserves the company holds in both currencies.
 
 If one postulates using a crypto asset or stablecoin as a means to do remittances then they are still faced with the *last leg problem*. Their relative in India still has to convert the crypto asset into the local currency to buy domestic goods and services since supermakets and stores don't accept crypto assets. So instead of a dollar-to-ruppee conversion we would hypothetically do a dollar-to-bitcoin-to-rupee conversion. This introduces [price-risk](../concepts/price-risk.md), [counterparty-risk](../concepts/counterparty-risk.md) and unnecessary conversion fees to accommodate the extraneous third exchange. This adds unnecessary complexity and is likely more expensive.
 
