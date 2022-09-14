@@ -1,12 +1,33 @@
-# Is crypto providing faster payment rails or better remittance services?
+---
+title: Crypto will provide cheaper, faster payment and remittance services
+description: The claim being made here is that a) 
+cheaper and faster payment and remittance services are desirable, b) crypto can provide this, and c) the benefits of this would outway any negative externalities. We find this claim to fail on points b) and c) and to therefore be false.
+category:
+  - claim: y
+  - featured: y 
+  - interview: n
+  - deepdive: n
+claim:
+  - evaluation: NN
+  - confidence: HH
 
 ## Claim Steel-Manned
 
-Crypto can provide us with better payment rails i.e. a better Visa, Stripe etc. These payment rails would have reduced friction and costs resulting in a cheaper, faster, more efficient service. 
+### Subclaim 1: Crypto can provide payment and remittance services by virtue of fulfilling the fuctions of a currency.
 
-Blockchain-based payment rails can also facilitate faster, cheaper, and more efficient international remittances. People can send money abroad, eg from US dollars to Indian rupees using crypto.
+Payment systems and remittance services need to pay in something. That something must either be a [currency](../concepts/currency.md) (eg dollars) or a [commodity](../concepts/commodity.md) (eg cows).
+
+Crypto can provide payment systems and remittance services because it serves the three functions of a currency:
+1. It can be a unit of account in that it’s a standard and divisible unit of measurement of market value (i.e. it can be used to signal what something is worth).
+2. It can be a medium of exchange in that we can use it as an intermediary instrument to transact for goods and services.
+3. It can act as a [store of value](../concepts/store-of-value.md) in that it (at least ideally) retains its purchasing power over time, such that we can retrieve the value of our investment at a later date without making a significant loss.
+
+### Subclaim 2: Crypto can provide *better* payment rails and remittance services
+
+Crypto can provide us with better payment rails - i.e. a better Visa, Stripe etc - and more efficient international remittances - I can send money abroad, eg from US dollars to Indian rupees using crypto. These blockchain-based payment rails would have reduced friction and costs resulting in a cheaper, faster, more efficient service. 
 
 ## Examples of the claim being made
+
 [BLOCKDATA. ‘Blockchain Is Disrupting the $700 Billion Remittance Industry’. Medium (blog), 7 March 2019.](https://medium.com/@blockdata_tech/blockchain-is-disrupting-the-700-billion-remittance-industry-b79a01a95a10.) 
 
 [CMT, Bill Miller IV, CFA. ‘The Value Investor’s Case for... Bitcoin?!’ _Miller Value Partners_ (blog), 8 September 2015:]([https://millervalue.com/a-value-investors-case-for-bitcoin/](https://millervalue.com/a-value-investors-case-for-bitcoin/)
@@ -19,11 +40,25 @@ Roger Ver, an investor in Blockchain.info, quoted in [COINTELEGRAPH. ‘Western 
  
 ## Evaluation: False (high confidence)
 
-Since crypto assets [cannot function as a currency](is-bitcoin-currency.md), they are not useful in building payment rails or remittance services. Crypto assets can be used as an intermediate asset in which trades can be settled in, but this does not serve a technical of financial purpose; it simply introduces an unnecessary conversion step.
+### Subclaim 1: Crypto *cannot* fulfil the fuctions of a currency.
+
+Crypto assets are [not currencies](is-bitcoin-currency.md) because they cannot fulfil the definition of [money](../concepts/money.md).
+
+Crypto assets cannot function as a medium of exchange. The transaction throughput is so small that they don't work as a global system of currency - they can't process transactions fast enough. This is inherent to the proof-of-work process crypto assets use to verify their transactions. This incapacity is therefore baked in.
+
+ Crypto assets also do not appear to hold potential as a store of value given their extremely high price variance. If they were to behave as a [store of value](../concepts/store-of-value.md), they would have to abandon hypervolatility, and there is no easily identifiable economic mechanism for this to happen.  
+
+### Subclaim 2: Crypto can provide *better* payment rails and remittance services
+
+Since crypto assets cannot function as a currency, they are not useful in building payment rails or remittance services. Crypto assets can be used as an intermediate asset in which trades can be settled in, but this does not serve a technical of financial purpose; it simply introduces an unnecessary conversion step.
 
 If a person wants to send money abroad, say from US dollars to Indian rupees, they would typically use a service like MoneyGram or WesternUnion. These services charge a transaction fee and do a direct swap of dollars to rupees from the reserves the company holds in both currencies.
 
 If one postulates using a crypto asset or stablecoin as a means to do remittances then they are still faced with the *last leg problem*. Their relative in India still has to convert the crypto asset into the local currency to buy domestic goods and services since supermakets and stores don't accept crypto assets. So instead of a dollar-to-ruppee conversion we would hypothetically do a dollar-to-bitcoin-to-rupee conversion. This introduces [price-risk](../concepts/price-risk.md), [counterparty-risk](../concepts/counterparty-risk.md) and unnecessary conversion fees to accommodate the extraneous third exchange. This adds unnecessary complexity and is likely more expensive.
+
+In addition, if crypto were to provide *cheaper* and *faster* payment rails, it’s likely this will have been acheived not via technological advancements, but by removing safeguards. 
+
+The costs present in most retail financial services have very little to do with the technology. Transaction costs associated with payments are fraud mitigation, transaction reversal, custodial services, customer service, and compliance. Customers want these safeguards. Once we add compliance back to crypto payment rails, it’s unclear that there would be any efficiency increase or cost savings.
 
 See industry analysts describe this proble in more depth: [Does Bitcoin/Blockchain make sense for international money transfers?](https://www.saveonsend.com/bitcoin-blockchain-money-transfer/)
 
