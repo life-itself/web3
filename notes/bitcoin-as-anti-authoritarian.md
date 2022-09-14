@@ -1,26 +1,35 @@
 ---
-title: Bitcoin as an Anti-Authoritarian Force
-date: 2022-05-02
-created: 2022-05-02
-description: "Evaluating the thesis that Bitcoin (and crypto more generally) is an anti-authoritarian force and can help undermine tyranny by providing a state-resistant payment rail."
-image: /img/anti-auth-thumbnail.png
+title: Crypto can provide a transnational state-resistant payment system e.g. for dissidents 
+description: The claim being made here is that a. a transnational state-resitant payment system is desirable, b. crypto can provide this, and c. the benefits of this would outweigh any negative externalities. We find this claim to fail on points a. and c. and to therefore be false.
 youtube: https://youtu.be/U_-Bdx1mqS8
 podcast: https://anchor.fm/life-itself/episodes/Bitcoin-as-an-Anti-Authoritarian-Force-e1i25vg/a-a7gpq18
-featured: true
-aliases: notes/bitcoin-as-anti-authoritarian.md
+category:
+  - claim: y
+  - featured: y 
+  - interview: y
+  - deepdive: y
+claim:
+  - evaluation: NN
+  - confidence: HH
 ---
-
-***
 
 # Summary
 
 ## Claim Steel-Manned
 
-Bitcoin provides a privacy-friendly way to store or transfer funds in situations where the state is an adversary – for example, when opposing a repressive regime. 
+### Subclaim 1: Crypto can provide a state-resistant transnational payment rail
+
+A blockchain-based global supranational payment system which is censorship resistant against nation state actors would effectively allow parties from any jurisdiction to move value anonymously and with no controls.
 
 There are examples of crypto being used as a form of, or to facilitate, disobedience: Edward Snowden and Sci-Hub.
 * Snowden speaks on the infosec conference circuit and likely receives all his speaker fees via bitcoin which he converts into Russian rubles.
-* Sci-Hub pirates every scientific paper from Elvesier, Wiley, and other academic publishers and hosts a PirateBay style mirror site in which researchers can bypass paywalls and download paper. The server is run by one woman in Russia,Alexandra Elbakyan, who takes crypto donations. She is seen as a folk hero giving knowledge to the world and advancing science.
+* Sci-Hub pirates every scientific paper from Elvesier, Wiley, and other academic publishers and hosts a PirateBay style mirror site in which researchers can bypass paywalls and download paper. The server is run by one woman in Russia, Alexandra Elbakyan, who takes crypto donations. She is seen as a folk hero giving knowledge to the world and advancing science.
+
+### Subclaim 2: An unregulated transnational payment rail is desirable
+
+Not everyone lives in a stable liberal democracy. Sometimes it’s necessary to circumvent the state, when laws are unjust or regimes are corrupt.
+
+Crypto can provide a privacy-friendly way to store or transfer funds in situations where the state is an adversary – for example, when opposing a repressive regime. 
 
 ## Evidence of claim being made
 
@@ -28,9 +37,11 @@ Lyudmyla Kozlovska quoted in [financialinclusion.tech. ‘21 Human Rights Advoca
 
 > For me, Bitcoin is not just technology. It has literally saved the lives of my friends and many Ukrainians. Without it, we would not have been able to raise money so quickly to pay for protective equipment for soldiers in the early days of the Russian invasion
 
-## Evaluation: False
+## Evaluation
 
-**Crypto assets are not a shield against government tyranny.** In his whitepaper *Bitcoin, Currencies, and Fragility*, Nassim Taleb writes of the "safe haven from tyranny" thesis:
+### Subclaim 1: Crypto can provide a state-resistant transnational payment rail
+
+Crypto assets are not a safe haven for one’s investments or a shield against government tyranny. In his whitepaper Bitcoin, Currencies, and Fragility, Nassim Taleb rebukes the "safe haven from tyranny" thesis:
 
 > By its very nature, bitcoin is open for all to see. The belief in one’s ability to hide one’s assets from the government with a public blockchain easily triangularizable at endpoints, and not just read by the FBI but also by people in their living rooms, requires a certain lack of financial seasoning and statistical understanding — perhaps even a lack of minimal common sense. For instance a Wolfram Research specialist was able to statistically detect and triangularize "anonymous" ransom payments made by Colonial Pipeline on May 8 in 2021 — and it did not take long for the FBI to restore the funds. We can safely assume that government structures and computational power will remain stronger than those of distributed operators who, while distrusting one another, can fall prey to simple hoaxes
 > 
@@ -42,6 +53,21 @@ This is best evidenced by the Canadian convoys in 2022 which attempted to take i
 
 The complete ban of [crypto assets](../concepts/cryptoasset.md) by the People's Republic of China also does not lend credibility to the thesis that [crypto assets](../concepts/cryptoasset.md) are outside the remit of authoritarian controls and their restriction on capital movement and controls over domestic [money services business](../concepts/money-services-business.md).
 
+### Subclaim 2: An unregulated transnational payment rail is desirable
+
+From the perspective of civil society a global supranational payment system which is [censorship resistant](../concepts/censorship-resistence.md) against nation state actors, effectively allowing parties from any jurisdiction to move value anonymously and with no controls, **is not desirable**. The world already struggles with an excess of offshore tax evasion and dark money flows, as evidenced by the recent Panama Paper leaks.
+
+#### Crypto facilitates tax evasion
+
+Today there already exists an enormous [shadow banking](../concepts/shadow-bank.md) space which facilitates the creation of credit and movement of money through jurisdictions with questionable money controls and loose enforcement of policy. Many wealthy individuals avail themselves of this transnational network of trusts and shell companies to avoid paying taxes in their country of residence, opting to instead hide their money abroad in opaque financial structures set up in island nations like the Bahamas or Cayman Islands.
+
+The incorporation of crypto into the shadow banking system, which is already happening, is providing even easier access for disreputable individuals to avoid taxes and to expand their holdings abroad. Instead of offshore shell companies, these individuals will use [stablecoin](../concepts/stablecoin.md) and [cryptoasset](../concepts/cryptoasset.md) to hide their money from tax authorities.
+
+From the public interest perspective none of this setup is desirable, since it allows the already wealthy to avoid paying taxes and supporting [public goods](../concepts/public-goods-problem.md) and the welfare state which supports people with less resources than wealthy individuals. Crypto thus exasperates wealth inequality and allows individuals to circumvent the rule of law and undermine the entire social contract of democracy.
+
+#### Crypto facilitates dark money flows
+
+For every one Alexandra Elbakyan or Edward Snowden there are a thousand arms dealers, cartels, human traffickers, money launderers, and warlords who would also use crypto for far less benign purposes. 
 
 # Full Analysis
 
