@@ -1,5 +1,5 @@
 ---
-title: Crypto can provide a transnational state-resistant payment system e.g. for dissidents 
+title: Crypto can provide a transnational state-resistant payment system for dissidents 
 description: The claim being made here is that a. a transnational state-resitant payment system is desirable, b. crypto can provide this, and c. the benefits of this would outweigh any negative externalities. We find this claim to fail on points a. and c. and to therefore be false.
 youtube: https://youtu.be/U_-Bdx1mqS8
 podcast: https://anchor.fm/life-itself/episodes/Bitcoin-as-an-Anti-Authoritarian-Force-e1i25vg/a-a7gpq18
