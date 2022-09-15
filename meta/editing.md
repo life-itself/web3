@@ -18,7 +18,6 @@ You will find the wiki content mostly in the folders ‘claims’ and ‘concept
 
 The website is written in Markdown. A tool called content layer converts the Markdown files into HTML (the standard computer language for displaying and formatting web pages) so that they are displayed as pages on the site. This is the case for all pages on the website except for the homepage which is written directly in HTML. 
 
-
 #### Markdown
 
 Markdown is a markup language (computer language for displaying and formatting  web pages), which is designed to be easy to write and easy to read. It’s widely deployed on the web, for example by DataHub, GitHub, Stackoverflow and many other sites.
@@ -27,11 +26,9 @@ In Markdown, you control the display of the document. For instance, you can form
 
 Head over to our [Markdown Guide](https://playbook.datopian.com/markdown/#why-markdown) to learn more about Markdown and how to use it.
 
-
 #### Front Matter 
 
 In the world of computer programming, front matter is metadata (data about data) at the top of a file. Front matter does two things: a) it displays key info about a page (such as its title and description) in a structured way which helps with a consistent layout throughout the site and b) is used as metadata for SEO (search engine optimization) purposes, helping our content to reach interested readers. 
-
 
 ##### Using front matter
 
@@ -108,7 +105,6 @@ In this stage, you ‘clone’ your forked repository, i.e. you copy your forked
 * What you’re doing here is navigating in Terminal to the folder on your computer where you want to save the cloned repository (i.e. changing the working directory). Normally, on your computer you do this by searching for a folder and clicking on the icon to open it. In Terminal, you do this by typing commands. The command for changing directory is: cd &lt;directory>. (00:40-1:11)
 * Type into Terminal the command “git clone” and then paste the repo URL you copied. E.g. “git clone https://github.com/life-itself/web3.git”. Press enter. (1:13-1:48)
     * N.B. When you try this, you may be prompted to install command line developer tools to be able to run git commands, e.g. XCode for Mac. If this is the case, follow the instructions for installation.
-
 
 ##### Stage 3: Branch
 
