@@ -161,6 +161,7 @@ Non-fungible tokens.
 * [Don’t Understand Bitcoin? This Man Will Mumble An Explanation At You](https://www.youtube.com/watch?v=4APcgsRdW6w) by ClickHole - 2015-07-7
 * [If Cryptocurrency was Honest](https://www.youtube.com/watch?v=GUs5y9leCyA)
 * [If NFTs were Honest](https://www.youtube.com/watch?v=sG_v4bb2e4k)
+* [Brave New Web](https://medium.com/coinmonks/brave-new-web-7bae50e916eb) - ani utopian Web3 satire by Nikolay Vlasov - 2022-04-10
 
 ### Twitter users
 
