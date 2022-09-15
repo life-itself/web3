@@ -173,9 +173,13 @@ Crandall, J. (2019) _Cryptoeconomic Geographies and Contestation in Puerto Rico_
 
 Doody, S. (2020) ‘Reactionary Technopolitics: A Critical Sociohistorical Review’, _Fast Capitalism_, 17(1), pp. 143–164. Available at: [https://doi.org/10.32855/fcapital.202001.009](https://doi.org/10.32855/fcapital.202001.009).
 
+Fanusie, Y. and Robinson, T. (2018) ‘Bitcoin laundering: an analysis of illicit flows into digital currency services’, _Center on Sanctions and Illicit Finance memorandum, January_ [Preprint].
+
 Ferreira, A. (2021) ‘The Curious Case of Stablecoins—Balancing Risks and Rewards?’, _Journal of International Economic Law_, 24(4), pp. 755–778. Available at: [https://doi.org/10.1093/jiel/jgab036](https://doi.org/10.1093/jiel/jgab036).
 
 Fletcher, E., Larkin, C. and Corbet, S. (2021) ‘Countering money laundering and terrorist financing: A case for bitcoin regulation’, _Research in International Business and Finance_, 56(January), p. 101387. Available at: [https://doi.org/10.1016/j.ribaf.2021.101387](https://doi.org/10.1016/j.ribaf.2021.101387).
+
+Gorton, G.B. and Zhang, J. (2021) ‘Taming Wildcat Stablecoins’, _SSRN Electronic Journal_ [Preprint]. Available at: [https://doi.org/10.2139/ssrn.3888752](https://doi.org/10.2139/ssrn.3888752).
 
 Greenberg, A. (2012) _This Machine Kills Secrets: Julian Assange, the Cypherpunks, and Their Fight to Empower Whistleblowers_. Penguin Randon House. Available at: [https://www.penguinrandomhouse.com/books/309904/this-machine-kills-secrets-by-andy-greenberg/](https://www.penguinrandomhouse.com/books/309904/this-machine-kills-secrets-by-andy-greenberg/).
 
@@ -191,6 +195,8 @@ Jutel, O. (2022) ‘Blockchain humanitarianism and crypto-colonialism’, _Cell 
 
 Krugman, P. (2022) ‘The Strange Alliance of Crypto and MAGA Believers’, _The New York Times_, 11 January. Available at: [https://www.nytimes.com/2022/01/10/opinion/crypto-cryptocurrency-money-conspiracy.html](https://www.nytimes.com/2022/01/10/opinion/crypto-cryptocurrency-money-conspiracy.html) (Accessed: 3 March 2022).
 
+Malloy, M. and Lowe, D. (2021) ‘Global Stablecoins: Monetary Policy Implementation Considerations from the U.S. Perspective’, _Finance and Economics Discussion Series_, 2021(020), pp. 1–14. Available at: [https://doi.org/10.17016/feds.2021.020](https://doi.org/10.17016/feds.2021.020).
+
 Murray, C. (no date) _IMF urges El Salvador to ditch bitcoin as legal tender | Financial Times_. Available at: [https://www.ft.com/content/fbf9aef0-453f-4e61-bd83-ff2b2bc92221](https://www.ft.com/content/fbf9aef0-453f-4e61-bd83-ff2b2bc92221) (Accessed: 3 March 2022).
 
 Orcutt, M. (2020) ‘This is how North Korea uses cutting-edge crypto money laundering to steal millions’, _MIT Technology Review_. MIT Technology Review. Available at: [http://www.technologyreview.com/2020/03/05/916688/north-korean-hackers-cryptocurrency-money-laundering/](http://www.technologyreview.com/2020/03/05/916688/north-korean-hackers-cryptocurrency-money-laundering/).
@@ -200,6 +206,8 @@ Ottenhof, L. (2021) ‘Crypto-colonialists use the most vulnerable people in the
 Pilkington, M. (2017) ‘Can Global Elites Pave the Way for a New Transnational Unit of Account? A Reflection on the Numerical Nature of Money’, _World Review of Political Economy_, 8(4). Available at: [https://doi.org/10.2139/ssrn.2339678](https://doi.org/10.2139/ssrn.2339678).
 
 Popper, N. (2019) ‘Terrorists Turn to Bitcoin for Funding, and They’re Learning Fast’, _The New York Times_, pp. 92–4.
+
+Pupolizio, I. (2021) ‘From Libra to Diem. The Pursuit of a Global Private Currency’, _Global Jurist_ [Preprint]. Available at: [https://doi.org/10.1515/gj-2021-0055](https://doi.org/10.1515/gj-2021-0055).
 
 Renieris, E.M. (no date) _Why a Little-Known Blockchain-Based Identity Project in Ethiopia Should Concern Us All_, _Centre for International Governance Innovation_. Available at: [https://www.cigionline.org/articles/why-a-little-known-blockchain-based-identity-project-in-ethiopia-should-concern-us-all/](https://www.cigionline.org/articles/why-a-little-known-blockchain-based-identity-project-in-ethiopia-should-concern-us-all/) (Accessed: 22 February 2022).
 
