@@ -1,35 +1,88 @@
 ---
-title: Are Crypto Tokens Securities?
-date: 2022-02-17
-created: 2022-04-13
-description: "In episode #3 of our ongoing deep dive into web3 and crypto, we explore the nature of financial products known as 'securities', their relation to crypto tokens, and the regulatory framework that exists around these structures."
-image: /img/are-crypto-tokens -securities-thumbnail.jpg
+title: Unregulated trading in securities is desirable
+description: "Evaluating the thesis that unregulated trading in securities is desirable."
 youtube: https://www.youtube.com/embed/z2uAg-AIs-Y
 podcast: https://anchor.fm/life-itself/episodes/Are-Cryptocurrencies-Securities--The-Nature-of-Securities--Their-Relation-to-Crypto-Tokens-with-Stephen-Diehl-e1fph69
-featured: true
-aliases: notes/are-crypto-tokens-securities.md
+category:
+  - claim: y
+  - featured: y 
+  - interview: n
+  - deepdive: n
+claim:
+  - evaluation: NN
+  - confidence: HH
 ---
 
-* Wiki topic:  [Securities Framework](../concepts/security.md)
+# Summary
 
-***
+## Claim Steel-Manned
 
-# Episode Notes
+### Subclaim 1: A better, easier way to raise money for my venture
 
-## Summary
+It is very easy to create an equity crowdfunding and cap table structure on top of crypto platforms like ethereum. Individuals can do it anonymously and raise billions of dollar equivalents in seed capital for ventures that are very early. The SEC, government or lawyers do not need to get involved at all.
 
-There is currently debate about how crypto investments fall under the existing securities regulatory framework. In this conversation, Stephen Diehl and Rufus Pollock dig into this debate, exploring what securities are and how they relate to crypto tokens.
+Previously this kind of access was gated to US persons with connections and access to funds and capital. This is a liberatory and egalitarian force that democratizes company formation that lowers barriers and allows all types of common enterprises that were previously prohibited by law.
 
-Rufus and Stephen then consider the question, should crypto tokens be subject to the same regulation as securities? They 'steel man' the position that crypto investments should not be regulated as securities, outlining 3 key claims:
-1. Unregulated crypto investment is a liberatory and egalitarian force that democratizes company formation, lowers barriers, and allows all types of common enterprises that were previously prohibited by law.
-2. The ability to raise capital outside of the rule of law is a human right that is a safeguard against tyranny.
-3. Equity markets are ripe for disruption - it is time for the start of a new era that will reconfigure the entire global economy.
+### Subclaim 2: Ability to raise capital outside of the rule of law 
 
-Rufus and Stephen end their conversation with an analysis of this position and the associated claims.
+The ability to raise capital outside of the rule of law is not only a good thing, it is an outright human right that is a safeguard against tyranny eg Edward Snowden, SciHub, Wikileaks. See [Bitcoin as an Anti-Authoritarian Force][../notes/bitcoin-as-anti-authoritarian.md] for more details. 
 
+## Evidence of claim being made
 
+...
 
+## Evaluation
 
+### Subclaim 1: A better, easier way to raise money for my venture
+
+The smartphone era gives retail investors access to the public equities market with unparalleled levels of simplicity unseen in markets. There’s also a genuine interest in giving retail investors access to private equity investments. But is this desirable?
+* High risk, high return. But with a 95% failure rate is it even appropriate for retail? Venture is not a great asset class compared to index funds in terms of brute returns.
+* If we lower the barriers to entry, the [ICO](../concepts/ico.md) bubble is a case study in even higher failure rates. Unprecedented levels of fraud unseen in developed markets since the 1920s.
+* **ICOs are like a public stock offering before the company even exists or has a product.**
+* Giving seed-stage ventures billions of seed capital detached from revenue, traction, or product market fit is a recipe for disaster.
+* There’s a perverse incentive to simply abscond with seed money rather than actually build anything.
+* There’s a perverse incentive to build technical Potemkin villages that focus on “token value go up” without building anything. Many crypto companies are here.
+* Can read the whitepapers of these companies and even people with PhDs in econ and software engineering can’t parse what they’re doing. ***How is the lay public going to do due-diligence on claims of financial perpetual motion machines?***
+* Can the courts scale to handle millions of new investment fraud cases every year?
+* Is extreme levels of fraud simply the price we pay for a more dynamic economy or does this all lead to ruin like it has in the past? 
+
+Is there a legal investment vehicle structure that balances the risks of retail investors with their desire for access to high-risk early ventures? Or should we simply bracket these kinds of securities sales to the already-wealthy? Because the check-size to risk ratio just empirically fits in the “Goldilocks zone” of the practical regulatory/legal/public-interest concerns.
+
+### Subclaim 2: Ability to raise capital outside of the rule of law 
+
+From the perspective of civil society, the ability to raise capital outside the rule of law **is not desirable**. 
+
+#### Crypto facilitates tax evasion
+
+Today there already exists an enormous [shadow banking](../concepts/shadow-bank.md) space which facilitates the creation of credit and movement of money through jurisdictions with questionable money controls and loose enforcement of policy. Many wealthy individuals avail themselves of this transnational network of trusts and shell companies to avoid paying taxes in their country of residence, opting to instead hide their money abroad in opaque financial structures set up in island nations like the Bahamas or Cayman Islands.
+
+The incorporation of crypto into the shadow banking system, which is already happening, is providing even easier access for disreputable individuals to avoid taxes and to expand their holdings abroad. Instead of offshore shell companies, these individuals will use [stablecoins](../concepts/stablecoin.md) and [cryptoassets](../concepts/cryptoasset.md) to hide their money from tax authorities.
+
+From the public interest perspective none of this setup is desirable, since it allows the already wealthy to avoid paying taxes and supporting [public goods](../concepts/public-goods-problem.md) and the welfare state which supports people with less resources than wealthy individuals. Crypto thus exasperates wealth inequality and allows individuals to circumvent the rule of law and undermine the entire social contract of democracy.
+
+#### Crypto facilitates dark money flows
+
+For every one Alexandra Elbakyan or Edward Snowden there are a thousand arms dealers, cartels, human traffickers, money launderers, and warlords who would also use crypto for far less benign purposes. 
+
+See [Bitcoin as an Anti-Authoritarian Force][../notes/bitcoin-as-anti-authoritarian.md] for more details.
+
+### Wider risk
+
+We tried the complete laissez-faire *caveat emptor* securities model in the 1920s. **It ended very badly**. The kind of fly-by-night “There Will Be Blood” type of charlatans ran wild selling securities to the public.Most US states created Blue Sky Laws to  "to stop the sale of stock in fly-by-night concerns, visionary oil wells, distant gold mines and other fraudulent exploitations."
+
+History is repeating itself. **Shibu Inu and Dogecoin were the blue sky securities of the 1920s**. People were attracted to get-rich-quick schemes back then just as much as they are today. Human psychology is remarkably invariant across time.
+
+As part of the New Deal, the United States signed into law the Securities Act of 1933, Glass-Steagall Act of 1933, Securities Exchange Act of 1934. These largely cleaned up the fraud. The US framework is the blueprint for many industrialized nations to do the same. Following this introduction of regulation, the Great Depression ends, bank runs are entirely eliminated and there is a long period of peace in financial markets. US capital markets become extremely large, robust and a new era of unrivalled growth and private innovation proceeds.
+
+When things go wrong, the impact can be financially devastating and socially corrosive: the state and its institutions and leaders are blamed and trust is corroded in the state as well as markets. If we assume that financial markets have some value then undermining faith in them is problematic. 
+
+### Crypto tokens should be regulated as securities
+
+According to the SEC, crypto tokens meet the [Howey Test](../concepts/howey-test.md) and thus are securities contracts. This fits with our general intuition about the intent and purpose retail day traders are buying them. They’re investing in common ventures with the expectation of profit from the sale of tokens the same as equity. Some [DAO](../concepts/dao.md) governance tokens quite literally are designed to imitate voting shares as seen in existing equity structures.
+
+--- 
+
+# Full Analysis
 
 ## What Are Securities?
 
@@ -62,6 +115,7 @@ Rufus and Stephen end their conversation with an analysis of this position and t
   * Many policymakers on both sides of the aisle debate whether or not the accreditation laws are too restrictive and shut the public out of high-risk-high-return investments that only wealthy people have access to.
     * On the right, then individual choice is a paramount, the government shouldn’t dictate risk-taking in markets. Just “evolution” and the natural state of being.
     * On the left, Pikkety’s analysis that wealth generated from capital grows faster than economic output and that patrimonial capitalism leads to distortions of markets and inequality. 
+    
 ### Steel Manning the Position that Crypto Investments Should Not Be Brought Within The Securities Regulation Framework
 * It is very easy to create an equity crowdfunding and cap table structure on top of crypto platforms like [ethereum](../concepts/ethereum.md).
   * Individuals can do it anonymously and raise billions of dollar equivalents in seed capital for ventures that are very early. Don’t need to involve the SEC, government or lawyers at all.
@@ -121,28 +175,62 @@ Rufus and Stephen end their conversation with an analysis of this position and t
 ***
 
 ## References
-1. Bindseil, Ulrich, Patrick Papsdorf, and Jürgen Schaaf. 2022. ‘The Encrypted Threat: Bitcoin’s Social Cost and Regulatory Responses’. 7 January 2022. https://www.suerf.org/docx/f_88b3febc5798a734026c82c1012408f5_38771_suerf.pdf.
-1. Bank of International Settlements. 2018. ‘Cryptocurrencies: Looking beyond the Hype’. In . Bank for International Settlements Basel. https://www.bis.org/publ/arpdf/ar2018e5.htm.
-1. Boreiko, Dmitri, Guido Ferrarini, and Paolo Giudici. 2019. ‘Blockchain Startups and Prospectus Regulation’. European Business Organization Law Review 20 (4): 665–94. https://doi.org/10.1007/s40804-019-00168-6.
-1. Brownsword, Roger. 2020. Law 3.0: Rules, Regulation, and Technology. Routledge.
-1. Burilov, Vlad. 2019. ‘Regulation of Crypto Tokens and Initial Coin Offerings in the EU: De Lege Lata and de Lege Ferenda’. European Journal of Comparative Law and Governance 6 (2): 146–86. https://doi.org/10.1163/22134514-00602003.
-1. Butler, Simon. 2021. ‘Cyber 9/11 Will Not Take Place: A User Perspective of Bitcoin and Cryptocurrencies from Underground and Dark Net Forums’. In Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12812 LNCS:135–53. Springer. https://doi.org/10.1007/978-3-030-79318-0_8.
-1. Cumming, Douglas J., Sofia Johan, and Anshum Pant. 2019. ‘Regulation of the Crypto-Economy: Managing Risks, Challenges, and Regulatory Uncertainty’. Journal of Risk and Financial Management 12 (3): 126. https://doi.org/10.3390/jrfm12030126.
-1. Ferrari, Valeria. 2020. ‘The Regulation of Crypto-Assets in the EU – Investment and Payment Tokens under the Radar’. Maastricht Journal of European and Comparative Law 27 (3): 325–42. https://doi.org/10.1177/1023263X20911538.
-1. Finck, Michèle. 2018. Blockchain Regulation and Governance in Europe. Blockchain Regulation and Governance in Europe. Cambridge University Press. https://doi.org/10.1017/9781108609708.
-1. Goforth, Carol R. 2021. ‘Regulation of Crypto: Who Is the Securities and Exchange Commission Protecting?’ American Business Law Journal 58 (3): 643–705. https://doi.org/10.1111/ablj.12192.
-1. Guadamuz, Andres, and Chris Marsden. 2015. ‘Blockchains and Bitcoin: Regulatory Responses to Cryptocurrencies’. First Monday 20 (12). https://doi.org/10.5210/fm.v20i12.6198.
-1. Hacker, Philipp, Ioannis Lianos, Georgios Dimitropoulos, and Stefan Eich. 2019. Regulating Blockchain: : Techno-Social and Legal Challenges. https://doi.org/10.1093/oso/9780198842187.001.0001.
-1. Hofman, Darra, Quinn DuPont, Angela Walch, and Ivan Beschastnikh. 2021. ‘Blockchain Governance: De Facto (x) or Designed?’ In Building Decentralized Trust, 21–33. Springer.
-1. Kapsis, Ilias. 2021. ‘Should We Trade Market Stability for More Financial Inclusion? The Case of Crypto-Assets Regulation in EU’. FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention, 85–104. https://doi.org/10.4324/9781003020998-9.
-1. Kraus, Daniel, Thierry Obrist, and Olivier Hari. 2019. Blockchains, Smart Contracts, Decentralised Autonomous Organisations and the Law. Edward Elgar Publishing. https://doi.org/10.4337/9781788115131.
-1. Lee, Joseph. 2022. Crypto-Finance, Law and Regulation: Governing an Emerging Ecosystem. Routledge. https://www.routledge.com/Crypto-Finance-Law-and-Regulation-Governing-an-Emerging-Ecosystem/Lee/p/book/9780367086619.
-1. Liaw, K. Thomas. 2021. ‘Trading and Regulation of Cryptocurrencies, Stablecoins and Other Cryptoassets’.
-1. Maia, Guilherme, and João Vieira dos Santos. 2021. ‘MiCA and DeFi (“Proposal for a Regulation on Market in Crypto-Assets” and ’Decentralised Finance’)’. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3875355.
-1. Rae, Shaela W, and Lorraine Mastersmith. 2019. ‘Crypto Asset Trading in Canada: Entering a New Era of Regulation’. Banking & Finance Law Review 35 (1): 153–85.
-1. Reiners, Lee. 2020. ‘Cryptocurrency and the State: An Unholy Alliance’. S. Cal. Interdisc. LJ 30: 695.
-1. Walch, Angela. 2015a. ‘The Bitcoin Blockchain as Financial Market Infrastructure: A Consideration of Operational Risk’. NYUJ Legis. & Pub. Pol’y 18: 837.
-1. ———. 2015b. ‘The Bitcoin Blockchain as Financial Market Infrastructure: A Consideration of Operational Risk’. NYUJ Legis. & Pub. Pol’y 18: 837.
-1. ———. 2019a. ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’. C. Brummer (Ed.), Crypto Assets: Legal and Monetary Perspectives, 1–36. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244.
-1. ———. 2019b. ‘In Code (Rs) We Trust: Software Developers as Fiduciaries in Public Blockchains’.
-1. ———. 2019c. ‘Software Developers as Fiduciaries in Public Blockchains’. Regulating Blockchain. Techno-Social and Legal Challenges, Ed. by Philipp Hacker, Ioannis Lianos, Georgios Dimitropoulos & Stefan Eich, Oxford University Press, 2019. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3203198.
+de Andrés, P. _et al._ (2022) ‘Challenges of the market for initial coin offerings’, _International Review of Financial Analysis_, 79, p. 101966. Available at: [https://doi.org/10.1016/j.irfa.2021.101966](https://doi.org/10.1016/j.irfa.2021.101966).
+
+Bank of International Settlements (2018) ‘Cryptocurrencies: looking beyond the hype’, in. Bank for International Settlements Basel. Available at: [https://www.bis.org/publ/arpdf/ar2018e5.htm](https://www.bis.org/publ/arpdf/ar2018e5.htm).
+
+Bindseil, U., Papsdorf, P. and Schaaf, J. (2022) ‘The encrypted threat: Bitcoin’s social cost and regulatory responses’, (262), p. 20.
+
+Boreiko, D., Ferrarini, G. and Giudici, P. (2019) ‘Blockchain Startups and Prospectus Regulation’, _European Business Organization Law Review_, 20(4), pp. 665–694. Available at: [https://doi.org/10.1007/s40804-019-00168-6](https://doi.org/10.1007/s40804-019-00168-6).
+
+Brownsword, R. (2020) _Law 3.0: Rules, Regulation, and Technology_. Routledge.
+
+Burilov, V. (2019) ‘Regulation of Crypto Tokens and Initial Coin Offerings in the EU: De lege lata and de lege ferenda’, _European Journal of Comparative Law and Governance_, 6(2), pp. 146–186. Available at: [https://doi.org/10.1163/22134514-00602003](https://doi.org/10.1163/22134514-00602003).
+
+Butler, S. (2021) ‘Cyber 9/11 Will Not Take Place: A User Perspective of Bitcoin and Cryptocurrencies from Underground and Dark Net Forums’, in _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_. Springer, pp. 135–153. Available at: [https://doi.org/10.1007/978-3-030-79318-0_8](https://doi.org/10.1007/978-3-030-79318-0_8).
+
+Cornish, C. and Waters, R. (2018) ‘Silicon Valley investors line up to back Telegram ICO’, _Financial Times_ [Preprint]. Available at: [https://www.ft.com/content/790d9506-0175-11e8-9650-9c0ad2d7c5b5](https://www.ft.com/content/790d9506-0175-11e8-9650-9c0ad2d7c5b5).
+
+Cumming, D.J., Johan, S. and Pant, A. (2019) ‘Regulation of the Crypto-Economy: Managing Risks, Challenges, and Regulatory Uncertainty’, _Journal of Risk and Financial Management_, 12(3), p. 126. Available at: [https://doi.org/10.3390/jrfm12030126](https://doi.org/10.3390/jrfm12030126).
+
+Debler, J. (2018) ‘Foreign initial coin offering issuers beware: the Securities and Exchange Commission is watching’, _Cornell Int’l LJ_, 51, p. 245.
+
+Ferrari, V. (2020) ‘The regulation of crypto-assets in the EU – investment and payment tokens under the radar’, _Maastricht Journal of European and Comparative Law_, 27(3), pp. 325–342. Available at: [https://doi.org/10.1177/1023263X20911538](https://doi.org/10.1177/1023263X20911538).
+
+Finck, M. (2018) _Blockchain Regulation and Governance in Europe_, _Blockchain Regulation and Governance in Europe_. Cambridge University Press. Available at: [https://doi.org/10.1017/9781108609708](https://doi.org/10.1017/9781108609708).
+
+Goforth, C.R. (2021) ‘Regulation of Crypto: Who Is the Securities and Exchange Commission Protecting?’, _American Business Law Journal_, 58(3), pp. 643–705. Available at: [https://doi.org/10.1111/ablj.12192](https://doi.org/10.1111/ablj.12192).
+
+Guadamuz, A. and Marsden, C. (2015) ‘Blockchains and Bitcoin: Regulatory responses to cryptocurrencies’, _First Monday_, 20(12). Available at: [https://doi.org/10.5210/fm.v20i12.6198](https://doi.org/10.5210/fm.v20i12.6198).
+
+Hacker, P. _et al._ (2019) _Regulating Blockchain: : Techno-Social and Legal Challenges_. Available at: [https://doi.org/10.1093/oso/9780198842187.001.0001](https://doi.org/10.1093/oso/9780198842187.001.0001).
+
+Hofman, D. _et al._ (2021) ‘Blockchain Governance: De Facto (x)or Designed?’, in _Building Decentralized Trust_. (x), pp. 21–33. Available at: [https://doi.org/10.1007/978-3-030-54414-0_2](https://doi.org/10.1007/978-3-030-54414-0_2).
+
+Kapsis, I. (2021) ‘Should we trade market stability for more financial inclusion? The case of crypto-assets regulation in EU’, _FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention_, pp. 85–104. Available at: [https://doi.org/10.4324/9781003020998-9](https://doi.org/10.4324/9781003020998-9).
+
+Kelly, J. (2019) ‘The ICO whose team members are literally cartoon characters’, _Financial Times_. Financial Times. Available at: [https://www.ft.com/content/57805b32-0bbe-34cb-940c-66cdd1aec5e2](https://www.ft.com/content/57805b32-0bbe-34cb-940c-66cdd1aec5e2).
+
+Kharif, O. (2018) ‘Half of ICOs Die Within Four Months After Token Sales Finalized’, _Bloomberg.com_. Bloomberg. Available at: [https://www.bloomberg.com/news/articles/2018-07-09/half-of-icos-die-within-four-months-after-token-sales-finalized](https://www.bloomberg.com/news/articles/2018-07-09/half-of-icos-die-within-four-months-after-token-sales-finalized).
+
+Kraus, D., Obrist, T. and Hari, O. (2019) _Blockchains, smart contracts, decentralised autonomous organisations and the law_. Edward Elgar Publishing. Available at: [https://doi.org/10.4337/9781788115131](https://doi.org/10.4337/9781788115131).
+
+Lee, J. (2022) _Crypto-Finance, Law and Regulation: Governing an Emerging Ecosystem_. Routledge. Available at: [https://www.routledge.com/Crypto-Finance-Law-and-Regulation-Governing-an-Emerging-Ecosystem/Lee/p/book/9780367086619](https://www.routledge.com/Crypto-Finance-Law-and-Regulation-Governing-an-Emerging-Ecosystem/Lee/p/book/9780367086619).
+
+Liaw, K.T. (2021) ‘Trading and regulation of cryptocurrencies, stablecoins and other cryptoassets’.
+
+Maia, G. and Vieira dos Santos, J. (2021) ‘MiCA and DeFi (“Proposal for a Regulation on Market in Crypto-Assets” and ’Decentralised Finance’)’, _SSRN Electronic Journal_ [Preprint]. Available at: [https://doi.org/10.2139/ssrn.3875355](https://doi.org/10.2139/ssrn.3875355).
+
+Rae, S.W. and Mastersmith, L. (2019) ‘Crypto Asset Trading in Canada: Entering a New Era of Regulation’, _Banking & Finance Law Review_, 35(1), pp. 153–185.
+
+Reiners, L. (2020) ‘Cryptocurrency and the State: An Unholy Alliance’, _S. Cal. Interdisc. LJ_, 30, p. 695.
+
+‘SEC v. WJ Howey Co.’ (1946) _US_. Supreme Court.
+
+Walch, A. (2015) ‘The bitcoin blockchain as financial market infrastructure: A consideration of operational risk’, _NYUJ Legis. & Pub. Pol’y_, 18, p. 837.
+
+Walch, A. (2019a) ‘Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems’, _C. Brummer (ed.), Crypto Assets: Legal and Monetary Perspectives_, pp. 1–36. Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244).
+
+Walch, A. (2019b) ‘In code (rs) we trust: Software developers as fiduciaries in public blockchains’.
+
+Walch, A. (2019c) ‘Software Developers as Fiduciaries in Public Blockchains’, _Regulating Blockchain. Techno-Social and Legal Challenges, ed. by Philipp Hacker, Ioannis Lianos, Georgios Dimitropoulos & Stefan Eich, Oxford University Press, 2019._ [Preprint]. Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3203198](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3203198).
