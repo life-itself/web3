@@ -1,6 +1,6 @@
 ---
 title: Crypto will provide cheaper, faster payment and remittance services
-description: The claim being made here is that a. cheaper and faster payment and remittance services are desirable, b. crypto can provide this, and c. the benefits of this would outway any negative externalities. We find this claim to fail on points b. and c. and to therefore be false.
+description: The claim being made here is that a. cheaper and faster payment and remittance services are desirable, b. crypto can provide this, and c. the benefits of this would outway any negative externalities. We find this claim to fail on points b. and c. and therefore to be false.
 category:
   - claim: y
   - featured: y 
