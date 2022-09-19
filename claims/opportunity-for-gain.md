@@ -1,6 +1,6 @@
 ---
-title: Opportunity for gain
-description: Evaluating the thesis that unregulated crypto markets are desirable due to the opportunity for gain. We find the adverse effects of crypto trading to outweigh any benefits, and as such find this claim to be false.
+title: "Opportunity for gain"
+description: "Evaluating the thesis that unregulated crypto markets are desirable due to the opportunity for gain. We find the adverse effects of crypto trading to outweigh any benefits, and as such find this claim to be false."
 category:
   - claim: y
   - featured: y 
