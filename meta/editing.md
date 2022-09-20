@@ -4,7 +4,7 @@ This is a guide to help people contribute content or manage contribution of cont
 
 ## How does the site work?
 
-The [Making Sense of Crypto and Web3](https://web3.lifeitself.us/) website is a wiki site: a collaborative site where users can add or otherwise edit content. This guide is for users who wish to add or edit content on the site, such as key concepts or ideologies in the [Guide](https://web3.lifeitself.us/guide) section or sensemaking in the [Claims](https://web3.lifeitself.us/claims) section.
+The [Making Sense of Crypto and Web3](https://web3.lifeitself.us/) website is a wiki site: a collaborative site where users can add or edit content. This guide is for users who wish to add or edit content on the site, such as key concepts or ideologies in the [Guide](https://web3.lifeitself.us/guide) section or sensemaking in the [Claims](https://web3.lifeitself.us/claims) section.
 
 All the content for the [Making Sense of Crypto & Web3 website](https://web3.lifeitself.us/) is contained within the life-itself/web3 [Github repo](https://github.com/life-itself/web3). 
 
