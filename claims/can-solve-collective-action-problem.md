@@ -13,7 +13,7 @@ claim:
 
 # Claim Steel-Manned
 
-## The Problem
+## The problem
 
 The "collective action problem" is the problem of how to coordinate collective action, eg funding public goods such as the fight against climate change. 
 
