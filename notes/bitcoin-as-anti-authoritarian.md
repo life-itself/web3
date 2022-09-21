@@ -1,6 +1,6 @@
 ---
-title: Crypto can provide a transnational state-resistant payment system for dissidents 
-description: The claim being made here is that a. a transnational state-resitant payment system is desirable, b. crypto can provide this, and c. the benefits of this would outweigh any negative externalities. We find this claim to fail on points a. and c. and to therefore be false.
+title: "Bitcoin as an Anti-Authoritarian Force: Crypto can provide a transnational state-resistant payment system for dissidents"
+description: "Evaluating the thesis that Bitcoin (and crypto more generally) is an anti-authoritarian force and can help undermine tyranny by providing a state-resistant payment rail."
 youtube: https://youtu.be/U_-Bdx1mqS8
 podcast: https://anchor.fm/life-itself/episodes/Bitcoin-as-an-Anti-Authoritarian-Force-e1i25vg/a-a7gpq18
 category:
@@ -17,46 +17,49 @@ claim:
 
 ## Claim Steel-Manned
 
-### Subclaim 1: Crypto can provide a state-resistant transnational payment rail
+### Subclaim 1: A state-resistant transnational payment rail is desirable
 
-A blockchain-based global supranational payment system which is censorship resistant against nation state actors would effectively allow parties from any jurisdiction to move value anonymously and with no controls.
+Not everyone lives in a stable liberal democracy. Sometimes it’s necessary to circumvent the state, when laws are unjust or regimes are corrupt.
+
+A global supranational payment system which is [censorship resistant](../concepts/censorship-resistence.md) against nation state actors would allow parties from any jurisdiction to move value anonymously and with no controls. Via such a payment system, individuals living under oppressive regimes as well as those resisting the regime could receive money and funding from anywhere in the world. 
+
+Nonviolent resistance and civil disobedience have some very notable success stories and are an important part of the arc of “moral universe bending towards justice”:
+* Abolitionist movement
+* Civil rights movement
+* Nelson Mandela
+* LGBT movement
+* Gandhi's non-cooperation movement
+* Anti Vietnam-war protests
+
+### Subclaim 2: Crypto can provide a state-resistant transnational payment rail
+
+Blockchain technology can provide us with this censorship-resistant global payment rail. 
 
 There are examples of crypto being used as a form of, or to facilitate, disobedience: Edward Snowden and Sci-Hub.
 * Snowden speaks on the infosec conference circuit and likely receives all his speaker fees via bitcoin which he converts into Russian rubles.
 * Sci-Hub pirates every scientific paper from Elvesier, Wiley, and other academic publishers and hosts a PirateBay style mirror site in which researchers can bypass paywalls and download paper. The server is run by one woman in Russia, Alexandra Elbakyan, who takes crypto donations. She is seen as a folk hero giving knowledge to the world and advancing science.
 
-### Subclaim 2: An unregulated transnational payment rail is desirable
-
-Not everyone lives in a stable liberal democracy. Sometimes it’s necessary to circumvent the state, when laws are unjust or regimes are corrupt.
-
-Crypto can provide a privacy-friendly way to store or transfer funds in situations where the state is an adversary – for example, when opposing a repressive regime. 
-
 ## Evidence of claim being made
 
+ALJAZEERA. ‘Crypto Provides Fix for Some in Crisis-Hit Afghanistan’, 21 March 2022. https://www.aljazeera.com/news/2022/3/21/crypto-provides-fix-for-some-in-crisis-hit-afghanistan: 
+
+> Digital currencies and their decentralised architecture, impervious to international sanctions, are allowing a handful of young Afghans to avoid the worst of the crisis.
+
 Lyn Alden [@LynAldenContact] (2022) _Twitter_. Available at: [https://twitter.com/LynAldenContact/status/1529084598268968962](https://twitter.com/LynAldenContact/status/1529084598268968962) (Accessed: 14 September 2022).
+
 > People from Nigeria, Ethiopia, Senegal, Togo, Venezuela, and Afghanistan keep telling me here in person how they use bitcoin to deal with authoritarian bank control or persistent inflation that continually wrecks their savings. While westerners on Twitter say it’s useless.
 
 Lyudmyla Kozlovska quoted in Aderinokun, Ire. _et al_. ‘21 Human Rights Advocates Write to Congress about Bitcoin’s Humanitarian Benefits’, 21 June 2022. [https://www.financialinclusion.tech/](https://www.financialinclusion.tech/)
 
-> For me, Bitcoin is not just technology. It has literally saved the lives of my friends and many Ukrainians. Without it, we would not have been able to raise money so quickly to pay for protective equipment for soldiers in the early days of the Russian invasion
+> For me, Bitcoin is not just technology. It has literally saved the lives of my friends and many Ukrainians. Without it, we would not have been able to raise money so quickly to pay for protective equipment for soldiers in the early days of the Russian invasion.
+
+Tapscott, Alex. ‘Commentary: Bitcoin Offers Freedom from Political Repression—and That’s a Key to Its Future’. Fortune, 18 February 2021. [https://fortune.com/2021/02/18/bitcoin-censorship-political-repression-deplatforming-china-belarus-russia-nigeria-crypto/](https://fortune.com/2021/02/18/bitcoin-censorship-political-repression-deplatforming-china-belarus-russia-nigeria-crypto/).
+
+> Bitcoin is censorship-resistant. In other words, government cannot throttle, control or monitor your behavior as they can in the legacy financial world. 
 
 ## Evaluation
 
-### Subclaim 1: Crypto can provide a state-resistant transnational payment rail
-
-Crypto assets are not a safe haven for one’s investments or a shield against government tyranny. In his whitepaper _Bitcoin, Currencies, and Fragility_, Nassim Taleb rebukes the "safe haven from tyranny" thesis:
-
-> By its very nature, bitcoin is open for all to see. The belief in one’s ability to hide one’s assets from the government with a public blockchain easily triangularizable at endpoints, and not just read by the FBI but also by people in their living rooms, requires a certain lack of financial seasoning and statistical understanding — perhaps even a lack of minimal common sense. For instance a Wolfram Research specialist was able to statistically detect and triangularize "anonymous" ransom payments made by Colonial Pipeline on May 8 in 2021 — and it did not take long for the FBI to restore the funds. We can safely assume that government structures and computational power will remain stronger than those of distributed operators who, while distrusting one another, can fall prey to simple hoaxes
-> 
-> [..] The slogan "Escape government tyranny hence bitcoin" is similar to advertisements in the 1960s extolling the health benefits of cigarettes.
-
-The massive power asymmetries of authoritarian regimes and their control over both traditional payment rails and domestic implies that dissidents attempting to use crypto assets to circumvent repression or capital controls will find it very difficult to move assets or cash out. Without the capacity to cash out, the efficacy of their actions is fundamentally limited to external geographic regions outside of the authoritarian regimes. Since no action can be effected internal to the regime this refutes the argument that crypto assets are an effective tool for dissidents.
-
-This is best evidenced by the Canadian convoys in 2022 which attempted to take international donations in crypto assets and found themselves and their accounts frozen by both banks and Canadian [crypto exchanges](../concepts/crypto-exchange.md) which blocked transactions under [illicit financing](../concepts/illicit-financing.md) laws. This made using the donations to purchase supplies impossible and undermined the [crypto assets](../concepts/cryptoasset.md) narrative.
-
-The complete ban of [crypto assets](../concepts/cryptoasset.md) by the People's Republic of China also does not lend credibility to the thesis that [crypto assets](../concepts/cryptoasset.md) are outside the remit of authoritarian controls and their restriction on capital movement and controls over domestic [money services business](../concepts/money-services-business.md).
-
-### Subclaim 2: An unregulated transnational payment rail is desirable
+### Subclaim 1: An unregulated transnational payment rail is desirable
 
 From the perspective of civil society a global supranational payment system which is [censorship resistant](../concepts/censorship-resistence.md) against nation state actors **is not desirable**. The world already struggles with an excess of offshore tax evasion and dark money flows, as evidenced by the recent Panama Paper leaks.
 
@@ -71,6 +74,28 @@ From the public interest perspective none of this setup is desirable, since it a
 #### Crypto facilitates dark money flows
 
 For every one Alexandra Elbakyan or Edward Snowden there are a thousand arms dealers, cartels, human traffickers, money launderers, and warlords who would also use crypto for far less benign purposes. 
+
+### Subclaim 2: Crypto can provide a state-resistant transnational payment rail
+
+Even if a blockchain-based state-resistant transnational payment rail *were* desirable, blockchain is not an effective way of achieving this.
+
+In his whitepaper _Bitcoin, Currencies, and Fragility_, Nassim Taleb rebukes the "safe haven from tyranny" thesis:
+
+> By its very nature, bitcoin is open for all to see. The belief in one’s ability to hide one’s assets from the government with a public blockchain easily triangularizable at endpoints, and not just read by the FBI but also by people in their living rooms, requires a certain lack of financial seasoning and statistical understanding — perhaps even a lack of minimal common sense. For instance a Wolfram Research specialist was able to statistically detect and triangularize "anonymous" ransom payments made by Colonial Pipeline on May 8 in 2021 — and it did not take long for the FBI to restore the funds. We can safely assume that government structures and computational power will remain stronger than those of distributed operators who, while distrusting one another, can fall prey to simple hoaxes
+> 
+> [..] The slogan "Escape government tyranny hence bitcoin" is similar to advertisements in the 1960s extolling the health benefits of cigarettes.
+
+The massive power asymmetries of authoritarian regimes and their control over both traditional payment rails and domestic implies that dissidents attempting to use crypto assets to circumvent repression or capital controls will find it very difficult to move assets or cash out. Without the capacity to cash out, the efficacy of their actions is fundamentally limited to external geographic regions outside of the authoritarian regimes. Since no action can be effected internal to the regime this refutes the argument that crypto assets are an effective tool for dissidents.
+
+This is best evidenced by the Canadian convoys in 2022 which attempted to take international donations in crypto assets and found themselves and their accounts frozen by both banks and Canadian [crypto exchanges](../concepts/crypto-exchange.md) which blocked transactions under [illicit financing](../concepts/illicit-financing.md) laws. This made using the donations to purchase supplies impossible and undermined the [crypto assets](../concepts/cryptoasset.md) narrative.
+
+The complete ban of [crypto assets](../concepts/cryptoasset.md) by the People's Republic of China also does not lend credibility to the thesis that [crypto assets](../concepts/cryptoasset.md) are outside the remit of authoritarian controls and their restriction on capital movement and controls over domestic [money services business](../concepts/money-services-business.md).
+
+## Conclusion
+
+The claim being evaluated here is that a) a transnational state-resitant payment system is desirable, and b) crypto can provide this. We find this claim to fail on both points.
+
+--- 
 
 # Full Analysis
 
