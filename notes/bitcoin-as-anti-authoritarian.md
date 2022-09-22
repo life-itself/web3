@@ -69,7 +69,7 @@ Today there already exists an enormous [shadow banking](../concepts/shadow-bank.
 
 The incorporation of crypto into the shadow banking system, which is already happening, is providing even easier access for disreputable individuals to avoid taxes and to expand their holdings abroad. Instead of offshore shell companies, these individuals will use [stablecoins](../concepts/stablecoin.md) and [cryptoassets](../concepts/cryptoasset.md) to hide their money from tax authorities.
 
-From the public interest perspective none of this setup is desirable, since it allows the already wealthy to avoid paying taxes and supporting [public goods](../concepts/public-goods-problem.md) and the welfare state which supports people with less resources than wealthy individuals. Crypto thus exasperates wealth inequality and allows individuals to circumvent the rule of law and undermine the entire social contract of democracy.
+From the public interest perspective none of this setup is desirable, since it allows the already wealthy to avoid paying taxes and supporting [public goods](../concepts/public-goods-problem.md) and the welfare state which supports people with less resources than wealthy individuals. Crypto thus exacerbates wealth inequality and allows individuals to circumvent the rule of law and undermine the entire social contract of democracy.
 
 #### Crypto facilitates dark money flows
 
