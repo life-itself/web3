@@ -68,7 +68,7 @@ See [Bitcoin as an Anti-Authoritarian Force][../notes/bitcoin-as-anti-authoritar
 
 ### Wider risk
 
-We tried the complete laissez-faire *caveat emptor* securities model in the 1920s. **It ended very badly**. The kind of fly-by-night “There Will Be Blood” type of charlatans ran wild selling securities to the public.Most US states created Blue Sky Laws to  "to stop the sale of stock in fly-by-night concerns, visionary oil wells, distant gold mines and other fraudulent exploitations."
+We tried the complete laissez-faire *caveat emptor* securities model in the 1920s. **It ended very badly**. Fly-by-night “There Will Be Blood” actors ran wild selling securities to the public. Most US states created Blue Sky Laws to  "to stop the sale of stock in fly-by-night concerns, visionary oil wells, distant gold mines and other fraudulent exploitations."
 
 History is repeating itself. **Shibu Inu and Dogecoin were the blue sky securities of the 1920s**. People were attracted to get-rich-quick schemes back then just as much as they are today. Human psychology is remarkably invariant across time.
 
