@@ -15,7 +15,7 @@ claim:
 
 # Summary
 
-## Claim Steel-Manned
+## Claim steel-manned
 
 ### Subclaim 1: A better, easier way to raise money for my venture
 
@@ -35,18 +35,25 @@ The ability to raise capital outside of the rule of law is not only a good thing
 
 ### Subclaim 1: A better, easier way to raise money for my venture
 
-The smartphone era gives retail investors access to the public equities market with unparalleled levels of simplicity unseen in markets. There’s also a genuine interest in giving retail investors access to private equity investments. But is this desirable?
-* High risk, high return. But with a 95% failure rate is it even appropriate for retail? Venture is not a great asset class compared to index funds in terms of brute returns.
-* If we lower the barriers to entry, the [ICO](../concepts/ico.md) bubble is a case study in even higher failure rates. Unprecedented levels of fraud unseen in developed markets since the 1920s.
-* **ICOs are like a public stock offering before the company even exists or has a product.**
-* Giving seed-stage ventures billions of seed capital detached from revenue, traction, or product market fit is a recipe for disaster.
-* There’s a perverse incentive to simply abscond with seed money rather than actually build anything.
-* There’s a perverse incentive to build technical Potemkin villages that focus on “token value go up” without building anything. Many crypto companies are here.
-* Can read the whitepapers of these companies and even people with PhDs in econ and software engineering can’t parse what they’re doing. ***How is the lay public going to do due-diligence on claims of financial perpetual motion machines?***
-* Can the courts scale to handle millions of new investment fraud cases every year?
-* Is extreme levels of fraud simply the price we pay for a more dynamic economy or does this all lead to ruin like it has in the past? 
+The smartphone era gives retail investors access to the public equities market with unparalleled levels of simplicity unseen in markets. There’s also a genuine interest in giving retail investors access to private equity investments. But is access to the public equities market appropriate for retail investors?
 
-Is there a legal investment vehicle structure that balances the risks of retail investors with their desire for access to high-risk early ventures? Or should we simply bracket these kinds of securities sales to the already-wealthy? Because the check-size to risk ratio just empirically fits in the “Goldilocks zone” of the practical regulatory/legal/public-interest concerns.
+While there is a chance of high return, there is high risk: 95% of new ventures fail. And if we lower the barriers to entry, the [ICO](../concepts/ico.md) bubble is a case study in even higher failure rates. 
+
+In addition, giving seed-stage ventures billions of seed capital detached from revenue, traction, or product market fit is not desirable. It creates an incentive to abscond with seed money rather than actually building anything.
+
+Furthermore, the whitepapers of these companies are complex, and even people with PhDs in econonomics and software engineering can’t parse what's going on. How is the lay public supposed to analyse what they are being told and make well-informed decisions?
+
+The likely result is high risk for retail investors and, as a result, wider systemic risk. 
+
+#### Wider risk
+
+We tried the complete laissez-faire *caveat emptor* securities model in the 1920s. **It ended very badly**. Fly-by-night “There Will Be Blood” actors ran wild selling securities to the public. Most US states created Blue Sky Laws to  "to stop the sale of stock in fly-by-night concerns, visionary oil wells, distant gold mines and other fraudulent exploitations."
+
+History is repeating itself. **Shibu Inu and Dogecoin were the blue sky securities of the 1920s**. People were attracted to get-rich-quick schemes back then just as much as they are today. Human psychology is remarkably invariant across time.
+
+As part of the New Deal, the United States signed into law the Securities Act of 1933, Glass-Steagall Act of 1933, Securities Exchange Act of 1934. These largely cleaned up the fraud. The US framework is the blueprint for many industrialized nations to do the same. Following this introduction of regulation, the Great Depression ends, bank runs are entirely eliminated and there is a long period of peace in financial markets. US capital markets become extremely large, robust and a new era of unrivalled growth and private innovation proceeds.
+
+When things go wrong, the impact can be financially devastating and socially corrosive: the state and its institutions and leaders are blamed and trust is corroded in the state as well as markets. If we assume that financial markets have some value then undermining faith in them is problematic. 
 
 ### Subclaim 2: Ability to raise capital outside of the rule of law 
 
@@ -66,15 +73,7 @@ For every one Alexandra Elbakyan or Edward Snowden there are a thousand arms dea
 
 See [Bitcoin as an Anti-Authoritarian Force][../notes/bitcoin-as-anti-authoritarian.md] for more details.
 
-### Wider risk
-
-We tried the complete laissez-faire *caveat emptor* securities model in the 1920s. **It ended very badly**. Fly-by-night “There Will Be Blood” actors ran wild selling securities to the public. Most US states created Blue Sky Laws to  "to stop the sale of stock in fly-by-night concerns, visionary oil wells, distant gold mines and other fraudulent exploitations."
-
-History is repeating itself. **Shibu Inu and Dogecoin were the blue sky securities of the 1920s**. People were attracted to get-rich-quick schemes back then just as much as they are today. Human psychology is remarkably invariant across time.
-
-As part of the New Deal, the United States signed into law the Securities Act of 1933, Glass-Steagall Act of 1933, Securities Exchange Act of 1934. These largely cleaned up the fraud. The US framework is the blueprint for many industrialized nations to do the same. Following this introduction of regulation, the Great Depression ends, bank runs are entirely eliminated and there is a long period of peace in financial markets. US capital markets become extremely large, robust and a new era of unrivalled growth and private innovation proceeds.
-
-When things go wrong, the impact can be financially devastating and socially corrosive: the state and its institutions and leaders are blamed and trust is corroded in the state as well as markets. If we assume that financial markets have some value then undermining faith in them is problematic. 
+## Conclusion
 
 ### Crypto tokens should be regulated as securities
 
@@ -82,7 +81,7 @@ According to the SEC, crypto tokens meet the [Howey Test](../concepts/howey-test
 
 --- 
 
-# Full Analysis
+# Analysis notes
 
 ## What Are Securities?
 
