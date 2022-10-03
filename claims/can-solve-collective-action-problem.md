@@ -11,7 +11,7 @@ claim:
   - confidence: HH
 ---
 
-# Claim Steel-Manned
+# Claim steel-manned
 
 ## The problem
 
@@ -106,7 +106,7 @@ The total market cap is currently $35,624,946.00 of an illiquid crypto token. Th
 
 One might argue that Klima is still new and it is at the beginning of it's journey. However, there is no clear narrative of how it's going to grow from being funded by the crypto bubble and being smaller than most philanthropic efforts surrounding climate change, to get to the scale that they aspire to. Rather than investing so much time, energy and money into this route, this money could have been put into simply buying carbon offsets directly.
 
-## Climate credits are a very questionable mechanism.
+## Climate credits are a very questionable mechanism
 
 Climate credits are effectively a form of indulgence where you pay for the right to pollute the environment by paying off the damage via some future project or activity. You're not seeking to solve the problem, but rather to mitigate it. It doesn't seek to fix the root of the problem: that we're burning fossil fuels. Buying tokens that represent tree planting in the future will not solve climate change.
 
