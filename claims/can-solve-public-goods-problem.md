@@ -205,80 +205,79 @@ While it may be the case that traditional mechanisms for resolving the public go
 
 ## Notes
 
-[^1]: https://www.economicshelp.org/micro-economic-essays/marketfailure/public-goods/
+[^1]: Pettinger, Tejvan. ‘Definition of Public Good’. Economics Help, 28 July 2019. https://www.economicshelp.org/micro-economic-essays/marketfailure/public-goods/.
   
-
 [^2]:
-     S. Seo(2017) - An Introduction to the Behavioral Economics of Climate Change for Provision of Global Public Goods _in_ The Behavioral Economics of Climate Change (eds. S. Seo) DOI: 10.1016/B978-0-12-811874-0.00001-5
+     Seo, S. Niggol. ‘An Introduction to the Behavioral Economics of Climate Change for Provision of Global Public Goods’. In The Behavioral Economics of Climate Change, 2017.
 
 [^3]:
-     RadicalxChange - Plural Voting .[ https://www.radicalxchange.org/concepts/plural-voting/](https://www.radicalxchange.org/concepts/plural-voting/)
+     RadicalxChange. ‘Plural Voting’. Accessed 1 November 2022. https://www.radicalxchange.org/concepts/plural-voting/.
 
 [^4]:
      V. Buterin, Z. Hitzig and G. Weyl (2018) - Liberal Radicalism: A Flexible Design For Philanthropic Matching Funds
     [http://dx.doi.org/10.2139/ssrn.3243656](http://dx.doi.org/10.2139/ssrn.3243656)
 
 [^5]:
-    [https://gitcoin.co/fund](https://gitcoin.co/fund)
+    Gitcoin - Support open web development. ‘Gitcoin - Support Open Web Development.’ Accessed 1 November 2022. https://gitcoin.co/fund.
+
 
 [^6]:
-      Y. Chen (2018) - Blockchain tokens and the potential democratization of entrepreneurship and
-    Innovation [https://web.stevens.edu/ses/documents/fileadmin/documents/pdf/Blockchain_Tokens_and_the_Potential_Democratization_of_Entrepreneurship_and_Innovation.pdf](https://web.stevens.edu/ses/documents/fileadmin/documents/pdf/Blockchain_Tokens_and_the_Potential_Democratization_of_Entrepreneurship_and_Innovation.pdf)
-    [ ](https://web.stevens.edu/ses/documents/fileadmin/documents/pdf/Blockchain_Tokens_and_the_Potential_Democratization_of_Entrepreneurship_and_Innovation.pdf)
+      Chen, Yan. ‘Blockchain Tokens and the Potential Democratization of Entrepreneurship and Innovation’. Business Horizons 61, no. 4 (July 2018): 567–75. https://doi.org/10.1016/j.bushor.2018.03.006.
 
 [^7]:
-     https://policyreview.info/glossary/blockchain-governance
+     Fischer, Aron, and María-Cruz Valiente. ‘Blockchain Governance’. Internet Policy Review 10, no. 2 (20 April 2021). https://doi.org/10.14763/2021.2.1554.
 
 [^8]:
-     See for example the emergence of ‘social tokens’: [https://forefront.market/learn/social-tokens/definition](https://forefront.market/learn/social-tokens/definition)
+     See for example the emergence of ‘social tokens’: ‘Forefront Learn’, 22 September 2021. https://forefront.market/learn.
 
 [^9]:
-     Discussions of the “common good” and its difficulties gesture to this: https://www.scu.edu/mcae/publications/iie/v5n1/common.html
+     Andre, Claire, and Manuel Velasquez. ‘The Common Good vs Individualism’. Accessed 1 November 2022. https://www.scu.edu/mcae/publications/iie/v5n1/common.html.
 
 [^10]:
-     LSE (2015) - Why citizens don’t like paying for public goods with their taxes– and how institutions can change that. https://blogs.lse.ac.uk/usappblog/2015/09/01/why-citizens-dont-like-paying-for-public-goods-with-their-taxes-and-how-institutions-can-change-that/
+     ‘Why Citizens Don’t like Paying for Public Goods with Their Taxes– and How Institutions Can Change That | USAPP’, 1 September 2015. https://blogs.lse.ac.uk/usappblog/2015/09/01/why-citizens-dont-like-paying-for-public-goods-with-their-taxes-and-how-institutions-can-change-that/.
 
 [^11]:
-     https://docs.klimadao.finance/master
+     ‘FAQ - KlimaDAO’. Accessed 1 November 2022. https://docs.klimadao.finance/master.
 
 [^12]:
-     https://chaindebrief.com/what-is-klimadao-klima-tokens/
+     Paul. ‘What Is KlimaDAO And How You Can Use It To Earn Eco-Friendly Passive Income’. Chain Debrief (blog), 17 December 2021. https://chaindebrief.com/what-is-klimadao-klima-tokens/.
 
 [^13]:
-     https://www.investopedia.com/terms/e/etf.asp
+     Chen, James. ‘Exchange-Traded Fund (ETF) Explanation With Pros and Cons’. Investopedia, 17 October 2022. https://www.investopedia.com/terms/e/etf.asp.
 
 [^14]:
-     https://earth.org/is-carbon-offset-a-form-of-greenwashing
+     ‘Is Carbon Offset a Form of Greenwashing? | Earth.Org’. Accessed 1 November 2022. https://earth.org/is-carbon-offset-a-form-of-greenwashing/.
 
 [^15]:
 
-     https://www.mckinsey.com/capabilities/sustainability/our-insights/a-blueprint-for-scaling-voluntary-carbon-markets-to-meet-the-climate-challenge
+     Blaufelder, Christopher, Cindy Levy, Peter Mannion, and Dickon Pinner. ‘Carbon Credits: Scaling Voluntary Markets | McKinsey’. Accessed 1 November 2022. https://www.mckinsey.com/capabilities/sustainability/our-insights/a-blueprint-for-scaling-voluntary-carbon-markets-to-meet-the-climate-challenge.
 
 [^16]:
-     https://www.mckinsey.com/mgi/overview/in-the-news/what-it-will-cost-to-get-to-net-zero
+     Kumra, Gautam, and Jonathan Woetzel. ‘What It Will Cost to Get to Net-Zero | McKinsey’, 29 January 2022. https://www.mckinsey.com/mgi/overview/in-the-news/what-it-will-cost-to-get-to-net-zero.
 
 [^17]:
 
-     R. Lejano et al. (2020) - The Hidden Disequities of Carbon Trading: Carbon Emissions, Air Toxics, and Environmental Justice. https://www.frontiersin.org/articles/10.3389/fenvs.2020.593014/full
+     Lejano, Raul P., Wing Shan Kan, and Ching Chit Chau. ‘The Hidden Disequities of Carbon Trading: Carbon Emissions, Air Toxics, and Environmental Justice’. Frontiers in Environmental Science 8 (2020). https://www.frontiersin.org/articles/10.3389/fenvs.2020.593014.
 
 [^18]:
 
-     https://www.imf.org/en/Blogs/Articles/2022/07/21/blog-more-countries-are-pricing-carbon-but-emissions-are-still-too-cheap
+     Black, Simon, Ian Parry, and Karlygash Zhunussova. ‘More Countries Are Pricing Carbon, but Emissions Are Still Too Cheap’. IMF, 21 July 2022. https://www.imf.org/en/Blogs/Articles/2022/07/21/blog-more-countries-are-pricing-carbon-but-emissions-are-still-too-cheap.
 
 [^19]:
-     The Foundational Economy Collective (2018) - Foundational Economy: The infrastructure of everyday life. ISBN: 978-1-5261-3400-4
+     Arcidiacono, Davide, Filippo Barbera, Andrew Bowman, John Buchanan, Sandro Busso, Joselle Dagnes, Jess Earle, et al. The Foundational Economy: The Infrastructure of Everyday Life, 2017.
 
 [^20]:
      Ibid.
 
 [^21]:
-     https://gitcoin.co/grants/explorer
+     Grants. ‘Grants’. Accessed 9 November 2022. https://gitcoin.co/grants/explorer.
 
 [^22]:
-     https://web3isgoinggreat.com/
+     White, Molly. ‘Web3 Is Going Just Great’. Accessed 9 November 2022. https://web3isgoinggreat.com/.
 
 [^23]:
-     https://www.forbes.com/sites/zengernews/2022/08/31/nashville-jersey-city-experiment-with-quadratic-voting---a-radical-step/?sh=c3b74822b727
+     Makridis, Christos. ‘Nashville, Jersey City Experiment With “Quadratic Voting”—A Radical Step’. Forbes, 31 August 2022. https://www.forbes.com/sites/zengernews/2022/08/31/nashville-jersey-city-experiment-with-quadratic-voting---a-radical-step/.
 
 [^24]:
-     https://web3.lifeitself.org/notes/financial-perpetual-motion-machine
+     Cox, Theo, and Eilidh Ross. ‘Crypto: Can These Financial Perpetual Motion Machines Work?’, 20 May 2022. https://web3.lifeitself.us/notes/financial-perpetual-motion-machine.
+
