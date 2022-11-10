@@ -55,36 +55,36 @@ Blockchain is decentralized, is an immutable, public ledger, and creates the pot
 
 Buterin, Vitalik. ‘Quadratic Payments: A Primer’, 7 December 2019. [https://vitalik.ca/general/2019/12/07/quadratic.html](https://vitalik.ca/general/2019/12/07/quadratic.html) :
 
-> "Quadratic funding is starting to be explored as a mechanism for funding public goods already; Gitcoin grants for funding public goods in the Ethereum ecosystem is currently the biggest example, and the most recent round led to results that, in my own view, did a quite good job of making a fair allocation to support projects that the community deems valuable."
+> Quadratic funding is starting to be explored as a mechanism for funding public goods already; Gitcoin grants for funding public goods in the Ethereum ecosystem is currently the biggest example, and the most recent round led to results that, in my own view, did a quite good job of making a fair allocation to support projects that the community deems valuable.
 
-> "one can look at it [quadratic funding] through the "fixing market failure" lens, a surgical fix to the tragedy of the commons problem."
+> one can look at it [quadratic funding] through the "fixing market failure" lens, a surgical fix to the tragedy of the commons problem.
 
 Commons Stack. ‘Commons Stack’. Accessed 20 September 2022. [https://commonsstack.org](https://commonsstack.org):
 
-> “We are building commons-based microeconomies to sustain public goods through incentive alignment, continuous funding and community governance... Token engineering has the potential to address many of the problems facing humanity by giving us the power to realign economic incentives."
+> We are building commons-based microeconomies to sustain public goods through incentive alignment, continuous funding and community governance... Token engineering has the potential to address many of the problems facing humanity by giving us the power to realign economic incentives.
 
 KlimaDAO. ‘Manifesto’. Accessed 20 September 2022. [https://docs.klimadao.finance/klima.fi-manifesto](https://docs.klimadao.finance/klima.fi-manifesto).
 
-> "To deliver the change required, we need immediate and widespread mobilisation and coordination of those who can contribute, and those who want to participate. The change needs to be managed laterally and cooperatively, rather than top-down by unaccountable "leaders.” Web3 can enable this:
+> To deliver the change required, we need immediate and widespread mobilisation and coordination of those who can contribute, and those who want to participate. The change needs to be managed laterally and cooperatively, rather than top-down by unaccountable "leaders.” Web3 can enable this:
 > 
 > • DeFi delivers a step change in the way we collectively pool our capital to deliver impact.
 > • Smart contracts disintermediate, facilitate and automate, and enable novel reward systems.
 > • Web3 technologies enable coordination, collaboration and innovation, with transparency and accountability.
 > • Open source software and composability enable rapid scaling of this vision.
 > 
-> Blockchain technology can and will open up new ways for managing our resources and collaborating across networks in the coming years. It will be the foundation for us to efficiently coordinate resources, outpace stale bureaucratic and political processes, and remove the need to jump through hoops to get exposure to the low carbon economy."
+> Blockchain technology can and will open up new ways for managing our resources and collaborating across networks in the coming years. It will be the foundation for us to efficiently coordinate resources, outpace stale bureaucratic and political processes, and remove the need to jump through hoops to get exposure to the low carbon economy.
 
 Owocki, Kevin. ‘Introducing GTC – Gitcoin’s Governance Token’. Accessed 14 October 2022. [https://go.gitcoin.co/blog/introducing-gtc-gitcoins-governance-token](https://go.gitcoin.co/blog/introducing-gtc-gitcoins-governance-token).
 
->"why we built Gitcoin: A platform to fund builders looking for meaningful, open source work. We’ve pioneered Quadratic Funding, a novel, democratic way to fund public goods in our quarterly Gitcoin Grants rounds. Since its launch in November 2017, Gitcoin Grants has now provided nearly $16M of funding to public goods. This is in tandem with $3.54M in bounties which have been paid to open-source developers from all around the world."
+> why we built Gitcoin: A platform to fund builders looking for meaningful, open source work. We’ve pioneered Quadratic Funding, a novel, democratic way to fund public goods in our quarterly Gitcoin Grants rounds. Since its launch in November 2017, Gitcoin Grants has now provided nearly $16M of funding to public goods. This is in tandem with $3.54M in bounties which have been paid to open-source developers from all around the world.
 
->"Today, Gitcoin allocates millions of dollars of funding to thousands of public goods projects. Tomorrow, Gitcoin will allocate billions of dollars."
+> Today, Gitcoin allocates millions of dollars of funding to thousands of public goods projects. Tomorrow, Gitcoin will allocate billions of dollars.
 
 Wiblin, Robert, and Vitalik Buterin. ‘Vitalik Buterin on Better Ways to Fund Public Goods, the Blockchain’s Failures so Far, & How It Could yet Change the World’. Accessed 14 October 2022. [https://80000hours.org/podcast/episodes/vitalik-buterin-new-ways-to-fund-public-goods/](https://80000hours.org/podcast/episodes/vitalik-buterin-new-ways-to-fund-public-goods/).
 
-> "the big problem that quadratic funding is solving is this public goods problem"
+> the big problem that quadratic funding is solving is this public goods problem
 
-> "So quadratic funding is basically trying to make a sort of more market-like alternative that encourages the production of public goods that basically says like, we’re going to be neutral, we’re not going to have our own kind of specific opinion about what is a real public good and what isn’t. We’re just going to say, people can donate money and stuff. And if a lot of people are donating money to the same thing, then that’s clearly a project that benefits a lot of people. So that’s a public good. And so we’re going to detect that and we’re going to automatically subsidize it based on a formula."
+> So quadratic funding is basically trying to make a sort of more market-like alternative that encourages the production of public goods that basically says like, we’re going to be neutral, we’re not going to have our own kind of specific opinion about what is a real public good and what isn’t. We’re just going to say, people can donate money and stuff. And if a lot of people are donating money to the same thing, then that’s clearly a project that benefits a lot of people. So that’s a public good. And so we’re going to detect that and we’re going to automatically subsidize it based on a formula.
 
 
 ## Evaluation: False (High Confidence)
