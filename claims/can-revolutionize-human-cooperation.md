@@ -141,73 +141,75 @@ Similarly, due to a number of factors including the structure and regulation of 
 ## Notes
 
 [^1]:
-       Law, A. W. (2021). The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges. Stanford Journal of Blockchain Law & Policy. https://stanford-jblp.pubpub.org/pub/rise-of-daos
+       Wright, Aaron. ‘The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges · Stanford Journal of Blockchain Law & Policy’, 30 June 2021. https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1.
 
 [^2]:
-     https://www.code2.io/blog/web3-dao-voting-mechanisms/
+     O’Connor, Kelly. ‘Popular Voting Mechanisms Used by DAOs’, 18 January 2022. https://www.code2.io/blog/web3-dao-voting-mechanisms/.
 
 [^3]:
-     World Economic Forum (2022). Decentralized Autonomous Organizations: Beyond the Hype. [https://www3.weforum.org/docs/WEF_Decentralized_Autonomous_Organizations_Beyond_the_Hype_2022.pdf](https://www3.weforum.org/docs/WEF_Decentralized_Autonomous_Organizations_Beyond_the_Hype_2022.pdf)
+     O’Connor, Kelly. ‘Popular Voting Mechanisms Used by DAOs’, 18 January 2022. https://www.code2.io/blog/web3-dao-voting-mechanisms/.
 
 [^4]:
      Ibid.
 
 [^5]:
-     https://elements.disco.coop/Care-before-Code-Its-What-Makes-DisCOs-Different.html
+     DisCO. ‘Elements Chapter 6: Care before Code: It’s What Makes DisCOs Different’. Accessed 10 November 2022. https://elements.disco.coop/Care-before-Code-Its-What-Makes-DisCOs-Different.html.
 
 [^6]:
-     https://coordinape.com/
+     ‘Coordinape | Reinventing Compensation for Web3’. Accessed 10 November 2022. https://coordinape.com//.
 
 [^7]:
-     Law, A. W. (2021). The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges. Stanford Journal of Blockchain Law & Policy. https://stanford-jblp.pubpub.org/pub/rise-of-daos
+     Wright, Aaron. ‘The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges · Stanford Journal of Blockchain Law & Policy’, 30 June 2021. https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1.
 
 [^8]:
-     https://medium.com/bankless-dao/what-is-a-trustless-system-3ded568c8921
+     Marin, Samantha. ‘What Is a Trustless System?’ BanklessDAO (blog), 22 September 2021. https://medium.com/bankless-dao/what-is-a-trustless-system-3ded568c8921.
 
 [^9]:
-     https://coinmarketcap.com/alexandria/article/a-deep-dive-into-tokenization
+     Trajcevski, Milko. ‘A Deep Dive Into Tokenization | CoinMarketCap’. CoinMarketCap Alexandria, 2021. https://coinmarketcap.com/alexandria/article/a-deep-dive-into-tokenization.
 
 [^10]:
-     https://medium.com/metacurrency-project/currencies-are-records-of-currents-f4c6cdc809be
+     Project, MetaCurrency. ‘Currencies Are Records of Currents’. The World of Deep Wealth (blog), 29 July 2020. https://medium.com/metacurrency-project/currencies-are-records-of-currents-f4c6cdc809be.
 
 [^11]:
-     https://untitled.community/web3-might-be-exciting-but-tech-alone-cant-fix-governance/
+     Cox, Theo, and Geoff Mulgan. ‘Web3 Might Be Exciting, But Tech Alone Can’t Fix Governance’. Untitled 2020 – 2030 (blog), 18 May 2022. https://untitled.community/tech-alone-cant-fix-governance/.
 
 [^12]:
-     https://www.strategy-business.com/article/00344
+     Laloux, Frederic. ‘The Future of Management Is Teal’. strategy+business, 6 July 2015. https://www.strategy-business.com/article/00344.
 
 [^13]:
-     https://www.ica.coop/en/cooperatives/cooperative-identity
+     ICA. ‘Cooperative Identity, Values & Principles’. Accessed 10 November 2022. https://www.ica.coop/en/cooperatives/cooperative-identity.
 
 [^14]:
-    https://www.forbes.com/sites/edwardsegal/2022/10/15/surveys-show-burnout-is-an-international-crisis/?sh=42b542d47cf7
+    Segal, Edward. ‘New Surveys Show Burnout Is An International Crisis’. Forbes. Accessed 10 November 2022. https://www.forbes.com/sites/edwardsegal/2022/10/15/surveys-show-burnout-is-an-international-crisis/.
+
 
 [^15]:
-     https://www.holacracy.org/explore
+     Holacracy. ‘Explore Holacracy’. Accessed 10 November 2022. https://www.holacracy.org/explore.
 
 [^16]:
-     For one example take Loomio, made by our friends from Enspiral: https://www.loomio.com/
+     For one example take Loomio, made by our friends from Enspiral: ‘Loomio: Decide Together’. Accessed 10 November 2022. https://www.loomio.com/.
 
 [^17]:
      Borkin, S (2019). Platform co-operatives – solving the capital conundrum. https://media.nesta.org.uk/documents/Nesta_Platform_Report_FINAL-WEB_b1qZGj7.pdf
 
 [^18]:
-     As we explored with the members of HyphaDAO: https://web3.lifeitself.org/notes/in-conversation-with-hypha
+     As we explored with the members of HyphaDAO: ‘Hypha DAO & Life Itself in Conversation’, 29 July 2022. https://web3.lifeitself.us/notes/in-conversation-with-hypha.
+
 
 [^19]:
-    https://www.forbes.com/sites/zengernews/2022/08/31/nashville-jersey-city-experiment-with-quadratic-voting---a-radical-step/?sh=662ae29f2b72
+    Makridis, Christos. ‘Nashville, Jersey City Experiment With “Quadratic Voting”—A Radical Step’. Forbes, 31 August 2022. https://www.forbes.com/sites/zengernews/2022/08/31/nashville-jersey-city-experiment-with-quadratic-voting---a-radical-step/.
 
 [^20]:
-     https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f
+     Cronje, Andre. ‘The Crypto Winter of 2022’. Medium (blog), 25 October 2022. https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f.
 
 [^21]:
-     https://web3.lifeitself.org/notes/on-worker-cooperatives
+     ‘Stephen Reid & Rufus Pollock on Worker Cooperatives and DAOs’, 28 June 2022. https://web3.lifeitself.us/notes/on-worker-cooperatives.
 
 [^22]:
-     https://www.bloomberg.com/graphics/2021-biggest-global-companies-growth-trends/?leadSource=uverify%20wall
+     Orlik, Tom, Justin Jimenez, and Cedric Sam. ‘World-Dominating Superstar Firms Get Bigger, Techier, and More Chinese’. Bloomberg.Com, 21 May 2021. https://www.bloomberg.com/graphics/2021-biggest-global-companies-growth-trends/.
 
 [^23]:
-     https://www.newyorker.com/business/currency/how-mondragon-became-the-worlds-largest-co-op
+     Romeo, Nick. ‘How Mondragon Became the World’s Largest Co-Op | The New Yorker’, 27 August 2022. https://www.newyorker.com/business/currency/how-mondragon-became-the-worlds-largest-co-op.
 
 [^24]:
-     http://speri.dept.shef.ac.uk/2019/01/03/corporate-power-the-global-economy/
+     ‘Sheffield Political Economy Research Institute’, 7 November 2022. https://www.sheffield.ac.uk/speri.
