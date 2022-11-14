@@ -31,8 +31,6 @@ Rufus and Stephen 'steel man' the market fundamentalism position, exploring four
 
 Rufus and Stephen end their conversation with an analysis of the market fundamentalist position and the associated claims.
 
-
-
 ## What type of asset is a crypto token? How do we value it? Is there a comparable asset?
 
 * Zero-coupon perpetual [bond](../concepts/bond.md)?
@@ -110,8 +108,8 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
   * Clearing house and in-house prop trading are in the same room
   * Exchanges have their own proprietary trading arm
   * Trading against their own clients
-* Markets work best when we have abundant public information and minimize fraud and collusion in [price formation](../concepts/price-formation.md)
-    * https://excalidraw.com/#room=6319a3e121dbdb6edf28,0u9Ht45kupjqkHD8kCuUAQ 
+* Markets work best when we have abundant public information and minimize fraud and collusion in [price formation](../concepts/price-formation.md). There is a reason we separated different parts of brokers, market makers, clearing houses and traders.
+  ![[../excalidraw/market-fundamentalism-separation-of-market-makers-broker-etc-2022-03-04.excalidraw.svg]]
 * We have no idea how much [leverage](../concepts/leverage.md) is baked into the entire market, induced by products like unbaked [stablecoins](../concepts/stablecoin.md) which can seemingly produce limitless amounts of unsecured debt products on demand.
     * [Tether minted most USDT to just 2 firms — Alameda and Cumberland](https://protos.com/tether-minted-usdt-stablecoin-crypto-two-alameda-cumberland/)
 * What does that lead to?
