@@ -85,5 +85,6 @@ Stephen and Rufus look at what remains of the crypto industry. What learnings ca
 7. Ostroff, Dave Michaels, Elaine Yu and Caitlin. ‘WSJ News Exclusive | Alameda, FTX Executives Are Said to Have Known FTX Was Using Customer Funds’. Wall Street Journal, 12 November 2022, sec. Markets. https://www.wsj.com/articles/alameda-ftx-executives-are-said-to-have-known-ftx-was-using-customer-funds-11668264238.
 8. SBF [@SBF_FTX]. ‘1) Hi All: Today, I Filed FTX, FTX US, and Alameda for Voluntary Chapter 11 Proceedings in the US.’ Tweet. Twitter, 11 November 2022. https://twitter.com/SBF_FTX/status/1591089317300293636.
 
-
 # Transcript
+
+_Coming soon_
