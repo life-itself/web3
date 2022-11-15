@@ -74,4 +74,6 @@ Stephen and Rufus look at what remains of the crypto industry. What learnings ca
 * Are we doomed to repeat the same mistakes over and over?
 * What is it about crypto that causes otherwise rational people to abandon common sense and rational thought?
 
+# References
+
 # Transcript
