@@ -16,7 +16,7 @@ aliases: notes/post-ftx-collapse.md
 
 ## Summary
 
-On November 11th 2022, crypto giant FTX collapsed into bankruptcy. In this episode, Stephen Diehl and Rufus Pollock dig into what happened and why. They look back on the past 6 months in the crypt industry, examining other prominent crashes and their contagion effects. 
+On November 11th 2022, crypto giant FTX collapsed into bankruptcy. In this episode, Stephen Diehl and Rufus Pollock dig into what happened and why. They look back on the past 6 months in the crypto industry, examining other prominent crashes and their contagion effects. 
 
 Stephen and Rufus look at what remains of the crypto industry. What learnings can we take from the past 6 months? What’s next to fall? 
 
