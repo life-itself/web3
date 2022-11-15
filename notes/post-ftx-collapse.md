@@ -76,4 +76,14 @@ Stephen and Rufus look at what remains of the crypto industry. What learnings ca
 
 # References
 
+1. Cox, Theo, and Eilidh Ross. ‘Crypto: Can These Financial Perpetual Motion Machines Work?’ Accessed 15 November 2022. https://web3.lifeitself.us/notes/financial-perpetual-motion-machine.
+2. ‘Crypto Policy Symposium’. Accessed 15 November 2022. https://crypto-policy.tech.
+3. Financial Times. ‘FTX Balance Sheet, Revealed’, 12 November 2022.
+4. Jung-a, Song. ‘South Korean Prosecutors Ask Interpol to Issue Red Notice for Do Kwon’. Financial Times, 19 September 2022.
+5. ‘Letter in Support of Responsible Fintech Policy’. Accessed 15 November 2022. https://concerned.tech.
+6. ‘Market Fundamentalism’. Accessed 15 November 2022. https://web3.lifeitself.us/notes/market-fundamentalism.
+7. Ostroff, Dave Michaels, Elaine Yu and Caitlin. ‘WSJ News Exclusive | Alameda, FTX Executives Are Said to Have Known FTX Was Using Customer Funds’. Wall Street Journal, 12 November 2022, sec. Markets. https://www.wsj.com/articles/alameda-ftx-executives-are-said-to-have-known-ftx-was-using-customer-funds-11668264238.
+8. SBF [@SBF_FTX]. ‘1) Hi All: Today, I Filed FTX, FTX US, and Alameda for Voluntary Chapter 11 Proceedings in the US.’ Tweet. Twitter, 11 November 2022. https://twitter.com/SBF_FTX/status/1591089317300293636.
+
+
 # Transcript
