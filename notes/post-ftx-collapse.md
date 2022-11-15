@@ -3,10 +3,10 @@ title: Post FTX collapse reflections on Crypto
 created: 2022-11-15
 date: 2022-11-15
 description: 'In this episode of our Making Sense of Crypto & Web3 series, we explore the recent dramatic events that have shaken the crypto industry - namely the collapse of Terra Luna, Celsius and Voyager, Three Arrows Capital and FTX. What happened, what went wrong, and what we can learn?'
-image: /img/
-youtube: 
-podcast: 
-featured: false
+image: /img/ftx_image.jpeg
+youtube: https://youtu.be/ApxGyyCbYpM 
+podcast: https://spotifyanchor-web.app.link/e/mNcbxAaLYub
+featured: true
 aliases: notes/post-ftx-collapse.md
 ---
 
