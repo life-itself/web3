@@ -3,9 +3,15 @@ title: FTX and the FTX Collapse
 created: 2022-11-15
 ---
 
-FTX was a centralized crypto exchange founded in 2019 by [[Sam Bankman-Fried]] and headquartered in the Bahamas. There was also a US exchange FTX US. FTX and associated entities filed for bankruptcy on 11 Nov 2022. It had been one of the leading and more "blue-chip" crypto exchanges and played a leading role in bail-outs of other firms which had collapsed earlier in 2022.
+FTX was a centralized crypto exchange founded in 2019 by [[Sam Bankman-Fried]] and headquartered in the Bahamas. There was also a US exchange FTX US. FTX was one of largest crypto exchanges and one of the most "blue-chip". It played a leading role in bail-outs of other crypto firms during 2022 e.g. [[notes/voyager-digital|Voyager Digital]]. On 11 Nov 2022, FTX, FTX US and other a hundred associated entities filed for bankruptcy.
 
-## FTX bankruptcy
+# Notes
+
+## FTX Investors
+
+Source from a post on twitter on November 12 2022. Looks like it is an extract from FactSet.
+
+![[../assets/ftx-investors-20221112.png]]
 
 ### FTX balance sheet at time of bankruptcy
 
