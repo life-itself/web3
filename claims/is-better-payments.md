@@ -1,6 +1,6 @@
 ---
 title: Crypto will provide better payment and remittance services
-description: The claim being made here is that a. crypto _can_ provide payment and remittance services, and b. crypto can provide _better_ payment rails and remittance services. We find that crypto is not technologically capable of competing with existing payment rails, and the level of advancement needed to do so should not be considered inevitable. While we do note that crypto does appear to serve the functions of a currency in practice in nations with non-functional financial systems such as Ukraine, this fact should be taken less as a testament to the potential of crypto and more as a sign that political and economic support is needed in these cases.
+description: The claim being made here is that a. crypto can provide payment and remittance services, and b. crypto can provide better payment rails and remittance services. We find that crypto is not technologically capable of competing with existing payment rails, and the level of advancement needed to do so should not be considered inevitable. While we do note that crypto does appear to serve the functions of a currency in practice in nations with non-functional financial systems such as Ukraine, this fact should be taken less as a testament to the potential of crypto and more as a sign that political and economic support is needed in these cases.
 category:
   - claim: y
   - featured: y 
