@@ -1,9 +1,5 @@
 # Is crypto building a new internet?
 
-## Status Note
-
-This analysis is incomplete and needs expanding before it can ground any definitive conclusions. If you'd like to help improve it then take a look at our [contributor guide](/meta/editing.md). For an example of what a complete evaluation looks like, see our [analysis of web3 and the public goods problem](/claims/can-solve-public-goods-problem.md)
-
 ## Analysis
 
 The meme of a "new internet" is a consistent and persistent marketing term that has always existed in technology, to the point where the term itself is widely considered a joke. Many technologies are described as being a new iteration of the internet as a way of generating hype or marketing themselves to the public or regulators as important "innovation". [Crypto assets](../concepts/cryptoasset.md) continue on in this marketing trend, yet the underlying reality of the tech is completely removed from any level of paradigm shift that the early internet ushered in.
