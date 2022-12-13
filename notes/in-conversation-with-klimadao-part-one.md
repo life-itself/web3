@@ -12,14 +12,13 @@ aliases: notes/in-conversation-with-klimadao-part-one.md
 
 ***
 
+# Prelude
+
+This conversation was sparked by our [intial deep dive on KlimaDAO as a solution to climate change](/notes/collective-action-problems-and-climate-change.md), which has its own podcast episode and related show notes.
+
 
 # Analysis 
 
-## Visual Summary of how KlimaDAO works
-[![klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw](/excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)](/excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)
-
-
-[![drawing-2022-04-07-20.37.42.excalidraw](/excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)](/excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)
 
 ## Evaluation
 
@@ -93,6 +92,12 @@ KlimaDAO are asking an important question: how can we tackle climate change usin
 The aspirations are beautiful. The initial manifesto resonates a lot with what doesn't work about unfettered capitalism, about an unfettered market system, about the lack of provision for [public goods](../concepts/public-goods-problem.md), and yet KlimaDAO seems to go further down that same route.
 
 As a [currency](../concepts/currency.md) it seems problematic. As an [investment](../claims/is-why-invest.md) it doesn’t seem to work. As a special purpose vehicle for buying carbon credits it seems highly inefficient (e.g. massive trading fees). Carbon credits are themselves problematic and are not going to be the answer to climate change. 
+
+# Apendix: Visual Summary of how KlimaDAO works
+[![klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw](/excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)](/excalidraw/klimadao-mechanics-and-logic-according-to-klimadao-2022-05-06.excalidraw.svg)
+
+
+[![drawing-2022-04-07-20.37.42.excalidraw](/excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)](/excalidraw/klima-dao-analysis-2022-04-07.excalidraw.svg)
 
 # References
 
