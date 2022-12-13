@@ -14,6 +14,10 @@ aliases: notes/collective-action-problems-and-climate-change.md
 
 ***
 
+# Update
+
+We released a [follow up discussion with KlimaDAO themselves](/notes/in-conversation-with-klimadao-part-one.md) which contains a more detailed analysis of how the project works. While it does not change the basic conclusions of the analaysis below it does refine some of the decription of how the project is meant to work. We'd thus recommend basing your evaluaiton of KlimaDAO on both these episodes together.
+
 # Episode Notes
 
 ## Summary
