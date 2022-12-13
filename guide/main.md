@@ -164,7 +164,7 @@ Shorter responses to common questions about web3 and crypto. While we’re confi
 
 #### Better Economy
 
-* [Can just crypto keep increasing in value?](/notes/financial-perpetual-motion-machine.md)
+* [Can crypto just keep increasing in value?](/notes/financial-perpetual-motion-machine.md)
 * [Is bitcoin a currency?](/claims/is-bitcoin-currency.md)
 * [Are crypto assets a risk to the dollar?](/claims/is-threat-dollar.md)
 * [What type of asset is a crypto token?](/claims/is-type-of-asset.md)
