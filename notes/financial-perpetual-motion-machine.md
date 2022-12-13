@@ -8,6 +8,13 @@ aliases: notes/financial-perpetual-motion-machine.md
 
 *Does crypto technology “magic” allow it to transcend the principles of economics?*
 
+# Update December 2022
+
+Since this post was written, FTX, one of the worlds largest crypto exchanges, has controversially and spectacularly [collapsed](https://www.investopedia.com/what-went-wrong-with-ftx-6828447). This provides yet more compelling evidence that the crypto boom was the result of a financial bubble, rather than a magical perpetual motion machine.
+
+# Introduction
+
+
 The current crypto-economy is booming. A huge amount of money is circulating, and on the surface it appears many are gaining huge returns on their crypto investments. As one now infamous piece of crypto popular culture puts it, the line just keeps going up. Much of the rhetoric in the crypto-sphere gives a sense of a perpetual motion machine, generating self-fuelled growth which will last forever. The key question is, can it?
 
 This analysis will unpack the idea of crypto as a financial perpetual motion machine. Drawing on the downfall of TerraUSD as a case study it examines the dynamics and sustainability of the current crypto-economy, noting some worrying similarities to financial bubbles including the one which triggered the 2008 financial crisis. Finally, we consider the best case scenario for the sustainability of a crypto-asset – widespread acceptance and diversification before the speculation bubble bursts – before laying out our prognosis as to whether the crypto-economy can continue to operate as a financial perpetual motion machine. We conclude that this is unlikely at best.
