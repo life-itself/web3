@@ -23,7 +23,7 @@ claim:
 
 There are four broad types of economic good:
 
-Public goods are non-rival and non-excludable (anyone can use this good and someone's use does not diminish someone else's use of the good). The trouble with funding public goods is that if anyone can use this good whether or not they have contributed to the funding or upkeep of the good, how do we motivate people to contribute to the good? This is known as the free-rider problem.[^1]
+Public goods are non-rival and non-excludable (anyone can use this good and someone's use does not diminish someone else's use of the good). The trouble with funding public goods is that if anyone can use this good whether or not they have contributed to the funding or upkeep of the good, how do we motivate people to contribute to the good? This is known as the free-rider problem.[^1] [Public goods problems](/concepts/public-goods-problem.md) thus deal with the problem of how to get people to contribute to things that they have no self-interested incentive to contribute to if left to their own devices.
 
 The classic solution has been compulsion by the state, typically via tax. The state can also leverage its monopoly on violence to make free riding impossible (or very costly). However, claims are being made that blockchain technology can provide solutions to the public goods problem that are not rooted in compulsion.
 
