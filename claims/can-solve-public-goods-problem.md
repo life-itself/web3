@@ -38,7 +38,7 @@ Public goods provision falls pretty drastically short of where most of us would 
 
 ### P2: Web3 can raise significant revenue for addressing public goods
 
-Web3 can address the revenue raising problem by creating _voluntary _incentive mechanisms for the funding of public goods rooted in the free market. Web3 can facilitate people contributing to public goods provision not because they’ve been forced to by the state, but because doing so is a good investment opportunity. Certain blockchain-based projects have managed to align public and private incentives, and have thus created an innovative solution to the public goods problem.
+Web3 can address the revenue raising problem by creating voluntary incentive mechanisms for the funding of public goods rooted in the free market. Web3 can facilitate people contributing to public goods provision not because they’ve been forced to by the state, but because doing so is a good investment opportunity. Certain blockchain-based projects have managed to align public and private incentives, and have thus created an innovative solution to the public goods problem.
 
 
 ### P3: Web3 can allocate this revenue more effectively
