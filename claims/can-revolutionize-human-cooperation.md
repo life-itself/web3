@@ -92,7 +92,7 @@ Ethereum. ‘Decentralized Autonomous Organizations (DAOs)’. ethereum.org. Acc
 > This opens up so many new opportunities for global collaboration and coordination.”
 
 
-## Evaluation: Predominantly False (Medium-High Confidence)
+## Evaluation: Largely False (Medium-High Confidence)
 
 Web3 organizations such as DAOs may well model better ways of collaborating, at least in the context of some private or third sector organizations. The popularity of Web3 may well provide inspiration which has a positive impact on how such organizations are structured or operate in the future, such that there is potential for Web3 to bring about a change.
 
