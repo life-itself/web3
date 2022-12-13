@@ -15,4 +15,4 @@ medium:
 
 ## Analysis
 
-See our [deep dive conversation with KlimaDAO](notes/in-conversation-with-klimadao-part-one.md) for our full analysis of the project.
+See our [deep dive conversation with KlimaDAO](https://web3.lifeitself.org/notes/in-conversation-with-klimadao-part-one) for our full analysis of the project.
