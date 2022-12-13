@@ -15,4 +15,4 @@ medium:
 
 ## Analysis
 
-See our [deep dive conversation with KlimaDAO](https://web3.lifeitself.org/notes/in-conversation-with-klimadao-part-one) for our full analysis of the project.
+See our initial [evaluation of KliaDAO as a means of solving climate change](/notes/collective-action-problems-and-climate-change.md) and our follow on [deep dive conversation with KlimaDAO](https://web3.lifeitself.org/notes/in-conversation-with-klimadao-part-one) themselves for our full analysis of the project.
