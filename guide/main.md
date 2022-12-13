@@ -145,7 +145,7 @@ See here for our full analysis: [Web3 can revolutionize human cooperation](https
 
 
 
-# Analysis Notes
+# Analysis Notes [TODO]
 
 These notes are attached to deep dive conversations covering certain claims or sets of claims. They do rigorously analyze the positions they explore, however these analyses are presented in note form and are thus not fully complete. If you'd like to help improve them then take a look at our [contributor guide](/meta/editing.md). For an example of what a complete evaluation looks like, see our [analysis of web3 and the public goods problem](/claims/can-solve-public-goods-problem.md)
 
