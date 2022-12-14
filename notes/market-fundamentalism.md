@@ -18,6 +18,10 @@ aliases: notes/market-fundamentalism.md
 
 # Episode notes
 
+## November 2022 update
+
+We are adding a brief update to this piece to note the spectacular collapse of one of the world's largest crypto exchanges, FTX, in late 2022. This provides compelling further evidence for the dangers of unregulated markets. Find out more via our [deep dive on the FTX collapse](/notes/post-ftx-collapse.md), and its tragic vindication of our analysis.
+
 ## Summary
 
 The trader or market fundamentalist view likely represents a majority of interest and activity in crypto. The ideology encompasses the viewpoint that crypto is about **making money** i.e. that crypto investing and trading can make those who engage in it a lot of money. More deeply it is the view that the unfettered and unregulated nature of crypto-markets is a good thing and represents a "freer" and better form of financial markets.
@@ -94,6 +98,8 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 
 ## Evaluation
 
+### 
+
 * Everything that has been illegal for 80 years is suddenly allowed. Exchanges are basically like bucket shops from the 1920s. Everything is allowed:
   * [Wash trading](../concepts/wash-trading.md)
   * [Front running](../concepts/front-running.md)
@@ -133,6 +139,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 
 ## Deep dives and notes
 * [A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies) 
+* [Deep Dive: The FTX Collapse](/notes/post-ftx-collapse.md)
 * [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](/notes/cryptocurrencies-an-assessment)
 * [Examples Of Retail Investors Speculating ](/notes/examples-of-ordinary-people-speculating)
 * [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine) 
