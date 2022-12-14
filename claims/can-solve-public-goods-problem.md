@@ -11,6 +11,10 @@ claim:
   - confidence: HH
 ---
 ## Evaluation: False (High Confidence)
+The public goods problem is fundamentally one of revenue raising, and Web3 cannot offer any mechanisms to raise revenue which can effectively overcome the free-rider problem at scale. Further, the desirability of the privatization and marketization implied by Web3 solutions is doubtful in the first place.
+
+Web3 experiments may point to better ways of allocating funds which are voluntarily raised, but these do not rely on Web3 technology and are all but redundant when trying to allocate between equally vital public goods under conditions of resource scarcity. 
+
 
 ## Evidence of claim being made
 
@@ -92,12 +96,8 @@ Blockchain is decentralized, is an immutable, public ledger, and creates the pot
 
 ## Evaluation: False (High Confidence)
 
-The public goods problem is fundamentally one of revenue raising, and Web3 cannot offer any mechanisms to raise revenue which can effectively overcome the free-rider problem at scale. Further, the desirability of the privatization and marketization implied by Web3 solutions is doubtful in the first place.
 
-Web3 experiments may point to better ways of allocating funds which are voluntarily raised, but these do not rely on Web3 technology and are all but redundant when trying to allocate between equally vital public goods under conditions of resource scarcity. 
-
-
-### P1: Alternative mechanisms for resolving the public goods problem are inadequate
+### P1: Alternative mechanisms for resolving the public goods problem are inadequate: Partly True
 
 Prima facie this claim is plausible. Public goods provision *does* fall short of where we would like it to be. This is certainly true at the global level, and at the national level in most societies. However, we must interrogate *where* his inadequacy comes from. For Web3 to be able to contribute to the solving of this problem effectively, the nature of the problem would have to be technical; Web3 would have to provide a more effective mechanism for aligning public and private incentives than the state. 
 
@@ -106,7 +106,7 @@ An alternative story is that underprovision of public goods is not intrinsically
 Finally, even if we are confident that at least some degree of technical optimisation can impact the public goods problem, we should ask why this must be based on Web3. Experiments modifying institutional arrangements via other means show promise[^10], further bringing into question whether off-chain solutions are really inadequate or just underexplored.
 
 
-### P2: Web3 can raise significant revenue for addressing public goods
+### P2: Web3 can raise significant revenue for addressing public goods: False
 
 Public goods provision is made up of two things: revenue raising and revenue allocation. Both need to function effectively to get the outcomes we want. In this section we will focus on the revenue raising problem.
 
@@ -176,7 +176,7 @@ Privatization of public service provision of all kinds requires the new, privati
 Aside from this, we should consider the broader ramifications of bringing the incentive of private profit into the provision of the core underpinnings of our lives. There is ample evidence that these incentives and the need to compete in the wider market have led to privatized public services being gutted, overleveraged and delivered at (and often below) the bare minimum level of quality we would ever expect[^20]. There is no reason to believe that provision of public goods would be any different. Thus, even if it was plausible to raise significant sums in this way, we should pause to ask whether it would actually be desirable.
 
 
-###  P3: Web3 can allocate this revenue more effectively
+###  P3: Web3 can allocate this revenue more effectively: Possibly True
 
 Web3 may not be able to raise revenue for public goods provision more effectively, but perhaps it can provide innovation in revenue allocation. This is the promise of projects such as GitCoin, with their use of quadratic funding. We’ll focus on quadratic funding here as it is the most popular and lauded allocation mechanism in the Web3 sphere.
 
@@ -186,7 +186,7 @@ However, it should be stressed that in the context of public goods provision the
 
 This is where the actual functioning of these mechanisms diverges from the grand claims made about them. Currently these mechanisms have largely been used to develop Web3 projects and infrastructure[^21], which may be useful but are in fact not vital to basic standards of living. Choosing between an array of options takes on a different significance in this context than in more traditional public goods problem areas, where the goods in question are all to a greater or lesser extent vital. Any purported solution to the public goods problem as a whole which keeps us stuck in conditions of scarcity and retains the necessity of such prioritization doesn’t appear to be much of a solution at all.
 
-### P4: Web3 can do this for reasons that are innately tied to the technology itself
+### P4: Web3 can do this for reasons that are innately tied to the technology itself: False
 
 Finally, it’s worth turning our attention to the value add of Web3 itself. Even if P2 and P3 were to hold, for the overall claim that Web3 can help solve the public goods problem to be true, this would need to be because of some feature(s) of Web3 technology itself. In other words, it’s insufficient for contributions to the public goods problem simply to be coming out of the Web3 sphere, they need to rest on features of Web3 which make them impossible to replicate elsewhere. This means turning our attention to the blockchain technology underpinning it.
 
