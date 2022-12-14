@@ -158,14 +158,39 @@ According to the SEC, crypto tokens meet the [Howey Test](../concepts/howey-test
     * Evolution and capitalism metaphor: extremophiles. 
   * **What is the right interplay between investment risk and the rule of law? Is creative destruction by any extra-legal means a positive force in the world?**
 
-***
-  
-## Concepts Covered
+
+## Related Content
+
+### Deep Dives and Notes
+* [Deep Dive: Fintech Incrementalism And Responsible Innovation ](/notes/fintech-incrementalism-and-responsible-innovation)
+* [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine)
+* [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
+* [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
+* [A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies) 
+* [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](/notes/cryptocurrencies-an-assessment)
+* [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine) 
+* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](/notes/the-encrypted-threat)’
+
+
+### Concepts 
 
 * [security](../concepts/security.md)
 * [howey-test](../concepts/howey-test.md)
 * [productive-asset](../concepts/productive-asset.md)
 * [ico](../concepts/ico.md)
+
+### FAQs
+* [Is crypto legal?](/claims/is-legal)
+* [Is bitcoin compatible with ESG investing?](/claims/is-bitcoin-esg)
+* [Why do people invest in crypto tokens?](/claims/is-why-invest)
+* [Are crypto tokens a negative-sum investment?](/claims/is-negative-sum)
+* [Are crypto assets a bubble?](/claims/is-bubble)
+* [Do crypto assets have a verifiable valuation model?](/claims/is-valuation-model)
+* [Are crypto assets a form of gambling?](/claims/is-gambling)
+*  [What is the narrative economics of crypto assets?](/claims/is-narrative-economics)
+* [What consumer protections exist for crypto assets?](/claims/is-consumer-protections)
+* [Are crypto assets predatory investments?](/claims/is-predatory)
+* [Are crypto assets a systemic risk to the economy?](/claims/is-systemic-risk)
 
 ***
 
