@@ -15,7 +15,7 @@ It is important that we make good choices about crypto and web3. Ultimately, we 
 The guide is split into 3 sections:
 
 * **Full Analyses** provide comprehensive and authoritative analyses of the biggest claims being made in the space
-* **Analysis Notes** are detailed analysis notes from our deep dive conversations, which have not yet been formatted into full analyses. [You can help!](/meta/editing.md)
+* **Deep Dive Notes** are detailed analysis notes from our deep dive conversations, which have not yet been formatted and expanded into full analyses. [You can help!](/meta/editing.md)
 * **FAQs** are brief responses to some common questions asked about crypto and web3. They form a useful starting point for further research, such as reading their references in our [library.](https://web3.lifeitself.org/library)
 
 
@@ -130,13 +130,13 @@ Blockchain technology can facilitate deep collaboration in the absence of interp
 #### Subclaim 3: The unique value add provided by Web3 is sufficient to shift human cooperation more broadly i.e. make this better form of cooperation dominant
 The fact that Web3 facilitates flexibly fluid cooperation between potentially large numbers of diverse actors spread across the globe may gesture to a new future of digitally enabled cooperation. These features can make collaborating in this manner sufficiently easier and more attractive that it may begin to outcompete collaboration through traditional organizations.
 
-## Evaluation: Largely False (Medium-High Confidence)
+### Evaluation: Largely False (Medium-High Confidence)
 
 Web3 organizations such as DAOs may well model better ways of collaborating, at least in the context of some private or third sector organizations. The popularity of Web3 may well provide inspiration which has a positive impact on how such organizations are structured or operate in the future, such that there is potential for Web3 to bring about a change.
 
 However, not only are we doubtful that this would amount to a revolution, we note that this inspiration and education is not what the spirit of the claim gestures to. When it comes to the idea that Web3 technology itself will be vital to, and underpin, a paradigmatic shift in how humans cooperate with one another, we can confidently assert that this is false. The more democratic and decentralized forms of cooperation characterizing DAOs have largely existed in other forms, be they cooperatives or Teal organizations, before Web3 rose to prominence. The reason they have not become dominant has not been one of insufficiently powerful technology. Further, unique features of Web3 technology particularly seem on closer inspection to add little to actors’ ability to cooperate effectively that is not already provided by off-chain technologies.
 
-## Full Analsysis
+### Full Analsysis
 
 See here for our full analysis: [Web3 can revolutionize human cooperation](https://web3.lifeitself.org/claims/can-revolutionize-human-cooperation).
 
@@ -145,17 +145,53 @@ See here for our full analysis: [Web3 can revolutionize human cooperation](https
 
 
 
-# Analysis Notes [TODO]
+# Deep Dive Notes
 
-These notes are attached to deep dive conversations covering certain claims or sets of claims. They do rigorously analyze the positions they explore, however these analyses are presented in note form and are thus not fully complete. If you'd like to help improve them then take a look at our [contributor guide](/meta/editing.md). For an example of what a complete evaluation looks like, see our [analysis of web3 and the public goods problem](/claims/can-solve-public-goods-problem.md)
+These notes are attached to deep dive conversations covering certain claims or sets of claims. They do rigorously analyze the positions they explore, however these analyses are in note form and are thus rougher and less ocomprehensive than the ones above. If you'd like to help improve them then take a look at our [contributor guide](/meta/editing.md). For an example of what a complete evaluation looks like, see our [analysis of web3 and the public goods problem](/claims/can-solve-public-goods-problem.md)
 
-**Claim: Blockchain can be used to create  “networked states” to replace existing nation states**
+## Claim: Blockchain can (and should) be used to create “networked states” to replace existing nation states
 
-**Claim: Crypto can act as an anti-authoritarian force**
+### Summary
+This position aspires to transition from the existing US-led international order to a world in which blockchain technology and technocracy are the new foundations for global human governance. This would be achieved by a "networked state", a "social network with an agreed-upon leader, an integrated cryptocurrency, a definite purpose, a sense of national consciousness, and a plan to crowdfund physical territory.”
 
-**Claim: The crypto sphere is just an unfettered market, and there’s nothing wrong with that**
+### Full deep dive
+The full deep dive episode and accompanying notes can be found at: [Web3 and Post-State Technocracy](/notes/post-state-technocracy.md)
 
-**Claim: The unregulated securities trading of the crypto-economy is desirable**
+
+## Claim: Crypto can act as an anti-authoritarian force
+
+### Summary
+Bitcoin (and crypto more generally) is an anti-authoritarian force and can help undermine tyranny by providing a state-resistant payment rail. A global supranational payment system which is censorship resistant against nation state actors would allow parties from any jurisdiction to move value anonymously and with no controls. Via such a payment system, individuals living under oppressive regimes as well as those resisting the regime could receive money and funding from anywhere in the world.
+
+### Full deep dive
+The full deep dive episode and accompanying notes can be found at: [Bitcoin as an Anti-Authoritarian Force](/notes/bitcoin-as-anti-authoritarian.md)
+
+
+## Claim: The crypto space is just an unfettered market, and there’s nothing wrong with that
+
+### Summary
+The trader or market fundamentalist view likely represents a majority of interest and activity in crypto. The ideology encompasses the viewpoint that crypto is about making money i.e. that crypto investing and trading can make those who engage in it a lot of money. More deeply it is the view that the unfettered and unregulated nature of crypto-markets is a good thing and represents a "freer" and better form of financial markets.
+
+### Full deep dive
+The full deep dive episode and accompanying notes can be found at: [Market Fundamentalism](/notes/market-fundamentalism.md)
+
+
+## Claim: Crypto is just the latest evolution of fintech, and is leading us towards a better financial system
+
+### Summary
+The fintech incrementalist position is that fintech (financial technology) is a force for effecting change in financial services and building a more stable, efficient and transparent economy. Here we evaluate the claim that blockchain-based financial technology can be a vehicle for more efficient markets through the development of more complex, blockchain-based financial products.
+
+### Full deep dive
+The full deep dive episode and accompanying notes can be found at: [Fintech Incrementalism and Responsible Innovation](/notes/fintech-incrementalism-and-responsible-innovation.md)
+
+
+## Claim: Crypto should remain outside of securities regulation
+
+### Summary
+There is currently debate about how crypto investments fall under the existing securities regulatory framework. Currently, crypto tokens exist partially outside this framework; even many tokens identified as unregulated securities continue to be traded (although as of December 2022 stronger regulation appears on the horizon). Many crypto enthusiasts argue that the space should remain free from this regulation, as this unregulated securities trading is desirable. Thay argue that it enables easier and more democratized equity raising more broadly, and guards agaiunst tyranny by enabling equity raising outside of the rule of law.
+
+### Full deep dive
+The full deep dive episode and accompanying notes can be found at: [We Shouldn't Regulate Cryptos as Securities](/notes/are-crypto-tokens-securities.md)
 
 
 # FAQs
