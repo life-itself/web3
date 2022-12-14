@@ -14,8 +14,20 @@ It is important that we make good choices about crypto and web3. Ultimately, we 
 
 The guide is split into 3 sections:
 
-* **Full analyses** provide comprehensive and authoritative analyses of the biggest claims being made in the space
-* **Deep dive Notes** are detailed analysis notes from our deep dive conversations, which have not yet been formatted and expanded into full analyses. [You can help!](/meta/editing.md)
+* **Full analyses** provide comprehensive and authoritative analyses of the biggest claims being made in the space. We analyse the following claims:
+  * [Bitcoin will (and should) become the new gold standard](/guide/index.md#claim-bitcoin-will-and-should-become-the-new-gold-standard)
+  * [Crypto will provide better payment and remittance services](/guide/index.md#claim-crypto-will-provide-better-payment-and-remittance-services)
+  * [Crypto can help solve the public goods problem] (/guide/index.md#claim-crypto-can-help-solve-the-public-goods-problem)
+  * [Web3 can help revolutionize cooperation](/guide/index.md#claim-crypto-can-help-revolutionize-cooperation)
+  * [Crypto can provide better means of financializing non-financial value](/guide/index.md#claim-crypto-can-provide-better-means-of-financializing-value)
+
+* **Deep dive notes** are detailed analysis notes from our deep dive conversations, which have not yet been formatted and expanded into full analyses. [You can help!](/meta/editing.md) We've undertaken deep dives on the following claims:
+  * [Blockchain can (and should) be used to create “networked states” to replace existing nation states](/guide/index.md#claim-blockchain-can-and-should-be-used-to-create-networked-states-to-replace-existing-nation-states)
+  * Crypto can act as an anti-authoritarian force
+  * The crypto space is just an unfettered market, and there’s nothing wrong with that
+  * Crypto is just the latest evolution of fintech, and is leading us towards a better financial system
+  * Crypto should remain outside of securities regulation
+
 * **FAQs** are brief responses to some common questions asked about crypto and web3. They form a useful starting point for further research, such as reading their references in our [library.](https://web3.lifeitself.org/library)
 
 #
@@ -126,7 +138,7 @@ Web3 experiments may point to better ways of allocating funds which are voluntar
 See here for our full analysis: [Web3 can help solve the public goods problem](https://web3.lifeitself.org/claims/can-solve-public-goods-problem)
 
 
-## Claim: Crypto can help revolutionize cooperation
+## Claim: Web3 can help revolutionize cooperation
 
 This analysis focuses on DAOs as a much lauded way of working better together.
 
@@ -154,7 +166,7 @@ However, not only are we doubtful that this would amount to a revolution, we not
 See here for our full analysis: [Web3 can revolutionize human cooperation](https://web3.lifeitself.org/claims/can-revolutionize-human-cooperation)
 
 
-## Claim: Crypto can provide better means of financializing value
+## Claim: Crypto can provide better means of financializing non-financial value
 
 
 #
