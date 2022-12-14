@@ -1,6 +1,5 @@
 ---
-title: Unregulated trading in securities is desirable
-description: "Evaluating the thesis that unregulated trading in securities is desirable."
+title: We Shouldn't Regulate Cryptos as Securities: "Evaluating the thesis that unregulated trading in securities is desirable."
 youtube: https://www.youtube.com/embed/z2uAg-AIs-Y
 podcast: https://anchor.fm/life-itself/episodes/Are-Cryptocurrencies-Securities--The-Nature-of-Securities--Their-Relation-to-Crypto-Tokens-with-Stephen-Diehl-e1fph69
 category:
