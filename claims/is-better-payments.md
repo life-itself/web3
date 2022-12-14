@@ -90,6 +90,34 @@ These observations point to a deeper point it is worth acknowledging. It does se
 
 Crypto is not technologically capable of competing with existing payment rails, and the level of advancement needed to do so is far from a sure thing. In fact, crypto is not up to acting as a currency at all. It does appear to serve these functions in practice in developing nations with non-functional financial systems, as the example of Ukraine shows. However this should be taken less as a testament to the potential of crypto and more as a sign that political and economic support is needed in these cases. And, being better than poorly functioning legacy systems is not what the spirit of this claim gestures to.
 
+## Related Content
+
+### Deep dives
+* [Deep Dive: Fintech Incrementalism And Responsible Innovation ](/notes/fintech-incrementalism-and-responsible-innovation)
+* [A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies) 
+
+
+### FAQs
+* [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
+* [It Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is Web3 a means to rebuild the global financial system?](/claims/is-new-financial-system)
+* [Is crypto providing faster payment rails or better remittance services?](/claims/is-better-payments)
+* [Are crypto tokens a hedge against the “debasement” of the dollar?](/claims/is-hedge-debasement)
+* [Are crypto assets a hedge against inflation?](/claims/is-hedge-inflation)
+
+
+### Concepts
+* [Money](/concepts/money)
+* [Currency](/concepts/currency)
+* [Crypto exchanges](/concepts/crypto-exchange)
+* [Bank](/concepts/bank)
+* [Income Cashflows ](/concepts/income-cashflows)
+* [Assets](/concepts/assets)
+* [Capitalism](/concepts/capitalism)
+* [Store of value](/concepts/store-of-value)
+* [US dollar](/concepts/dollar)
+
+
 ## References
 
 Amato, M. and Fantacci, L. (2020) _A Fistful of Bitcoins: The Risks and Opportunities of Virtual Currencies_. Bocconi University Press. Available at: [https://www.egeaeditore.it/ita/prodotti/economia/a-fistful-of-bitcoins.aspx](https://www.egeaeditore.it/ita/prodotti/economia/a-fistful-of-bitcoins.aspx).
