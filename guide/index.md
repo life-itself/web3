@@ -18,7 +18,7 @@ The guide is split into 3 sections:
 * **Deep dive Notes** are detailed analysis notes from our deep dive conversations, which have not yet been formatted and expanded into full analyses. [You can help!](/meta/editing.md)
 * **FAQs** are brief responses to some common questions asked about crypto and web3. They form a useful starting point for further research, such as reading their references in our [library.](https://web3.lifeitself.org/library)
 
-
+#
 # Foundational concepts
 
 Before getting started, it's worth ensuring you're familiar with these basic concepts, as they will underpin a lot of the analysis below.
@@ -31,7 +31,7 @@ Before getting started, it's worth ensuring you're familiar with these basic con
 * [Cryptoasset ](/concepts/cryptoasset)
 * [Mining ](/concepts/mining)
 * [Decentralization](/concepts/decentralization)
-
+#
 # Full analyses
 These provide detailed and fully referenced analyses of some of the boldest claims being made about web3 and crypto. They are capable of acting as authoritative sources in debates about these claims.
 
