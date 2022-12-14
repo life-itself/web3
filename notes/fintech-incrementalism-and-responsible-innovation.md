@@ -12,6 +12,10 @@ aliases: notes/fintech-incrementalism-and-responsible-innovation.md
 
 # Summary
 
+### November 2022 update
+
+We are adding a brief update to this piece to note the spectacular collapse of one of the world's largest crypto exchanges, FTX, in late 2022. This provides compelling further evidence that crypto is not a legitimate fintech evolution nor does it in any way characterise responsible innovation. Find out more via our [deep dive on the FTX collapse](/notes/post-ftx-collapse.md), and its tragic vindication of our analysis.
+
 ## Claim steel-manned
 
 Building more complex financial models and products allows us to create more antifragile structures that remove or disperse [risk](../concepts/risk.md) from the broader [market](../concepts/market.md) that the public benefits from. We can see real world examples of this: mortgage-backed securities have enabled more democratic and more liquid access to mortgage credit; volaitility in the price of products has been reduced by creating future products, eg the volatility of chicken nuggets is solved by creating synthetic futures on corn and soymeal commodities that would hedge the chicken producer’s exposure to underlying price fluctuations.
@@ -37,7 +41,7 @@ Upending the entire space of commercial banks is a massive financial reconfigura
 
 If crypto payment rails [are lower-cost](../claims/is-better-payments.md) or lower-friction then it’s likely because they’ve removed that which is costly and adds friction: fraud mitigation, transaction reversal, custodial services, customer service, and compliance. Once we add compliance back to crypto payment rails, it’s unclear that there would be any efficiency increase or cost savings.
 
-In addition, as a [remittance use-case](https://academy.binance.com/en/articles/blockchain-use-cases-remittance) , crypto assets such as bitcoin make no sense at face value. We still have to convert to and from the local currency on both legs of the payment. This has a non-zero cost. Currency A -> Currency B -> Currency C is a very indirect way of doing cross-border payments as compared to a two-hop transaction. Introducing a third hypervoliate intermediary step just adds more risk and makes this more expensive.
+In addition, as a [remittance use-case](https://academy.binance.com/en/articles/blockchain-use-cases-remittance) , crypto assets such as bitcoin make no sense at face value. We still have to convert to and from the local currency on both legs of the payment. This has a non-zero cost. Currency A -> Currency B -> Currency C is a very indirect way of doing cross-border payments as compared to a two-hop transaction. Introducing a third hypervoliate intermediary step just adds more risk and makes this more expensive. See our full analysis for more: [Crypto will provide better payment and remittance services](/guide/index.md#claim-crypto-will-provide-better-payment-and-remittance-services)
 
 # Full analysis
 
@@ -191,8 +195,8 @@ This is the position that is possibly the most compelling and defensible positio
 ## Related content
 
 ## Deep dives and notes
-
 * [Crypto will provide better payment and remittance services](https://web3.lifeitself.org/claims/is-better-payments)
+* [Deep Dive: The FTX Collapse](/notes/post-ftx-collapse.md)
 * [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
 * [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
 * [Walch, Angela. Deconstructing 'Decentralization'; Exploring the Core Claim of Crypto Systems](/notes/deconstructing-decentralization)
