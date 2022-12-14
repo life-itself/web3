@@ -149,6 +149,7 @@ Similarly, due to a number of factors including the structure and regulation of 
 * [Deep Dive: Web3 and Post-State Technocracy](/notes/post-state-technocracy)
 * [On the Potential of DAOs & Web3 with Jordan Hall & Rufus Pollock](/notes/on-the-potential-of-daos-and-web3)
 * * [Open Collective, Steward Ownership & Exit to Community with Pia Mancini](/notes/pia-mancini-open-collective-dialogue)
+* * [Making Sense of KlimaDao](/notes/klimadao.finance)
 
 
 ## Concepts
