@@ -42,7 +42,7 @@ Ethereum. ‘Decentralized Autonomous Organizations (DAOs)’. ethereum.org. Acc
 
 > This opens up so many new opportunities for global collaboration and coordination.”
 
-
+#
 # Full Analysis
 ## Sub-claims
 
