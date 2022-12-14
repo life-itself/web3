@@ -14,18 +14,18 @@ It is important that we make good choices about crypto and web3. Ultimately, we 
 
 The guide is split into 3 sections:
 
-* **Full Analyses** provide comprehensive and authoritative analyses of the biggest claims being made in the space
-* **Deep Dive Notes** are detailed analysis notes from our deep dive conversations, which have not yet been formatted and expanded into full analyses. [You can help!](/meta/editing.md)
+* **Full analyses** provide comprehensive and authoritative analyses of the biggest claims being made in the space
+* **Deep dive Notes** are detailed analysis notes from our deep dive conversations, which have not yet been formatted and expanded into full analyses. [You can help!](/meta/editing.md)
 * **FAQs** are brief responses to some common questions asked about crypto and web3. They form a useful starting point for further research, such as reading their references in our [library.](https://web3.lifeitself.org/library)
 
 #
 
-# Full Analyses
+# Full analyses
 These provide detailed and fully referenced analyses of some of the boldest claims being made about web3 and crypto. They are capable of acting as authoritative sources in debates about these claims.
 
 ## Claim: Bitcoin will (and should) become the new gold standard
 
-### Claim Summary
+### Claim summary
 
 Bitcoin is a digital gold, a gold standard was a good idea, and thus that a "bitcoin-standard" – i.e. a new gold-standard built on bitcoin – is a good idea.
 
@@ -47,14 +47,14 @@ Bitcoin has limited track record of being a store of value and lacks the millenl
 Further, The gold-standard and the notion of sound-money are undesirable foundations for a currency and were subject to extreme shocks and deflationary spirals. As such they were abandoned in the mid 20th century in favour of the central-banks and fiat monetary system.
 
 
-### Full Analysis
+### Full analysis
 
 See here for our full analysis of the claim: [Web3, Bitcoin and Neo-metallism](https://web3.lifeitself.org/notes/neo-metallism)
 
 
 ## Claim: Crypto will provide better payment and remittance services
 
-### Claim Summary
+### Claim summary
 #### Subclaim 1: Crypto can function as a currency to pay or send remittances with
 Payment systems and remittance services need to pay in something. That something must either be a currency (eg dollars) or a commodity (eg cows).
 
@@ -67,7 +67,7 @@ Crypto can provide payment systems and remittance services because it serves the
 #### Subclaim 2: Crypto can provide better payment rails and remittance services
 Crypto can provide us with better payment rails - i.e. a better Visa, Stripe etc - and more efficient international remittances. I can send money abroad, eg from US dollars to Indian rupees using crypto. These blockchain-based payment rails would have reduced friction and costs resulting in a cheaper, faster, more efficient service.
 
-### Evaluation: Largely False (high confidence)
+### Evaluation: Largely false (high confidence)
 
 Crypto assets are not currencies because they cannot fulfill the definition of money.
 
@@ -78,14 +78,14 @@ In addition, if crypto were to provide cheaper and faster payment rails, it’s 
 We acknowledge that it does seem at least plausible that crypto assets are currently supporting financial activity in certain highly unstable and dysfunctional economies, as the example of Ukraine seems to show. However, it is problematic to use this observation to argue that replacing traditional financial infrastructure with blockchain based alternatives is desirable; being better than ill-functioning versions of a traditional system does not make blockchain systems innately superior.
 
 
-### Full Analysis
+### Full analysis
 
 See here for our full analysis: [Crypto will provide better payment and remittance services](https://web3.lifeitself.org/claims/is-better-payments)
 
 
 ## Claim: Crypto can help solve the public goods problem
 
-### Claim Summary
+### Claim summary
 
 Public goods are non-rival and non-excludable (anyone can use this good and someone's use does not diminish someone else's use of the good). The trouble with funding public goods is that if anyone can use this good whether or not they have contributed to the funding or upkeep of the good, how do we motivate people to contribute to the good? This is known as the free-rider problem. Public goods problems thus deal with the problem of how to get people to contribute to things that they have no self-interested incentive to contribute to if left to their own devices.
 
@@ -103,13 +103,13 @@ Blockchain-based innovation in governance has facilitated more effective methods
 Blockchain is decentralized, is an immutable, public ledger, and creates the potential for tokenization. This can enable democratized investment, facilitate better participatory decision-making and help create instruments which can better capture and financialize the full range of social value versus traditional money or other financial products.
 
 
-## Evaluation: False (High Confidence)
+## Evaluation: False (high confidence)
 
 The public goods problem is fundamentally one of revenue raising, and Web3 cannot offer any mechanisms to raise revenue which can effectively overcome the free-rider problem at scale. Further, the desirability of the privatization and marketization implied by Web3 solutions is doubtful in the first place.
 
 Web3 experiments may point to better ways of allocating funds which are voluntarily raised, but these do not rely on Web3 technology and are all but redundant when trying to allocate between equally vital public goods under conditions of resource scarcity.
 
-## Full Analysis
+## Full analysis
 
 See here for our full analysis: [Web3 can help solve the public goods problem](https://web3.lifeitself.org/claims/can-solve-public-goods-problem)
 
@@ -118,7 +118,7 @@ See here for our full analysis: [Web3 can help solve the public goods problem](h
 
 This analysis focuses on DAOs as a much lauded way of working better together.
 
-### Claim Summary
+### Claim summary
 
 #### Subclaim 1: Cooperation in the Web3 sphere is in some sense better than the way we tend to cooperate now
 
@@ -131,13 +131,13 @@ Blockchain technology can facilitate deep collaboration in the absence of interp
 #### Subclaim 3: The unique value add provided by Web3 is sufficient to shift human cooperation more broadly i.e. make this better form of cooperation dominant
 The fact that Web3 facilitates flexibly fluid cooperation between potentially large numbers of diverse actors spread across the globe may gesture to a new future of digitally enabled cooperation. These features can make collaborating in this manner sufficiently easier and more attractive that it may begin to outcompete collaboration through traditional organizations.
 
-### Evaluation: Largely False (Medium-High Confidence)
+### Evaluation: Largely false (medium-high confidence)
 
 Web3 organizations such as DAOs may well model better ways of collaborating, at least in the context of some private or third sector organizations. The popularity of Web3 may well provide inspiration which has a positive impact on how such organizations are structured or operate in the future, such that there is potential for Web3 to bring about a change.
 
 However, not only are we doubtful that this would amount to a revolution, we note that this inspiration and education is not what the spirit of the claim gestures to. When it comes to the idea that Web3 technology itself will be vital to, and underpin, a paradigmatic shift in how humans cooperate with one another, we can confidently assert that this is false. The more democratic and decentralized forms of cooperation characterizing DAOs have largely existed in other forms, be they cooperatives or Teal organizations, before Web3 rose to prominence. The reason they have not become dominant has not been one of insufficiently powerful technology. Further, unique features of Web3 technology particularly seem on closer inspection to add little to actors’ ability to cooperate effectively that is not already provided by off-chain technologies.
 
-### Full Analysis
+### Full analysis
 
 See here for our full analysis: [Web3 can revolutionize human cooperation](https://web3.lifeitself.org/claims/can-revolutionize-human-cooperation)
 
@@ -146,7 +146,7 @@ See here for our full analysis: [Web3 can revolutionize human cooperation](https
 
 
 #
-# Deep Dive Notes
+# Deep dive notes
 
 These notes are attached to deep dive conversations covering certain claims or sets of claims. They do rigorously analyze the positions they explore, however these analyses are in note form and are thus rougher and less ocomprehensive than the ones above. If you'd like to help improve them then take a look at our [contributor guide](/meta/editing.md). For an example of what a complete evaluation looks like, see our [analysis of web3 and the public goods problem](/claims/can-solve-public-goods-problem.md).
 
@@ -199,7 +199,6 @@ The full deep dive episode and accompanying notes can be found at: [We Shouldn't
 
 Shorter responses to common questions about web3 and crypto. While we’re confident in our views these fall short of full analyses, and we encourage you to use them as starting points for further independent research to draw conclusions. The references for each stub are a good place to begin, as is our [curated web3 library](https://web3.lifeitself.org/library) more broadly.
 
-#### Better Economy
 
 * [Can crypto just keep increasing in value?](/notes/financial-perpetual-motion-machine.md)
 * [Is bitcoin a currency?](/claims/is-bitcoin-currency.md)
@@ -212,9 +211,6 @@ Shorter responses to common questions about web3 and crypto. While we’re confi
 * [Are crypto tokens an inflation hedge?](/claims/is-hedge-inflation.md)
 * [Is private money a desirable system?](/claims/is-private-money.md)
 * [Is bitcoin compataible with ESG investing?](/claims/is-bitcoin-esg.md)
-
-#### Better Society / Financial Inclusion
-
 * [What consumer protections exist for crypto assets?](/claims/is-consumer-protections.md)
 * [Are crypto assets a form of predatory inclusion?](/claims/is-predatory.md)
 * [Is crypto a solution for the unbanked?](/claims/is-crypto-unbanked.md)
@@ -224,29 +220,17 @@ Shorter responses to common questions about web3 and crypto. While we’re confi
 * [Are crypto assets legal?](/claims/is-legal.md)
 * [Are crypto tokens a negative-sum investment?](/claims/is-negative-sum.md)
 * [Why do people invest in crypto tokens?](/claims/is-why-invest.md)
-
-#### Financial Liberty
-
 * [Is an unregulated transnational payment rail even desirable?](/claims/is-transnational-payment.md)
 * [Are crypto tokens a hedge against the "debasement" of the dollar?](/claims/is-hedge-debasement.md)
 * [Can I raise money for my non-profit using crypto tokens?](/claims/is-raise-nonprofit.md)
 * [Can I do a crowdfunded equity raise for my company using crypto tokens?](/claims/is-raise-company.md)
-
-#### Solving Public Goods Problems
-
 * [Is bitcoin mining harmful to the environment?](/claims/is-environmental-footprint.md)
 * [Is crypto bringing about the "financialization of everything"?](/claims/is-hyperfinancialization.md)
 * [What is the opportunity cost of crypto?](/claims/is-opportunity-cost.md)
-
-#### Financial Innovation
-
 * [Is the underlying technology of "blockchain" useful for non-monetary purposes?](/claims/is-blockchain-tech.md)
 * [Is web3 even a well-defined term?](/claims/is-well-defined.md)
 * [Is web3 decentralized?](/claims/is-web3-decentralized.md)
 * [Is web3 the next generation of the internet?](/claims/is-new-internet.md)
-
-#### Creative Destruction
-
 * [Is web3 a means to dismantle the American tech hegemony?](/claims/is-disrupt-hegemony.md)
 * [Is web3 a means to rebuild the global financial system?](/claims/is-new-financial-system.md)
 * [Are crypto tokens a means to accelerate the collapse of capitalism?](/claims/is-collapse.md)
