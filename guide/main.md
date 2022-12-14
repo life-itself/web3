@@ -116,7 +116,7 @@ See here for our full analysis: [Web3 can help solve the public goods problem](h
 
 ## Claim: Crypto can help revolutionize cooperation
 
-This analysis focuses on DAOs as a much lauded wayof working better together.
+This analysis focuses on DAOs as a much lauded way of working better together.
 
 ### Claim Summary
 
@@ -145,7 +145,7 @@ See here for our full analysis: [Web3 can revolutionize human cooperation](https
 ## Claim: Crypto can provide better means of financializing value
 
 
-
+#
 # Deep Dive Notes
 
 These notes are attached to deep dive conversations covering certain claims or sets of claims. They do rigorously analyze the positions they explore, however these analyses are in note form and are thus rougher and less ocomprehensive than the ones above. If you'd like to help improve them then take a look at our [contributor guide](/meta/editing.md). For an example of what a complete evaluation looks like, see our [analysis of web3 and the public goods problem](/claims/can-solve-public-goods-problem.md).
@@ -194,7 +194,7 @@ There is currently debate about how crypto investments fall under the existing s
 ### Full deep dive
 The full deep dive episode and accompanying notes can be found at: [We Shouldn't Regulate Cryptos as Securities](/notes/are-crypto-tokens-securities.md)
 
-
+#
 # FAQs
 
 Shorter responses to common questions about web3 and crypto. While we’re confident in our views these fall short of full analyses, and we encourage you to use them as starting points for further independent research to draw conclusions. The references for each stub are a good place to begin, as is our [curated web3 library](https://web3.lifeitself.org/library) more broadly.
