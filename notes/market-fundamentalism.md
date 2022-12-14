@@ -129,6 +129,17 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
   * This is great if you're inside the cartel. Not so great if you aren’t.
   * Wealth transfer from public to insiders is all but guaranteed by the information [asymmetry](../concepts/asymmetric-information.md).
 
+## Related Content
+
+## Deep Dives and Notes
+* [A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies) 
+* [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](/notes/cryptocurrencies-an-assessment)
+* [Examples Of Retail Investors Speculating ](/notes/examples-of-ordinary-people-speculating)
+* [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine) 
+* [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
+* [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](/notes/the-encrypted-threat)’
+
+
 ## Concepts Covered
 * [artificial-scarcity](../concepts/artificial-scarcity.md)
 * [assets](../concepts/assets.md)
@@ -163,6 +174,22 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 * [is-valuation-model](../claims/is-valuation-model.md)
 * [wash-trading](../concepts/wash-trading.md)
 * [zero-sum-game](../concepts/zero-sum-game.md)
+
+### FAQs
+
+* [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is crypto legal?](/claims/is-legal)
+* [Is bitcoin compatible with ESG investing?](/claims/is-bitcoin-esg)
+* [Why do people invest in crypto tokens?](/claims/is-why-invest)
+* [Are crypto tokens a negative-sum investment?](/claims/is-negative-sum)
+* [Are crypto assets a bubble?](/claims/is-bubble)
+* [Do crypto assets have a verifiable valuation model?](/claims/is-valuation-model)
+* [Are crypto assets a form of gambling?](/claims/is-gambling)
+*  [What is the narrative economics of crypto assets?](/claims/is-narrative-economics)
+* [What consumer protections exist for crypto assets?](/claims/is-consumer-protections)
+* [Are crypto assets predatory investments?](/claims/is-predatory)
+* [Are crypto assets a systemic risk to the economy?](/claims/is-systemic-risk)
+
 
 ## References
 1. Janeway, William H. Doing capitalism in the innovation economy: Markets, speculation and the state. Cambridge University Press, 2012.
