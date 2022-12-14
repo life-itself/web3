@@ -11,7 +11,7 @@ aliases: [Neo-metallism, neo-metallism]
 ---
 
 
-*Bitcoin is a digital gold, a [gold standard](../concepts/gold-standard.md) was a good idea, and thus that a "Bitcoin-standard" – i.e. a new gold-standard built on bitcoin – is a good idea.*
+*Bitcoin is a digital gold, a [gold standard](../concepts/gold-standard.md) was a good idea, and thus that a "bitcoin-standard" – i.e. a new gold-standard built on bitcoin – is a good idea.*
 
 The neo-metallist claim is that bitcoin can operate as a new asset class which exhibits similar financial properties to [gold](../concepts/gold.md).  The strong version of this claim asserts that a [gold standard](../concepts/gold-standard.md) was a good idea and hence that that a new gold standard should be built on top of bitcoin. This claim has 2 components:
 
@@ -22,7 +22,7 @@ The neo-metallist claim is that bitcoin can operate as a new asset class which e
 **Bitcoin is a better alternative to gold**
 
 * It shares the features of gold which make it a good choice for a currency (or something to peg a currency to)
-* In addition, Bitcoin has specific features which may make it better than gold e.g.
+* In addition, bitcoin has specific features which may make it better than gold e.g.
   * Bitcoin is digital and so is not subject to the same costs around storage and transportation as gold;
   * Bitcoin is under less state control. Gold supply is mostly controlled by sovereign nations like the U.S., China, Germany, and other European countries.
 
@@ -72,7 +72,7 @@ _By Practical Metallism we shall denote sponsorship of a principle of monetary p
 
 This school contrasts with Chartalism, as originally outlined in Knapp’s _State Theory of Money _(1924)[^2] that at the theoretical level the value of a currency is instead derived from the State making it legal tender and demanding taxes be paid in this currency. In practical terms it is associated with a commitment to the use of _fiat money_, which simply refers to currency which has no intrinsic value and is also not “backed” by some valuable commodity. It has been the global standard of the monetary system since the gold standard was finally abandoned in the 1930s[^3].
 
-Neo-Metallism, then, is as the name suggests a new form of Metallism. In particular, it should be understood as arguing that cryptocurrencies, and in particular Bitcoin, can and in fact should be the “new gold”, in that it should be used to fix the monetary supply to the value of this new asset. Just as under the gold standard the value of a given unit of currency (e.g. a pound or dollar) was based on a fixed quantity of gold, so the Neo-Metallists argue that in the modern era the value of a unit of currency should be based on a fixed amount of Bitcoin. The most influential outlining of this position is found in the book “The Bitcoin Standard”[^4]. 
+Neo-Metallism, then, is as the name suggests a new form of Metallism. In particular, it should be understood as arguing that cryptocurrencies, and in particular bitcoin, can and in fact should be the “new gold”, in that it should be used to fix the monetary supply to the value of this new asset. Just as under the gold standard the value of a given unit of currency (e.g. a pound or dollar) was based on a fixed quantity of gold, so the Neo-Metallists argue that in the modern era the value of a unit of currency should be based on a fixed amount of bitcoin. The most influential outlining of this position is found in the book “The Bitcoin Standard”[^4]. 
 
 
 
@@ -104,25 +104,25 @@ Even if one rejects the Managerial Argument and does not believe that central ba
 
 ### P2: Bitcoin is a better alternative to gold
 
-If we accept that the Gold Standard is a good idea for either or both of these reasons, then the next step is to consider bitcoin as an alternative asset to peg currency two. Again, there are two underlying claims here. First we must argue that Bitcoin can function as well as gold, before going further and arguing that in fact it functions better.
+If we accept that the Gold Standard is a good idea for either or both of these reasons, then the next step is to consider bitcoin as an alternative asset to peg currency two. Again, there are two underlying claims here. First we must argue that bitcoin can function as well as gold, before going further and arguing that in fact it functions better.
 
 
 ####  P2a: Bitcoin is like gold
 
-The most important manner in which Bitcoin must be claimed to be akin to gold is that it also serves the three functions of a currency[^10]. 
+The most important manner in which bitcoin must be claimed to be akin to gold is that it also serves the three functions of a currency[^10]. 
 
 
 
 1. It can be a _unit of account_ in that it’s a standard and divisible unit of measurement of market value (i.e. it can be used to signal what something is worth). 
 2. It can be a _medium of exchange_ in that we can use it as an intermediary instrument to transact for goods and services. 
 3. And it can act as a _store of value_ in that it (at least ideally) retains its purchasing power over time, such that we can retrieve the value of our investment at a later date without making a significant loss[^11]. 
-Similarly, Bitcoin is said to share three other important characteristics with gold.:
+Similarly, bitcoin is said to share three other important characteristics with gold.:
 
 
 
-1. _Scarcity_: Bitcoin is artificially scarce, just as gold is naturally scarce. There is a hard limit of 21 million coins baked into Bitcoin’s design. This makes it inherently _deflationary_, just like gold.
-2. _Universality_: Bitcoin shares gold’s “universality” due to  its prominence in the crypto sphere. Just as gold is the standout element suited to peg currency to, so Bitcoin is the only standout cryptocurrency due to it being the original and most prominent.
-3. _Fair initial distribution:_ The lack of overarching controller or owner means there was a “fair” distribution mechanism for Bitcoin. It rewarded early finders and investors in the same way as natural distribution of gold rewarded those who initially unearthed it.
+1. _Scarcity_: Bitcoin is artificially scarce, just as gold is naturally scarce. There is a hard limit of 21 million coins baked into bitcoin’s design. This makes it inherently _deflationary_, just like gold.
+2. _Universality_: Bitcoin shares gold’s “universality” due to  its prominence in the crypto sphere. Just as gold is the standout element suited to peg currency to, so bitcoin is the only standout cryptocurrency due to it being the original and most prominent.
+3. _Fair initial distribution:_ The lack of overarching controller or owner means there was a “fair” distribution mechanism for bitcoin. It rewarded early finders and investors in the same way as natural distribution of gold rewarded those who initially unearthed it.
 
 
 #### P2b: Bitcoin functions better than gold
@@ -180,26 +180,26 @@ Finally, there are ways to democratize the fiat system without returning to gold
 
 Bitcoin does satisfy unit of account as it is divisible. It cannot, however, function as a medium of exchange. The transaction throughput is so small that it doesn't work as a global system of currency - it can't process transactions fast enough. As mentioned above, this is inherent to the proof-of-work process Bitcon uses to verify its transactions. In other words, this incapacity is baked in.
 
-Bitcoin also does not appear to hold potential as a store of value given its extremely high price variance. Gold, on the other hand, has historical precedent as a store of value in economic insecurity; its price has proven to be better insulated from broader economic dynamics than many other asset types. Gold also has a synthetic floor on its price due to its use value in semiconductor fabrication and jewelry[^22]. If Bitcoin were to behave as a store of value it would have to abandon hypervolatility, and there is no easily identifiable economic mechanism for this to happen. 
+Bitcoin also does not appear to hold potential as a store of value given its extremely high price variance. Gold, on the other hand, has historical precedent as a store of value in economic insecurity; its price has proven to be better insulated from broader economic dynamics than many other asset types. Gold also has a synthetic floor on its price due to its use value in semiconductor fabrication and jewelry[^22]. If bitcoin were to behave as a store of value it would have to abandon hypervolatility, and there is no easily identifiable economic mechanism for this to happen. 
 
-Bitcoin, unlike traditional commodities, has a negative price elasticity of demand  - demand goes up with price, not down. For this reason, Bitcoin looks like a speculative bubble, which at some point will inevitably crash.[^23] Admittedly this argument is not easily falsifiable. One could argue that Bitcoin has simply not been around long enough to infer its potential as a store of value; even if it did drop to zero, it could hypothetically rebound. Nonetheless, on present evidence it is not delivering, and there aren’t any plausible reasons to suggest this evidence will not be indicative of future behaviour.
+Bitcoin, unlike traditional commodities, has a negative price elasticity of demand  - demand goes up with price, not down. For this reason, bitcoin looks like a speculative bubble, which at some point will inevitably crash.[^23] Admittedly this argument is not easily falsifiable. One could argue that bitcoin has simply not been around long enough to infer its potential as a store of value; even if it did drop to zero, it could hypothetically rebound. Nonetheless, on present evidence it is not delivering, and there aren’t any plausible reasons to suggest this evidence will not be indicative of future behaviour.
 
 As mentioned in our initial definition of chartallism, states converged on this approach for a reason. States can synthetically stimulate demand for a single, fiat currency by demanding tax in this currency, ensuring the whole system works and that the value of such currency can never drop to zero. In other words, there is a clear mechanism to guard against value bottoming out. The same cannot be said for cryptocurrencies such as Bitcon.
 
-Relatedly, Bitcoin also no longer shares gold’s uniqueness. Lots of new “alt coins” -  new alternatives to Bitcoin - are being minted, meaning the cryptocurrency market is now crowded with competitors. Even Bitcoin itself has now forked into a number of distinct versions[^24] all jostling for attention and investment, something which cannot happen with physical commodities such as gold. Given its potential as a store of value is tied to at least somewhat to uniqueness, this does not bode well for Bitcon’s claim to equivalency with gold. High numbers of different coins also creates inflationary effects - the very thing stores of value are intended to guard against! 
+Relatedly, Bitcoin also no longer shares gold’s uniqueness. Lots of new “alt coins” -  new alternatives to bitcoin - are being minted, meaning the cryptocurrency market is now crowded with competitors. Even Bitcoin itself has now forked into a number of distinct versions[^24] all jostling for attention and investment, something which cannot happen with physical commodities such as gold. Given its potential as a store of value is tied to at least somewhat to uniqueness, this does not bode well for Bitcon’s claim to equivalency with gold. High numbers of different coins also creates inflationary effects - the very thing stores of value are intended to guard against! 
 
 The history of large issuances of private money isn't good. Single currency systems were adopted as these are significantly more efficient. A single price in a single currency allows far easier exchange of goods wherever one is located, for example. Having multiple issuers of currency adds friction to trade, as one must convert the value of a given object between currencies before exchange can take place. These systems are also subject to fraud and a general breakdown of trust. If any bank can issue its own banknotes, how does one know which bank is reliable and which isn’t?
 
 #### P2b: Bitcoin functions better than gold (False)
 
-Bitcoin being digital does not mean it is without its costs. The extraction, transport and storage costs associated with gold are outweighed by massive Bitcoin mining costs. The “proof-of-work” mechanism[^18] used to validate transactions and undertake mining for Bitcoin requires a huge amount of electricity. It is therefore is highly costly[^19], not to mention environmentally damaging[^20]. This verification process creates significant friction around transactions - the system is very slow, particularly when lots of people are using it. This further undermines a key respect in which Bitcoin might otherwise be considered superior to gold.[^21] 
+Bitcoin being digital does not mean it is without its costs. The extraction, transport and storage costs associated with gold are outweighed by massive bitcoin mining costs. The “proof-of-work” mechanism[^18] used to validate transactions and undertake mining for bitcoin requires a huge amount of electricity. It is therefore is highly costly[^19], not to mention environmentally damaging[^20]. This verification process creates significant friction around transactions - the system is very slow, particularly when lots of people are using it. This further undermines a key respect in which bitcoin might otherwise be considered superior to gold.[^21] 
 
 
 ### A Final Note on Trust
 
-In the world of Bitcoin, and blockchain more generally, lots is made of so called “trustless systems”[^25]. Replacing interpersonal trust with cryptographic verification mechanisms is lauded as a positive; we no longer need trust: in states, governmental institutions or even one another. The problem with trust is that when you get rid of it, it's very hard to get it back. This is a major trade-off and thus risk: if crypto were to fail we would risk a large-scale general reduction in trust. Even if it were to succeed, it would likely lead to a significantly diminished role for trust at a broader level.
+In the world of bitcoin, and blockchain more generally, lots is made of so called “trustless systems”[^25]. Replacing interpersonal trust with cryptographic verification mechanisms is lauded as a positive; we no longer need trust: in states, governmental institutions or even one another. The problem with trust is that when you get rid of it, it's very hard to get it back. This is a major trade-off and thus risk: if crypto were to fail we would risk a large-scale general reduction in trust. Even if it were to succeed, it would likely lead to a significantly diminished role for trust at a broader level.
 
-There is evidence that high trust of strangers correlates with positive economic and social outcomes.[^26] At the root of trustless blockchain technologies are assumptions about human nature, which have significant implications for how we approach vital questions of social cooperation. Do we cooperate through some kind of formal system that we can enforce through software and rules? Or do we do so by learning to trust each other, in ways that come from our culture, perhaps supported by institutions and laws, but ultimately coming from ourselves. There is a tension between these two approaches: as I create more formal rules based in the assumption that I trust people less, this then undermines good faith and can actually create the very opposite outcomes we aim towards[^27].  Aside from its impacts on Bitcoin’s potential as a gold substitute, the issue of trust has serious ramifications for how we govern our societies. This is a fact we’d do well not to ignore.
+There is evidence that high trust of strangers correlates with positive economic and social outcomes.[^26] At the root of trustless blockchain technologies are assumptions about human nature, which have significant implications for how we approach vital questions of social cooperation. Do we cooperate through some kind of formal system that we can enforce through software and rules? Or do we do so by learning to trust each other, in ways that come from our culture, perhaps supported by institutions and laws, but ultimately coming from ourselves. There is a tension between these two approaches: as I create more formal rules based in the assumption that I trust people less, this then undermines good faith and can actually create the very opposite outcomes we aim towards[^27].  Aside from its impacts on bitcoin’s potential as a gold substitute, the issue of trust has serious ramifications for how we govern our societies. This is a fact we’d do well not to ignore.
 
 ## Related Content
 
