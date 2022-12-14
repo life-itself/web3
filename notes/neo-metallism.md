@@ -30,7 +30,7 @@ The neo-metallist claim is that bitcoin can operate as a new asset class which e
 
 
 
-## Evaluation: False (High Confidence)
+## Evaluation: False (high confidence)
 
 There was a reason the world abandoned the gold standard. The core argument of the Austrian eocnomics underpinning this claim is that all deflation is bad, and there is lots of evidence disproving this. The gold standard is inherently deflationary and risks deflationary spirals, and its rigidity left central banks with far less room to respond to economic crises. It created a brittle and shock prone economic system which in practice has been shown to be less effective than the current system of floating currencies. Claims that intervention in the money supply are undemocratic are equally unfounded. There has been no evidence of an erosion of democracy stemming from such intervention, there exist far greater curtailments of "negative liberty" which libertarians should take issue with if they are particularly concerned by such things, and there are numerous ways of making central banks and related instutitons more democratic without reverting to a currency peg.
 
@@ -43,12 +43,12 @@ Even if a return to the gold standard were a good idea is not capable of replaci
 > "If Bitcoin succeeds it will most likely not replace any national currency. It may be a supranational currency that exists on top of all national currencies. If Bitcoin succeeds it may be a global non-political standard of value and settlement." e.g. like the kilo is a global standard measure of weight
 > 
 #
-# Full Analysis
+# Full analysis
 
 ## Sub-claims
 
 
-### P1: The Gold standard is a good idea 
+### P1: The gold standard is a good idea 
 
 Pegging currency to gold (or something similar) is beneficial as it restricts government/central bank intervention in the money supply. This is desirable for 2 reasons:
 * **P1a: Government/central bank intervention in the money supply is bad for the economy as it will inevitably lead to inflation**
@@ -79,11 +79,11 @@ Neo-Metallism, then, is as the name suggests a new form of Metallism. In particu
 ## Claims steel-manned
 
 
-### P1: The Gold standard is a good idea
+### P1: The gold standard is a good idea
 
 This is an argument most commonly associated with the Austrian school of economics, a heterodox school of economics associated with beliefs that universally applicable economic principles can be derived from abstract logical reasoning (rather than needing data or mathematical models) and that the correct unit of analysis are individuals and their choices (methodological individualism). 
 
-The case for the Gold Standard can be made via two routes, which we have divided into 1a (economic impacts) and 1b (freedom and democracy). They are each individually sufficient as a foundation for P1, but they are often made jointly. 
+The case for the gold standard can be made via two routes, which we have divided into 1a (economic impacts) and 1b (freedom and democracy). They are each individually sufficient as a foundation for P1, but they are often made jointly. 
 
 
 #### P1a: Government/central bank intervention in the money supply is bad for the economy
@@ -94,17 +94,17 @@ The claim that intervention in the money supply will lead to inflation is accept
 
 _“Inflation is always and everywhere a monetary phenomenon, in the sense that it is and can be produced only by a more rapid increase in the quantity of money than in output.”_[^6]
 
-While most schools of thought see mild inflation as neutral or even positive, the Austriana claim that any degree of inflation is a bad thing. This is because it will act as a distortion of market forces; prices will be driven up at different times, distorting relative prices, wages, and rates of return in what’s known as the Cantillon Effect[^7]. As the price mechanism is the vital mechanism by which consumers and producers coordinate their future activities the artificial distortion can lead to booms in production and consumption which are out of line with future reality, leading in turn to dramatic busts. Thus according to the Austrian school and the Managerial Argument, inflationary central bank intervention in the money supply must be avoided, as they result in dramatic cycles of boom and bust and even recession.
+While most schools of thought see mild inflation as neutral or even positive, the Austriana claim that any degree of inflation is a bad thing. This is because it will act as a distortion of market forces; prices will be driven up at different times, distorting relative prices, wages, and rates of return in what’s known as the Cantillon Effect[^7]. As the price mechanism is the vital mechanism by which consumers and producers coordinate their future activities the artificial distortion can lead to booms in production and consumption which are out of line with future reality, leading in turn to dramatic busts. Thus according to the Austrian school and the P1a, inflationary central bank intervention in the money supply must be avoided, as they result in dramatic cycles of boom and bust and even recession.
 
 
 #### P1b: Intervention in the money supply is inherently undemocratic, and jeaopordizes liberty
 
-Even if one rejects the Managerial Argument and does not believe that central bank intervention is economically damaging, one may still endorse the Gold Standard. The argument can instead run that such intervention is inherently undemocratic, in that it allows a select few individuals to exert undue power over the lives of the rest of a nation (and beyond). This is the argument laid out in Hayek’s famous _Road to Serfdom_ (1944)[^8]. Allowing such interventions empowers the state over the individual, and sets us down the path to oppression. This is a fundamentally philosophical position as it rests on a certain understanding of what it means to be free: a notion of negative liberty or freedom from coercion[^9]. 
+Even if one rejects the above argument and does not believe that central bank intervention is economically damaging, one may still endorse the gold standard. The argument can instead run that such intervention is inherently undemocratic, in that it allows a select few individuals to exert undue power over the lives of the rest of a nation (and beyond). This is the argument laid out in Hayek’s famous _Road to Serfdom_ (1944)[^8]. Allowing such interventions empowers the state over the individual, and sets us down the path to oppression. This is a fundamentally philosophical position as it rests on a certain understanding of what it means to be free: a notion of negative liberty or freedom from coercion[^9]. 
 
 
 ### P2: Bitcoin is a better alternative to gold
 
-If we accept that the Gold Standard is a good idea for either or both of these reasons, then the next step is to consider bitcoin as an alternative asset to peg currency two. Again, there are two underlying claims here. First we must argue that bitcoin can function as well as gold, before going further and arguing that in fact it functions better.
+If we accept that the gold standard is a good idea for either or both of these reasons, then the next step is to consider bitcoin as an alternative asset to peg currency two. Again, there are two underlying claims here. First we must argue that bitcoin can function as well as gold, before going further and arguing that in fact it functions better.
 
 
 ####  P2a: Bitcoin is like gold
@@ -130,10 +130,10 @@ Similarly, bitcoin is said to share three other important characteristics with g
 Bitcoin is digital and so is not subject to the same costs around storage and transport as gold. Bitcoin is also arguably more decentralized. Gold supply is mostly controlled by sovereign nations like the U.S., China, Germany, and other European countries.
 
 
-## Evaluation: False (High Confidence)
+## Evaluation: False (high confidence)
 
 
-### P1: The gold standard is a good idea (False)
+### P1: The gold standard is a good idea (false)
 
 P1 as mentioned stems from the Austrian school of economics. From the bat it should be noted that this is an incredibly fringe economic position and not one argued for by most economists. 
 
@@ -144,7 +144,7 @@ Two things are notable upon this distinction. First, when historically we operat
 Let us now address each of the sub-premises in turn.
 
 
-#### P1a: Government/central bank intervention in the money supply is bad for the economy (False)
+#### P1a: Government/central bank intervention in the money supply is bad for the economy (false)
 
 As discussed above, the managerial argument is that government/central bank intervention in the money supply will inevitably lead to inflation, and this is harmful to business and commerce and makes their effects on business cycles worse in the long run. 
 
@@ -163,7 +163,7 @@ Further, the flexibility offered by the ability for governments/central banks to
 Relatedly the gold standard can also lead to the reverberation of shocks through the global economy. This is because economic shocks in one economy will lead to investors buying up gold as a safe asset. Given currencies are pegged to gold, this increase in demand in one nation can have significant impacts on the value of currencies the world over.
 
 
-#### P1b: Intervention in the money supply is inherently undemocratic, and jeaopordizes liberty (False)
+#### P1b: Intervention in the money supply is inherently undemocratic, and jeaopordizes liberty fFalse)
 
 Hayek's claim hasn't been borne out historically. Since leaving metallism most metrics of prosperity have increased, and there have been fewer crises than under the old system. There hasn’t been any evidence of any shift away from democracy or increases of the translation of political power to economic benefit. In fact, this was arguably greater under historical gold backed systems[^16]. Where such things do happen today, it’s not happening through monetary policy.
 
@@ -172,11 +172,11 @@ There are many other areas of state influence which should be far more concernin
 Finally, there are ways to democratize the fiat system without returning to gold. We can increase the democratic accountability of those in control of monetary policy, for example. Central banks can be made more accountable to government, and independent bodies such as the Monetary Policy Committee can have either more democratic election mechanisms or a greater diversity of representation[^17]. Of course, again, this will still not satisfy hard libertarians as there is still someone exerting influence unilaterally to some degree, but it at least demonstrates the option of reasonable compromise for those with an ideological concern about democracy.
 
 
-### P2: Bitcoin is a better alternative to gold (False)
+### P2: Bitcoin is a better alternative to gold (false)
 
 
 
-#### P2a: Bitcoin is like gold (False)
+#### P2a: Bitcoin is like gold (false)
 
 Bitcoin does satisfy unit of account as it is divisible. It cannot, however, function as a medium of exchange. The transaction throughput is so small that it doesn't work as a global system of currency - it can't process transactions fast enough. As mentioned above, this is inherent to the proof-of-work process Bitcon uses to verify its transactions. In other words, this incapacity is baked in.
 
@@ -190,12 +190,12 @@ Relatedly, Bitcoin also no longer shares gold’s uniqueness. Lots of new “alt
 
 The history of large issuances of private money isn't good. Single currency systems were adopted as these are significantly more efficient. A single price in a single currency allows far easier exchange of goods wherever one is located, for example. Having multiple issuers of currency adds friction to trade, as one must convert the value of a given object between currencies before exchange can take place. These systems are also subject to fraud and a general breakdown of trust. If any bank can issue its own banknotes, how does one know which bank is reliable and which isn’t?
 
-#### P2b: Bitcoin functions better than gold (False)
+#### P2b: Bitcoin functions better than gold (false)
 
 Bitcoin being digital does not mean it is without its costs. The extraction, transport and storage costs associated with gold are outweighed by massive bitcoin mining costs. The “proof-of-work” mechanism[^18] used to validate transactions and undertake mining for bitcoin requires a huge amount of electricity. It is therefore is highly costly[^19], not to mention environmentally damaging[^20]. This verification process creates significant friction around transactions - the system is very slow, particularly when lots of people are using it. This further undermines a key respect in which bitcoin might otherwise be considered superior to gold.[^21] 
 
 
-### A Final Note on Trust
+### A final note on trust
 
 In the world of bitcoin, and blockchain more generally, lots is made of so called “trustless systems”[^25]. Replacing interpersonal trust with cryptographic verification mechanisms is lauded as a positive; we no longer need trust: in states, governmental institutions or even one another. The problem with trust is that when you get rid of it, it's very hard to get it back. This is a major trade-off and thus risk: if crypto were to fail we would risk a large-scale general reduction in trust. Even if it were to succeed, it would likely lead to a significantly diminished role for trust at a broader level.
 
