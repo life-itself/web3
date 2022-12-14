@@ -14,6 +14,11 @@ claim:
 
 # Summary
 
+## November 2022 update
+
+We are adding a brief update to this piece to note the spectacular collapse of one of the world's largest crypto exchanges, FTX, in late 2022. This provides compelling further evidence that a tougher regulatory approach is and always was needed for crypto. Find out more via our [deep dive on the FTX collapse](/notes/post-ftx-collapse.md), and its tragic vindication of our analysis.
+
+
 ## Claim steel-manned
 
 ### Subclaim 1: A better, easier way to raise money for my venture
@@ -28,10 +33,6 @@ The ability to raise capital outside of the rule of law is not only a good thing
 
 
 ## Evaluation
-
-### November 2022 update
-
-We are adding a brief update to this piece to note the spectacular collapse of one of the world's largest crypto exchanges, FTX, in late 2022. This provides compelling further evidence that a tougher regulatory approach is and always was needed for crypto. Find out more via our [deep dive on the FTX collapse](/notes/post-ftx-collapse.md), and its tragic vindication of our analysis.
 
 ### Subclaim 1: A better, easier way to raise money for my venture
 
@@ -168,7 +169,7 @@ According to the SEC, crypto tokens meet the [Howey Test](../concepts/howey-test
 
 ### Deep dives and notes
 * [Deep Dive: Fintech Incrementalism And Responsible Innovation ](/notes/fintech-incrementalism-and-responsible-innovation)
-* [dDep Dive: The FTX Collapse](/notes/post-ftx-collapse.md), and its tragic vindication of our analysis.
+* [Deep Dive: The FTX Collapse](/notes/post-ftx-collapse.md)
 * [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine)
 * [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
 * [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
