@@ -109,11 +109,17 @@ Crypto is not technologically capable of competing with existing payment rails, 
 
 ### FAQs
 * [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
-* [It Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is bitcoin a currency?](/claims/is-bitcoin-currency.md)
 * [Is Web3 a means to rebuild the global financial system?](/claims/is-new-financial-system)
 * [Is crypto providing faster payment rails or better remittance services?](/claims/is-better-payments)
 * [Are crypto tokens a hedge against the “debasement” of the dollar?](/claims/is-hedge-debasement)
 * [Are crypto assets a hedge against inflation?](/claims/is-hedge-inflation)
+* * [Are crypto assets a risk to the dollar?](/claims/is-threat-dollar.md)
+* [What type of asset is a crypto token?](/claims/is-type-of-asset.md)
+* [How do we value a crypto token?](/claims/is-valuation-model.md)
+* * [What consumer protections exist for crypto assets?](/claims/is-consumer-protections.md)
+* [Are crypto assets a form of predatory inclusion?](/claims/is-predatory.md)
+* [Is crypto a solution for the unbanked?](/claims/is-crypto-unbanked.md)
 
 
 ### Concepts
