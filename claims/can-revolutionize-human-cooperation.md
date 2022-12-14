@@ -9,7 +9,35 @@ category:
 claim:
   - evaluation: N
   - confidence: H
+  - 
 ---
+## Evaluation: Largely False (Medium-High Confidence)
+
+## Evidence of claim being made
+
+Andreessen Horowitz “How to Win the Future: An Agenda for the Third Generation of the Internet” October 2021: https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf 
+
+> “web3 - a group of technologies that encompasses blockchain, cryptographic protocols, digital assets, decentralized finance and social platforms, NFTs, and DAOs - is the third generation of the internet. These innovations… will serve as the basis for new forms of economic and social interaction arising from platforms that allow people to collaborate, create, exchange, and take ownership of their digital identity and assets… We are radically optimistic about the potential of these solutions to restore trust and enable new kinds of cooperation and governance.”
+
+OECD. ‘Blockchain at the Frontier: Impacts and Issues in Cross-Border Co-Operation and Global Governance’. OECD Business and Finance Policy Papers. Vol. 04. OECD Business and Finance Policy Papers, 25 May 2022. https://doi.org/10.1787/80e1f9bb-en.
+
+> “Blockchain technology is expected to drive digital transformation in the way businesses, governments and societies interact in the years ahead, including at an international level.”
+
+[...]
+
+> “blockchain innovations have already yielded promising results across sectors, and the technology is being harnessed with the aim to deliver efficiency gains to business and public sector processes through digitalisation, decentralisation and automation. Uses to date have also hinted at its potential to create novel markets and alternative systems of economic and social interaction. Some of these innovations may offer marginal improvements, others might prove to be transformative.
+
+> In some quarters the technology has also prompted a re-imagination of current systems of governance, using more automated and decentralised systems. Examples of such hypothetical systems include “trust chains” that use blockchain and other emerging technologies to create entirely new trade systems, fully integrating digital currencies, payments, credentials, taxation, shipping and customs processes (Pentland, 2021), or a “global social contract”, with the rules and objectives of global governance and cross-country co-operation encoded onto a decentralised network, hosted by governments and civil society, and with agreements monitored and enforced by smart contracts (De Filippi, 2021[13]). While these may seem like distant possibilities, they illustrate future scenarios where blockchain is woven into the fabric of economic, financial and social life.”
+
+Hypha. ‘What Is a DAO?’ Hypha (blog). Accessed 25 October 2022. https://52.211.147.246/what-is-a-dao/.
+
+> “We are at a transformational moment in time, as DAO’s create a fertile space for many new opportunities for global collaboration and coordination. While corporations were built for the industrial age, DAOs are built for the information age. Hypha builds for the age of Systemic Regeneration and the fundamental evolution of civilization.”
+
+Ethereum. ‘Decentralized Autonomous Organizations (DAOs)’. ethereum.org. Accessed 25 October 2022. https://ethereum.org.
+
+> “Starting an organization with someone that involves funding and money requires a lot of trust in the people you're working with. But it’s hard to trust someone you’ve only ever interacted with on the internet. With DAOs you don’t need to trust anyone else in the group, just the DAO’s code, which is 100% transparent and verifiable by anyone.
+
+> This opens up so many new opportunities for global collaboration and coordination.”
 
 ## Sub-claims
 
@@ -65,32 +93,6 @@ The other pertinent technical feature of blockchain relates to the creation of t
 
 The strongest case we might make is that the revolution in cooperation required must facilitate large scale collaboration which transcends traditional geographical, legal and institutional boundaries. The fact that Web3 facilitates flexibly fluid cooperation between potentially large numbers of diverse actors spread across the globe may gesture to a new future of digitally enabled cooperation. These features can make collaborating in this manner sufficiently easier and more attractive that it may begin to outcompete collaboration through traditional organizations. 
 
-## Evidence of claim being made
-
-Andreessen Horowitz “How to Win the Future: An Agenda for the Third Generation of the Internet” October 2021: https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf 
-
-> “web3 - a group of technologies that encompasses blockchain, cryptographic protocols, digital assets, decentralized finance and social platforms, NFTs, and DAOs - is the third generation of the internet. These innovations… will serve as the basis for new forms of economic and social interaction arising from platforms that allow people to collaborate, create, exchange, and take ownership of their digital identity and assets… We are radically optimistic about the potential of these solutions to restore trust and enable new kinds of cooperation and governance.”
-
-OECD. ‘Blockchain at the Frontier: Impacts and Issues in Cross-Border Co-Operation and Global Governance’. OECD Business and Finance Policy Papers. Vol. 04. OECD Business and Finance Policy Papers, 25 May 2022. https://doi.org/10.1787/80e1f9bb-en.
-
-> “Blockchain technology is expected to drive digital transformation in the way businesses, governments and societies interact in the years ahead, including at an international level.”
-
-[...]
-
-> “blockchain innovations have already yielded promising results across sectors, and the technology is being harnessed with the aim to deliver efficiency gains to business and public sector processes through digitalisation, decentralisation and automation. Uses to date have also hinted at its potential to create novel markets and alternative systems of economic and social interaction. Some of these innovations may offer marginal improvements, others might prove to be transformative.
-
-> In some quarters the technology has also prompted a re-imagination of current systems of governance, using more automated and decentralised systems. Examples of such hypothetical systems include “trust chains” that use blockchain and other emerging technologies to create entirely new trade systems, fully integrating digital currencies, payments, credentials, taxation, shipping and customs processes (Pentland, 2021), or a “global social contract”, with the rules and objectives of global governance and cross-country co-operation encoded onto a decentralised network, hosted by governments and civil society, and with agreements monitored and enforced by smart contracts (De Filippi, 2021[13]). While these may seem like distant possibilities, they illustrate future scenarios where blockchain is woven into the fabric of economic, financial and social life.”
-
-Hypha. ‘What Is a DAO?’ Hypha (blog). Accessed 25 October 2022. https://52.211.147.246/what-is-a-dao/.
-
-> “We are at a transformational moment in time, as DAO’s create a fertile space for many new opportunities for global collaboration and coordination. While corporations were built for the industrial age, DAOs are built for the information age. Hypha builds for the age of Systemic Regeneration and the fundamental evolution of civilization.”
-
-Ethereum. ‘Decentralized Autonomous Organizations (DAOs)’. ethereum.org. Accessed 25 October 2022. https://ethereum.org.
-
-> “Starting an organization with someone that involves funding and money requires a lot of trust in the people you're working with. But it’s hard to trust someone you’ve only ever interacted with on the internet. With DAOs you don’t need to trust anyone else in the group, just the DAO’s code, which is 100% transparent and verifiable by anyone.
-
-> This opens up so many new opportunities for global collaboration and coordination.”
-
 
 ## Evaluation: Largely False (Medium-High Confidence)
 
@@ -138,7 +140,39 @@ Now, whatever one makes of the capability afforded by Web3 technology, it is har
 
 Similarly, due to a number of factors including the structure and regulation of the global economy, vast, often multinational, firms employing huge numbers of staff currently dominate[^22]. At least some elements of more static and vertically integrated membership and governance and capital raising through more traditional channels (i.e. VC funding and/or exchange traded share offerings) is plausibly just _easier_ to achieve effectively in these types of organizations. Even if alternative models are capable of operating at these vast scales–with examples such as Mondragon showing that this is at least possible in theory[^23]–the huge forms dominating the global economy today are unlikely to simply disappear, or realize the error of their ways and convert how they organize (particularly when this would likely reduce shareholder profits). Market power, often to the extent of borderline monopoly in the case of some of the largest firms, means that their dominance will be hard to shift[^24]. Even if new forms of collaboration are made possible by Web3, it is hard to see it revolutionizing human cooperation more broadly under these circumstances. Money talks, and it seems that for the moment money is on the side of the old paradigm. 
 
-## Notes
+## Related Content
+
+## Deep Dives and Notes
+
+* [Stephen Reid & Rufus Pollock on Worker Cooperatives and DAOs](/notes/on-worker-cooperatives)
+* [In conversation with Hypha](/notes/in-conversation-with-hypha) 
+* [Deep Dive: Web3 and Post-State Technocracy](/notes/post-state-technocracy)
+* [On the Potential of DAOs & Web3 with Jordan Hall & Rufus Pollock](/notes/on-the-potential-of-daos-and-web3)
+* * [Open Collective, Steward Ownership & Exit to Community with Pia Mancini](/notes/pia-mancini-open-collective-dialogue)
+
+
+## Concepts
+* [Distributed Autonomous Organization](/concepts/dao)
+* [Technosolutionism](/concepts/technosolutionism)
+* [Techno Collectivism](/concepts/techno-collectivism)
+* [Hyperfinancialization](/claims/is-hyperfinancialization)
+* [Decentralization](/concepts/decentralization)
+* [Externalities](/concepts/externalities)
+* [Free Rider Problem](/concepts/free-rider-problem) 
+* [Governance tokens](/concepts/governance-token) 
+* [Smart Contracts ](/concepts/smart-contracts)
+* [Post-state Technocracy](/concepts/post-state-technocracy)
+* [Consensus algorithm](/concepts/consensus-algorithm)
+* [Initial Coin Offerings (ICO)](/concepts/ico)
+* [Regulatory Arbitrage](/concepts/regulatory-arbitrage)
+* [Crowdfunding](/concepts/crowdfunding) 
+
+### FAQs
+* [Is the underlying technology of “blockchain” useful for non-monetary purposes?](/claims/is-blockchain-tech)
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
+* [Is Web3 a well-defined term?](/claims/is-well-defined)
+
+## References
 
 [^1]:
        Wright, Aaron. ‘The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges · Stanford Journal of Blockchain Law & Policy’, 30 June 2021. https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1.
