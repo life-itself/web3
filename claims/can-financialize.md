@@ -29,15 +29,15 @@ claim:
     * Web3 offers new means of financializing value through tokenization.
     * NFTs: By locking artistic value into the NFT format and selling this directly to buyers, the true value of art can be better financialized as artists receive financial compensation for their work that is actually commensurate with its value. 
     * Alternative currencies: Communities can come together and decide on the rules for how they represent value. This can be done by creating tokens to represent all sorts of value and, in turn, better manage resource flows between them.
-* Evaluating subclaim 1
+* Evaluating subclaim 1: more financialization of non-financial value is itself desirable
     * In trying to financialize all that we hold valuable we risk losing touch with what makes it valuable in the first place.
     * It seems probable that financialization will not materialize as simply trying to optimize financial incentives to generate value. 
         * Financialization may perpetuate self-serving dynamics we see in today’s society as people seek to game the system to optimize for the _rewards_ for value generation rather than value itself.
         * There is concern about becoming a “market society”, where the mentalities, relations and incentives of the market come to dominate all areas of our lives.
     * The financialization of non-financial value is undesirable because, even if it might do something, it will be ineffective at leading to the level of non-financial value generation required. When we consider the opportunity cost we realize we should focus our efforts elsewhere; more financialization isn’t the most effective tool to get what we want. 
-* Evaluating subclaim 2
+* Evaluating subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable
     * We find subclaim 2 to be true. 
-* Evaluating subclaim 3
+* Evaluating subclaim 3: Web3 technology is capable of addressing these deficiencies
     * NFTs
         * NFTs do not guarantee artists better remuneration for their work.
             * Minting NFTs costs many smaller artists more money than they make and there is still a reliance on centralized marketplaces.
@@ -93,7 +93,7 @@ Deloitte Private and ArtTactic ‘Art & Finance Report 2021’ [https://www2.del
 # Full analysis
 
 
-## Sub claims:
+## Subclaims:
 
 * P1: More financialization of non-financial value is itself desirable
 * P2: The current monetary and financial systems are deficient in their ability to capture what we think is _really _valuable; we could financialize value better or more extensively
@@ -107,7 +107,7 @@ What is “financializing value”? Here we use the term to refer to capturing t
 We use  ‘_monetary and financial systems’ _to refer to the economic infrastructure underpinning how we represent and exchange value. We also assume that these claims refer to economically developed countries unless otherwise stated; as these are where monetary and financial systems are supposed to work best they are the most appropriate contexts in which to evaluate the strongest versions of the claims.
 
 
-## Steel manning the claims
+## Steelmanning the claims
 
 
 ### P1: More financialization of non-financial value is desirable
