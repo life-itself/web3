@@ -10,7 +10,7 @@ aliases: notes/financial-perpetual-motion-machine.md
 
 # Update December 2022
 
-Since this post was written, FTX, one of the worlds largest crypto exchanges, has controversially and spectacularly [collapsed](https://www.investopedia.com/what-went-wrong-with-ftx-6828447). This provides yet more compelling evidence that the crypto boom was the result of a financial bubble, rather than a magical perpetual motion machine.
+Since this post was written, FTX, one of the worlds largest crypto exchanges, has controversially and spectacularly [collapsed](/notes/post-ftx-collapse.md). This provides yet more compelling evidence that the crypto boom was the result of a financial bubble, rather than a magical perpetual motion machine.
 
 # Introduction
 
