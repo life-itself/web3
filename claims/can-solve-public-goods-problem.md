@@ -10,7 +10,7 @@ claim:
   - evaluation: NN
   - confidence: HH
 ---
-## Evaluation: False (High Confidence)
+## Evaluation: False (high confidence)
 The public goods problem is fundamentally one of revenue raising, and Web3 cannot offer any mechanisms to raise revenue which can effectively overcome the free-rider problem at scale. Further, the desirability of the privatization and marketization implied by Web3 solutions is doubtful in the first place.
 
 Web3 experiments may point to better ways of allocating funds which are voluntarily raised, but these do not rely on Web3 technology and are all but redundant when trying to allocate between equally vital public goods under conditions of resource scarcity. 
@@ -52,7 +52,7 @@ Wiblin, Robert, and Vitalik Buterin. ‘Vitalik Buterin on Better Ways to Fund P
 > So quadratic funding is basically trying to make a sort of more market-like alternative that encourages the production of public goods that basically says like, we’re going to be neutral, we’re not going to have our own kind of specific opinion about what is a real public good and what isn’t. We’re just going to say, people can donate money and stuff. And if a lot of people are donating money to the same thing, then that’s clearly a project that benefits a lot of people. So that’s a public good. And so we’re going to detect that and we’re going to automatically subsidize it based on a formula.
 
 #
-# Full Analysis
+# Full analysis
 
 
 ## Sub-claims:
@@ -72,7 +72,7 @@ Public goods are non-rival and non-excludable (anyone can use this good and some
 The classic solution has been compulsion by the state, typically via tax. The state can also leverage its monopoly on violence to make free riding impossible (or very costly). However, claims are being made that blockchain technology can provide solutions to the public goods problem that are not rooted in compulsion.
 
 
-## Claims steel-manned
+## Claim steel-manned
 
 
 ### P1: Traditional mechanisms for resolving the public goods problem are inadequate
@@ -80,7 +80,7 @@ The classic solution has been compulsion by the state, typically via tax. The st
 Public goods provision falls pretty drastically short of where most of us would it like to be. This is true at the national/domestic level (how many of us have lamented potholes in our roads?) and is particularly damning at the international level e.g. around climate action (we can consider an unpolluted climate a global public good).[^2]
 
 
-### P2: Web3 can raise significant revenue for addressing public goods
+### P2: Web3 can raise enough revenue to meaningfully address the public goods problem
 
 Web3 can address the revenue raising problem by creating voluntary incentive mechanisms for the funding of public goods rooted in the free market. Web3 can facilitate people contributing to public goods provision not because they’ve been forced to by the state, but because doing so is a good investment opportunity. Certain blockchain-based projects have managed to align public and private incentives, and have thus created an innovative solution to the public goods problem.
 
@@ -97,10 +97,10 @@ Blockchain is decentralized, is an immutable, public ledger, and creates the pot
 
 
 
-## Evaluation: False (High Confidence)
+## Evaluation: False (high confidence)
 
 
-### P1: Alternative mechanisms for resolving the public goods problem are inadequate (Partly True)
+### P1: Current mechanisms for resolving the public goods problem are inadequate (partly true)
 
 Prima facie this claim is plausible. Public goods provision *does* fall short of where we would like it to be. This is certainly true at the global level, and at the national level in most societies. However, we must interrogate *where* his inadequacy comes from. For Web3 to be able to contribute to the solving of this problem effectively, the nature of the problem would have to be technical; Web3 would have to provide a more effective mechanism for aligning public and private incentives than the state. 
 
@@ -109,7 +109,7 @@ An alternative story is that underprovision of public goods is not intrinsically
 Finally, even if we are confident that at least some degree of technical optimisation can impact the public goods problem, we should ask why this must be based on Web3. Experiments modifying institutional arrangements via other means show promise[^10], further bringing into question whether off-chain solutions are really inadequate or just underexplored.
 
 
-### P2: Web3 can raise significant revenue for addressing public goods (False)
+### P2: Web3 can raise enough revenue to meaningfully address the public goods problem (false)
 
 Public goods provision is made up of two things: revenue raising and revenue allocation. Both need to function effectively to get the outcomes we want. In this section we will focus on the revenue raising problem.
 
@@ -179,7 +179,7 @@ Privatization of public service provision of all kinds requires the new, privati
 Aside from this, we should consider the broader ramifications of bringing the incentive of private profit into the provision of the core underpinnings of our lives. There is ample evidence that these incentives and the need to compete in the wider market have led to privatized public services being gutted, overleveraged and delivered at (and often below) the bare minimum level of quality we would ever expect[^20]. There is no reason to believe that provision of public goods would be any different. Thus, even if it was plausible to raise significant sums in this way, we should pause to ask whether it would actually be desirable.
 
 
-###  P3: Web3 can allocate this revenue more effectively (Possibly True)
+###  P3: Web3 can allocate this revenue more effectively (possibly true)
 
 Web3 may not be able to raise revenue for public goods provision more effectively, but perhaps it can provide innovation in revenue allocation. This is the promise of projects such as GitCoin, with their use of quadratic funding. We’ll focus on quadratic funding here as it is the most popular and lauded allocation mechanism in the Web3 sphere.
 
@@ -189,7 +189,7 @@ However, it should be stressed that in the context of public goods provision the
 
 This is where the actual functioning of these mechanisms diverges from the grand claims made about them. Currently these mechanisms have largely been used to develop Web3 projects and infrastructure[^21], which may be useful but are in fact not vital to basic standards of living. Choosing between an array of options takes on a different significance in this context than in more traditional public goods problem areas, where the goods in question are all to a greater or lesser extent vital. Any purported solution to the public goods problem as a whole which keeps us stuck in conditions of scarcity and retains the necessity of such prioritization doesn’t appear to be much of a solution at all.
 
-### P4: Web3 can do this for reasons that are innately tied to the technology itself (False)
+### P4: Web3 can do this for reasons that are innately tied to the technology itself (false)
 
 Finally, it’s worth turning our attention to the value add of Web3 itself. Even if P2 and P3 were to hold, for the overall claim that Web3 can help solve the public goods problem to be true, this would need to be because of some feature(s) of Web3 technology itself. In other words, it’s insufficient for contributions to the public goods problem simply to be coming out of the Web3 sphere, they need to rest on features of Web3 which make them impossible to replicate elsewhere. This means turning our attention to the blockchain technology underpinning it.
 
@@ -209,9 +209,9 @@ So, even if there _were_ plausible mechanisms by which Web3 was meaningfully con
 
 While it may be the case that traditional mechanisms for resolving the public goods problem are inadequate, we find that Web3 has so far not provided a more effective mechanism for raising significant revenue for funding public goods. In addition, excitement currently surrounding experiments in governance within the Web3 space actually has little to do with the underlying technology, seeing as innovative approaches such as quadratic voting are not reliant on blockchain technology.
 
-## Related Content
+## Related content
 
-### Deep Dives and Notes
+### Deep dives and notes
 * [Deep Dive: Collective Action Problems & Climate Change](/notes/collective-action-problems-and-climate-change)
 * [Richard D. Bartlett, Stephen Reid & Rufus Pollock on Critical Exploration of Web3](/notes/richard-bartlett-and-stephen-reid)
 * [On the Potential of DAOs & Web3 with Jordan Hall & Rufus Pollock](/notes/on-the-potential-of-daos-and-web3)
