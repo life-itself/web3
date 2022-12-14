@@ -30,8 +30,10 @@ CMT, B.M.I., CFA (2015) ‘The Value Investor’s Case for... Bitcoin?!’, _Mil
 Ver, Roger. quoted in COINTELEGRAPH (2013) _Western Union is not yet ready for bitcoin international transfer_, _Cointelegraph_. Available at: [https://cointelegraph.com/news/western_union_is_not_yet_ready_for_bitcoin_international_transfer](https://cointelegraph.com/news/western_union_is_not_yet_ready_for_bitcoin_international_transfer) (Accessed: 13 September 2022):
 > I think we will know when bitcoin has reached prime time when it is transferring more value each day than Western Union or Money Gram... I think we may see that happen within another two years.
 
-Nakamoto, S. (no date) *Bitcoin: A Peer-to-Peer Electronic Cash System*. Available at: https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf 
+Nakamoto, S. (2008) *Bitcoin: A Peer-to-Peer Electronic Cash System*. Available at: https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf 
 
+
+# Full Analysis
 
 ## Claim Steel-Manned
 
