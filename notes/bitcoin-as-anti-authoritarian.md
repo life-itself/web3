@@ -15,7 +15,7 @@ claim:
 
 # Summary
 
-## Claim Steel-Manned
+## Claim steel-manned
 
 ### Subclaim 1: A state-resistant transnational payment rail is desirable
 
@@ -97,9 +97,9 @@ The claim being evaluated here is that a) a transnational state-resitant payment
 
 --- 
 
-# Full Analysis
+# Full analysis
 
-## Steel-Man
+## Claims steel-manned
 
 * Not everyone lives in a stable liberal democracy. Sometimes it’s necessary to violate laws, when laws are unjust or regimes are corrupt. In such circumstances, Bitcoin can be used as a safe haven for one’s investments or a shield against government tyranny. 
     * Nonviolent resistance and civil disobedience have some very notable success stories and are an important part of the arc of “moral universe bending towards justice”:
@@ -118,9 +118,8 @@ The claim being evaluated here is that a) a transnational state-resitant payment
 
 [^1]: More examples in e.g. here https://twitter.com/LynAldenContact/status/1529084598268968962 though note connection with crypto-advocate Alex Gladstein.
 
-## Analysis
 
-#### 2 preliminary principles to be noted:
+## 2 preliminary principles to be noted:
 * Any tool has to be evaluated on its actual and potential benefit and harm.
   * Asbestos (bury it), DDT (some uses), Internet (good clearly outweighs harms)
 * You can’t solve people problems with technology solutions, especially problems related to (state) power (at best, they help a bit, at worst they distract us from the real work that needs doing).
@@ -129,7 +128,7 @@ The claim being evaluated here is that a) a transnational state-resitant payment
     * Cryptography does not “solve” oppressive regime problem. At best, crypto helps you during a period of resistance and effort to change the overall regime. The vision of (old-school) crypto-libertarians is mistaken – we still need a “good” state. 
       * See: [The Best Defense Against Rubber-Hose Cryptanalysis](https://onezero.medium.com/rubber-hoses-fd685385dcd4) ; https://xkcd.com/538/
 
-#### Evaluation:
+## Evaluation:
 * **For every one Alexandra Elbakyan or Edward Snowden there are a thousand arms dealers, cartels, and warlords who would also use crypto for far less benign purposes.**
   * Even if you have an optimistic view of the human condition, we live in a world of scarcity with vast Malthusian struggle that pushes people into mind states of violence and crime out of desperation (North Korea, etc).
   * **Cross-border Illicit financing enables many undesirable things in this world.**
