@@ -52,6 +52,9 @@ Wiblin, Robert, and Vitalik Buterin. ‘Vitalik Buterin on Better Ways to Fund P
 > So quadratic funding is basically trying to make a sort of more market-like alternative that encourages the production of public goods that basically says like, we’re going to be neutral, we’re not going to have our own kind of specific opinion about what is a real public good and what isn’t. We’re just going to say, people can donate money and stuff. And if a lot of people are donating money to the same thing, then that’s clearly a project that benefits a lot of people. So that’s a public good. And so we’re going to detect that and we’re going to automatically subsidize it based on a formula.
 
 
+# Full Ananlysis
+
+
 ## Sub-claims:
 
 * P1: Traditional mechanisms for resolving the public goods problem are inadequate
