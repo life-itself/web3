@@ -177,6 +177,26 @@ The claim being evaluated here is that a) a transnational state-resitant payment
   * *“The cryptocurrency industry leverages a network of shady business connections, bought influencers and pay-for-play media outlets to perpetuate a cult-like “get rich quick” funnel designed to extract new money from the financially desperate and naive.”*
 * **Bitcoin and crypto generally is not an liberatory force in the world, nor a means to counter authoritarianism in any substantial manner. In fact, it is likely to largely amplify the worst parts of society’s existing corrupt power structures.**
 
+## Related Content
+### Concepts
+
+* [Technolibertarianism](/concepts/technolibertarianism)
+* [Cryptoanarchism](/concepts/cryptoanarchism)
+* [Techno Collectivism](/concepts/techno-collectivism)
+* [Technopopulism](/concepts/technopopulism)
+* [Decentralization](/concepts/decentralization)
+* [Illicit Financing](/concepts/illicit-financing)
+* [Censorship Resistance](/concepts/censorship-resistence)
+* [Shadow Bank ](/concepts/shadow-bank)
+* [Pseudonymous](/concepts/pseudonymous)
+
+### FAQs
+
+* [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
+* [Is crypto legal?](/claims/is-legal)
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
+
 
 ## References
 
