@@ -188,7 +188,17 @@ In addition, as a [remittance use-case](https://academy.binance.com/en/articles/
 
 This is the position that is possibly the most compelling and defensible position, but if and only if the tech can be shown to be demonstrably better than what already exists. There are some large economic, technical and commercial problems (or at least unproven theories) at the heart of this thesis. Much of this remains a theoretical proposition at best, but it is still interesting to consider intellectually.
 
-## Concepts Covered
+## Related Content
+
+## Deep Dives and Notes
+
+* [Crypto will provide better payment and remittance services](https://web3.lifeitself.org/claims/is-better-payments)
+* [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
+* [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
+* [Walch, Angela. Deconstructing 'Decentralization'; Exploring the Core Claim of Crypto Systems](/notes/deconstructing-decentralization)
+* [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
+
+### Concepts 
 * [amm](../concepts/amm.md)
 * [artificial-demand](../concepts/artificial-demand.md)
 * [artificial-scarcity](../concepts/artificial-scarcity.md)
@@ -227,6 +237,23 @@ This is the position that is possibly the most compelling and defensible positio
 * [value](../concepts/value.md)
 * [web3](../concepts/web3.md)
 * [zero-sum-game](../concepts/zero-sum-game.md)
+
+### FAQs
+* [Is crypto bringing about the “financialization” of everything?](/claims/is-hyperfinancialization)
+* [Is Web3 a means to rebuild the global financial system?](/claims/is-new-financial-system)
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
+* [Is Web3 green?](/claims/is-web3-green)
+* [Do crypto assets have a verifiable valuation model?](/claims/is-valuation-model)
+* [What consumer protections exist for crypto assets?](/claims/is-consumer-protections)
+* [Are crypto assets predatory investments?](/claims/is-predatory)
+* [Are crypto assets a systemic risk to the economy?](/claims/is-systemic-risk)
+* [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is crypto legal?](/claims/is-legal)
+* [Is bitcoin compatible with ESG investing?](/claims/is-bitcoin-esg)
+* [Why do people invest in crypto tokens?](/claims/is-why-invest)
+
+
+
 
 ## References
 1. Amato, Massimo, and Luca Fantacci. 2020. A Fistful of Bitcoins: The Risks and Opportunities of Virtual Currencies. Bocconi University Press. https://www.egeaeditore.it/ita/prodotti/economia/a-fistful-of-bitcoins.aspx.
