@@ -236,7 +236,7 @@ Shorter responses to common questions about web3 and crypto. While we’re confi
 
 * [Is bitcoin mining harmful to the environment?](/claims/is-environmental-footprint.md)
 * [Is crypto bringing about the "financialization of everything"?](/claims/is-hyperfinancialization.md)
-* [Is crypto a giant misallocation of resources with an enormous opportunity cost?](/claims/is-opportunity-cost.md)
+* [What is the opportunity cost of crypto?](/claims/is-opportunity-cost.md)
 
 #### Financial Innovation
 
