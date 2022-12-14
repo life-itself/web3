@@ -1,6 +1,6 @@
 ---
 title: "Web3 provides better mechanisms for financializing non-financial value"
-description: "In this essay we explore three subclaims inherent to the overarching claim: 1) more financialization of non-financial value is itself desirable; 2) the current monetary and financial systems are deficient in their ability to capture what we think is really valuable; and 3) Web3 technology is capable of addressing these deficiencies. We find that while one may argue that as long as financialization leads to more of what we value then it can only be a good thing, through hyperfinacialization we risk losing touch with what makes it valuable in the first place. We find subclaim 2 to be true. In our evaluation of subclaim 3 we find that NFTs do not enable better financialization of value if this is understood as better compensation for artists. In addition, we find blockchain-based alternative currencies to present significant difficulties, and that, even if they didn’t, the problem with traditional currencies isn’t a matter of technical limitations therefore new technology isn’t going to be the answer."
+description: "In this essay we explore three subclaims inherent to the overarching claim: 1) more financialization of non-financial value is itself desirable; 2) the current monetary and financial systems are deficient in their ability to capture what we think is really valuable; and 3) Web3 technology is capable of addressing these deficiencies. While we accept subclaim 2 to be true, we overall conclude that web3 does not seem to provide many plausible means for better financializing value."
 category:
   - claim: y
   - featured: y 
@@ -16,16 +16,16 @@ claim:
 ## Key points
 
 * We explore three subclaims inherent to the overarching claim: 1) more financialization of non-financial value is itself desirable; 2) the current monetary and financial systems are deficient in their ability to capture what we think is _really _valuable; and 3) Web3 technology is capable of addressing these deficiencies. 
-* Steel manning subclaim 1: 
+* Steel manning subclaim 1: more financialization of non-financial value is itself desirable
     * Financialization is useful as it allows us to effectively direct resources towards the things we care about.
     * The dysfunctionalities present in our current financial sector are not inherent to financialization itself. It is therefore possible that financial value can be a powerful enabler of other types of value creation, without any of the negative impacts on other values (e.g. a well functioning environment) currently associated with money and finance.
     * Whether we like it or not, we live in a financialized world; our only recourse is to embrace the reality of hyper-financialization and try to make it work for everyone.
-* Steel manning subclaim 2: 
+* Steel manning subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable
     * Value can be better or more extensively financialized than is possible under the current system. 
     * Our societies are not adequately financializing value: there is a shortfall of funding for things that matter to us e.g. education and climate change prevention; and there are cases where significant resources are devoted to things that don’t have social value e.g. the whole host of financial instruments totally detached from the productive economy. 
     * Left to their own devices markets won’t create a socially optimal allocation of resources, as market prices won’t naturally “internalize” externalities such as environmental damage. 
     * Positive social impacts, eg of art, are often not internalized into market prices. 
-* Steel manning subclaim 3: 
+* Steel manning subclaim 3: Web3 technology is capable of addressing these deficiencies
     * Web3 offers new means of financializing value through tokenization.
     * NFTs: By locking artistic value into the NFT format and selling this directly to buyers, the true value of art can be better financialized as artists receive financial compensation for their work that is actually commensurate with its value. 
     * Alternative currencies: Communities can come together and decide on the rules for how they represent value. This can be done by creating tokens to represent all sorts of value and, in turn, better manage resource flows between them.
@@ -87,6 +87,7 @@ Deloitte Private and ArtTactic ‘Art & Finance Report 2021’ [https://www2.del
 [...]
 
 [Distributed ledger technology] can not only improve the way art is traded by keeping a secure digital record of every owner, but it can also enable new forms of ownership and introduce smaller players into the market. The co-ownership of tokenized art will establish the new standard for collectors, investors, and art galleries to increase their portfolio and investment. This will shift the paradigm of art investment and the regulations tied to them, creating a more accessible, fair, and democratized art ecosystem.”
+
 
 
 # Full analysis
