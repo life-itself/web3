@@ -12,6 +12,13 @@ claim:
 ---
 
 ## Evaluation: Largely false (high confidence)
+Crypto assets are not currencies because they cannot fulfill the definition of money.
+
+Since crypto assets cannot function as a currency, they are not useful in building payment rails or remittance services. Crypto assets can be used as an intermediate asset in which trades can be settled in, but this does not serve a technical or financial purpose; it simply introduces an unnecessary conversion step as most things can't be paid for directly in crypto.
+
+In addition, if crypto were to provide cheaper and faster payment rails, it’s likely this will have been achieved not via technological advancements, but by removing safeguards.
+
+We acknowledge that it does seem at least plausible that crypto assets are currently supporting financial activity in certain highly unstable and dysfunctional economies, as the example of Ukraine seems to show. However, it is problematic to use this observation to argue that replacing traditional financial infrastructure with blockchain based alternatives is desirable; being better than ill-functioning versions of a traditional system does not make blockchain systems innately superior.
 
 ## Examples of the claim being made
 
@@ -44,7 +51,7 @@ Crypto can provide us with better payment rails - i.e. a better Visa, Stripe etc
  
 ## Evaluation: Largely false (high confidence)
 
-### Subclaim 1: Crypto *cannot* fulfil the fuctions of a currency.
+### Subclaim 1: Crypto can provide payment and remittance services by virtue of fulfilling the functions of a currency (False)
 Crypto assets are [not currencies](is-bitcoin-currency.md) because they cannot fulfill the definition of [money](../concepts/money.md).
 
 Crypto assets do not currently seem promising as a medium of exchange. Even the latest technologies have yet to show they can reliably process transaction volumes at a similar level to traditional payment rails. They thus don’t work as a global currency system as they can’t process transactions fast enough.
@@ -55,7 +62,7 @@ One further hurdle to new crypto assets acting as a widespread medium of exchang
 
 Crypto assets also do not appear to hold potential as a store of value given their extremely high price variance. If they were to behave as a [store of value](../concepts/store-of-value.md), they would have to abandon hypervolatility, and there is no easily identifiable economic mechanism for this to happen. It should be noted that this volatility could at least in theory ease with time. However, as we have previously noted, the price dynamics of crypto assets are predominantly determined by bubble dynamics fuelled by economic narratives and [“animal spirits”](https://www.investopedia.com/terms/a/animal-spirits.asp) of investors. The vast majority of crypto projects are detached from productive economic activity and generate assets with no use value beyond speculation. Given this, vulnerability to price volatility seems all but guaranteed to continue.
 
-### Subclaim 2: Crypto can provide *better* payment rails and remittance services
+### Subclaim 2: Crypto can provide *better* payment rails and remittance services (False)
 
 Since crypto assets cannot function as a currency, they are not useful in building payment rails or remittance services. Crypto assets can be used as an intermediate asset in which trades can be settled in, but this does not serve a technical or financial purpose; it simply introduces an unnecessary conversion step.
 
