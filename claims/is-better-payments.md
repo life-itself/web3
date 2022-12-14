@@ -11,9 +11,9 @@ claim:
   - confidence: HH
 ---
 
-## Evaluation: Largely false (high confidence)
+# Evaluation: Largely false (high confidence)
 
-## Examples of the claim being made
+# Examples of the claim being made
 
 BLOCKDATA (2019) ‘Blockchain is disrupting the $700 billion remittance industry’, _Medium_, 7 March. Available at: [https://medium.com/@blockdata_tech/blockchain-is-disrupting-the-700-billion-remittance-industry-b79a01a95a10](https://medium.com/@blockdata_tech/blockchain-is-disrupting-the-700-billion-remittance-industry-b79a01a95a10) (Accessed: 13 September 2022).
 
@@ -24,6 +24,8 @@ Ver, Roger. quoted in COINTELEGRAPH (2013) _Western Union is not yet ready for b
 > I think we will know when bitcoin has reached prime time when it is transferring more value each day than Western Union or Money Gram... I think we may see that happen within another two years.
 
 Nakamoto, S. (no date) *Bitcoin: A Peer-to-Peer Electronic Cash System*. Available at: https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf 
+
+# Full Analysis
 
 ## Claim Steel-Manned
 
@@ -90,14 +92,14 @@ These observations point to a deeper point it is worth acknowledging. It does se
 
 Crypto is not technologically capable of competing with existing payment rails, and the level of advancement needed to do so is far from a sure thing. In fact, crypto is not up to acting as a currency at all. It does appear to serve these functions in practice in developing nations with non-functional financial systems, as the example of Ukraine shows. However this should be taken less as a testament to the potential of crypto and more as a sign that political and economic support is needed in these cases. And, being better than poorly functioning legacy systems is not what the spirit of this claim gestures to.
 
-## Related Content
+# Related Content
 
-### Deep dives
+## Deep dives
 * [Deep Dive: Fintech Incrementalism And Responsible Innovation ](/notes/fintech-incrementalism-and-responsible-innovation)
 * [A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies) 
 
 
-### FAQs
+## FAQs
 * [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
 * [It Bitcoin a currency?](/claims/is-bitcoin-currency)
 * [Is Web3 a means to rebuild the global financial system?](/claims/is-new-financial-system)
@@ -106,7 +108,7 @@ Crypto is not technologically capable of competing with existing payment rails, 
 * [Are crypto assets a hedge against inflation?](/claims/is-hedge-inflation)
 
 
-### Concepts
+## Concepts
 * [Money](/concepts/money)
 * [Currency](/concepts/currency)
 * [Crypto exchanges](/concepts/crypto-exchange)
@@ -118,7 +120,7 @@ Crypto is not technologically capable of competing with existing payment rails, 
 * [US dollar](/concepts/dollar)
 
 
-## References
+# References
 
 Amato, M. and Fantacci, L. (2020) _A Fistful of Bitcoins: The Risks and Opportunities of Virtual Currencies_. Bocconi University Press. Available at: [https://www.egeaeditore.it/ita/prodotti/economia/a-fistful-of-bitcoins.aspx](https://www.egeaeditore.it/ita/prodotti/economia/a-fistful-of-bitcoins.aspx).
 
