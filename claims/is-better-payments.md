@@ -33,11 +33,11 @@ Ver, Roger. quoted in COINTELEGRAPH (2013) _Western Union is not yet ready for b
 Nakamoto, S. (2008) *Bitcoin: A Peer-to-Peer Electronic Cash System*. Available at: https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf 
 
 #
-# Full Analysis
+# Full analysis
 
-## Claim Steel-Manned
+## Claim steel-manned
 
-### Subclaim 1: Crypto can provide payment and remittance services by virtue of fulfilling the functions of a currency.
+### Subclaim 1: Crypto can provide payment and remittance services by virtue of fulfilling the functions of a currency
 
 Payment systems and remittance services need to pay in something. That something must either be a [currency](../concepts/currency.md) (eg dollars) or a [commodity](../concepts/commodity.md) (eg cows).
 
@@ -53,7 +53,7 @@ Crypto can provide us with better payment rails - i.e. a better Visa, Stripe etc
  
 ## Evaluation: Largely false (high confidence)
 
-### Subclaim 1: Crypto can provide payment and remittance services by virtue of fulfilling the functions of a currency (False)
+### Subclaim 1: Crypto can provide payment and remittance services by virtue of fulfilling the functions of a currency (false)
 Crypto assets are [not currencies](is-bitcoin-currency.md) because they cannot fulfill the definition of [money](../concepts/money.md).
 
 Crypto assets do not currently seem promising as a medium of exchange. Even the latest technologies have yet to show they can reliably process transaction volumes at a similar level to traditional payment rails. They thus don’t work as a global currency system as they can’t process transactions fast enough.
@@ -64,7 +64,7 @@ One further hurdle to new crypto assets acting as a widespread medium of exchang
 
 Crypto assets also do not appear to hold potential as a store of value given their extremely high price variance. If they were to behave as a [store of value](../concepts/store-of-value.md), they would have to abandon hypervolatility, and there is no easily identifiable economic mechanism for this to happen. It should be noted that this volatility could at least in theory ease with time. However, as we have previously noted, the price dynamics of crypto assets are predominantly determined by bubble dynamics fuelled by economic narratives and [“animal spirits”](https://www.investopedia.com/terms/a/animal-spirits.asp) of investors. The vast majority of crypto projects are detached from productive economic activity and generate assets with no use value beyond speculation. Given this, vulnerability to price volatility seems all but guaranteed to continue.
 
-### Subclaim 2: Crypto can provide *better* payment rails and remittance services (False)
+### Subclaim 2: Crypto can provide *better* payment rails and remittance services (false)
 
 Since crypto assets cannot function as a currency, they are not useful in building payment rails or remittance services. Crypto assets can be used as an intermediate asset in which trades can be settled in, but this does not serve a technical or financial purpose; it simply introduces an unnecessary conversion step.
 
@@ -100,7 +100,7 @@ These observations point to a deeper point it is worth acknowledging. It does se
 
 Crypto is not technologically capable of competing with existing payment rails, and the level of advancement needed to do so is far from a sure thing. In fact, crypto is not up to acting as a currency at all. It does appear to serve these functions in practice in developing nations with non-functional financial systems, as the example of Ukraine shows. However this should be taken less as a testament to the potential of crypto and more as a sign that political and economic support is needed in these cases. And, being better than poorly functioning legacy systems is not what the spirit of this claim gestures to.
 
-## Related Content
+## Related content
 
 ### Deep dives
 * [Deep Dive: Fintech Incrementalism And Responsible Innovation ](/notes/fintech-incrementalism-and-responsible-innovation)
