@@ -106,6 +106,40 @@ We acknowledge that it does seem at least plausible that crypto assets are curre
 
 See here for our full analysis: [Crypto will provide better payment and remittance services](https://web3.lifeitself.org/claims/is-better-payments)
 
+## Claim: Web3 provides better mechanisms for financializing non-financial value
+
+### Claim summary
+
+#### Subclaim 1:
+
+Financialization is useful as it allows us to effectively direct resources towards the things we care about. 
+
+The dysfunctionalities present in our current financial sector are not inherent to financialization itself. It is therefore possible that financial value can be a powerful enabler of other types of value creation without any of the negative impacts on other values (e.g. a well functioning environment) currently associated with money and finance.
+
+Whether we like it or not, we live in a financialized world; our only recourse is to embrace the reality of hyper-financialization and try to make it work for everyone.
+
+#### Subclaim 2:
+
+Value can be better or more extensively financialized than is possible under the current system. Our societies are not adequately financializing value: there is a shortfall of funding for things that matter to us e.g. education and climate change prevention; and there are cases where significant resources are devoted to things that don’t have social value e.g. the whole host of financial instruments totally detached from the productive economy. Left to their own devices markets won’t create a socially optimal allocation of resources, as market prices won’t naturally “internalize” externalities such as environmental damage. Furthermore, positive social impacts, eg of art, are often not internalized into market prices. 
+
+#### Subclaim 3:
+
+Web3 offers new means of financializing value through tokenization.
+
+NFTs: By locking artistic value into the NFT format and selling this directly to buyers, the true value of art can be better financialized as artists receive financial compensation for their work that is actually commensurate with its value. 
+
+Alternative currencies: Communities can come together and decide on the rules for how they represent value. This can be done by creating tokens to represent all sorts of value and, in turn, better manage resource flows between them.
+
+### Evaluation: Largely false (medium-high confidence)
+
+Web3 does not seem to provide many plausible means for better financializing value. NFTs have failed to live up to their promise regarding value distribution in practice, and even the theory behind them is spurious upon closer examination. Both the economics and political economy of alternative currencies appear highly questionable such that we have a low confidence in their capability to work in practice. There may be room for them to act as a complementary layer on top of traditional currency systems, for example as enhanced versions of eBay seller ratings carried through wider society.  This in one sense might be understood as financializing value better. But, as China’s social credit system shows it is questionable whether this would even be desirable at all, and such systems certainly do not appear to require Web3 tokens to function. 
+
+The main reason we are giving our evaluation “medium/high” confidence rather than simply “high” is that we have had to grasp our understanding of how alternative currencies are meant to function in practice from publications by alternative currency projects, which we have found lacking in the meaningful detail required for a deep understanding of how they are intended to function at the social scientific level. Rather than cynically assume that this is because such detail does not exist, we instead wish to acknowledge that we are evaluating an incomplete picture and express our desire to engage those working on alternative currency design in productive discourse.
+
+### Full analysis
+
+See here for our full analysis of the claim: [Web3 provides better mechanisms for financializing non-financial value](/claims/can-financialize)
+
 
 ## Claim: Crypto can help solve the public goods problem
 
