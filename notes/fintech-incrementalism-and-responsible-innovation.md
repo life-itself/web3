@@ -12,7 +12,7 @@ aliases: notes/fintech-incrementalism-and-responsible-innovation.md
 
 # Summary
 
-### November 2022 update
+## November 2022 update
 
 We are adding a brief update to this piece to note the spectacular collapse of one of the world's largest crypto exchanges, FTX, in late 2022. This provides compelling further evidence that crypto is not a legitimate fintech evolution nor does it in any way characterise responsible innovation. Find out more via our [deep dive on the FTX collapse](/notes/post-ftx-collapse.md), and its tragic vindication of our analysis.
 
