@@ -25,7 +25,7 @@ Previously this kind of access was gated to US persons with connections and acce
 
 ### Subclaim 2: Ability to raise capital outside of the rule of law 
 
-The ability to raise capital outside of the rule of law is not only a good thing, it is an outright human right that is a safeguard against tyranny eg Edward Snowden, SciHub, Wikileaks. See [Bitcoin as an Anti-Authoritarian Force][../notes/bitcoin-as-anti-authoritarian.md] for more details. 
+The ability to raise capital outside of the rule of law is not only a good thing, it is an outright human right that is a safeguard against tyranny eg Edward Snowden, SciHub, Wikileaks. See [Bitcoin as an Anti-Authoritarian Force](../notes/bitcoin-as-anti-authoritarian.md) for more details. 
 
 ## Evidence of claim being made
 
