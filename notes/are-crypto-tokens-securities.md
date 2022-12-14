@@ -79,7 +79,7 @@ According to the SEC, crypto tokens meet the [Howey Test](../concepts/howey-test
 
 # Analysis notes
 
-## What Are Securities?
+## What are securities?
 
 * A [security](../concepts/security.md) is a collective legal fiction that pools money and mediates [income-cashflows](../concepts/income-cashflows.md) between people according to an agreed-upon framework.
 * “A joint-stock company is a business entity in which shares of the company's stock can be bought and sold by shareholders. Each shareholder owns company stock in proportion, evidenced by their shares (certificates of ownership). Shareholders are able to transfer their shares to others without any effects to the continued existence of the company.”
@@ -87,7 +87,7 @@ According to the SEC, crypto tokens meet the [Howey Test](../concepts/howey-test
 * Gave rise to a modern framework of laws that cover financial products from debt instruments, bonds, equities, and derivatives. The legal foundation on which all of market capitalism is built.
 * **Because of their centrality to markets, securities have strict registration, ownership and transfer regulation.**
 
-## The Debate Surrounding Crypto Investments
+## The debate surrounding crypto investments
 
 * There is currently debate about how crypto investments fall under the existing securities regulatory framework. This is being debated inside the government regulatory agencies, on the floor of the Senate, and in the courts.
 * The outcome of the final ruling will potentially impact trillions of notional value in “scofflaw” investments of potentially unregistered securities.
@@ -111,7 +111,7 @@ According to the SEC, crypto tokens meet the [Howey Test](../concepts/howey-test
     * On the right, then individual choice is a paramount, the government shouldn’t dictate risk-taking in markets. Just “evolution” and the natural state of being.
     * On the left, Pikkety’s analysis that wealth generated from capital grows faster than economic output and that patrimonial capitalism leads to distortions of markets and inequality. 
     
-### Steel Manning the Position that Crypto Investments Should Not Be Brought Within The Securities Regulation Framework
+### Steel-manning the position that crypto investments should not be brought within the securities regulation framework
 * It is very easy to create an equity crowdfunding and cap table structure on top of crypto platforms like [ethereum](../concepts/ethereum.md).
   * Individuals can do it anonymously and raise billions of dollar equivalents in seed capital for ventures that are very early. Don’t need to involve the SEC, government or lawyers at all.
   * Previously this kind of access was gated to US persons with connections and access to funds, connections and access to capital.
@@ -159,9 +159,9 @@ According to the SEC, crypto tokens meet the [Howey Test](../concepts/howey-test
   * **What is the right interplay between investment risk and the rule of law? Is creative destruction by any extra-legal means a positive force in the world?**
 
 
-## Related Content
+## Related content
 
-### Deep Dives and Notes
+### Deep dives and notes
 * [Deep Dive: Fintech Incrementalism And Responsible Innovation ](/notes/fintech-incrementalism-and-responsible-innovation)
 * [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine)
 * [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
