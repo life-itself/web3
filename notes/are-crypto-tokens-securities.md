@@ -29,6 +29,10 @@ The ability to raise capital outside of the rule of law is not only a good thing
 
 ## Evaluation
 
+### November 2022 update
+
+We are adding a brief update to this piece to note the spectacular collapse of one of the world's largest crypto exchanges, FTX, in late 2022. This provides compelling further evidence that a tougher regulatory approach is and always was needed for crypto. Find out more via our [deep dive on the FTX collapse](/notes/post-ftx-collapse.md), and its tragic vindication of our analysis.
+
 ### Subclaim 1: A better, easier way to raise money for my venture
 
 The smartphone era gives retail investors access to the public equities market with unparalleled levels of simplicity unseen in markets. There’s also a genuine interest in giving retail investors access to private equity investments. But is access to the public equities market appropriate for retail investors?
@@ -50,6 +54,7 @@ History is repeating itself. **Shibu Inu and Dogecoin were the blue sky securiti
 As part of the New Deal, the United States signed into law the Securities Act of 1933, Glass-Steagall Act of 1933, Securities Exchange Act of 1934. These largely cleaned up the fraud. The US framework is the blueprint for many industrialized nations to do the same. Following this introduction of regulation, the Great Depression ends, bank runs are entirely eliminated and there is a long period of peace in financial markets. US capital markets become extremely large, robust and a new era of unrivalled growth and private innovation proceeds.
 
 When things go wrong, the impact can be financially devastating and socially corrosive: the state and its institutions and leaders are blamed and trust is corroded in the state as well as markets. If we assume that financial markets have some value then undermining faith in them is problematic. 
+
 
 ### Subclaim 2: Ability to raise capital outside of the rule of law 
 
@@ -163,6 +168,7 @@ According to the SEC, crypto tokens meet the [Howey Test](../concepts/howey-test
 
 ### Deep dives and notes
 * [Deep Dive: Fintech Incrementalism And Responsible Innovation ](/notes/fintech-incrementalism-and-responsible-innovation)
+* [dDep Dive: The FTX Collapse](/notes/post-ftx-collapse.md), and its tragic vindication of our analysis.
 * [Crypto: can these financial perpetual motion machines work?](/notes/financial-perpetual-motion-machine)
 * [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
 * [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
