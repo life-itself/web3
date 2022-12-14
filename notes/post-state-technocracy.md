@@ -151,7 +151,7 @@ This thesis has been put forward in various forms. So far, the most fully articu
 
 ## Related Content
 
-## Deep Dives and Notes
+### Deep Dives and Notes
 * [Cory Doctorow on Blockchain, Crypto & Web3](/notes/cory-doctorow-on-blockchain)
 	
 ### Concepts Covered
