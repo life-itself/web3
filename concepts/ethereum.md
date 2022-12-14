@@ -6,7 +6,7 @@ NB: following common usage we are using Ethereum for both the protocol itself, i
 
 ## Properties
 
-Ethereum is based on the [consensus algorithm](consensus-algorithm.md) known as Proof of Work [mining](mining.md).
+Ethereum is based on the [consensus algorithm](consensus-algorithm.md) known as Proof of Stake (having shifted from Proof of Work in late 2022)
 
 Ethereum is not a [currency](currency.md). Ethereum is a protocol and Ether is a protocol token and not a currency.
 
