@@ -248,7 +248,11 @@ While it may be the case that traditional mechanisms for resolving the public go
 * [Is Web3 decentralized?](/claims/is-web3-decentralized)
 * [Is Web3 a well-defined term?](/claims/is-well-defined)
 * [Is Bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Can I raise money for my non-profit using crypto tokens?](/claims/is-raise-nonprofit.md)
 * [Can I do a crowdfunded equity raise for my company? ](/claims/is-raise-company)
+* [Is bitcoin mining harmful to the environment?](/claims/is-environmental-footprint.md)
+* [Is crypto bringing about the "financialization of everything"?](/claims/is-hyperfinancialization.md)
+* [What's the opportunity cost of crypto?](/claims/is-opportunity-cost.md)
 
 
 ## References
