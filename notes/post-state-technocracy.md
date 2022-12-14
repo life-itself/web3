@@ -14,7 +14,7 @@ aliases: notes/post-state-technocracy.md
 
 ***
 
-# Episode Notes
+# Episode notes
 
 ## Summary
 
@@ -25,7 +25,7 @@ In this episode, Rufus and Stephen engage with the vision laid out by technologi
 This thesis has been put forward in various forms. So far, the most fully articulated form that we have found is from Balaji Srinivasan. See the show notes below for links to source material.
 
     
-## A note before we get stuck in
+## Preliminary note
 
 * It’s hard to disentangle venture capitalist narratives from:
 	1.  Talking their books
@@ -54,7 +54,7 @@ This thesis has been put forward in various forms. So far, the most fully articu
   * Jürgen Habermas argues the modern state plays a large role in structuring the economy, by regulating economic activity and being a large-scale economic consumer/producer, and through its redistributive welfare state activities.
   * Conflict theories of state formation and the claims of a legitimacy based on conquest and a subsequent monopoly on violence. This is a popular view in libertarian circles. The state is in perpetual frozen conflict with the individual and taxation is a protection racket not unlike the mob.
 
-## Steel-manning the position
+## Claims steel-manned
 
 * **Claim 1:** We’ve hit a wall on physical progress, so the “digital realm” is the only frontier accessible - [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) thesis on human progress.
   * The state is holding back progress in physical sciences.
@@ -86,7 +86,7 @@ This thesis has been put forward in various forms. So far, the most fully articu
   * The train of progress only goes one direction, get on or get off. There’s no place for Luddites in the future.
   * Matt Damon Superbowl ad is the soft form of this worldview.
 
-## Evaluating the position
+## Evaluating the claims
 
 * Overview: 
   * This perspective on web3 is an embodiment of what the political theorist Macpherson calls "possessive individualism", a philosophy in which an individual is conceived as the sole proprietor of his or her skills and owes nothing to society for them. These skills (and those of others) are a commodity to be bought and sold on the open market and in such a society is demonstrated a selfish and unending thirst for consumption which is considered the crucial core of human nature.
@@ -149,12 +149,12 @@ This thesis has been put forward in various forms. So far, the most fully articu
 		
 ***
 
-## Related Content
+## Related content
 
-### Deep Dives and Notes
+### Deep dives and notes
 * [Cory Doctorow on Blockchain, Crypto & Web3](/notes/cory-doctorow-on-blockchain)
 	
-### Concepts Covered
+### Concepts 
 
 * [post-state-technocracy](post-state-technocracy.md)
 * [Techno Collectivism](/concepts/techno-collectivism)
