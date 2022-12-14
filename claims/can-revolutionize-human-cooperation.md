@@ -11,7 +11,7 @@ claim:
   - confidence: H
   - 
 ---
-## Evaluation: Largely False (Medium-High Confidence)
+## Evaluation: Largely false (medium-high confidence)
 Web3 organizations such as DAOs may well model better ways of collaborating, at least in the context of some private or third sector organizations. The popularity of Web3 may well provide inspiration which has a positive impact on how such organizations are structured or operate in the future, such that there is potential for Web3 to bring about a change.
 
 However, not only are we doubtful that this would amount to a revolution, we note that this inspiration and education is not what the spirit of the claim gestures to. When it comes to the idea that Web3 technology itself will be vital to, and underpin, a paradigmatic shift in how humans cooperate with one another, we can confidently assert that this is false. The more democratic and decentralized forms of cooperation characterizing DAOs have largely existed in other forms, be they cooperatives or Teal organizations, before Web3 rose to prominence. The reason they have not become dominant has not been one of insufficiently powerful technology. Further, unique features of Web3 technology particularly seem on closer inspection to add little to actors’ ability to cooperate effectively that is not already provided by off-chain technologies. 
@@ -43,7 +43,7 @@ Ethereum. ‘Decentralized Autonomous Organizations (DAOs)’. ethereum.org. Acc
 > This opens up so many new opportunities for global collaboration and coordination.”
 
 #
-# Full Analysis
+# Full analysis
 ## Sub-claims
 
 * P1: Cooperation in the Web3 sphere is in some sense better than the way we tend to cooperate now
@@ -99,16 +99,16 @@ The other pertinent technical feature of blockchain relates to the creation of t
 The strongest case we might make is that the revolution in cooperation required must facilitate large scale collaboration which transcends traditional geographical, legal and institutional boundaries. The fact that Web3 facilitates flexibly fluid cooperation between potentially large numbers of diverse actors spread across the globe may gesture to a new future of digitally enabled cooperation. These features can make collaborating in this manner sufficiently easier and more attractive that it may begin to outcompete collaboration through traditional organizations. 
 
 
-## Evaluation: Largely False (Medium-High Confidence)
+## Evaluation: Largely false (medium-high confidence)
 
 
-### P1: Cooperation in the Web3 sphere is in some sense better than the way we tend to cooperate now (Partly true)
+### P1: Cooperation in the Web3 sphere is in some sense better than the way we tend to cooperate now (partly true)
 
 The first thing we should note is that better is a highly context sensitive term. What is better for running a small consultancy may not be better for running a national military. This is a point we have made in our writing elsewhere[^11]. This observation alone should be sufficient to give us pause when considering such huge and sweeping claims as revolutionizing human cooperation. The features outlined above may well make for better forms of cooperation in many contexts, but almost definitionally they cannot be objectively better across all.
 
 With this caveat aside, let’s narrow our focus to working together outside of the confines of state or government activity. That is to say the private or third sector collaboration which dominates most of our lives. Might we consider the form of collaboration characterized by DAOs as better here? Well, quite possibly. Much of the approach of Web3 organizations aligns very closely with preexisting thinking and ideas, from Teal organisations[^12] to the cooperative movement[^13]. Inasmuch as one thinks that the ideas present in these traditions do indeed point to better ways of working together (even if caveats abound around their own unique difficulties and applicability across the varied contexts even present in the world of work alone) then we may well think that DAOs _do_ point to a form of working collaboration that is somehow better than the current paradigm. Given huge rates of job dissatisfaction, burnout and work related stress[^14], this is perhaps not the lowest of bars to clear.
 
-#### P2: Web3 technology provides a unique value add (False)
+#### P2: Web3 technology provides a unique value add (false)
 
 So, qualifications notwithstanding, we might accept that the forms of cooperation found in the Web3 sphere are in some sense superior to their counterparts in many traditional organizations. But, to claim that Web3 itself will revolutionize cooperation, it must be Web3 technology itself that plays a significant role. How might this be so?
 
@@ -128,7 +128,7 @@ So, how about tokenization? Using tokens to allocate revenue and/or voting right
 
 To conclude, the unique technical features of blockchain don’t appear to do much for the potential of Web3 to revolutionize coordination. The most interesting areas, from alternative approaches to governance and compensation to collaboration across geographical boundaries, all seem perfectly capable of being carried out using other tools. Often, the major benefit of collaborating via Web3 organizations is that they are largely unburdened by regulation. Being able to form an organization without legal registration and raise seed funding through the sale of unregulated tokenized securities has certainly removed some of the friction from more traditional forms of collaborative enterprise. However this lack of regulation appears unlikely to continue in the longer term and, due to carrying its own risks, is likely undesirable in any case. Given this, there do not seem to be many unique benefits to collaborating via Web3.
 
-#### P3: The unique value add provided by Web3 is sufficient to shift human cooperation more broadly i.e. make this better form of cooperation dominant (Largely false)
+#### P3: The unique value add provided by Web3 is sufficient to shift human cooperation more broadly i.e. make this better form of cooperation dominant (largely false)
 
 Now, even if we were to accept that the cooperation charactersing Web3 is superior, and that this is in some way _because_ of its Web3 foundations, we could nonetheless fall short of endorsing the overall claim. For Web3 to revolutionize human cooperation, it must _scale_. Revolution requires the overthrowing of an old paradigm and its replacement with a new one. So, does Web3 cooperation hold the potential to become a dominant force in the overall picture of human cooperation? 
 
@@ -142,9 +142,9 @@ Now, whatever one makes of the capability afforded by Web3 technology, it is har
 
 Similarly, due to a number of factors including the structure and regulation of the global economy, vast, often multinational, firms employing huge numbers of staff currently dominate[^22]. At least some elements of more static and vertically integrated membership and governance and capital raising through more traditional channels (i.e. VC funding and/or exchange traded share offerings) is plausibly just _easier_ to achieve effectively in these types of organizations. Even if alternative models are capable of operating at these vast scales–with examples such as Mondragon showing that this is at least possible in theory[^23]–the huge forms dominating the global economy today are unlikely to simply disappear, or realize the error of their ways and convert how they organize (particularly when this would likely reduce shareholder profits). Market power, often to the extent of borderline monopoly in the case of some of the largest firms, means that their dominance will be hard to shift[^24]. Even if new forms of collaboration are made possible by Web3, it is hard to see it revolutionizing human cooperation more broadly under these circumstances. Money talks, and it seems that for the moment money is on the side of the old paradigm. 
 
-## Related Content
+## Related content
 
-## Deep Dives and Notes
+## Deep dives and notes
 
 * [Stephen Reid & Rufus Pollock on Worker Cooperatives and DAOs](/notes/on-worker-cooperatives)
 * [In conversation with Hypha](/notes/in-conversation-with-hypha) 
