@@ -170,7 +170,7 @@ See here for our full analysis: [Web3 can revolutionize human cooperation](https
 
 ### Claim summary
 
-#### Subclaim 1:
+#### Subclaim 1: More financialization of non-financial value is itself desirable
 
 Financialization is useful as it allows us to effectively direct resources towards the things we care about. 
 
@@ -178,11 +178,11 @@ The dysfunctionalities present in our current financial sector are not inherent 
 
 Whether we like it or not, we live in a financialized world; our only recourse is to embrace the reality of hyper-financialization and try to make it work for everyone.
 
-#### Subclaim 2:
+#### Subclaim 2: The current monetary and financial systems are deficient in their ability to capture what we think is really valuable
 
 Value can be better or more extensively financialized than is possible under the current system. Our societies are not adequately financializing value: there is a shortfall of funding for things that matter to us e.g. education and climate change prevention; and there are cases where significant resources are devoted to things that don’t have social value e.g. the whole host of financial instruments totally detached from the productive economy. Left to their own devices markets won’t create a socially optimal allocation of resources, as market prices won’t naturally “internalize” externalities such as environmental damage. Furthermore, positive social impacts, eg of art, are often not internalized into market prices. 
 
-#### Subclaim 3:
+#### Subclaim 3: Web3 technology is capable of addressing these deficiencies
 
 Web3 offers new means of financializing value through tokenization.
 
