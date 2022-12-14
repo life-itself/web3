@@ -28,7 +28,6 @@ In addition, the future of finance will see private money and [Central Bank Digi
 
 While it’s common to have a knee-jerk reaction to financial complexity, we need to take things on a case-by-case basis rather than blanket write off financialization. Regulation can catch up with technical innovation.
 
-## Evidence of the claim being made
 
 ## Evaluation: False
 
