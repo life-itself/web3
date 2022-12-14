@@ -102,7 +102,7 @@ The strongest case we might make is that the revolution in cooperation required 
 ## Evaluation: Largely False (Medium-High Confidence)
 
 
-### P1: Cooperation in the Web3 sphere is in some sense better than the way we tend to cooperate now (Partly True)
+### P1: Cooperation in the Web3 sphere is in some sense better than the way we tend to cooperate now (Partly true)
 
 The first thing we should note is that better is a highly context sensitive term. What is better for running a small consultancy may not be better for running a national military. This is a point we have made in our writing elsewhere[^11]. This observation alone should be sufficient to give us pause when considering such huge and sweeping claims as revolutionizing human cooperation. The features outlined above may well make for better forms of cooperation in many contexts, but almost definitionally they cannot be objectively better across all.
 
@@ -128,7 +128,7 @@ So, how about tokenization? Using tokens to allocate revenue and/or voting right
 
 To conclude, the unique technical features of blockchain don’t appear to do much for the potential of Web3 to revolutionize coordination. The most interesting areas, from alternative approaches to governance and compensation to collaboration across geographical boundaries, all seem perfectly capable of being carried out using other tools. Often, the major benefit of collaborating via Web3 organizations is that they are largely unburdened by regulation. Being able to form an organization without legal registration and raise seed funding through the sale of unregulated tokenized securities has certainly removed some of the friction from more traditional forms of collaborative enterprise. However this lack of regulation appears unlikely to continue in the longer term and, due to carrying its own risks, is likely undesirable in any case. Given this, there do not seem to be many unique benefits to collaborating via Web3.
 
-#### P3: The unique value add provided by Web3 is sufficient to shift human cooperation more broadly i.e. make this better form of cooperation dominant (Largely False)
+#### P3: The unique value add provided by Web3 is sufficient to shift human cooperation more broadly i.e. make this better form of cooperation dominant (Largely false)
 
 Now, even if we were to accept that the cooperation charactersing Web3 is superior, and that this is in some way _because_ of its Web3 foundations, we could nonetheless fall short of endorsing the overall claim. For Web3 to revolutionize human cooperation, it must _scale_. Revolution requires the overthrowing of an old paradigm and its replacement with a new one. So, does Web3 cooperation hold the potential to become a dominant force in the overall picture of human cooperation? 
 
