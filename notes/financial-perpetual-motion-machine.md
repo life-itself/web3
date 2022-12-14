@@ -8,7 +8,7 @@ aliases: notes/financial-perpetual-motion-machine.md
 
 *Does crypto technology “magic” allow it to transcend the principles of economics?*
 
-# Update December 2022
+# Update November 2022
 
 Since this post was written, FTX, one of the worlds largest crypto exchanges, has controversially and spectacularly [collapsed](/notes/post-ftx-collapse.md). This provides yet more compelling evidence that the crypto boom was the result of a financial bubble, rather than a magical perpetual motion machine.
 
