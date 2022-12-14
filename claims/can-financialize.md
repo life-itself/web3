@@ -223,8 +223,33 @@ Part of the problem with existing monetary and financial systems that alternativ
 
 As has become a recurring theme in many of our web3 evaluations, the deficiency of alternative currencies as a solution is that they use technology to try to fix a problem which does not require, and in fact is not particularly amenable to, a technological solution. Even aside from the severe difficulties we envision these alternative currency systems would face in practice, the reason our current monetary and financial systems don’t adequately “financialize” the totality of social value is more of a political and social question of how they are structured and governed than it is a technical question of the superficial medium of value representation (i.e. money) they use. Reform at the level of political economy and culture appears far more plausible as a route to better financialization of value than trying to bypass these highly difficult processes through tokenized currencies.
 
+# Related content
 
-## Notes
+## Deep dives and notes
+
+
+* [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
+* [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
+* [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
+* [Notes on Münecat's 'Web3.0: A Libertarian Dystopia'](/notes/web3-dystopia)
+
+## Concepts
+
+* [Art](/concepts/art)
+* [NFTs](/concepts/nft)
+* [Cryptoasset](/concepts/cryptoasset)
+* [Predatory Inclusion](/concepts/predatory-inclusion)
+* [Externalities](/concepts/externalities)
+* [Bandwagon Bias](/concepts/bandwagon-bias)
+* [Fictitious commodity](/concepts/ficticious-commodity)
+
+## FAQs
+
+* [Are NFTs good for artists?](/claims/is-nfts-artists) 
+* [Is Web3 decentralized?](/claims/is-web3-decentralized)
+* [Are crypto assets predatory investments?](/claims/is-predatory)
+
+# Notes
 
 [^1]:
      [Robert Wade, ‘What Can Economics Learn from East Asian Success?’, The Annals of the American Academy of Political and Social Science 505 (1989): 68–79.](https://www.zotero.org/google-docs/?IAMZRK)
