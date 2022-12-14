@@ -32,7 +32,7 @@ Ver, Roger. quoted in COINTELEGRAPH (2013) _Western Union is not yet ready for b
 
 Nakamoto, S. (2008) *Bitcoin: A Peer-to-Peer Electronic Cash System*. Available at: https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf 
 
-
+#
 # Full Analysis
 
 ## Claim Steel-Manned
