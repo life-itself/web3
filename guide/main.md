@@ -23,7 +23,7 @@ The guide is split into 3 sections:
 # Full Analyses
 These provide detailed and fully referenced analyses of some of the boldest claims being made about web3 and crypto. They are capable of acting as authoritative sources in debates about these claims.
 
-## Claim: Bitcoin will become the new gold standard
+## Claim: Bitcoin will (and should) become the new gold standard
 
 ### Claim Summary
 
