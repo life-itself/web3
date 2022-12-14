@@ -16,7 +16,7 @@ aliases: notes/market-fundamentalism.md
 
 ***
 
-# Episode Notes
+# Episode notes
 
 ## Summary
 
@@ -57,7 +57,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
   * Sharks *love* the minnows
 
 
-## Why is the Crypto-Can-Make-Me-Money Position So Interesting to Examine?
+## Why is the crypto-can-make-me-money position so interesting to examine?
 
 * Likely represents a majority of interest and activity in crypto (and even [DAOs](../concepts/dao.md)) from the day trader in the pub up to the Wall Street trader
 * Generally not brought up explicitly as much in the crypto / [web3](../concepts/web3.md) discussion (for obvious reasons: it is not a substantive or attractive position to espouse publicly)
@@ -69,7 +69,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 * Legitimizing segment especially for regulators ("hey even Goldman Sachs or JP Morgan are involved, this must be a legitimate area / industry")
 
 
-## Steel-Manning the Market Fundamentalism Position
+## Steel-manning the market fundamentalist position
 
 * Unregulated markets allow companies to do what they're supposed to do: maximize returns to shareholders.
   * [Friedman Doctrine](https://en.wikipedia.org/wiki/Friedman_doctrine)  applied to unregulated markets. Optimize for shareholder value.
@@ -92,7 +92,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
   * If the market allows [market manipulation](../concepts/market-manipulation.md) ([pump and dumps](../concepts/pump-and-dump.md), insider trading, [wash trading](../concepts/wash-trading.md)) this is public knowledge and it is reflected in the price formation of the assets. 
   * Institutional investors should be able to leverage their AUM to take high-risk positions just like they are in other private markets. If retail wants to participate with the “sharks” then it’s on them to understand the risks not on the people they’re trading against. The fiduciary mandate of hedge funds is to take positions on behalf of their LPs in beta uncorrelated positions.
 
-## Analyzing the Market Fundamentalism Position
+## Evaluation
 
 * Everything that has been illegal for 80 years is suddenly allowed. Exchanges are basically like bucket shops from the 1920s. Everything is allowed:
   * [Wash trading](../concepts/wash-trading.md)
@@ -131,7 +131,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 
 ## Related Content
 
-## Deep Dives and Notes
+## Deep dives and notes
 * [A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies) 
 * [Shri T Rabi Sankar. Cryptocurrencies – An Assessment ](/notes/cryptocurrencies-an-assessment)
 * [Examples Of Retail Investors Speculating ](/notes/examples-of-ordinary-people-speculating)
@@ -140,7 +140,7 @@ Rufus and Stephen end their conversation with an analysis of the market fundamen
 * [Bindseil, Ulrich. et al. ‘The encrypted threat: Bitcoin’s social cost and regulatory responses](/notes/the-encrypted-threat)’
 
 
-## Concepts Covered
+## Concepts covered
 * [artificial-scarcity](../concepts/artificial-scarcity.md)
 * [assets](../concepts/assets.md)
 * [asymmetric-information](../concepts/asymmetric-information.md)
