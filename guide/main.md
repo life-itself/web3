@@ -137,7 +137,7 @@ Web3 organizations such as DAOs may well model better ways of collaborating, at 
 
 However, not only are we doubtful that this would amount to a revolution, we note that this inspiration and education is not what the spirit of the claim gestures to. When it comes to the idea that Web3 technology itself will be vital to, and underpin, a paradigmatic shift in how humans cooperate with one another, we can confidently assert that this is false. The more democratic and decentralized forms of cooperation characterizing DAOs have largely existed in other forms, be they cooperatives or Teal organizations, before Web3 rose to prominence. The reason they have not become dominant has not been one of insufficiently powerful technology. Further, unique features of Web3 technology particularly seem on closer inspection to add little to actors’ ability to cooperate effectively that is not already provided by off-chain technologies.
 
-### Full Analsysis
+### Full Analysis
 
 See here for our full analysis: [Web3 can revolutionize human cooperation](https://web3.lifeitself.org/claims/can-revolutionize-human-cooperation)
 
