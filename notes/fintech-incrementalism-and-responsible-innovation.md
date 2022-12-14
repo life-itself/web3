@@ -12,7 +12,7 @@ aliases: notes/fintech-incrementalism-and-responsible-innovation.md
 
 # Summary
 
-## Claim Steel-Manned
+## Claim steel-manned
 
 Building more complex financial models and products allows us to create more antifragile structures that remove or disperse [risk](../concepts/risk.md) from the broader [market](../concepts/market.md) that the public benefits from. We can see real world examples of this: mortgage-backed securities have enabled more democratic and more liquid access to mortgage credit; volaitility in the price of products has been reduced by creating future products, eg the volatility of chicken nuggets is solved by creating synthetic futures on corn and soymeal commodities that would hedge the chicken producer’s exposure to underlying price fluctuations.
 
@@ -39,9 +39,9 @@ If crypto payment rails [are lower-cost](../claims/is-better-payments.md) or low
 
 In addition, as a [remittance use-case](https://academy.binance.com/en/articles/blockchain-use-cases-remittance) , crypto assets such as bitcoin make no sense at face value. We still have to convert to and from the local currency on both legs of the payment. This has a non-zero cost. Currency A -> Currency B -> Currency C is a very indirect way of doing cross-border payments as compared to a two-hop transaction. Introducing a third hypervoliate intermediary step just adds more risk and makes this more expensive.
 
-# Full Analysis
+# Full analysis
 
-## Fintech Incrementalism
+## Fintech incrementalism
 
 * What is 'fintech'? 
   * fintech = financial technology. New technology that seeks to improve and automate the delivery and use of financial services.
@@ -188,9 +188,9 @@ In addition, as a [remittance use-case](https://academy.binance.com/en/articles/
 
 This is the position that is possibly the most compelling and defensible position, but if and only if the tech can be shown to be demonstrably better than what already exists. There are some large economic, technical and commercial problems (or at least unproven theories) at the heart of this thesis. Much of this remains a theoretical proposition at best, but it is still interesting to consider intellectually.
 
-## Related Content
+## Related content
 
-## Deep Dives and Notes
+## Deep dives and notes
 
 * [Crypto will provide better payment and remittance services](https://web3.lifeitself.org/claims/is-better-payments)
 * [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
