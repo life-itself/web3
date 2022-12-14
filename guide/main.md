@@ -79,7 +79,7 @@ We acknowledge that it does seem at least plausible that crypto assets are curre
 
 ### Full Analysis
 
-See here for our full analysis: [Crypto will provide better payment and remittance services](https://web3.lifeitself.org/claims/is-better-payments).
+See here for our full analysis: [Crypto will provide better payment and remittance services](https://web3.lifeitself.org/claims/is-better-payments)
 
 
 ## Claim: Crypto can help solve the public goods problem
@@ -110,7 +110,7 @@ Web3 experiments may point to better ways of allocating funds which are voluntar
 
 ## Full Analysis
 
-See here for our full analysis: [Web3 can help solve the public goods problem](https://web3.lifeitself.org/claims/can-solve-public-goods-problem).
+See here for our full analysis: [Web3 can help solve the public goods problem](https://web3.lifeitself.org/claims/can-solve-public-goods-problem)
 
 
 ## Claim: Crypto can help revolutionize cooperation
@@ -138,7 +138,7 @@ However, not only are we doubtful that this would amount to a revolution, we not
 
 ### Full Analsysis
 
-See here for our full analysis: [Web3 can revolutionize human cooperation](https://web3.lifeitself.org/claims/can-revolutionize-human-cooperation).
+See here for our full analysis: [Web3 can revolutionize human cooperation](https://web3.lifeitself.org/claims/can-revolutionize-human-cooperation)
 
 
 ## Claim: Crypto can provide better means of financializing value
@@ -147,7 +147,7 @@ See here for our full analysis: [Web3 can revolutionize human cooperation](https
 
 # Deep Dive Notes
 
-These notes are attached to deep dive conversations covering certain claims or sets of claims. They do rigorously analyze the positions they explore, however these analyses are in note form and are thus rougher and less ocomprehensive than the ones above. If you'd like to help improve them then take a look at our [contributor guide](/meta/editing.md). For an example of what a complete evaluation looks like, see our [analysis of web3 and the public goods problem](/claims/can-solve-public-goods-problem.md)
+These notes are attached to deep dive conversations covering certain claims or sets of claims. They do rigorously analyze the positions they explore, however these analyses are in note form and are thus rougher and less ocomprehensive than the ones above. If you'd like to help improve them then take a look at our [contributor guide](/meta/editing.md). For an example of what a complete evaluation looks like, see our [analysis of web3 and the public goods problem](/claims/can-solve-public-goods-problem.md).
 
 ## Claim: Blockchain can (and should) be used to create “networked states” to replace existing nation states
 
