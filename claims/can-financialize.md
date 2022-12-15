@@ -15,7 +15,7 @@ claim:
 
 ## Key points
 
-* We explore three subclaims inherent to the overarching claim: 1) more financialization of non-financial value is itself desirable; 2) the current monetary and financial systems are deficient in their ability to capture what we think is _really _valuable; and 3) Web3 technology is capable of addressing these deficiencies. 
+* Financializing value means capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being transacted.
 * Steel manning subclaim 1: more financialization of non-financial value is itself desirable
     * Financialization is useful as it allows us to effectively direct resources towards the things we care about.
     * The dysfunctionalities present in our current financial sector are not inherent to financialization itself. It is therefore possible that financial value can be a powerful enabler of other types of value creation, without any of the negative impacts on other values (e.g. a well functioning environment) currently associated with money and finance.
@@ -92,19 +92,17 @@ Deloitte Private and ArtTactic ‘Art & Finance Report 2021’ [https://www2.del
 
 # Full analysis
 
+## Some preliminary notes
+
+What is “financializing value”? Here we use the term to refer to capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being transacted. In other words, attaching financial value to forms of non-financial value. For example, a project might create tokens designed to capture the social value of land that is free from debris and pollution, or the value of a piece of artwork. This analysis brackets deeper philosophical questions around how we should understand value as a concept and what should count as valuable. It focuses on things whose value is fairly uncontroversial, such as creating beautiful art and avoiding climate breakdown).
+
+We use  ‘_monetary and financial systems’ _to refer to the economic infrastructure underpinning how we represent and exchange value. We also assume that these claims refer to economically developed countries unless otherwise stated; as these are where monetary and financial systems are supposed to work best they are the most appropriate contexts in which to evaluate the strongest versions of the claims.
 
 ## Subclaims:
 
 * P1: More financialization of non-financial value is itself desirable
 * P2: The current monetary and financial systems are deficient in their ability to capture what we think is _really _valuable; we could financialize value better or more extensively
 * P3: Web3 technology is capable of addressing these deficiencies
-
-
-## Some preliminary notes
-
-What is “financializing value”? Here we use the term to refer to capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being transacted. In other words, attaching financial value to forms of non-financial value. For example, a project might create tokens designed to capture the social value of land that is free from debris and pollution, or the value of a piece of artwork. This analysis brackets deeper philosophical questions around how we should understand value as a concept and what should count as valuable. It focuses on things whose value is fairly uncontroversial, such as creating beautiful art and avoiding climate breakdown).
-
-We use  ‘_monetary and financial systems’ _to refer to the economic infrastructure underpinning how we represent and exchange value. We also assume that these claims refer to economically developed countries unless otherwise stated; as these are where monetary and financial systems are supposed to work best they are the most appropriate contexts in which to evaluate the strongest versions of the claims.
 
 
 ## Steelmanning the claims
