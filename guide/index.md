@@ -11,18 +11,18 @@ It is important that we make good choices about crypto and web3. Ultimately, we 
 The guide is split into 3 sections:
 
 * **Full analyses** provide comprehensive and authoritative analyses of the biggest claims being made in the space. We analyse the following claims:
-  * [Bitcoin will (and should) become the new gold standard](https://web3.lifeitself.org/guide#claim-bitcoin-will-and-should-become-the-new-gold-standard)
-  * [Crypto will provide better payment and remittance services](https://web3.lifeitself.org/guide#claim-crypto-will-provide-better-payment-and-remittance-services)
-  * [Crypto can help solve the public goods problem](https://web3.lifeitself.org/guide#claim-crypto-can-help-solve-the-public-goods-problem)
-  * [Web3 can help revolutionize cooperation](https://web3.lifeitself.org/guide#claim-web3-can-help-revolutionize-cooperation)
-  * [Crypto can provide better means of financializing non-financial value](https://web3.lifeitself.org/guide#claim-crypto-can-provide-better-means-of-financializing-non-financial-value)
+  * [Bitcoin will (and should) become the new gold standard](#claim-bitcoin-will-and-should-become-the-new-gold-standard)
+  * [Crypto will provide better payment and remittance services](#claim-crypto-will-provide-better-payment-and-remittance-services)
+  * [Crypto can help solve the public goods problem](#claim-crypto-can-help-solve-the-public-goods-problem)
+  * [Web3 can help revolutionize cooperation](#claim-web3-can-help-revolutionize-cooperation)
+  * [Crypto can provide better means of financializing non-financial value](#claim-crypto-can-provide-better-means-of-financializing-non-financial-value)
 
 * **Deep dive notes** are detailed analysis notes from our deep dive conversations, which have not yet been formatted and expanded into full analyses. [You can help!](/meta/editing.md) We've undertaken deep dives on the following claims:
-  * [Blockchain can (and should) be used to create “networked states” to replace existing nation states]https://web3.lifeitself.org/guide#claim-blockchain-can-and-should-be-used-to-create-networked-states-to-replace-existing-nation-states)
-  * [Crypto can act as an anti-authoritarian force](https://web3.lifeitself.org/guide#claim-crypto-can-act-as-an-anti-authoritarian-force)
-  * [The crypto space is just an unfettered market, and there’s nothing wrong with that](https://web3.lifeitself.org/guide#claim-the-crypto-space-is-just-an-unfettered-market-and-theres-nothing-wrong-with-that)
-  * [Crypto is just the latest evolution of fintech, and is leading us towards a better financial system](https://web3.lifeitself.org/guide#claim-crypto-is-just-the-latest-evolution-of-fintech-and-is-leading-us-towards-a-better-financial-system)
-  * [Crypto should remain outside of securities regulation](https://web3.lifeitself.org/guide#claim-crypto-should-remain-outside-of-securities-regulation)
+  * [Blockchain can (and should) be used to create “networked states” to replace existing nation states](#claim-blockchain-can-and-should-be-used-to-create-networked-states-to-replace-existing-nation-states)
+  * [Crypto can act as an anti-authoritarian force](#claim-crypto-can-act-as-an-anti-authoritarian-force)
+  * [The crypto space is just an unfettered market, and there’s nothing wrong with that](#claim-the-crypto-space-is-just-an-unfettered-market-and-theres-nothing-wrong-with-that)
+  * [Crypto is just the latest evolution of fintech, and is leading us towards a better financial system](#claim-crypto-is-just-the-latest-evolution-of-fintech-and-is-leading-us-towards-a-better-financial-system)
+  * [Crypto should remain outside of securities regulation](#claim-crypto-should-remain-outside-of-securities-regulation)
 
 * **FAQs** are brief responses to some common questions asked about crypto and web3. They form a useful starting point for further research, such as reading their references in our [library.](https://web3.lifeitself.org/library)
 
