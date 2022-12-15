@@ -96,6 +96,44 @@ Further, while the last mile problem can be overcome, the high price volatility 
 
 These observations point to a deeper point it is worth acknowledging. It does seem at least plausible that crypto assets are currently supporting financial activity in certain highly unstable and dysfunctional economies[^13]. However, it is problematic to use this observation to argue that replacing traditional financial infrastructure with blockchain based alternatives is desirable. Technical interventions such as the creation of parallel crypto-economies are akin to sticking plasters - they may address the most severe symptoms in the short term but they are not a feasible long term solution, and do not address the real roots of the problem. Well functioning and stable economies which meet the basic needs of everyone on the planet should be a fairly uncontroversial aspiration. Freedom from runaway inflation and currency depreciation, trustworthy banking and financial systems, the ability to hold money without fear of it being lost or taken, and to quickly and easily make both domestic and international transactions (even during times of crisis and war) are real possibilities. More than that, they are the everyday reality for most of us already in the global north. These can be obtained for everyone on earth, but the levers for doing so lie at the level of political economy _not_ technology. Acknowledging that crypto assets have been used to some effect to bypass the worst symptoms of economic dysfunction should not mean we give up on trying to improve domestic economies or the global economic system more broadly. Claims that we can simply bypass this work through technological means are a dangerous red herring.
 
+## Conclusion
+
+Crypto is not technologically capable of competing with existing payment rails, and the level of advancement needed to do so is far from a sure thing. In fact, crypto is not up to acting as a currency at all. It does appear to serve these functions in practice in developing nations with non-functional financial systems, as the example of Ukraine shows. However this should be taken less as a testament to the potential of crypto and more as a sign that political and economic support is needed in these cases. And, being better than poorly functioning legacy systems is not what the spirit of this claim gestures to.
+
+## Related content
+
+### Deep dives
+
+* [Deep Dive: Fintech Incrementalism And Responsible Innovation](/notes/fintech-incrementalism-and-responsible-innovation)
+* [A Macroeconomics Perspective on Cryptocurrencies](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
+
+### FAQs
+
+* [Is an unregulated transnational payment system desirable?](/claims/is-transnational-payment)
+* [Is bitcoin a currency?](/claims/is-bitcoin-currency)
+* [Is Web3 a means to rebuild the global financial system?](/claims/is-new-financial-system)
+* [Is crypto providing faster payment rails or better remittance services?](/claims/is-better-payments)
+* [Are crypto tokens a hedge against the “debasement” of the dollar?](/claims/is-hedge-debasement)
+* [Are crypto assets a hedge against inflation?](/claims/is-hedge-inflation)
+* [Are crypto assets a risk to the dollar?](/claims/is-threat-dollar)
+* [What type of asset is a crypto token?](/claims/is-type-of-asset)
+* [How do we value a crypto token?](/claims/is-valuation-model)
+* [What consumer protections exist for crypto assets?](/claims/is-consumer-protections)
+* [Are crypto assets a form of predatory inclusion?](/claims/is-predatory)
+* [Is crypto a solution for the unbanked?](/claims/is-crypto-unbanked)
+
+### Concepts
+
+* [Money](/concepts/money)
+* [Currency](/concepts/currency)
+* [Crypto exchanges](/concepts/crypto-exchanges)
+* [Bank](/concepts/bank)
+* [Income Cashflows](/concepts/income-cashflows)
+* [Assets](/concepts/assets)
+* [Capitalism](/concepts/capitalism)
+* [Store of value](/concepts/store-of-value)
+* [US dollar](/concepts/dollar)
+
 
 ## Notes
 
