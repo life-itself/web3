@@ -178,7 +178,7 @@ Whether we like it or not, we live in a financialized world; our only recourse i
 
 Value can be better or more extensively financialized than is possible under the current system. Our societies are not adequately financializing value: there is a shortfall of funding for things that matter to us e.g. education and climate change prevention; and there are cases where significant resources are devoted to things that don’t have social value e.g. the whole host of financial instruments totally detached from the productive economy. Left to their own devices markets won’t create a socially optimal allocation of resources, as market prices won’t naturally “internalize” externalities such as environmental damage. Furthermore, positive social impacts, eg of art, are often not internalized into market prices. 
 
-#### Subclaim 3: Web3 technology is capable of addressing these deficiencies
+#### Subclaim 3: Web3 technology is the route to addressing these deficiencies
 
 Web3 offers new means of financializing value through tokenization.
 
