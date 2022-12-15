@@ -16,16 +16,16 @@ claim:
 ## Key points
 
 * Financializing value means capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being transacted.
-* Steel manning subclaim 1: more financialization of non-financial value is itself desirable
+* Steel-manning subclaim 1: more financialization of non-financial value is itself desirable
     * Financialization is useful as it allows us to effectively direct resources towards the things we care about.
     * The dysfunctionalities present in our current financial sector are not inherent to financialization itself. It is therefore possible that financial value can be a powerful enabler of other types of value creation, without any of the negative impacts on other values (e.g. a well functioning environment) currently associated with money and finance.
     * Whether we like it or not, we live in a financialized world; our only recourse is to embrace the reality of hyper-financialization and try to make it work for everyone.
-* Steel manning subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable
+* Steel-manning subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable
     * Value can be better or more extensively financialized than is possible under the current system. 
     * Our societies are not adequately financializing value: there is a shortfall of funding for things that matter to us e.g. education and climate change prevention; and there are cases where significant resources are devoted to things that don’t have social value e.g. the whole host of financial instruments totally detached from the productive economy. 
     * Left to their own devices markets won’t create a socially optimal allocation of resources, as market prices won’t naturally “internalize” externalities such as environmental damage. 
     * Positive social impacts, eg of art, are often not internalized into market prices. 
-* Steel manning subclaim 3: Web3 technology is capable of addressing these deficiencies
+* Steel-manning subclaim 3: Web3 technology is capable of addressing these deficiencies
     * Web3 offers new means of financializing value through tokenization.
     * NFTs: By locking artistic value into the NFT format and selling this directly to buyers, the true value of art can be better financialized as artists receive financial compensation for their work that is actually commensurate with its value. 
     * Alternative currencies: Communities can come together and decide on the rules for how they represent value. This can be done by creating tokens to represent all sorts of value and, in turn, better manage resource flows between them.
@@ -88,15 +88,13 @@ Deloitte Private and ArtTactic ‘Art & Finance Report 2021’ [https://www2.del
 
 [Distributed ledger technology] can not only improve the way art is traded by keeping a secure digital record of every owner, but it can also enable new forms of ownership and introduce smaller players into the market. The co-ownership of tokenized art will establish the new standard for collectors, investors, and art galleries to increase their portfolio and investment. This will shift the paradigm of art investment and the regulations tied to them, creating a more accessible, fair, and democratized art ecosystem.”
 
-
-
 # Full analysis
 
 ## Some preliminary notes
 
 What is “financializing value”? Here we use the term to refer to capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being transacted. In other words, attaching financial value to forms of non-financial value. For example, a project might create tokens designed to capture the social value of land that is free from debris and pollution, or the value of a piece of artwork. This analysis brackets deeper philosophical questions around how we should understand value as a concept and what should count as valuable. It focuses on things whose value is fairly uncontroversial, such as creating beautiful art and avoiding climate breakdown).
 
-We use  ‘_monetary and financial systems’ _to refer to the economic infrastructure underpinning how we represent and exchange value. We also assume that these claims refer to economically developed countries unless otherwise stated; as these are where monetary and financial systems are supposed to work best they are the most appropriate contexts in which to evaluate the strongest versions of the claims.
+We use  ‘_monetary and financial systems_' to refer to the economic infrastructure underpinning how we represent and exchange value. We also assume that these claims refer to economically developed countries unless otherwise stated; as these are where monetary and financial systems are supposed to work best they are the most appropriate contexts in which to evaluate the strongest versions of the claims.
 
 ## Subclaims:
 
@@ -105,7 +103,7 @@ We use  ‘_monetary and financial systems’ _to refer to the economic infrastr
 * P3: Web3 technology is capable of addressing these deficiencies
 
 
-## Steelmanning the claims
+## Steel-manning the claims
 
 
 ### P1: More financialization of non-financial value is desirable
@@ -181,7 +179,7 @@ As we note in our reference to carbon pricing above, this claim is quite obvious
 
 We will evaluate NFTs and alternative currencies in turn. There are two glaring things to note with NFTs. First, in practice NFTs do not in any way guarantee artists better remuneration for their work. Evidence shows that minting NFTs costs many smaller artists more money than they make[^19] and there is still a reliance on centralized marketplaces to sell them who often extract large amounts of value and leave the artists with little direct remuneration (just like the so often critiqued middle-men of traditional marketplaces)[^20]. Further, the technical complexity of NFT creation means that many artists are excluded or forced to partner with more tech-literate others in often extractive agreements which mirror the dynamics of the traditional artworld. All of this is aside from the slump in the NFT market which has accompanied the apparent pop of the speculative bubble, which was the source of high rates of return for some artists in the first place[^21]. Digital marketplaces may help artists reach new audiences but are not unique to web3 and in fact they already exist. They certainly do not enable better financialization of value if this is understood as better compensation for artists. 
 
-One of the major problems here is that NFTs are a private market just like any other. Private markets favor those with high levels of resources, leaving the market open to the same exploitation by middle-men and “whales” regardless of whether it is digitized or not. Small artists will have very little market power wherever they are. More importantly, however, is the distinction between the social value of “the arts” and an individual work of art. The arts sector is more than the sum of its parts. Individuals may value a flourishing arts sector far more than they value a given piece of art in a marketplace. Even as a society we predominantly care about the sector as a whole rather than any individual contributor to it (save a few major figures, who are already well compensated). The problem is that the positive externalities of the arts sector are to some degree nonexcludable; I can benefit from living somewhere “cultured” whether I individually buy art or not, and this benefit often far exceeds the benefit I get from owning a piece of art directly. We thus have somewhat of a public goods problem, which as we have explored elsewhere [cannot be addressed through markets](https://web3.lifeitself.org/claims/can-solve-public-goods-problem). Ensuring the social value of a flourishing arts sector is passed on to the artists underpinning it can almost definitionally never be a matter of better financialization of individual pieces of art. This is why centralized arts funding exists, and is a far more promising solution to this problem than tokenization. 
+One of the major problems here is that NFTs are a private market just like any other. Private markets favor those with high levels of resources, leaving the market open to the same exploitation by middle-men and “[whales](/concepts/whale)” regardless of whether it is digitized or not. Small artists will have very little market power wherever they are. More importantly, however, is the distinction between the social value of “the arts” and an individual work of art. The arts sector is more than the sum of its parts. Individuals may value a flourishing arts sector far more than they value a given piece of art in a marketplace. Even as a society we predominantly care about the sector as a whole rather than any individual contributor to it (save a few major figures, who are already well compensated). The problem is that the positive externalities of the arts sector are to some degree nonexcludable; I can benefit from living somewhere “cultured” whether I individually buy art or not, and this benefit often far exceeds the benefit I get from owning a piece of art directly. We thus have somewhat of a public goods problem, which as we have explored elsewhere [cannot be addressed through markets](https://web3.lifeitself.org/claims/can-solve-public-goods-problem). Ensuring the social value of a flourishing arts sector is passed on to the artists underpinning it can almost definitionally never be a matter of better financialization of individual pieces of art. This is why centralized arts funding exists, and is a far more promising solution to this problem than tokenization. 
 
 
 #### Alternative Currencies
@@ -237,10 +235,30 @@ As has become a recurring theme in many of our web3 evaluations, the deficiency 
 * [Art](/concepts/art)
 * [NFTs](/concepts/nft)
 * [Cryptoasset](/concepts/cryptoasset)
-* [Predatory Inclusion](/concepts/predatory-inclusion)
+* [Predatory inclusion](/concepts/predatory-inclusion)
 * [Externalities](/concepts/externalities)
-* [Bandwagon Bias](/concepts/bandwagon-bias)
+* [Bandwagon bias](/concepts/bandwagon-bias)
 * [Fictitious commodity](/concepts/ficticious-commodity)
+* [Fiat money](/concepts/fiat-money)
+* [Finanical asset](/concepts/financial-asset)
+* [Price formation](/concepts/price-formation)
+* [Assets](/concepts/assets)
+* [Private money](/concepts/private-money)
+* [Fundamental value](/concepts/fundamental-value)
+* [Governance token](/concepts/governance-token)
+* [Public goods problem](/concepts/public-goods-problem)
+* [Blockchains](/concepts/blockchain)
+* [Bubble](/concepts/bubble)
+* [Liquiduty](/concepts/liquidity)
+* [Speculation](/concepts/speculation)
+* [Commodity](/concepts/commodity)
+* [Market value](/concepts/market-value)
+* [Market](/concepts/market)
+* [Cryptoasset](/concepts/cryptoasset)
+* [Currency](/concepts/currency)
+* [Value](/concepts/value)
+* [NFT](/concepts/NFT)
+* [Whale](/concepts/whale)
 
 ## FAQs
 
