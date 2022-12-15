@@ -55,7 +55,7 @@ Wiblin, Robert, and Vitalik Buterin. ‘Vitalik Buterin on Better Ways to Fund P
 # Full analysis
 
 
-## Sub-claims:
+## Subclaims:
 
 * P1: Traditional mechanisms for resolving the public goods problem are inadequate
 * P2: Web3 can raise significant revenue for addressing public goods
