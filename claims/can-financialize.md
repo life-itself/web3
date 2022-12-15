@@ -15,7 +15,7 @@ claim:
 
 ## Key points
 
-* Financializing value means capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being transacted.
+* Financializing value in this context means capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being allocated. This contrasts with the traditional definition of financialization as the expansion of the financial sector, which we cover [elsewhere.](/notes/fintech-incrementalism-and-responsible-innovation)
 
 **Steel-manning subclaim 1: more financialization of non-financial value is itself desirable**    
 * Financialization is useful as it allows us to effectively direct resources towards the things we care about.
@@ -102,7 +102,7 @@ Deloitte Private and ArtTactic ‘Art & Finance Report 2021’ [https://www2.del
 
 ## Some preliminary notes
 
-What is “financializing value”? Here we use the term to refer to capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being transacted. In other words, attaching financial value to forms of non-financial value. For example, a project might create tokens designed to capture the social value of land that is free from debris and pollution, or the value of a piece of artwork. This analysis brackets deeper philosophical questions around how we should understand value as a concept and what should count as valuable. It focuses on things whose value is fairly uncontroversial, such as creating beautiful art and avoiding climate breakdown).
+What is “financializing value”? Here we use the term to refer to capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being allocated. In other words, attaching financial value to forms of non-financial value. For example, a project might create tokens designed to capture the social value of land that is free from debris and pollution, or the value of a piece of artwork. This analysis brackets deeper philosophical questions around how we should understand value as a concept and what should count as valuable. It focuses on things whose value is fairly uncontroversial, such as creating beautiful art and avoiding climate breakdown). This contrasts with the traditional definition of financialization as the expansion of the financial sector, which we cover [elsewhere.](/notes/fintech-incrementalism-and-responsible-innovation)
 
 We use  ‘_monetary and financial systems_' to refer to the economic infrastructure underpinning how we represent and exchange value. We also assume that these claims refer to economically developed countries unless otherwise stated; as these are where monetary and financial systems are supposed to work best they are the most appropriate contexts in which to evaluate the strongest versions of the claims.
 
