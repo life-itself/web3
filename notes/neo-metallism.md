@@ -45,7 +45,7 @@ Even if a return to the gold standard were a good idea is not capable of replaci
 #
 # Full analysis
 
-## Sub-claims
+## Subclaims
 
 
 ### P1: The gold standard is a good idea 
@@ -201,7 +201,7 @@ In the world of bitcoin, and blockchain more generally, lots is made of so calle
 
 There is evidence that high trust of strangers correlates with positive economic and social outcomes.[^26] At the root of trustless blockchain technologies are assumptions about human nature, which have significant implications for how we approach vital questions of social cooperation. Do we cooperate through some kind of formal system that we can enforce through software and rules? Or do we do so by learning to trust each other, in ways that come from our culture, perhaps supported by institutions and laws, but ultimately coming from ourselves. There is a tension between these two approaches: as I create more formal rules based in the assumption that I trust people less, this then undermines good faith and can actually create the very opposite outcomes we aim towards[^27].  Aside from its impacts on bitcoin’s potential as a gold substitute, the issue of trust has serious ramifications for how we govern our societies. This is a fact we’d do well not to ignore.
 
-## Related Content
+## Related content
 
 ### Concepts
 
