@@ -11,7 +11,7 @@ It is important that we make good choices about crypto and web3. Ultimately, we 
 The guide is split into 3 sections:
 
 * **Full analyses** provide comprehensive and authoritative analyses of the biggest claims being made in the space. We analyse the following claims:
-  * [Bitcoin will (and should) become the new gold standard](/guide/index.md/#claim-bitcoin-will-and-should-become-the-new-gold-standard)
+  * [Bitcoin will (and should) become the new gold standard](/guide#claim-bitcoin-will-and-should-become-the-new-gold-standard)
   * [Crypto will provide better payment and remittance services](/guide/index.md#claim-crypto-will-provide-better-payment-and-remittance-services)
   * [Crypto can help solve the public goods problem](/guide/index.md#claim-crypto-can-help-solve-the-public-goods-problem)
   * [Web3 can help revolutionize cooperation](/guide/index.md#claim-crypto-can-help-revolutionize-cooperation)
