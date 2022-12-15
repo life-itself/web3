@@ -11,7 +11,7 @@ claim:
   - confidence: HH
 ---
 
-## Claim Steel-Manned
+## Claim steel-manned
 
 
 ### Subclaim 1: Crypto can provide payment and remittance services by virtue of fulfilling the functions of a currency
