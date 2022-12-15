@@ -44,7 +44,7 @@ Ethereum. ‘Decentralized Autonomous Organizations (DAOs)’. ethereum.org. Acc
 
 #
 # Full analysis
-## Sub-claims
+## Subclaims
 
 * P1: Cooperation in the Web3 sphere is in some sense better than the way we tend to cooperate now
 * P2: Web3 technology provides a unique value add
