@@ -82,21 +82,25 @@ The main reason we are giving our evaluation “medium/high” confidence rather
 
 ## Evidence of claim being made
 
-CoinDesk. ‘The Financialization of Everything: DeFi-Ning the Next Era of Financial Services’, 19 May 2022. https://www.coindesk.com/sponsored-content/the-financialization-of-everything-defi-ning-the-next-era-of-financial-services/.
+**CoinDesk. ‘The Financialization of Everything: DeFi-Ning the Next Era of Financial Services’, 19 May 2022. https://www.coindesk.com/sponsored-content/the-financialization-of-everything-defi-ning-the-next-era-of-financial-services/.**
 
 “One of the key elements of DeFi is that it can go into areas that aren’t covered by TradFi. One is that it can create an underlying value for assets that were previously untouched by finance. It can make these assets liquid and fungible and so be used for transactions in the traditional sense, such as collateral for loans or margins for trading.”
 
-Macdonald-Korth, D., V. Lehdonvirta, and E. Meyer. ‘The Art Market 2.0: Blockchain and Financialisation in Visual Arts’, 2018. [https://ora.ox.ac.uk/objects/uuid:a4c8847c-6755-4781-ba9c-9c0864608201](https://ora.ox.ac.uk/objects/uuid:a4c8847c-6755-4781-ba9c-9c0864608201).
+**Macdonald-Korth, D., V. Lehdonvirta, and E. Meyer. ‘The Art Market 2.0: Blockchain and Financialisation in Visual Arts’, 2018. [https://ora.ox.ac.uk/objects/uuid:a4c8847c-6755-4781-ba9c-9c0864608201](https://ora.ox.ac.uk/objects/uuid:a4c8847c-6755-4781-ba9c-9c0864608201).**
 
 “Art market liquidity and value are likely to soar if digital ledger technologies are successfully introduced, creating new side industries, such as a boom in art-based lending, and making art an integral part of the financial industry.”
 
-Deloitte Private and ArtTactic ‘Art & Finance Report 2021’ [https://www2.deloitte.com/content/dam/Deloitte/lu/Documents/financial-services/artandfinance/lu-art-finance-report-2021.pdf](https://www2.deloitte.com/content/dam/Deloitte/lu/Documents/financial-services/artandfinance/lu-art-finance-report-2021.pdf) 
+**Deloitte Private and ArtTactic ‘Art & Finance Report 2021’ [https://www2.deloitte.com/content/dam/Deloitte/lu/Documents/financial-services/artandfinance/lu-art-finance-report-2021.pdf](https://www2.deloitte.com/content/dam/Deloitte/lu/Documents/financial-services/artandfinance/lu-art-finance-report-2021.pdf)** 
 
 “Tokenization, however, has the potential of transforming non-bankable assets into liquid assets, making them accessible to a much wider audience.
 
 [...]
 
-[Distributed ledger technology] can not only improve the way art is traded by keeping a secure digital record of every owner, but it can also enable new forms of ownership and introduce smaller players into the market. The co-ownership of tokenized art will establish the new standard for collectors, investors, and art galleries to increase their portfolio and investment. This will shift the paradigm of art investment and the regulations tied to them, creating a more accessible, fair, and democratized art ecosystem.”
+[Distributed ledger technology] can not only improve the way art is traded by keeping a secure digital record of every owner, but it can also enable new forms of ownership and introduce smaller players into the market...This will shift the paradigm of art investment and the regulations tied to them, creating a more accessible, fair, and democratized art ecosystem.”
+
+**The MetaCurrency Project 'FAQ’ [https://metacurrency.org/faq/](https://metacurrency.org/faq/)**
+
+"Entire communities — people, villages, cities, regions, companies, NGOs, public services, countries — are undermonetized. They do have wealth –competencies, resources, time, love, genius, assets, entrepreneurship skills, culture– but exchanges don’t happen. Not because of lack of wealth, but because of lack of transactional units: money...Open currencies allow for sufficient, non-scarcity based systems for tradable wealth."
 
 # Full analysis
 
