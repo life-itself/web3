@@ -11,6 +11,25 @@ claim:
   - confidence: HH
 ---
 
+## Evaluation: Largely false (high confidence)
+
+Crypto is not technologically capable of competing with existing payment rails, and the level of advancement needed to do so is far from a sure thing. In fact, crypto is not up to acting as a currency at all. It does appear to serve these functions in practice in developing nations with non-functional financial systems, as the example of Ukraine shows. However this should be taken less as a testament to the potential of crypto and more as a sign that political and economic support is needed in these cases. And, being better than poorly functioning legacy systems is not what the spirit of this claim gestures to.
+
+## Examples of the claim being made
+
+BLOCKDATA (2019) ‘Blockchain is disrupting the $700 billion remittance industry’, _Medium_, 7 March. Available at https://medium.com/@blockdata_tech/blockchain-is-disrupting-the-700-billion-remittance-industry-b79a01a95a10 (Accessed: 13 September 2022).
+
+CMT, B.M.I., CFA (2015) ‘The Value Investor’s Case for... Bitcoin?!’, _Miller Value Partners_, 8 September. Available at: https://millervalue.com/a-value-investors-case-for-bitcoin/ (Accessed: 13 September 2022):
+
+> The open ledger combined with the complexity of transaction data makes Bitcoin a very secure method of payment... One of Bitcoin’s biggest advantages over other payment networks like Visa (V) and MasterCard (MA) is minimal transactions fees. While other payments networks typically charge the greater of ~3% and $0.15, Bitcoin’s transaction fee tends to be a negligible fraction of the transaction, if any at all. Lower transaction fees not only enable buyers and sellers to transact at prices that are better for both parties, but they could enable micropayments in markets that are not otherwise compatible with a $0.15 surcharge on low-price, low-margin goods and services.
+
+Ver, Roger. quoted in COINTELEGRAPH (2013) _Western Union is not yet ready for bitcoin international transfer_, _Cointelegraph_. Available at: https://cointelegraph.com/news/western_union_is_not_yet_ready_for_bitcoin_international_transfer (Accessed: 13 September 2022):
+
+> I think we will know when bitcoin has reached prime time when it is transferring more value each day than Western Union or MoneyGram... I think we may see that happen within another two years.
+
+Nakamoto, S. *Bitcoin: A Peer-to-Peer Electronic Cash System*. Available at: https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf 
+
+
 ## Claim steel-manned
 
 
@@ -32,24 +51,7 @@ Crypto can provide payment systems and remittance services because it serves the
 Crypto can provide us with better payment rails - i.e. a better Visa, Stripe etc - and more efficient international remittances - I can send money abroad, e.g. from US dollars to Indian rupees using crypto. These blockchain-based payment rails would have reduced friction and costs resulting in a cheaper, faster, more efficient service. 
 
 
-## Examples of the claim being made
-
-BLOCKDATA (2019) ‘Blockchain is disrupting the $700 billion remittance industry’, _Medium_, 7 March. Available at https://medium.com/@blockdata_tech/blockchain-is-disrupting-the-700-billion-remittance-industry-b79a01a95a10 (Accessed: 13 September 2022).
-
-CMT, B.M.I., CFA (2015) ‘The Value Investor’s Case for... Bitcoin?!’, _Miller Value Partners_, 8 September. Available at: https://millervalue.com/a-value-investors-case-for-bitcoin/ (Accessed: 13 September 2022):
-
-> The open ledger combined with the complexity of transaction data makes Bitcoin a very secure method of payment... One of Bitcoin’s biggest advantages over other payment networks like Visa (V) and MasterCard (MA) is minimal transactions fees. While other payments networks typically charge the greater of ~3% and $0.15, Bitcoin’s transaction fee tends to be a negligible fraction of the transaction, if any at all. Lower transaction fees not only enable buyers and sellers to transact at prices that are better for both parties, but they could enable micropayments in markets that are not otherwise compatible with a $0.15 surcharge on low-price, low-margin goods and services.
-
-Ver, Roger. quoted in COINTELEGRAPH (2013) _Western Union is not yet ready for bitcoin international transfer_, _Cointelegraph_. Available at: https://cointelegraph.com/news/western_union_is_not_yet_ready_for_bitcoin_international_transfer (Accessed: 13 September 2022):
-
-> I think we will know when bitcoin has reached prime time when it is transferring more value each day than Western Union or MoneyGram... I think we may see that happen within another two years.
-
-Nakamoto, S. *Bitcoin: A Peer-to-Peer Electronic Cash System*. Available at: https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf 
-
-
 ## Evaluation: Largely false (high confidence)
-
-Crypto is not technologically capable of competing with existing payment rails, and the level of advancement needed to do so is far from a sure thing. In fact, crypto is not up to acting as a currency at all. It does appear to serve these functions in practice in developing nations with non-functional financial systems, as the example of Ukraine shows. However this should be taken less as a testament to the potential of crypto and more as a sign that political and economic support is needed in these cases. And, being better than poorly functioning legacy systems is not what the spirit of this claim gestures to.
 
 
 ### Subclaim 1:  Crypto can provide payment and remittance services by virtue of fulfilling the functions of a currency
