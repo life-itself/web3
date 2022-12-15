@@ -18,7 +18,7 @@ The guide is split into 3 sections:
   * [Crypto can provide better means of financializing non-financial value](https://web3.lifeitself.org/guide#claim-crypto-can-provide-better-means-of-financializing-non-financial-value)
 
 * **Deep dive notes** are detailed analysis notes from our deep dive conversations, which have not yet been formatted and expanded into full analyses. [You can help!](/meta/editing.md) We've undertaken deep dives on the following claims:
-  * [Blockchain can (and should) be used to create “networked states” to replace existing nation stateshttps://web3.lifeitself.org/guide#claim-blockchain-can-and-should-be-used-to-create-networked-states-to-replace-existing-nation-states)
+  * [Blockchain can (and should) be used to create “networked states” to replace existing nation states]https://web3.lifeitself.org/guide#claim-blockchain-can-and-should-be-used-to-create-networked-states-to-replace-existing-nation-states)
   * [Crypto can act as an anti-authoritarian force](https://web3.lifeitself.org/guide#claim-crypto-can-act-as-an-anti-authoritarian-force)
   * [The crypto space is just an unfettered market, and there’s nothing wrong with that](https://web3.lifeitself.org/guide#claim-the-crypto-space-is-just-an-unfettered-market-and-theres-nothing-wrong-with-that)
   * [Crypto is just the latest evolution of fintech, and is leading us towards a better financial system](https://web3.lifeitself.org/guide#claim-crypto-is-just-the-latest-evolution-of-fintech-and-is-leading-us-towards-a-better-financial-system)
