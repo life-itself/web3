@@ -73,7 +73,7 @@ In addition, as a [remittance use-case](https://academy.binance.com/en/articles/
   * [Algotrading](https://en.wikipedia.org/wiki/Algorithmic_trading) and [Robo Advising](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp)
   * [Microfinances](https://en.wikipedia.org/wiki/Microfinance)
 
-## Steel manning the fintech incrementalist position
+## Steel-manning the fintech incrementalist position
 
 * **Claim 1:** Everything is moving towards real-time and international finance. Crypto is the evolution of this trend. We want to move the entire economy into a hyperfinanicalized 24/7 real-time always-trading market with even more complexity and lower friction than what we have presently.
     *  Building a [T+0 settlement](https://www.investopedia.com/ask/answers/what-do-t1-t2-and-t3-mean/) system for equities is a great idea. Real-time settlements would be a boon for the liquidity of US capital markets.
