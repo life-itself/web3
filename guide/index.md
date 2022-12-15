@@ -196,7 +196,7 @@ The main reason we are giving our evaluation “medium/high” confidence rather
 
 See here for our full analysis of the claim: [Web3 provides better mechanisms for financializing non-financial value](/claims/can-financialize)
 
-
+#
 # Deep dive notes
 
 These notes are attached to deep dive conversations covering certain claims or sets of claims. They do rigorously analyze the positions they explore, however these analyses are in note form and are thus rougher and less ocomprehensive than the ones above. If you'd like to help improve them then take a look at our [contributor guide](/meta/editing.md). For an example of what a complete evaluation looks like, see our [analysis of web3 and the public goods problem](/claims/can-solve-public-goods-problem.md).
