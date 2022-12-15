@@ -1,6 +1,6 @@
 ---
 title: "Web3 provides better mechanisms for financializing non-financial value"
-description: "In this essay we explore three subclaims inherent to the overarching claim: 1) more financialization of non-financial value is itself desirable; 2) the current monetary and financial systems are deficient in their ability to capture what we think is really valuable; and 3) Web3 technology is capable of addressing these deficiencies. While we accept subclaim 2 to be true, we overall conclude that web3 does not seem to provide many plausible means for better financializing value."
+description: "In this essay we explore three subclaims inherent to the overarching claim: 1) more financialization of non-financial value is itself desirable; 2) the current monetary and financial systems are deficient in their ability to capture what we think is really valuable; and 3) Web3 technology is capable of addressing these deficiencies. While we accept subclaim 2 to be true, overall we conclude that web3 does not seem to provide many plausible means for better financializing value."
 category:
   - claim: y
   - featured: y 
