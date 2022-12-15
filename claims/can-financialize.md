@@ -16,51 +16,61 @@ claim:
 ## Key points
 
 * Financializing value means capturing things considered as intrinsically valuable, such as some artistic or social value, in units of financial value capable of being transacted.
-* Steel-manning subclaim 1: more financialization of non-financial value is itself desirable
-    * Financialization is useful as it allows us to effectively direct resources towards the things we care about.
-    * The dysfunctionalities present in our current financial sector are not inherent to financialization itself. It is therefore possible that financial value can be a powerful enabler of other types of value creation, without any of the negative impacts on other values (e.g. a well functioning environment) currently associated with money and finance.
-    * Whether we like it or not, we live in a financialized world; our only recourse is to embrace the reality of hyper-financialization and try to make it work for everyone.
-* Steel-manning subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable
-    * Value can be better or more extensively financialized than is possible under the current system. 
-    * Our societies are not adequately financializing value: there is a shortfall of funding for things that matter to us e.g. education and climate change prevention; and there are cases where significant resources are devoted to things that don’t have social value e.g. the whole host of financial instruments totally detached from the productive economy. 
+
+**Steel-manning subclaim 1: more financialization of non-financial value is itself desirable**    
+* Financialization is useful as it allows us to effectively direct resources towards the things we care about.
+    * The dysfunctionalities present in our current financial sector are not inherent to financialization itself. Financial value can be a powerful enabler of other types of value creation, without any of the negative impacts on other values (e.g. a well functioning environment) currently associated with money and finance.
+    * Besides, whether we like it or not, we live in a financialized world; our only recourse is to embrace the reality of hyper-financialization and try to make it work for everyone.
+    * 
+**Steel-manning subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable**    
+* Value can be better or more extensively financialized than is possible under the current system. 
+    * This is shown by the funding shortfall for things that matter to us e.g. education and climate change prevention; and there are cases where significant resources are devoted to things that don’t have social value e.g. the whole host of financial instruments totally detached from the productive economy. 
     * Left to their own devices markets won’t create a socially optimal allocation of resources, as market prices won’t naturally “internalize” externalities such as environmental damage. 
-    * Positive social impacts, eg of art, are often not internalized into market prices. 
-* Steel-manning subclaim 3: Web3 technology is capable of addressing these deficiencies
-    * Web3 offers new means of financializing value through tokenization.
+    * Positive social impacts, e.g. of art, are often not internalized into market prices. 
+    
+**Steel-manning subclaim 3: Web3 technology the route to addressing these deficiencies**    
+* Web3 offers new means of financializing value through tokenization. We're not touching on those targeting publix goods funding, as we've explored these [elsewhere.](/claims/can-solve-public-goods-problem)
     * NFTs: By locking artistic value into the NFT format and selling this directly to buyers, the true value of art can be better financialized as artists receive financial compensation for their work that is actually commensurate with its value. 
     * Alternative currencies: Communities can come together and decide on the rules for how they represent value. This can be done by creating tokens to represent all sorts of value and, in turn, better manage resource flows between them.
-* Evaluating subclaim 1: more financialization of non-financial value is itself desirable
-    * In trying to financialize all that we hold valuable we risk losing touch with what makes it valuable in the first place.
-    * It seems probable that financialization will not materialize as simply trying to optimize financial incentives to generate value. 
-        * Financialization may perpetuate self-serving dynamics we see in today’s society as people seek to game the system to optimize for the _rewards_ for value generation rather than value itself.
+    
+**Evaluating subclaim 1: more financialization of non-financial value is itself desirable (likely false, either totally or mostly)**   
+* There are many reasons to be skeptical of this claim.
+* In trying to financialize all that we hold valuable we risk losing touch with what makes it valuable in the first place. The essence of some value isn't reducable in this way. This depends on one's philsophical understanding of what value is, or certain values are.
+* More financialization may lead to a world we find undesirable, irrespective of the level of non-financial value it generates
+      * Financialization may perpetuate self-serving dynamics we see in today’s society as people seek to game the system to optimize for the _rewards_ for value generation rather than value itself.
         * There is concern about becoming a “market society”, where the mentalities, relations and incentives of the market come to dominate all areas of our lives.
-    * The financialization of non-financial value is undesirable because, even if it might do something, it will be ineffective at leading to the level of non-financial value generation required. When we consider the opportunity cost we realize we should focus our efforts elsewhere; more financialization isn’t the most effective tool to get what we want. 
-* Evaluating subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable
-    * We find subclaim 2 to be true. 
-* Evaluating subclaim 3: Web3 technology is capable of addressing these deficiencies
-    * NFTs
+* There may be opportunity costs to more financialization. It may just be a suboptimal route to generating more non-financial value, compared with alternatives.
+
+**Evaluating subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable (true)**    
+* There is clear evidence of this in the world, with the unfolding environmental catastrophe being the most obvious. 
+
+**Evaluating subclaim 3: Web3 technology is the route to addressing these deficiencies**
+   
+   * NFTs
         * NFTs do not guarantee artists better remuneration for their work.
             * Minting NFTs costs many smaller artists more money than they make and there is still a reliance on centralized marketplaces.
             * The technical complexity of NFT creation means that many artists are excluded or forced to partner with more tech-literate others in often extractive agreements.
             * The apparent pop of the wider crypto bubble, which was the source of high rates of return for some artists using NFTs, has been accompanied by a slump in the NFT market.
         * Digital marketplaces may help artists reach new audiences but are not unique to web3 and in fact already exist.
-        * NFTs are a private market just like any other; it is open to the same exploitation by middle-men and “whales”.
-        * We must distinguish between the social value of art and “the arts”. The problem is that the positive externalities of the arts sector are to some degree nonexcludable and we therefore end up with a public goods problem, which cannot be addressed through markets.
-        * Ensuring the social value of a flourishing arts sector is passed on to the artists underpinning it cannot be a matter of better financialization of individual pieces of art. Centralized arts funding is a far more promising solution to this problem than tokenization. 
-    * Alternative Currencies
-        * Past a certain point of complexity, every state has coalesced on a single, state-backed numeraire. We always end up with exchange problems otherwise. 
+        * NFT markets are a private market just like any other, open to the same exploitation by middle-men and “whales”.
+        * We must distinguish between the social value of art and “the arts”. The positive externalities of the arts sector are to some degree nonexcludable,c reating a [public goods problem](/concepts/public-goods-problem) which cannot be addressed through markets.
+        * Centralized arts funding is a far more promising solution to this problem than tokenization. 
+  * Alternative Currencies
+    * Past a certain point of complexity, every state has coalesced on a single, state-backed numeraire. We always end up with exchange problems otherwise. 
         * Many societies in history have had systems where alternative currencies could be created, but these did not work well. They were highly susceptible to fraud, failure, and created difficulty trying to trade between regions which used different monetary systems.
-        * Using tokens to represent goods such as reputation has the potential to turn dystopian, as the social credit system in China shows.
-        * There is no benefit of representing certain values as tokenized currencies unless this has a material impact on our access to other things we value. This means we either need something akin to the social credit system, where non-tradeable tokens impact one’s access to other goods in a potentially dystopian manner, or a tradeable market for tokenized currencies which leads us to the exchange problem outlined above.
-        * Something needs to underpin the value of a currency for it to be meaningfully worth something. In traditional currency terms the value of a currency is underpinned by the fact that the state collects tax in that currency; it will always be worth something to everyone living under state jurisdiction. In addition, individuals can rely on the state’s monopoly of violence as a backstop to trusting trade - I can agree with you on a shared value for a unit of currency via a contract on the understanding that if you change your mind, I can ask the state to intervene and enforce our agreement. Either alternative currency systems rely on radical shifts in individual ways of being such that we all become enlightened and wholly cooperative, or they must rely on some state-like entity to underpin them. 
+     * Using tokens to represent goods such as reputation has the potential to turn dystopian, as the social credit system in China shows.
+     * The utility of atlerantive currencies requires they have a material impact on obtaining other things we value. This means we either need something akin to the social credit system, where non-tradeable tokens impact access to other goods in a potentially dystopian manner, or a tradeable market for tokenized currencies which leads us to the exchange problem above.
+     * Something needs to underpin the value of a currency for it to be meaningfully worth something. In traditional currency terms the value of a currency is underpinned by the fact that the state collects tax in that currency. The state’s monopoly of violence can also backstop trust for trade, as it can enforce the terms of contracts. 
+       * Either alternative currency systems rely on radical shifts in individual ways of being such that everyone becomes entirely trustworthy and cooperative all the time, or they must rely on some state-like entity to underpin them. 
             * The former case is such a radical shift that if it were to take place, the nature of our currency system would pale as a source of impact. 
-            * If we need the state, this has huge implications; it requires either massive political action such that existing states underpin new currency systems or secession by small groups. If we can get a state to act so radically as to shift its entire currency system, then why not just get it to unilaterally legislate away our problems by other means? 
-                * States don’t tend to view secession very kindly; the community enforcement activity required to monopolize violence and underpin a stable currency system would inevitably violate the laws of existing nations. There would also be the challenges of still needing pay tax in regular currency while one still exists inside a broader nation state. So there still needs to be a place for normal money, and, given this, there needs to be an impressive commitment to not simply drift back into the use of the dominant currency.
-            * Even if alternate currencies were the answer, there’s no need for the blockchain. All currencies which do not serve the purpose of direct exchange can be tacked onto existing monetary systems without issue. 
-            * The idea of internalizing externalities has existed in orthodox economics for some time. There are lots of “traditional” mechanisms for doing this e.g. taxes and subsidies. The reason this hasn’t happened adequately isn’t a matter of the technical limitations of existing currencies, it's a matter of political will.
-            * A further reason why traditional currencies fail to capture so much non-financial value is that much of what we deem valuable is incredibly hard to measure. 
-            * Part of the problem with existing monetary and financial systems that alternative currencies are seeking to solve is that there aren’t democratically agreed rules for recognising diverse forms of value. But there are non-blockchain-based methods of addressing these issues eg we can create remuneration rights funds to compensate creators of value, and democratically agree the formulae by which these funds make allocations.
-            * The reason our current monetary and financial systems don’t adequately “financialize” the totality of social value is not a technical question of the medium of value representation (i.e. money) they use, but is more of a political and social question of how they are structured and governed.
+            * The latter (more likely) case has huge implications; it requires either massive political action such that existing states adopt new currency systems or secession by small groups to use their own currencies. 
+                * If we can get a state to act so radically as to shift its entire currency system, then why not just get it to unilaterally legislate away our problems by other means? 
+                * States don’t tend to view secession very kindly; the community enforcement activity required to monopolize violence and underpin a stable currency system would inevitably violate the laws of existing nations. Plus, they'd still need to e.g. pay tax in mainstream currency. 
+      * Even if alternate currencies were the answer, there’s no need for the blockchain. All currencies which do not serve the purpose of direct exchange can be tacked onto existing monetary systems without the need for blockchain. 
+      * The idea of internalizing externalities has existed in orthodox economics for some time. There are lots of “traditional” mechanisms for doing this e.g. taxes and subsidies. They're not used enough because of political will, not technological shortfall.
+      * A further reason why traditional currencies fail to capture so much non-financial value is that much of what we deem valuable is incredibly hard to measure. The measurement problem is the hard part. If we can solve this, how we then represent value i.e. traditional or alternative currency is incidental.
+       * Alternative currencies partly seek to address the lack of democratic rules for recognising diverse value. But doing this doesn't need blockchain. Remuneration rights funds and participatory budgeting methods fix this issue more easily if well designed.
+       * The reason our current monetary and financial systems don’t adequately “financialize” the totality of social value is not a technical question of the medium of value representation (i.e. money) they use, but is more of a political and social question of how they are structured and governed.
 
 
 ## Evaluation: Largely false (medium-high confidence)
@@ -100,7 +110,7 @@ We use  ‘_monetary and financial systems_' to refer to the economic infrastruc
 
 * P1: More financialization of non-financial value is itself desirable
 * P2: The current monetary and financial systems are deficient in their ability to capture what we think is _really _valuable; we could financialize value better or more extensively
-* P3: Web3 technology is capable of addressing these deficiencies
+* P3: Web3 technology is the route to addressing these deficiencies
 
 
 ## Steel-manning the claims
@@ -128,7 +138,7 @@ Environmental damage is one prominent case of negative externalities not being f
 Art provides another interesting economic case that something is amiss. Art generates significant social value, and yet many artists remain poor even as they become reasonably well known. At one level we may consider this to be a further failure to internalize externalities, with the positive social impacts of artistic creation not being internalized into the prices artists are paid for their work. We can also draw on the Marxian notion of _surplus value extraction_[^7], to point to another economic failure. When applied to creative value, this notion lays the blame at the door of the middlemen such as record labels in the music industry, who buy up intellectual property and extract the monetary gains from its consumption while only passing a fraction of this onto the original producers[^8]. Here, inadequate financialization of value is less an issue of value not being captured, but of a system which does not see it captured by the correct actors. One may argue that this is not really a problem of inadequate financialization; in many areas of, for example, the overall music industry, financial value generation does seem to reflect broader social value generation even if this financial value isn’t shared with artists to what many would deem a fair degree. However, given discussions of Web3’s power to benefit artists through fairer distribution is treated as a matter of financialization by proponents[^9] we will avoid getting bogged down by semantics and follow in the same vein for our analysis. Note here that, whatever one’s view of Marxian economics or the notion of surplus value extraction, the seeming disconnect between the relative impoverishment of many artists and the huge value we attach to art at the social level should be an indicator that something is going wrong with respect to the financialization of this value.
 
 
-### P3: Web3 technology is capable of addressing these deficiencies
+### P3: Web3 technology is the route to addressing these deficiencies
 
 Web3 offers new means of financializing value through tokenization. This refers to creating digital representations of value (tokens) on the blockchain. The two forms of tokenization which we’ll focus on for this analysis are NFTs and alternative currencies. Note, much of the Web3 work around public goods funding is also a matter of financializing their value, however we won’t deal with them here as we give this area its [own analysis elsewhere](https://web3.lifeitself.org/claims/can-solve-public-goods-problem).
 
@@ -146,13 +156,13 @@ Alternative currencies provide a means to deliberately engineer economic systems
 ## Evaluation: Largely false (medium-high confidence)
 
 
-### P1: More financialization of non-financial value is itself desirable
+### P1: More financialization of non-financial value is itself desirable (probably false, totally or mostly)
 
 Whether finance is the right means of supporting non-financial value creation is a highly complex issue, and one’s conclusions will depend to a large degree both on one’s broader philosophical commitments as well as assessments of the outcomes of financialization. Each of these contingencies could be the subject of their own analysis and so we will deliberately give them only a brief treatment here. The core point is simply that it is far from obvious that more financialization of non-financial value is desirable.
 
 At the outset we might think that, as long as financialization leads to more of what we value then it can only be a good thing. This is not a given, and one can make the case that in trying to financialize all that we hold valuable we risk losing touch with what makes it valuable in the first place. We should consider the type of societies and ways of being which result from such systems; they might superficially create non-financial value while, in their reductionist efforts towards financialization, lose a lot of what makes this value _valuable_. To take an admittedly crude example, monoculturing as a form of greenwashing can be seen as the result of a highly financialized approach to environmental preservation, where all plant life is reduced down to a common metric irrespective of its form[^12].
 
-Relatedly, we may worry that such financialization will foster ways of behaving and seeing the world which are undesirable. It is hard to envision a world where all value is financialized divorced from a world which is also intensely marketized. We may worry that the path to simply trying to optimize financial incentives to generate value is a dead end, leading us further down the path that got us into our current state of deep inequity and decline. We might argue that while we should of course set up our economies to provide for people’s basic needs and respect planetary boundaries, we would be better placed to then focus on creating cultures which foster human flourishing and the pursuit of peoples’ gifts and passions out of _intrinsic _motivation. 
+Relatedly, we may worry that such financialization will foster ways of behaving and seeing the world which are undesirable. It is hard to envision a world where all value is financialized divorced from a world which is also intensely marketized. We may worry that the path to simply trying to optimize financial incentives to generate value is a dead end, leading us further down the path that got us into our current state of deep inequity and decline. We might argue that while we should of course set up our economies to provide for people’s basic needs and respect planetary boundaries, we would be better placed to then focus on creating cultures which foster human flourishing and the pursuit of peoples’ gifts and passions out of _intrinsic motivation_. 
 
 Trying to make value generation simply a matter of extrinsic incentives risks continuing the harmful social mindset we see currently. It may even perpetuate the self-serving dynamics we see now as people eventually seek to game the system to optimize for the rewards for value generation rather than value itself. This is akin to “reward hacking” in AI training - optimizing for a proxy of what we want has the potential to lead to unintended outcomes[^13]. This can hold irrespective of our philosophical position on the “true nature” of the value we’re financializing, which is what’s at the heart of the first worry above. Concerns of this flavor relate to the work of thinkers such as neuroscientist  Ian McGilChrist, who posits that Western society has become overtaken by a “left brain” mode of thinking (analytical, logical, reductionist and goal-orientated) and has lost touch with a more gestalt mode of engaging with the world characterizing the right brain hemisphere[^14]. The financialization of all value appears paradigmatic of a left hemispheric approach to problem solving. You can read our [summary of The Master and His Emissary here](https://lifeitself.org/2018/05/01/mcgilchrist-master-and-his-emissary-notes/), which gives more detail. Similarly, while we acknowledge that hyper-marketization may not be intended to go along with this financialization (although we find it hard to see how the two detach), Karl Polanyi’s dire warnings about the “market society”, where the mentalities, relations and incentives of the market come to dominate all areas of our lives, should also provide pause[^15]. A final such worry comes from the idea of “technological solutionism” popularized by Evgeny Morozov’s _To Save Everything, Click Here_[^16]_. _
 
@@ -167,12 +177,12 @@ Again, the parallels are clear. The question may not be whether financialization
 Finally, we should note that all of the above worries are based on financialization in some sense “working” - that the value capture aimed for is possible to an adequate degree and that it will at least at some level increase the generation of non-financial value and lead to better social outcomes for value generators. This claim itself can be countered: the financialization of non-financial value is undesirable because, even if it might do _something _(see sub-claim 2 below) it will be ineffective at leading to the level of non-financial value generation required. This is an argument from _opportunity cost_[^18] - beyond the lowest hanging fruit we’re better off focusing our efforts elsewhere if we want to support the creation of non-financial value. This relates to the point about fostering intrinsic motivation above, but is a more technical economic argument which doesn’t rest on any philosophical claims on the nature of society or the good life. It simply says that, beyond a point, more financialization isn’t the most effective tool to get what we want. We’ll explore why this is the case in our evaluation of sub-claim 3.
 
 
-### P2: The current financial system is deficient in its ability to capture what we think is really valuable
+### P2: The current financial system is deficient in its ability to capture what we think is really valuable (true)
 
 As we note in our reference to carbon pricing above, this claim is quite obviously true. Current monetary and financial systems do not sufficiently internalize economic externalities and as such are leading to dire environmental consequences and material resource distributions which do not at all reflect social value creation. 
 
 
-### P3: Web3 technology is capable of addressing these deficiencies
+### P3: Web3 technology is the route to addressing these deficiencies (almost certainly false)
 
 
 #### NFTs
@@ -224,7 +234,7 @@ As has become a recurring theme in many of our web3 evaluations, the deficiency 
 
 ## Deep dives and notes
 
-
+* [Analysis: Web3 Can Solve the Public Goods Problem](/claims/can-solve-public-goods-problem)
 * [Deep Dive: A Macroeconomics Perspective on Cryptocurrencies ](/notes/a-macroeconomics-perspective-on-cryptocurrencies)
 * [Deep Dive: Market Fundamentalism](/notes/market-fundamentalism) 
 * [Notes on Dan Olson's 'Line Goes Up'](/notes/olson-2022-line-go-up)
