@@ -29,7 +29,7 @@ claim:
     * Positive social impacts, e.g. of art, are often not internalized into market prices. 
     
 **Steel-manning subclaim 3: Web3 technology the route to addressing these deficiencies**    
-* Web3 offers new means of financializing value through tokenization. We're not touching on those targeting publix goods funding, as we've explored these [elsewhere.](/claims/can-solve-public-goods-problem)
+* Web3 offers new means of financializing value through tokenization. We're not touching on those targeting public goods funding, as we've explored these [elsewhere.](/claims/can-solve-public-goods-problem)
     * NFTs: By locking artistic value into the NFT format and selling this directly to buyers, the true value of art can be better financialized as artists receive financial compensation for their work that is actually commensurate with its value. 
     * Alternative currencies: Communities can come together and decide on the rules for how they represent value. This can be done by creating tokens to represent all sorts of value and, in turn, better manage resource flows between them.
     
