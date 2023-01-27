@@ -21,7 +21,7 @@ claim:
 * Financialization is useful as it allows us to effectively direct resources towards the things we care about.
     * The dysfunctionalities present in our current financial sector are not inherent to financialization itself. Financial value can be a powerful enabler of other types of value creation, without any of the negative impacts on other values (e.g. a well functioning environment) currently associated with money and finance.
     * Besides, whether we like it or not, we live in a financialized world; our only recourse is to embrace the reality of hyper-financialization and try to make it work for everyone.
-    * 
+    
 **Steel-manning subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable**    
 * Value can be better or more extensively financialized than is possible under the current system. 
     * This is shown by the funding shortfall for things that matter to us e.g. education and climate change prevention; and there are cases where significant resources are devoted to things that don’t have social value e.g. the whole host of financial instruments totally detached from the productive economy. 
@@ -35,7 +35,7 @@ claim:
     
 **Evaluating subclaim 1: more financialization of non-financial value is itself desirable (likely false, either totally or mostly)**   
 * There are many reasons to be skeptical of this claim.
-* In trying to financialize all that we hold valuable we risk losing touch with what makes it valuable in the first place. The essence of some value isn't reducable in this way. This depends on one's philsophical understanding of what value is, or certain values are.
+* In trying to financialize all that we hold valuable we risk losing touch with what makes it valuable in the first place. The essence of some value isn't reducable in this way; can we really capture all of the value of the natural world in financial terms, for example? This depends on one's philsophical understanding of what value is, or certain values are.
 * More financialization may lead to a world we find undesirable, irrespective of the level of non-financial value it generates
       * Financialization may perpetuate self-serving dynamics we see in today’s society as people seek to game the system to optimize for the _rewards_ for value generation rather than value itself.
         * There is concern about becoming a “market society”, where the mentalities, relations and incentives of the market come to dominate all areas of our lives.
@@ -53,7 +53,7 @@ claim:
             * The apparent pop of the wider crypto bubble, which was the source of high rates of return for some artists using NFTs, has been accompanied by a slump in the NFT market.
         * Digital marketplaces may help artists reach new audiences but are not unique to web3 and in fact already exist.
         * NFT markets are a private market just like any other, open to the same exploitation by middle-men and “whales”.
-        * We must distinguish between the social value of art and “the arts”. The positive externalities of the arts sector are to some degree nonexcludable,c reating a [public goods problem](/concepts/public-goods-problem) which cannot be addressed through markets.
+        * We must distinguish between the social value of art and “the arts”. The positive externalities of the arts sector are to some degree nonexcludable, creating a [public goods problem](/concepts/public-goods-problem) which cannot be addressed through markets.
         * Centralized arts funding is a far more promising solution to this problem than tokenization. 
   * Alternative Currencies
     * Past a certain point of complexity, every state has coalesced on a single, state-backed numeraire. We always end up with exchange problems otherwise. 
