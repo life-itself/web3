@@ -37,8 +37,8 @@ claim:
 * There are many reasons to be skeptical of this claim.
 * In trying to financialize all that we hold valuable we risk losing touch with what makes it valuable in the first place. The essence of some value isn't reducable in this way; can we really capture all of the value of the natural world in financial terms, for example? This depends on one's philsophical understanding of what value is, or certain values are.
 * More financialization may lead to a world we find undesirable, irrespective of the level of non-financial value it generates
-      * Financialization may perpetuate self-serving dynamics we see in today’s society as people seek to game the system to optimize for the _rewards_ for value generation rather than value itself.
-        * There is concern about becoming a “market society”, where the mentalities, relations and incentives of the market come to dominate all areas of our lives.
+    * Financialization may perpetuate self-serving dynamics we see in today’s society as people seek to game the system to optimize for the _rewards_ for value generation rather than value itself.
+     * There is concern about becoming a “market society”, where the mentalities, relations and incentives of the market come to dominate all areas of our lives.
 * There may be opportunity costs to more financialization. It may just be a suboptimal route to generating more non-financial value, compared with alternatives.
 
 **Evaluating subclaim 2: the current monetary and financial systems are deficient in their ability to capture what we think is really valuable (true)**    
