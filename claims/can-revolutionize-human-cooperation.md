@@ -108,7 +108,7 @@ The first thing we should note is that better is a highly context sensitive term
 
 With this caveat aside, let’s narrow our focus to working together outside of the confines of state or government activity. That is to say the private or third sector collaboration which dominates most of our lives. Might we consider the form of collaboration characterized by DAOs as better here? Well, quite possibly. Much of the approach of Web3 organizations aligns very closely with preexisting thinking and ideas, from Teal organisations[^12] to the cooperative movement[^13]. Inasmuch as one thinks that the ideas present in these traditions do indeed point to better ways of working together (even if caveats abound around their own unique difficulties and applicability across the varied contexts even present in the world of work alone) then we may well think that DAOs _do_ point to a form of working collaboration that is somehow better than the current paradigm. Given huge rates of job dissatisfaction, burnout and work related stress[^14], this is perhaps not the lowest of bars to clear.
 
-#### P2: Web3 technology provides a unique value add (false)
+### P2: Web3 technology provides a unique value add (false)
 
 So, qualifications notwithstanding, we might accept that the forms of cooperation found in the Web3 sphere are in some sense superior to their counterparts in many traditional organizations. But, to claim that Web3 itself will revolutionize cooperation, it must be Web3 technology itself that plays a significant role. How might this be so?
 
@@ -128,7 +128,7 @@ So, how about tokenization? Using tokens to allocate revenue and/or voting right
 
 To conclude, the unique technical features of blockchain don’t appear to do much for the potential of Web3 to revolutionize coordination. The most interesting areas, from alternative approaches to governance and compensation to collaboration across geographical boundaries, all seem perfectly capable of being carried out using other tools. Often, the major benefit of collaborating via Web3 organizations is that they are largely unburdened by regulation. Being able to form an organization without legal registration and raise seed funding through the sale of unregulated tokenized securities has certainly removed some of the friction from more traditional forms of collaborative enterprise. However this lack of regulation appears unlikely to continue in the longer term and, due to carrying its own risks, is likely undesirable in any case. Given this, there do not seem to be many unique benefits to collaborating via Web3.
 
-#### P3: The unique value add provided by Web3 is sufficient to shift human cooperation more broadly i.e. make this better form of cooperation dominant (largely false)
+### P3: The unique value add provided by Web3 is sufficient to shift human cooperation more broadly i.e. make this better form of cooperation dominant (largely false)
 
 Now, even if we were to accept that the cooperation charactersing Web3 is superior, and that this is in some way _because_ of its Web3 foundations, we could nonetheless fall short of endorsing the overall claim. For Web3 to revolutionize human cooperation, it must _scale_. Revolution requires the overthrowing of an old paradigm and its replacement with a new one. So, does Web3 cooperation hold the potential to become a dominant force in the overall picture of human cooperation? 
 
