@@ -1,7 +1,6 @@
 ---
-title: <y best guess on where I’m wrong about crypto
+title: My best guess on where I’m wrong about crypto
 created: 2023-03-13 
-type: Blog
 ---
 
 ### _By Theo Cox_
