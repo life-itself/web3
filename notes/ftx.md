@@ -7,6 +7,10 @@ FTX was a centralized crypto exchange founded in 2019 by [[Sam Bankman-Fried]] a
 
 # Notes
 
+- Good summaries:
+  - https://thezvi.wordpress.com/2022/11/17/sadly-ftx/ - has a good list of links to other articles 
+  - https://milkyeggs.com/?p=175 - this is top of that list
+
 ## FTX Investors
 
 Source from a post on twitter on November 12 2022. Looks like it is an extract from FactSet.
