@@ -1,6 +1,14 @@
 # Awesome critique of crypto/web3
 
-Awesome critique of crypto/web3, etc. Contributions are welcome.
+<div align="center">
+
+# Nov 2022: We have [a website for the web3 sensemaking project](https://web.lifeitself.org/)
+
+## Including a full [guide to web3 and crypto including a rigorous evaluation of claims made for them](https://web3.lifeitself.org/guide/) 
+
+</div>
+
+Awesome rigorous evaluation of crypto/web3, etc. Contributions are welcome.
 
 ## Critique
 
