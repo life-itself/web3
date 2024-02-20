@@ -181,10 +181,10 @@ Similarly, due to a number of factors including the structure and regulation of 
        Wright, Aaron. ‘The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges · Stanford Journal of Blockchain Law & Policy’, 30 June 2021. https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1.
 
 [^2]:
-     O’Connor, Kelly. ‘Popular Voting Mechanisms Used by DAOs’, 18 January 2022. https://www.code2.io/blog/web3-dao-voting-mechanisms/.
+     O’Connor, Kelly. ‘Popular Voting Mechanisms Used by DAOs’, 18 January 2022. https://www.peaka.com/blog/web3-dao-voting-mechanisms/.
 
 [^3]:
-     O’Connor, Kelly. ‘Popular Voting Mechanisms Used by DAOs’, 18 January 2022. https://www.code2.io/blog/web3-dao-voting-mechanisms/.
+     O’Connor, Kelly. ‘Popular Voting Mechanisms Used by DAOs’, 18 January 2022. https://www.peaka.com/blog/web3-dao-voting-mechanisms/.
 
 [^4]:
      Ibid.
