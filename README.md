@@ -1,6 +1,7 @@
 # Awesome sensemaking for crypto/web3
 
 ## 👉 April 2022 [Website for the web3 sensemaking project](https://web3.lifeitself.org/) 👈
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 ## 🎉 Nov 2022 [Full guide to web3 & crypto including evaluation of claims pro and con](https://web3.lifeitself.org/guide/) 🎉
 
