@@ -298,5 +298,6 @@ Pros
   * Twitter thread: https://twitter.com/samerP2P/status/1317123399295041541
 
 ### Other suggestions
+- [n8n Solana Mint Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches Solana wallets for new token mints and alerts in real time.
 
 * New topic concerning the psychological harm, such as: gambling, greed, cultism, etc.
