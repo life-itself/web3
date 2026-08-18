@@ -1,5 +1,31 @@
-# Are crypto assets predatory investments?
-Crypto assets are a form of predatory financial product. 
+---
+title: Crypto assets are predatory investments
+description: Evaluating the claim that crypto assets are predatory investments
+category:
+  - claim: y
+  - featured: y 
+  - interview: n
+  - deepdive: n
+claim:
+  - evaluation: YY
+  - confidence: HH
+---
+
+# Steel man
+
+Crypto assets are a form of predatory financial product. [Asymmetric information](../concepts/asymmetric-information.md) within crypto markets privileges an [economic cartel](../concepts/cartel.md) who can manipulate crypto assets to extract wealth from retail investors.
+
+# Evidence of claim being made
+
+Livni, Ephrat. ‘As Crypto Tanks, Tech Veterans Question Blockchain’s Promise of Economic Salvation’. The New York Times, 15 June 2022, sec. Business. https://www.nytimes.com/2022/06/15/business/dealbook-dc-cryptocurrency-task-force.html.
+
+Meyer, David. ‘“Extremely Risky” and “Inherently Predatory”: Wikipedia Organization Decides to Stop Accepting Crypto Donations’, 2 May 2022. https://finance.yahoo.com/news/extremely-risky-inherently-predatory-wikipedia-110040373.html.
+
+White, Molly quoted in De Vynck, Gerrit. ‘First She Documented the Alt-Right. Now She’s Coming for Crypto.’ Washington Post. Accessed 21 September 2022. https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/.
+
+> “Most of my disdain is reserved for the big players who are marketing this to a mainstream audience as though it’s an investment, often promising to be a ticket out of a really tough financial spot for people who don’t have many options,” White said. “It’s very predatory.”
+
+# Evaluation: True (high confidence)
 
 Crypto asset [market making](../concepts/market-maker.md) is subject to extreme forms of [market manipulation](../concepts/market-manipulation.md) not found in other regulated markets. The [price formation](../concepts/price-formation.md) of crypto assets is untethered to any [fundamental value](../concepts/fundamental-value.md) and instead depends purely on the [greater fool theory](../concepts/greater-fool-theory.md). 
 
