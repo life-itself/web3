@@ -295,6 +295,7 @@ Pros
 
 * [BanklessDAO: State of the DAOs #7: Social Tokens and the Future of Work](https://banklessdao.substack.com/p/state-of-the-daos-7-social-tokens) - 2022-01-13
 * [Scanning the European Ecosystem of Distributed Ledger Technologies for Social and Public Good](https://publications.jrc.ec.europa.eu/repository/handle/JRC121675) - Oct 2020 - by Samer Hassan and colleagues
+- [HostDeFi](https://hostdefi.com) - Multi-chain swap aggregator front-end (Jupiter on Solana, KyberSwap on 7 EVM chains) with a built-in free A+–F token-safety scanner.
   * Twitter thread: https://twitter.com/samerP2P/status/1317123399295041541
 
 ### Other suggestions
